@@ -24,6 +24,19 @@ public class UI_SettingPopup : global::UnityEngine.MonoBehaviour
 	{
 		EnsureSaveButtonLabel("btn_cloud up", "Copy\nSave");
 		EnsureSaveButtonLabel("btn_cloud down", "Paste\nSave");
+		foreach (var button in GetComponentsInChildren<global::UnityEngine.UI.Button>(true))
+		{
+			for (int i = 0; i < button.onClick.GetPersistentEventCount(); i++)
+			{
+				var method = button.onClick.GetPersistentMethodName(i);
+				if (method == "OpenUrl" || method == "OpenRateUs")
+				{
+					button.interactable = false;
+					EnsureSaveButtonLabel(button.name, "Offline");
+					break;
+				}
+			}
+		}
 	}
 
 	private void OnEnable()

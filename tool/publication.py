@@ -81,6 +81,9 @@ def candidate():
 
 def acceptance(path, commit):
     data = json.loads(path.read_text())
+    return validate_acceptance(data, commit)
+
+def validate_acceptance(data, commit):
     if data.get("source_commit") != commit: raise ValueError("Acceptance belongs to a different source commit")
     if data.get("gameplay_interaction_seconds", 0) < 1800: raise ValueError("30 minutes of actual interaction are required")
     browsers = data.get("browsers", {})
@@ -131,11 +134,7 @@ def verify(bundle, manifest_path, expected_commit, expected_tag, output):
     manifest = json.loads(manifest_path.read_text())
     if manifest.get("source_commit") != expected_commit or manifest.get("tag") != expected_tag or manifest.get("status") != "accepted-preview":
         raise ValueError("Release provenance mismatch")
-    acceptance_data = manifest.get("acceptance", {})
-    # Reuse the acceptance validator without executing game code in CI.
-    for key in REQUIRED:
-        if acceptance_data.get("scenarios", {}).get(key, {}).get("status") != "passed":
-            raise ValueError("Release acceptance is incomplete")
+    validate_acceptance(manifest.get("acceptance", {}), expected_commit)
     if output.exists(): raise ValueError("Output directory already exists")
     output.mkdir(parents=True)
     with zipfile.ZipFile(bundle) as z:

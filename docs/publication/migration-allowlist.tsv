@@ -1,5 +1,5 @@
 asset	local_id	change	reason
-Assets/00. Scenes/MainGame.unity	9866,9867,10768,10778	DOTweenVisualManager DLL reference becomes source adapter reference	Five scene or prefab visual managers retain fields and lifecycle behavior without the proprietary DLL
-Assets/GameObject/Warning Circle.prefab	MonoBehaviour	DOTweenVisualManager DLL reference becomes source adapter reference	Preserve GUID with a C# script file ID
+Assets/00. Scenes/MainGame.unity	9866,9960,10785,10796	DOTweenVisualManager DLL reference becomes source adapter reference	Five scene or prefab visual managers retain fields and lifecycle behavior without the proprietary DLL
+Assets/GameObject/Warning Circle.prefab	114618682377417806	DOTweenVisualManager DLL reference becomes source adapter reference	Preserve GUID with a C# script file ID
 Assets/00. Scenes/MainGame.unity	12594	Retain inactive original null-target UseDiamondComplete record	Dormant button fragment is inactive and is not referenced by gameplay source, no purchase action is invented
 Assets/Scripts/Assembly-CSharp/UI_MainGame.cs	IslandButtonsPanelSetActive	Restore missing scene-facing bool callback	Existing DownMenu events disable island actions on open and restore them on close
