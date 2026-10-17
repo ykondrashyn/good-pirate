@@ -9,6 +9,13 @@ services for browser controls, saves and local reward claims.
 [Releases](https://github.com/ykondrashyn/good-pirate/releases) ·
 [Report a problem](https://github.com/ykondrashyn/good-pirate/issues)
 
+[![Android APK](https://img.shields.io/badge/Android-APK-3DDC84?logo=android&logoColor=white)](https://github.com/ykondrashyn/good-pirate/releases/download/gp113-v0.1.0-preview.1/good-pirate.apk)
+[![Release](https://img.shields.io/badge/release-v0.1.0--preview.1-blue)](https://github.com/ykondrashyn/good-pirate/releases/tag/gp113-v0.1.0-preview.1)
+
+**Downloads:** [Android APK (59 MB)](https://github.com/ykondrashyn/good-pirate/releases/download/gp113-v0.1.0-preview.1/good-pirate.apk) ·
+[WebGL ZIP](https://github.com/ykondrashyn/good-pirate/releases/download/gp113-v0.1.0-preview.1/good-pirate-webgl-v0.1.0-preview.1.zip) ·
+[All release files](https://github.com/ykondrashyn/good-pirate/releases/tag/gp113-v0.1.0-preview.1)
+
 This is a reconstruction preview, not a claim of full game parity.
 See [STATUS.md](STATUS.md) for current acceptance and limitations.
 
@@ -55,6 +62,28 @@ part of the game, not added to the images.
 
 Left to right: leaving the harbor, learning to steer and the cannon tutorial.
 See [screenshot provenance](docs/screenshots/README.md) for capture details.
+
+## Downloads
+
+### Android APK
+
+Download the preview APK from the latest pre-release:
+
+- **[good-pirate.apk](https://github.com/ykondrashyn/good-pirate/releases/download/gp113-v0.1.0-preview.1/good-pirate.apk)** (59 MB)
+- SHA-256: `f3fbd93875d90eecff22e87aa83fad2015b13cc8e69b4036135761d7dd127105`
+- Also listed in the release [`SHA256SUMS`](https://github.com/ykondrashyn/good-pirate/releases/download/gp113-v0.1.0-preview.1/SHA256SUMS)
+
+**Install on Android:**
+
+1. Download `good-pirate.apk` on your phone.
+2. Allow installing apps from unknown sources (Chrome or Files will prompt, or enable it in Settings → Security).
+3. Open the downloaded APK and tap Install, then Open.
+
+Android acceptance is still incomplete for this preview. Keep a Copy Save backup of progress when possible.
+
+### WebGL
+
+The browser build is available as a [WebGL ZIP](https://github.com/ykondrashyn/good-pirate/releases/download/gp113-v0.1.0-preview.1/good-pirate-webgl-v0.1.0-preview.1.zip) for local hosting, or play the hosted preview at [ykondrashyn.github.io/good-pirate/play](https://ykondrashyn.github.io/good-pirate/play/). Serve the ZIP contents over HTTP or HTTPS; do not open `index.html` as a local file.
 
 ## Play and save
 
