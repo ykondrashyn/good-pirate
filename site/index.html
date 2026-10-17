@@ -20,6 +20,7 @@
 <a href="https://github.com/ykondrashyn/good-pirate/issues/new">Report a problem</a>
 </nav>
 <small id="version">Preview release information is loading.</small>
+<p id="validation">This is a smoke-tested preview. Extended gameplay, full content and Android parity have not been accepted.</p>
 </header>
 <section><h2>Getting underway</h2>
 <p>Use a recent browser with WebGL 2. Hold and drag on the sea to steer, then release to stop accelerating. Follow the tutorial and use the on-screen controls for your fleet, map and island actions. The game keeps its portrait layout.</p>
@@ -38,6 +39,7 @@
 <script>
 fetch('publication.json').then(r=>{if(!r.ok)throw Error();return r.json()}).then(m=>{
  document.getElementById('version').textContent=m.version+' · source '+m.source_commit.slice(0,12);
+ if(m.acceptance && m.acceptance.level === 'smoke') document.getElementById('validation').textContent='Short smoke checks only, limited to one minute per test at the owner’s request. Full save-transfer, purchase, mobile-control and long-session acceptance remain incomplete.';
  document.getElementById('download').href='https://github.com/ykondrashyn/good-pirate/releases/tag/'+encodeURIComponent(m.tag);
 }).catch(()=>{document.getElementById('version').textContent='Release information unavailable. See GitHub Releases.'});
 </script>

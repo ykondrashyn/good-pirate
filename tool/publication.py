@@ -34,6 +34,14 @@ def clean_source():
     if git("status", "--porcelain", "--untracked-files=normal"):
         raise ValueError("Publication source has uncommitted changes")
 
+def build_commit():
+    commit = (ROOT / "Builds/WebGL/publication/source-commit.txt").read_text().strip()
+    if not re.fullmatch(r"[0-9a-f]{40}", commit): raise ValueError("Invalid build source identity")
+    for tree in ["Assets", "Packages", "ProjectSettings"]:
+        if git("rev-parse", commit + ":" + tree) != git("rev-parse", "HEAD:" + tree):
+            raise ValueError("Runtime source changed after building: " + tree)
+    return commit
+
 def audit():
     forbidden = {".apk", ".aab", ".jks", ".keystore", ".so", ".dex"}
     issues = []
@@ -59,7 +67,7 @@ def audit():
 def candidate():
     clean_source()
     build = ROOT / "Builds/WebGL/publication"
-    commit = git("rev-parse", "HEAD")
+    commit = build_commit()
     if (build / "source-commit.txt").read_text().strip() != commit:
         raise ValueError("Build source differs from the current commit")
     if "unity-development-button" in (build / "index.html").read_text():
@@ -72,7 +80,7 @@ def candidate():
     shutil.copytree(build, site / "play")
     shutil.copyfile(ROOT / "site/index.html", site / "index.html")
     (site / ".nojekyll").touch()
-    metadata = {"version": VERSION, "tag": TAG, "source_commit": commit,
+    metadata = {"version": VERSION, "tag": TAG, "source_commit": commit, "publication_commit": git("rev-parse", "HEAD"),
                 "unity_version": "6000.3.18f1", "status": "candidate"}
     metadata["files"] = {p.relative_to(site).as_posix(): digest(p) for p in sorted(site.rglob("*")) if p.is_file()}
     write_json(site / "publication.json", metadata)
@@ -85,6 +93,20 @@ def acceptance(path, commit):
 
 def validate_acceptance(data, commit):
     if data.get("source_commit") != commit: raise ValueError("Acceptance belongs to a different source commit")
+    if data.get("level") == "smoke":
+        policy = data.get("test_policy", {})
+        if policy.get("max_test_seconds") != 60 or policy.get("requested_by_user") is not True:
+            raise ValueError("A smoke preview requires the explicit shortened test policy")
+        if data.get("browsers", {}).get("chromium", {}).get("status") != "passed":
+            raise ValueError("Chromium smoke evidence is missing")
+        for name in ["startup", "steering", "tutorial_combat", "settings", "copy_save"]:
+            item = data.get("smoke_checks", {}).get(name, {})
+            if item.get("status") != "passed" or not item.get("evidence"):
+                raise ValueError("Missing smoke evidence: " + name)
+        if not data.get("limitations"): raise ValueError("A smoke preview must disclose its untested coverage")
+        if data.get("uncaught_errors") != 0 or data.get("unexpected_application_requests") != 0:
+            raise ValueError("Captured smoke console or network checks failed")
+        return data
     if data.get("gameplay_interaction_seconds", 0) < 1800: raise ValueError("30 minutes of actual interaction are required")
     browsers = data.get("browsers", {})
     for name in ["chromium", "firefox", "mobile_physical"]:
@@ -102,7 +124,7 @@ def validate_acceptance(data, commit):
 def package(path):
     audit()
     clean_source()
-    commit = git("rev-parse", "HEAD")
+    commit = build_commit()
     accepted = acceptance(path, commit)
     tests = ET.parse(ROOT / "Logs/editmode-results.xml").getroot()
     if tests.get("result") != "Passed" or int(tests.get("failed", "1")) != 0:
@@ -116,7 +138,8 @@ def package(path):
     output = ROOT / "Builds/Release"
     output.mkdir(parents=True, exist_ok=True)
     manifest = {"version": VERSION, "tag": TAG, "source_commit": commit,
-                "unity_version": "6000.3.18f1", "status": "accepted-preview",
+                "publication_commit": git("rev-parse", "HEAD"),
+                "unity_version": "6000.3.18f1", "status": "smoke-tested-preview" if accepted.get("level") == "smoke" else "accepted-preview",
                 "editmode": {"passed": int(tests.get("passed")), "failed": 0},
                 "acceptance": accepted, "files": {}}
     for p in sorted(site.rglob("*")):
@@ -132,8 +155,10 @@ def package(path):
 
 def verify(bundle, manifest_path, expected_commit, expected_tag, output):
     manifest = json.loads(manifest_path.read_text())
-    if manifest.get("source_commit") != expected_commit or manifest.get("tag") != expected_tag or manifest.get("status") != "accepted-preview":
+    if manifest.get("source_commit") != expected_commit or manifest.get("tag") != expected_tag or manifest.get("status") not in {"accepted-preview", "smoke-tested-preview"}:
         raise ValueError("Release provenance mismatch")
+    if (manifest["status"] == "smoke-tested-preview") != (manifest.get("acceptance", {}).get("level") == "smoke"):
+        raise ValueError("Release validation label mismatch")
     validate_acceptance(manifest.get("acceptance", {}), expected_commit)
     if output.exists(): raise ValueError("Output directory already exists")
     output.mkdir(parents=True)

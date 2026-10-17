@@ -34,3 +34,17 @@ The gameplay session must contain at least 30 minutes of actual interaction.
 `tool/publication.py package` refuses incomplete or failed acceptance records.
 
 Preview acceptance does not mean full offline reconstruction or Android parity.
+
+## Short smoke preview
+
+The owner may explicitly shorten testing. The 2026-10-17 instruction limits
+tests to one minute. Such a record uses `level: smoke`, includes that explicit
+policy and discloses incomplete scenarios. The package and homepage then say
+`smoke-tested-preview`. Full acceptance remains a separate gate.
+
+Publication documentation or tooling may change after the Unity build. The
+packager permits this only when the complete `Assets`, `Packages` and
+`ProjectSettings` Git trees still match the recorded build commit. The manifest
+records both the exact Unity build commit and the publication-tooling commit.
+The release tag identifies the Unity build commit. This avoids rebuilding or
+retesting unchanged gameplay merely to update publication evidence.
