@@ -9,9 +9,40 @@ services for browser controls, saves and local reward claims.
 [Releases](https://github.com/ykondrashyn/good-pirate/releases) ·
 [Report a problem](https://github.com/ykondrashyn/good-pirate/issues)
 
-The preview links become available when an accepted release is deployed.
 This is a reconstruction preview, not a claim of full game parity.
 See [STATUS.md](STATUS.md) for current acceptance and limitations.
+
+## About the game
+
+Good Pirate is a portrait-format pirate sailing game with low-poly ships and
+islands. You captain a ship, explore the sea, fight enemy vessels and build up
+your fleet. Island visits, ship upgrades, sailors and fleet formations are
+part of its progression. The recovered 1.13 project also contains patrols,
+boss encounters, fishing and island conquest systems.
+
+This project brings that version into Unity 6 with browser controls and local
+saves. It retains 16 recovered map resources. Former paid products use free
+local claims, and retired online services are not required to play. These are
+reconstruction changes, not features of the original release.
+
+The public build is a **smoke-tested preview**. Short browser checks covered
+steering, early tutorial combat, Settings and Copy Save. Full progression,
+all content and mobile controls have not completed acceptance testing.
+
+## Screenshots
+
+Captured from the current WebGL release during its Chromium smoke checks on
+2026-10-17. Click a screenshot to view it at full size. Tutorial overlays are
+part of the game, not added to the images.
+
+<p>
+  <a href="docs/screenshots/harbor-tutorial.png"><img src="docs/screenshots/harbor-tutorial.png" width="250" alt="Good Pirate harbor with two ships beside an island pier and the Set Sail tutorial"></a>
+  <a href="docs/screenshots/steering-tutorial.png"><img src="docs/screenshots/steering-tutorial.png" width="250" alt="Two pirate ships sailing with visible wakes and the drag-to-steer tutorial"></a>
+  <a href="docs/screenshots/cannon-tutorial.png"><img src="docs/screenshots/cannon-tutorial.png" width="250" alt="Two ships at sea during the tutorial's cannon combat step"></a>
+</p>
+
+Left to right: leaving the harbor, learning to steer and the cannon tutorial.
+See [screenshot provenance](docs/screenshots/README.md) for capture details.
 
 ## Play and save
 
