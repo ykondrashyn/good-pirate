@@ -211,6 +211,15 @@ public class UI_MainGame : global::UnityEngine.MonoBehaviour
 		}
 	}
 
+	// Recovered DownMenu events pass false on open and true on close.
+	public void IslandButtonsPanelSetActive(bool active)
+	{
+		if (inIslandCanvas == null) return;
+		inIslandCanvas.interactable = active;
+		inIslandCanvas.blocksRaycasts = active;
+		inIslandCanvas.gameObject.SetActive(active && uiMode == EUIMode.InIsland);
+	}
+
 	public void OutIsLand()
 	{
 		GameManager.Instance.OutIsland();

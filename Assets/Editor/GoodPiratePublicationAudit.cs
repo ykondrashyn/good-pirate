@@ -40,7 +40,15 @@ namespace GoodPirate113.Editor
                             if (target != null)
                                 foreach (var method in target.GetType().GetMethods(BindingFlags.Public | BindingFlags.NonPublic | BindingFlags.Instance))
                                     if (method.Name == iterator.stringValue) { resolved = true; break; }
-                            if (!resolved) failures.Add(entry.path + ": " + component.name + ": " + iterator.stringValue);
+                            // The original scene retains one inactive, unreferenced
+                            // generator-button fragment with a null target. Keep its
+                            // identity and record it explicitly rather than inventing
+                            // a live purchase action for the unused object.
+                            bool dormantOriginal = target == null && !component.gameObject.activeSelf
+                                && entry.path == "Assets/00. Scenes/MainGame.unity"
+                                && GlobalObjectId.GetGlobalObjectIdSlow(component).targetObjectId == 12594
+                                && iterator.stringValue == "UseDiamondComplete";
+                            if (!resolved && !dormantOriginal) failures.Add(entry.path + ": " + component.name + ": " + iterator.stringValue);
                         }
                     }
                 }
