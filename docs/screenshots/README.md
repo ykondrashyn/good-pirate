@@ -2,7 +2,7 @@
 
 These images were captured from the published `v0.1.0-preview.1` WebGL build
 running locally in Chromium on 2026-10-17. The runtime source commit is
-`e33bb3dd0cd4c8c9d678c10e9421f455af1e7370`.
+`33d6de30430d53611cb735f11041e4c507923dec`.
 
 - `harbor-tutorial.png`: the island pier and Set Sail tutorial.
 - `steering-tutorial.png`: ships at sea during the drag-to-steer tutorial.

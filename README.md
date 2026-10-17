@@ -12,6 +12,18 @@ services for browser controls, saves and local reward claims.
 This is a reconstruction preview, not a claim of full game parity.
 See [STATUS.md](STATUS.md) for current acceptance and limitations.
 
+> [!TIP]
+> **Like sailing games? Play DOKDO free in your browser.**
+> [DOKDO](https://dokdo.online/?ref=good-pirate) is a similar low-poly sailing
+> game: captain your ship, fish, trade, upgrade your fleet, take islands and
+> fight the Kraken. It runs on phone and PC, including iOS and Android, with no
+> download and no account. Sail a shared sea with other captains, with chat and
+> ship emotes.
+>
+> **[▶ Play DOKDO at dokdo.online](https://dokdo.online/?ref=good-pirate)** ·
+> [DOKDO on GitHub](https://github.com/ykondrashyn/dokdo.online) ·
+> [Join the Discord](https://discord.gg/Fx9uaS5Mgd)
+
 ## About the game
 
 Good Pirate is a portrait-format pirate sailing game with low-poly ships and
@@ -101,3 +113,16 @@ or assets.
 The original APK and raw reverse-engineering artifacts remain outside this
 repository. Historical evidence tools are optional research utilities, not
 build prerequisites. Nothing here publishes to or changes `dokdo.online`.
+
+## More sailing: DOKDO
+
+If you enjoy Good Pirate, try **DOKDO**, a free browser sailing game with a
+shared sea, chat and emotes. It plays on phone and PC (iOS, Android, Windows,
+macOS and Linux) with no install or account.
+
+- Play: <https://dokdo.online/?ref=good-pirate>
+- Repository and guide: <https://github.com/ykondrashyn/dokdo.online>
+- Community: <https://discord.gg/Fx9uaS5Mgd>
+
+DOKDO is a separate project. Good Pirate releases and builds do not deploy to
+or modify it.
