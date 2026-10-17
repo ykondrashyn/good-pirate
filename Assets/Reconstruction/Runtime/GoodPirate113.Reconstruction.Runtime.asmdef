@@ -1,0 +1,14 @@
+{
+  "name": "GoodPirate113.Reconstruction.Runtime",
+  "rootNamespace": "GoodPirate113.Reconstruction",
+  "references": [],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

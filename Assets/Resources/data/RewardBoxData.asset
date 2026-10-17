@@ -1,0 +1,2019 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a982f42094b17bfba8329aa58766535, type: 3}
+  m_Name: RewardBoxData
+  m_EditorClassIdentifier:
+  SheetName: 아직은 제목은 없지만 쩔어줄 프로젝트
+  WorksheetName: RewardBoxData
+  dataArray:
+  - level: 1
+    gold: 504
+  - level: 2
+    gold: 390
+  - level: 3
+    gold: 347
+  - level: 4
+    gold: 352
+  - level: 5
+    gold: 375
+  - level: 6
+    gold: 412
+  - level: 7
+    gold: 456
+  - level: 8
+    gold: 510
+  - level: 9
+    gold: 571
+  - level: 10
+    gold: 642
+  - level: 11
+    gold: 716
+  - level: 12
+    gold: 797
+  - level: 13
+    gold: 884
+  - level: 14
+    gold: 977
+  - level: 15
+    gold: 1077
+  - level: 16
+    gold: 1182
+  - level: 17
+    gold: 1292
+  - level: 18
+    gold: 1410
+  - level: 19
+    gold: 1532
+  - level: 20
+    gold: 1659
+  - level: 21
+    gold: 1792
+  - level: 22
+    gold: 1933
+  - level: 23
+    gold: 2075
+  - level: 24
+    gold: 2225
+  - level: 25
+    gold: 2382
+  - level: 26
+    gold: 2544
+  - level: 27
+    gold: 2708
+  - level: 28
+    gold: 2882
+  - level: 29
+    gold: 3059
+  - level: 30
+    gold: 3243
+  - level: 31
+    gold: 3429
+  - level: 32
+    gold: 3623
+  - level: 33
+    gold: 3822
+  - level: 34
+    gold: 4027
+  - level: 35
+    gold: 4236
+  - level: 36
+    gold: 4454
+  - level: 37
+    gold: 4674
+  - level: 38
+    gold: 4899
+  - level: 39
+    gold: 5133
+  - level: 40
+    gold: 5370
+  - level: 41
+    gold: 5611
+  - level: 42
+    gold: 5859
+  - level: 43
+    gold: 6115
+  - level: 44
+    gold: 6373
+  - level: 45
+    gold: 6637
+  - level: 46
+    gold: 6907
+  - level: 47
+    gold: 7183
+  - level: 48
+    gold: 7462
+  - level: 49
+    gold: 7749
+  - level: 50
+    gold: 8039
+  - level: 51
+    gold: 8339
+  - level: 52
+    gold: 8641
+  - level: 53
+    gold: 8949
+  - level: 54
+    gold: 9260
+  - level: 55
+    gold: 9581
+  - level: 56
+    gold: 9904
+  - level: 57
+    gold: 10234
+  - level: 58
+    gold: 10570
+  - level: 59
+    gold: 10908
+  - level: 60
+    gold: 11254
+  - level: 61
+    gold: 11605
+  - level: 62
+    gold: 11963
+  - level: 63
+    gold: 12324
+  - level: 64
+    gold: 12692
+  - level: 65
+    gold: 13066
+  - level: 66
+    gold: 13443
+  - level: 67
+    gold: 13827
+  - level: 68
+    gold: 14218
+  - level: 69
+    gold: 14611
+  - level: 70
+    gold: 15012
+  - level: 71
+    gold: 15415
+  - level: 72
+    gold: 15826
+  - level: 73
+    gold: 16243
+  - level: 74
+    gold: 16664
+  - level: 75
+    gold: 17091
+  - level: 76
+    gold: 17526
+  - level: 77
+    gold: 17964
+  - level: 78
+    gold: 18405
+  - level: 79
+    gold: 18853
+  - level: 80
+    gold: 19309
+  - level: 81
+    gold: 19768
+  - level: 82
+    gold: 20234
+  - level: 83
+    gold: 20703
+  - level: 84
+    gold: 21180
+  - level: 85
+    gold: 21660
+  - level: 86
+    gold: 22148
+  - level: 87
+    gold: 22639
+  - level: 88
+    gold: 23137
+  - level: 89
+    gold: 23639
+  - level: 90
+    gold: 24148
+  - level: 91
+    gold: 24661
+  - level: 92
+    gold: 25182
+  - level: 93
+    gold: 25706
+  - level: 94
+    gold: 26234
+  - level: 95
+    gold: 26769
+  - level: 96
+    gold: 27308
+  - level: 97
+    gold: 27855
+  - level: 98
+    gold: 28405
+  - level: 99
+    gold: 28963
+  - level: 100
+    gold: 29525
+  - level: 101
+    gold: 30090
+  - level: 102
+    gold: 30663
+  - level: 103
+    gold: 31240
+  - level: 104
+    gold: 31825
+  - level: 105
+    gold: 32414
+  - level: 106
+    gold: 33007
+  - level: 107
+    gold: 33607
+  - level: 108
+    gold: 34211
+  - level: 109
+    gold: 34819
+  - level: 110
+    gold: 35435
+  - level: 111
+    gold: 36055
+  - level: 112
+    gold: 36679
+  - level: 113
+    gold: 37311
+  - level: 114
+    gold: 37947
+  - level: 115
+    gold: 38586
+  - level: 116
+    gold: 39234
+  - level: 117
+    gold: 39886
+  - level: 118
+    gold: 40546
+  - level: 119
+    gold: 41206
+  - level: 120
+    gold: 41874
+  - level: 121
+    gold: 42546
+  - level: 122
+    gold: 43226
+  - level: 123
+    gold: 43910
+  - level: 124
+    gold: 44599
+  - level: 125
+    gold: 45291
+  - level: 126
+    gold: 45991
+  - level: 127
+    gold: 46696
+  - level: 128
+    gold: 47405
+  - level: 129
+    gold: 48122
+  - level: 130
+    gold: 48839
+  - level: 131
+    gold: 49564
+  - level: 132
+    gold: 50293
+  - level: 133
+    gold: 51032
+  - level: 134
+    gold: 51774
+  - level: 135
+    gold: 52520
+  - level: 136
+    gold: 53270
+  - level: 137
+    gold: 54024
+  - level: 138
+    gold: 54788
+  - level: 139
+    gold: 55555
+  - level: 140
+    gold: 56326
+  - level: 141
+    gold: 57101
+  - level: 142
+    gold: 57886
+  - level: 143
+    gold: 58669
+  - level: 144
+    gold: 59462
+  - level: 145
+    gold: 60264
+  - level: 146
+    gold: 61064
+  - level: 147
+    gold: 61874
+  - level: 148
+    gold: 62683
+  - level: 149
+    gold: 63502
+  - level: 150
+    gold: 64324
+  - level: 151
+    gold: 65155
+  - level: 152
+    gold: 65986
+  - level: 153
+    gold: 66826
+  - level: 154
+    gold: 67670
+  - level: 155
+    gold: 68518
+  - level: 156
+    gold: 69371
+  - level: 157
+    gold: 70227
+  - level: 158
+    gold: 71093
+  - level: 159
+    gold: 71958
+  - level: 160
+    gold: 72833
+  - level: 161
+    gold: 73711
+  - level: 162
+    gold: 74594
+  - level: 163
+    gold: 75486
+  - level: 164
+    gold: 76378
+  - level: 165
+    gold: 77278
+  - level: 166
+    gold: 78178
+  - level: 167
+    gold: 79087
+  - level: 168
+    gold: 80001
+  - level: 169
+    gold: 80918
+  - level: 170
+    gold: 81846
+  - level: 171
+    gold: 82772
+  - level: 172
+    gold: 83702
+  - level: 173
+    gold: 84643
+  - level: 174
+    gold: 85587
+  - level: 175
+    gold: 86536
+  - level: 176
+    gold: 87489
+  - level: 177
+    gold: 88446
+  - level: 178
+    gold: 89408
+  - level: 179
+    gold: 90373
+  - level: 180
+    gold: 91349
+  - level: 181
+    gold: 92324
+  - level: 182
+    gold: 93308
+  - level: 183
+    gold: 94297
+  - level: 184
+    gold: 95289
+  - level: 185
+    gold: 96281
+  - level: 186
+    gold: 97283
+  - level: 187
+    gold: 98294
+  - level: 188
+    gold: 99304
+  - level: 189
+    gold: 100319
+  - level: 190
+    gold: 101338
+  - level: 191
+    gold: 102366
+  - level: 192
+    gold: 103400
+  - level: 193
+    gold: 104431
+  - level: 194
+    gold: 105473
+  - level: 195
+    gold: 106520
+  - level: 196
+    gold: 107570
+  - level: 197
+    gold: 108619
+  - level: 198
+    gold: 109678
+  - level: 199
+    gold: 110748
+  - level: 200
+    gold: 111816
+  - level: 201
+    gold: 112888
+  - level: 202
+    gold: 113965
+  - level: 203
+    gold: 115046
+  - level: 204
+    gold: 116137
+  - level: 205
+    gold: 117227
+  - level: 206
+    gold: 118327
+  - level: 207
+    gold: 119425
+  - level: 208
+    gold: 120534
+  - level: 209
+    gold: 121648
+  - level: 210
+    gold: 122759
+  - level: 211
+    gold: 123881
+  - level: 212
+    gold: 125007
+  - level: 213
+    gold: 126138
+  - level: 214
+    gold: 127273
+  - level: 215
+    gold: 128413
+  - level: 216
+    gold: 129556
+  - level: 217
+    gold: 130705
+  - level: 218
+    gold: 131857
+  - level: 219
+    gold: 133014
+  - level: 220
+    gold: 134176
+  - level: 221
+    gold: 135341
+  - level: 222
+    gold: 136511
+  - level: 223
+    gold: 137692
+  - level: 224
+    gold: 138871
+  - level: 225
+    gold: 140054
+  - level: 226
+    gold: 141242
+  - level: 227
+    gold: 142440
+  - level: 228
+    gold: 143637
+  - level: 229
+    gold: 144844
+  - level: 230
+    gold: 146049
+  - level: 231
+    gold: 147259
+  - level: 232
+    gold: 148479
+  - level: 233
+    gold: 149697
+  - level: 234
+    gold: 150927
+  - level: 235
+    gold: 152154
+  - level: 236
+    gold: 153392
+  - level: 237
+    gold: 154627
+  - level: 238
+    gold: 155874
+  - level: 239
+    gold: 157119
+  - level: 240
+    gold: 158375
+  - level: 241
+    gold: 159628
+  - level: 242
+    gold: 160892
+  - level: 243
+    gold: 162161
+  - level: 244
+    gold: 163428
+  - level: 245
+    gold: 164705
+  - level: 246
+    gold: 165981
+  - level: 247
+    gold: 167267
+  - level: 248
+    gold: 168558
+  - level: 249
+    gold: 169847
+  - level: 250
+    gold: 171146
+  - level: 251
+    gold: 172443
+  - level: 252
+    gold: 173752
+  - level: 253
+    gold: 175058
+  - level: 254
+    gold: 176375
+  - level: 255
+    gold: 177690
+  - level: 256
+    gold: 179016
+  - level: 257
+    gold: 180347
+  - level: 258
+    gold: 181674
+  - level: 259
+    gold: 183014
+  - level: 260
+    gold: 184350
+  - level: 261
+    gold: 185699
+  - level: 262
+    gold: 187044
+  - level: 263
+    gold: 188401
+  - level: 264
+    gold: 189755
+  - level: 265
+    gold: 191114
+  - level: 266
+    gold: 192484
+  - level: 267
+    gold: 193851
+  - level: 268
+    gold: 195230
+  - level: 269
+    gold: 196606
+  - level: 270
+    gold: 197987
+  - level: 271
+    gold: 199379
+  - level: 272
+    gold: 200768
+  - level: 273
+    gold: 202162
+  - level: 274
+    gold: 203560
+  - level: 275
+    gold: 204969
+  - level: 276
+    gold: 206376
+  - level: 277
+    gold: 207787
+  - level: 278
+    gold: 209203
+  - level: 279
+    gold: 210623
+  - level: 280
+    gold: 212047
+  - level: 281
+    gold: 213476
+  - level: 282
+    gold: 214909
+  - level: 283
+    gold: 216346
+  - level: 284
+    gold: 217788
+  - level: 285
+    gold: 219234
+  - level: 286
+    gold: 220685
+  - level: 287
+    gold: 222139
+  - level: 288
+    gold: 223599
+  - level: 289
+    gold: 225062
+  - level: 290
+    gold: 226523
+  - level: 291
+    gold: 227995
+  - level: 292
+    gold: 229472
+  - level: 293
+    gold: 230945
+  - level: 294
+    gold: 232431
+  - level: 295
+    gold: 233913
+  - level: 296
+    gold: 235407
+  - level: 297
+    gold: 236898
+  - level: 298
+    gold: 238401
+  - level: 299
+    gold: 239901
+  - level: 300
+    gold: 241413
+  - level: 301
+    gold: 242921
+  - level: 302
+    gold: 244433
+  - level: 303
+    gold: 245950
+  - level: 304
+    gold: 247480
+  - level: 305
+    gold: 249005
+  - level: 306
+    gold: 250535
+  - level: 307
+    gold: 252070
+  - level: 308
+    gold: 253608
+  - level: 309
+    gold: 255151
+  - level: 310
+    gold: 256699
+  - level: 311
+    gold: 258250
+  - level: 312
+    gold: 259798
+  - level: 313
+    gold: 261359
+  - level: 314
+    gold: 262924
+  - level: 315
+    gold: 264485
+  - level: 316
+    gold: 266058
+  - level: 317
+    gold: 267636
+  - level: 318
+    gold: 269210
+  - level: 319
+    gold: 270788
+  - level: 320
+    gold: 272379
+  - level: 321
+    gold: 273966
+  - level: 322
+    gold: 275557
+  - level: 323
+    gold: 277161
+  - level: 324
+    gold: 278760
+  - level: 325
+    gold: 280365
+  - level: 326
+    gold: 281973
+  - level: 327
+    gold: 283586
+  - level: 328
+    gold: 285203
+  - level: 329
+    gold: 286824
+  - level: 330
+    gold: 288450
+  - level: 331
+    gold: 290072
+  - level: 332
+    gold: 291706
+  - level: 333
+    gold: 293345
+  - level: 334
+    gold: 294979
+  - level: 335
+    gold: 296626
+  - level: 336
+    gold: 298269
+  - level: 337
+    gold: 299925
+  - level: 338
+    gold: 301577
+  - level: 339
+    gold: 303233
+  - level: 340
+    gold: 304901
+  - level: 341
+    gold: 306566
+  - level: 342
+    gold: 308235
+  - level: 343
+    gold: 309908
+  - level: 344
+    gold: 311585
+  - level: 345
+    gold: 313266
+  - level: 346
+    gold: 314952
+  - level: 347
+    gold: 316634
+  - level: 348
+    gold: 318328
+  - level: 349
+    gold: 320027
+  - level: 350
+    gold: 321721
+  - level: 351
+    gold: 323428
+  - level: 352
+    gold: 325131
+  - level: 353
+    gold: 326847
+  - level: 354
+    gold: 328558
+  - level: 355
+    gold: 330273
+  - level: 356
+    gold: 331993
+  - level: 357
+    gold: 333717
+  - level: 358
+    gold: 335445
+  - level: 359
+    gold: 337178
+  - level: 360
+    gold: 338914
+  - level: 361
+    gold: 340655
+  - level: 362
+    gold: 342400
+  - level: 363
+    gold: 344150
+  - level: 364
+    gold: 345895
+  - level: 365
+    gold: 347652
+  - level: 366
+    gold: 349405
+  - level: 367
+    gold: 351172
+  - level: 368
+    gold: 352933
+  - level: 369
+    gold: 354699
+  - level: 370
+    gold: 356469
+  - level: 371
+    gold: 358252
+  - level: 372
+    gold: 360031
+  - level: 373
+    gold: 361813
+  - level: 374
+    gold: 363591
+  - level: 375
+    gold: 365382
+  - level: 376
+    gold: 367177
+  - level: 377
+    gold: 368976
+  - level: 378
+    gold: 370771
+  - level: 379
+    gold: 372579
+  - level: 380
+    gold: 374381
+  - level: 381
+    gold: 376198
+  - level: 382
+    gold: 378009
+  - level: 383
+    gold: 379824
+  - level: 384
+    gold: 381643
+  - level: 385
+    gold: 383467
+  - level: 386
+    gold: 385295
+  - level: 387
+    gold: 387127
+  - level: 388
+    gold: 388963
+  - level: 389
+    gold: 390803
+  - level: 390
+    gold: 392648
+  - level: 391
+    gold: 394487
+  - level: 392
+    gold: 396340
+  - level: 393
+    gold: 398187
+  - level: 394
+    gold: 400048
+  - level: 395
+    gold: 401904
+  - level: 396
+    gold: 403764
+  - level: 397
+    gold: 405628
+  - level: 398
+    gold: 407506
+  - level: 399
+    gold: 409378
+  - level: 400
+    gold: 411246
+  - level: 401
+    gold: 413126
+  - level: 402
+    gold: 415011
+  - level: 403
+    gold: 416900
+  - level: 404
+    gold: 418783
+  - level: 405
+    gold: 420680
+  - level: 406
+    gold: 422572
+  - level: 407
+    gold: 424477
+  - level: 408
+    gold: 426377
+  - level: 409
+    gold: 428281
+  - level: 410
+    gold: 430189
+  - level: 411
+    gold: 432101
+  - level: 412
+    gold: 434018
+  - level: 413
+    gold: 435938
+  - level: 414
+    gold: 437862
+  - level: 415
+    gold: 439791
+  - level: 416
+    gold: 441714
+  - level: 417
+    gold: 443650
+  - level: 418
+    gold: 445581
+  - level: 419
+    gold: 447526
+  - level: 420
+    gold: 449465
+  - level: 421
+    gold: 451409
+  - level: 422
+    gold: 453356
+  - level: 423
+    gold: 455307
+  - level: 424
+    gold: 457262
+  - level: 425
+    gold: 459222
+  - level: 426
+    gold: 461185
+  - level: 427
+    gold: 463153
+  - level: 428
+    gold: 465124
+  - level: 429
+    gold: 467090
+  - level: 430
+    gold: 469070
+  - level: 431
+    gold: 471043
+  - level: 432
+    gold: 473021
+  - level: 433
+    gold: 475003
+  - level: 434
+    gold: 476999
+  - level: 435
+    gold: 478989
+  - level: 436
+    gold: 480983
+  - level: 437
+    gold: 482980
+  - level: 438
+    gold: 484972
+  - level: 439
+    gold: 486978
+  - level: 440
+    gold: 488988
+  - level: 441
+    gold: 490992
+  - level: 442
+    gold: 493010
+  - level: 443
+    gold: 495021
+  - level: 444
+    gold: 497037
+  - level: 445
+    gold: 499067
+  - level: 446
+    gold: 501091
+  - level: 447
+    gold: 503119
+  - level: 448
+    gold: 505150
+  - level: 449
+    gold: 507186
+  - level: 450
+    gold: 509226
+  - level: 451
+    gold: 511259
+  - level: 452
+    gold: 513307
+  - level: 453
+    gold: 515348
+  - level: 454
+    gold: 517404
+  - level: 455
+    gold: 519453
+  - level: 456
+    gold: 521516
+  - level: 457
+    gold: 523573
+  - level: 458
+    gold: 525634
+  - level: 459
+    gold: 527699
+  - level: 460
+    gold: 529768
+  - level: 461
+    gold: 531841
+  - level: 462
+    gold: 533907
+  - level: 463
+    gold: 535988
+  - level: 464
+    gold: 538073
+  - level: 465
+    gold: 540151
+  - level: 466
+    gold: 542244
+  - level: 467
+    gold: 544330
+  - level: 468
+    gold: 546419
+  - level: 469
+    gold: 548513
+  - level: 470
+    gold: 550611
+  - level: 471
+    gold: 552712
+  - level: 472
+    gold: 554818
+  - level: 473
+    gold: 556927
+  - level: 474
+    gold: 559041
+  - level: 475
+    gold: 561158
+  - level: 476
+    gold: 563268
+  - level: 477
+    gold: 565393
+  - level: 478
+    gold: 567512
+  - level: 479
+    gold: 569634
+  - level: 480
+    gold: 571760
+  - level: 481
+    gold: 573900
+  - level: 482
+    gold: 576034
+  - level: 483
+    gold: 578172
+  - level: 484
+    gold: 580302
+  - level: 485
+    gold: 582447
+  - level: 486
+    gold: 584597
+  - level: 487
+    gold: 586739
+  - level: 488
+    gold: 588896
+  - level: 489
+    gold: 591045
+  - level: 490
+    gold: 593210
+  - level: 491
+    gold: 595368
+  - level: 492
+    gold: 597529
+  - level: 493
+    gold: 599694
+  - level: 494
+    gold: 601863
+  - level: 495
+    gold: 604036
+  - level: 496
+    gold: 606213
+  - level: 497
+    gold: 608394
+  - level: 498
+    gold: 610567
+  - level: 499
+    gold: 612755
+  - level: 500
+    gold: 614936
+  - level: 501
+    gold: 617132
+  - level: 502
+    gold: 619321
+  - level: 503
+    gold: 621513
+  - level: 504
+    gold: 623709
+  - level: 505
+    gold: 625909
+  - level: 506
+    gold: 628113
+  - level: 507
+    gold: 630321
+  - level: 508
+    gold: 632532
+  - level: 509
+    gold: 634736
+  - level: 510
+    gold: 636955
+  - level: 511
+    gold: 639178
+  - level: 512
+    gold: 641393
+  - level: 513
+    gold: 643612
+  - level: 514
+    gold: 645835
+  - level: 515
+    gold: 648073
+  - level: 516
+    gold: 650304
+  - level: 517
+    gold: 652538
+  - level: 518
+    gold: 654776
+  - level: 519
+    gold: 657006
+  - level: 520
+    gold: 659251
+  - level: 521
+    gold: 661500
+  - level: 522
+    gold: 663742
+  - level: 523
+    gold: 665999
+  - level: 524
+    gold: 668248
+  - level: 525
+    gold: 670500
+  - level: 526
+    gold: 672757
+  - level: 527
+    gold: 675017
+  - level: 528
+    gold: 677292
+  - level: 529
+    gold: 679548
+  - level: 530
+    gold: 681820
+  - level: 531
+    gold: 684095
+  - level: 532
+    gold: 686374
+  - level: 533
+    gold: 688644
+  - level: 534
+    gold: 690931
+  - level: 535
+    gold: 693209
+  - level: 536
+    gold: 695491
+  - level: 537
+    gold: 697788
+  - level: 538
+    gold: 700078
+  - level: 539
+    gold: 702371
+  - level: 540
+    gold: 704668
+  - level: 541
+    gold: 706968
+  - level: 542
+    gold: 709260
+  - level: 543
+    gold: 711568
+  - level: 544
+    gold: 713880
+  - level: 545
+    gold: 716183
+  - level: 546
+    gold: 718502
+  - level: 547
+    gold: 720813
+  - level: 548
+    gold: 723127
+  - level: 549
+    gold: 725445
+  - level: 550
+    gold: 727767
+  - level: 551
+    gold: 730092
+  - level: 552
+    gold: 732421
+  - level: 553
+    gold: 734754
+  - level: 554
+    gold: 737090
+  - level: 555
+    gold: 739418
+  - level: 556
+    gold: 741762
+  - level: 557
+    gold: 744097
+  - level: 558
+    gold: 746448
+  - level: 559
+    gold: 748790
+  - level: 560
+    gold: 751136
+  - level: 561
+    gold: 753486
+  - level: 562
+    gold: 755852
+  - level: 563
+    gold: 758196
+  - level: 564
+    gold: 760557
+  - level: 565
+    gold: 762921
+  - level: 566
+    gold: 765289
+  - level: 567
+    gold: 767648
+  - level: 568
+    gold: 770024
+  - level: 569
+    gold: 772390
+  - level: 570
+    gold: 774772
+  - level: 571
+    gold: 777146
+  - level: 572
+    gold: 779523
+  - level: 573
+    gold: 781904
+  - level: 574
+    gold: 784288
+  - level: 575
+    gold: 786676
+  - level: 576
+    gold: 789068
+  - level: 577
+    gold: 791463
+  - level: 578
+    gold: 793849
+  - level: 579
+    gold: 796252
+  - level: 580
+    gold: 798645
+  - level: 581
+    gold: 801055
+  - level: 582
+    gold: 803455
+  - level: 583
+    gold: 805859
+  - level: 584
+    gold: 808267
+  - level: 585
+    gold: 810678
+  - level: 586
+    gold: 813093
+  - level: 587
+    gold: 815511
+  - level: 588
+    gold: 817933
+  - level: 589
+    gold: 820346
+  - level: 590
+    gold: 822775
+  - level: 591
+    gold: 825208
+  - level: 592
+    gold: 827631
+  - level: 593
+    gold: 830058
+  - level: 594
+    gold: 832501
+  - level: 595
+    gold: 834935
+  - level: 596
+    gold: 837373
+  - level: 597
+    gold: 839814
+  - level: 598
+    gold: 842258
+  - level: 599
+    gold: 844706
+  - level: 600
+    gold: 847145
+  - level: 601
+    gold: 849600
+  - level: 602
+    gold: 852059
+  - level: 603
+    gold: 854508
+  - level: 604
+    gold: 856974
+  - level: 605
+    gold: 859430
+  - level: 606
+    gold: 861890
+  - level: 607
+    gold: 864353
+  - level: 608
+    gold: 866820
+  - level: 609
+    gold: 869290
+  - level: 610
+    gold: 871763
+  - level: 611
+    gold: 874241
+  - level: 612
+    gold: 876721
+  - level: 613
+    gold: 879192
+  - level: 614
+    gold: 881680
+  - level: 615
+    gold: 884158
+  - level: 616
+    gold: 886652
+  - level: 617
+    gold: 889137
+  - level: 618
+    gold: 891626
+  - level: 619
+    gold: 894117
+  - level: 620
+    gold: 896613
+  - level: 621
+    gold: 899111
+  - level: 622
+    gold: 901614
+  - level: 623
+    gold: 904119
+  - level: 624
+    gold: 906628
+  - level: 625
+    gold: 909128
+  - level: 626
+    gold: 911644
+  - level: 627
+    gold: 914150
+  - level: 628
+    gold: 916672
+  - level: 629
+    gold: 919185
+  - level: 630
+    gold: 921702
+  - level: 631
+    gold: 924221
+  - level: 632
+    gold: 926745
+  - level: 633
+    gold: 929271
+  - level: 634
+    gold: 931801
+  - level: 635
+    gold: 934335
+  - level: 636
+    gold: 936872
+  - level: 637
+    gold: 939398
+  - level: 638
+    gold: 941942
+  - level: 639
+    gold: 944476
+  - level: 640
+    gold: 947026
+  - level: 641
+    gold: 949567
+  - level: 642
+    gold: 952110
+  - level: 643
+    gold: 954657
+  - level: 644
+    gold: 957208
+  - level: 645
+    gold: 959762
+  - level: 646
+    gold: 962319
+  - level: 647
+    gold: 964880
+  - level: 648
+    gold: 967430
+  - level: 649
+    gold: 969997
+  - level: 650
+    gold: 972568
+  - level: 651
+    gold: 975128
+  - level: 652
+    gold: 977692
+  - level: 653
+    gold: 980273
+  - level: 654
+    gold: 982844
+  - level: 655
+    gold: 985417
+  - level: 656
+    gold: 987995
+  - level: 657
+    gold: 990575
+  - level: 658
+    gold: 993159
+  - level: 659
+    gold: 995746
+  - level: 660
+    gold: 998323
+  - level: 661
+    gold: 1000917
+  - level: 662
+    gold: 1003500
+  - level: 663
+    gold: 1006101
+  - level: 664
+    gold: 1008690
+  - level: 665
+    gold: 1011298
+  - level: 666
+    gold: 1013894
+  - level: 667
+    gold: 1016494
+  - level: 668
+    gold: 1019097
+  - level: 669
+    gold: 1021704
+  - level: 670
+    gold: 1024314
+  - level: 671
+    gold: 1026927
+  - level: 672
+    gold: 1029529
+  - level: 673
+    gold: 1032149
+  - level: 674
+    gold: 1034772
+  - level: 675
+    gold: 1037384
+  - level: 676
+    gold: 1040000
+  - level: 677
+    gold: 1042633
+  - level: 678
+    gold: 1045255
+  - level: 679
+    gold: 1047880
+  - level: 680
+    gold: 1050509
+  - level: 681
+    gold: 1053141
+  - level: 682
+    gold: 1055776
+  - level: 683
+    gold: 1058414
+  - level: 684
+    gold: 1061056
+  - level: 685
+    gold: 1063687
+  - level: 686
+    gold: 1066335
+  - level: 687
+    gold: 1068972
+  - level: 688
+    gold: 1071627
+  - level: 689
+    gold: 1074271
+  - level: 690
+    gold: 1076918
+  - level: 691
+    gold: 1079582
+  - level: 692
+    gold: 1082236
+  - level: 693
+    gold: 1084892
+  - level: 694
+    gold: 1087552
+  - level: 695
+    gold: 1090216
+  - level: 696
+    gold: 1092867
+  - level: 697
+    gold: 1095537
+  - level: 698
+    gold: 1098210
+  - level: 699
+    gold: 1100871
+  - level: 700
+    gold: 1103551
+  - level: 701
+    gold: 1106219
+  - level: 702
+    gold: 1108890
+  - level: 703
+    gold: 1111579
+  - level: 704
+    gold: 1114257
+  - level: 705
+    gold: 1116937
+  - level: 706
+    gold: 1119621
+  - level: 707
+    gold: 1122309
+  - level: 708
+    gold: 1124984
+  - level: 709
+    gold: 1127678
+  - level: 710
+    gold: 1130375
+  - level: 711
+    gold: 1133075
+  - level: 712
+    gold: 1135763
+  - level: 713
+    gold: 1138455
+  - level: 714
+    gold: 1141164
+  - level: 715
+    gold: 1143862
+  - level: 716
+    gold: 1146564
+  - level: 717
+    gold: 1149268
+  - level: 718
+    gold: 1151975
+  - level: 719
+    gold: 1154686
+  - level: 720
+    gold: 1157400
+  - level: 721
+    gold: 1160117
+  - level: 722
+    gold: 1162837
+  - level: 723
+    gold: 1165545
+  - level: 724
+    gold: 1168272
+  - level: 725
+    gold: 1171002
+  - level: 726
+    gold: 1173720
+  - level: 727
+    gold: 1176440
+  - level: 728
+    gold: 1179180
+  - level: 729
+    gold: 1181907
+  - level: 730
+    gold: 1184637
+  - level: 731
+    gold: 1187371
+  - level: 732
+    gold: 1190108
+  - level: 733
+    gold: 1192847
+  - level: 734
+    gold: 1195575
+  - level: 735
+    gold: 1198321
+  - level: 736
+    gold: 1201070
+  - level: 737
+    gold: 1203807
+  - level: 738
+    gold: 1206563
+  - level: 739
+    gold: 1209306
+  - level: 740
+    gold: 1212068
+  - level: 741
+    gold: 1214817
+  - level: 742
+    gold: 1217570
+  - level: 743
+    gold: 1220326
+  - level: 744
+    gold: 1223085
+  - level: 745
+    gold: 1225847
+  - level: 746
+    gold: 1228612
+  - level: 747
+    gold: 1231380
+  - level: 748
+    gold: 1234151
+  - level: 749
+    gold: 1236910
+  - level: 750
+    gold: 1239688
+  - level: 751
+    gold: 1242452
+  - level: 752
+    gold: 1245236
+  - level: 753
+    gold: 1248007
+  - level: 754
+    gold: 1250782
+  - level: 755
+    gold: 1253575
+  - level: 756
+    gold: 1256355
+  - level: 757
+    gold: 1259139
+  - level: 758
+    gold: 1261925
+  - level: 759
+    gold: 1264715
+  - level: 760
+    gold: 1267492
+  - level: 761
+    gold: 1270288
+  - level: 762
+    gold: 1273086
+  - level: 763
+    gold: 1275873
+  - level: 764
+    gold: 1278678
+  - level: 765
+    gold: 1281470
+  - level: 766
+    gold: 1284281
+  - level: 767
+    gold: 1287079
+  - level: 768
+    gold: 1289881
+  - level: 769
+    gold: 1292685
+  - level: 770
+    gold: 1295493
+  - level: 771
+    gold: 1298303
+  - level: 772
+    gold: 1301117
+  - level: 773
+    gold: 1303933
+  - level: 774
+    gold: 1306753
+  - level: 775
+    gold: 1309576
+  - level: 776
+    gold: 1312385
+  - level: 777
+    gold: 1315214
+  - level: 778
+    gold: 1318030
+  - level: 779
+    gold: 1320865
+  - level: 780
+    gold: 1323686
+  - level: 781
+    gold: 1326511
+  - level: 782
+    gold: 1329339
+  - level: 783
+    gold: 1332170
+  - level: 784
+    gold: 1335003
+  - level: 785
+    gold: 1337840
+  - level: 786
+    gold: 1340680
+  - level: 787
+    gold: 1343523
+  - level: 788
+    gold: 1346369
+  - level: 789
+    gold: 1349201
+  - level: 790
+    gold: 1352053
+  - level: 791
+    gold: 1354908
+  - level: 792
+    gold: 1357749
+  - level: 793
+    gold: 1360594
+  - level: 794
+    gold: 1363457
+  - level: 795
+    gold: 1366308
+  - level: 796
+    gold: 1369161
+  - level: 797
+    gold: 1372018
+  - level: 798
+    gold: 1374877
+  - level: 799
+    gold: 1377739
+  - level: 800
+    gold: 1380605
+  - level: 801
+    gold: 1383473
+  - level: 802
+    gold: 1386327
+  - level: 803
+    gold: 1389202
+  - level: 804
+    gold: 1392079
+  - level: 805
+    gold: 1394942
+  - level: 806
+    gold: 1397826
+  - level: 807
+    gold: 1400695
+  - level: 808
+    gold: 1403567
+  - level: 809
+    gold: 1406443
+  - level: 810
+    gold: 1409338
+  - level: 811
+    gold: 1412219
+  - level: 812
+    gold: 1415103
+  - level: 813
+    gold: 1417973
+  - level: 814
+    gold: 1420863
+  - level: 815
+    gold: 1423756
+  - level: 816
+    gold: 1426652
+  - level: 817
+    gold: 1429534
+  - level: 818
+    gold: 1432436
+  - level: 819
+    gold: 1435341
+  - level: 820
+    gold: 1438232
+  - level: 821
+    gold: 1441125
+  - level: 822
+    gold: 1444039
+  - level: 823
+    gold: 1446939
+  - level: 824
+    gold: 1449841
+  - level: 825
+    gold: 1452746
+  - level: 826
+    gold: 1455655
+  - level: 827
+    gold: 1458566
+  - level: 828
+    gold: 1461480
+  - level: 829
+    gold: 1464397
+  - level: 830
+    gold: 1467300
+  - level: 831
+    gold: 1470222
+  - level: 832
+    gold: 1473148
+  - level: 833
+    gold: 1476060
+  - level: 834
+    gold: 1478991
+  - level: 835
+    gold: 1481908
+  - level: 836
+    gold: 1484828
+  - level: 837
+    gold: 1487751
+  - level: 838
+    gold: 1490694
+  - level: 839
+    gold: 1493623
+  - level: 840
+    gold: 1496555
+  - level: 841
+    gold: 1499489
+  - level: 842
+    gold: 1502427
+  - level: 843
+    gold: 1505350
+  - level: 844
+    gold: 1508293
+  - level: 845
+    gold: 1511239
+  - level: 846
+    gold: 1514170
+  - level: 847
+    gold: 1517122
+  - level: 848
+    gold: 1520059
+  - level: 849
+    gold: 1523016
+  - level: 850
+    gold: 1525959
+  - level: 851
+    gold: 1528905
+  - level: 852
+    gold: 1531871
+  - level: 853
+    gold: 1534822
+  - level: 854
+    gold: 1537777
+  - level: 855
+    gold: 1540734
+  - level: 856
+    gold: 1543694
+  - level: 857
+    gold: 1546639
+  - level: 858
+    gold: 1549605
+  - level: 859
+    gold: 1552573
+  - level: 860
+    gold: 1555544
+  - level: 861
+    gold: 1558501
+  - level: 862
+    gold: 1561478
+  - level: 863
+    gold: 1564440
+  - level: 864
+    gold: 1567422
+  - level: 865
+    gold: 1570390
+  - level: 866
+    gold: 1573361
+  - level: 867
+    gold: 1576334
+  - level: 868
+    gold: 1579310
+  - level: 869
+    gold: 1582289
+  - level: 870
+    gold: 1585271
+  - level: 871
+    gold: 1588255
+  - level: 872
+    gold: 1591243
+  - level: 873
+    gold: 1594233
+  - level: 874
+    gold: 1597226
+  - level: 875
+    gold: 1600204
+  - level: 876
+    gold: 1603202
+  - level: 877
+    gold: 1606186
+  - level: 878
+    gold: 1609190
+  - level: 879
+    gold: 1612179
+  - level: 880
+    gold: 1615171
+  - level: 881
+    gold: 1618183
+  - level: 882
+    gold: 1621181
+  - level: 883
+    gold: 1624181
+  - level: 884
+    gold: 1627184
+  - level: 885
+    gold: 1630189
+  - level: 886
+    gold: 1633198
+  - level: 887
+    gold: 1636209
+  - level: 888
+    gold: 1639205
+  - level: 889
+    gold: 1642221
+  - level: 890
+    gold: 1645241
+  - level: 891
+    gold: 1648245
+  - level: 892
+    gold: 1651270
+  - level: 893
+    gold: 1654279
+  - level: 894
+    gold: 1657310
+  - level: 895
+    gold: 1660325
+  - level: 896
+    gold: 1663343
+  - level: 897
+    gold: 1666363
+  - level: 898
+    gold: 1669387
+  - level: 899
+    gold: 1672431
+  - level: 900
+    gold: 1675460
+  - level: 901
+    gold: 1678473
+  - level: 902
+    gold: 1681507
+  - level: 903
+    gold: 1684544
+  - level: 904
+    gold: 1687583
+  - level: 905
+    gold: 1690607
+  - level: 906
+    gold: 1693653
+  - level: 907
+    gold: 1696700
+  - level: 908
+    gold: 1699733
+  - level: 909
+    gold: 1702767
+  - level: 910
+    gold: 1705823
+  - level: 911
+    gold: 1708864
+  - level: 912
+    gold: 1711907
+  - level: 913
+    gold: 1714952
+  - level: 914
+    gold: 1718001
+  - level: 915
+    gold: 1721052
+  - level: 916
+    gold: 1724105
+  - level: 917
+    gold: 1727162
+  - level: 918
+    gold: 1730221
+  - level: 919
+    gold: 1733283
+  - level: 920
+    gold: 1736347
+  - level: 921
+    gold: 1739396
+  - level: 922
+    gold: 1742466
+  - level: 923
+    gold: 1745520
+  - level: 924
+    gold: 1748595
+  - level: 925
+    gold: 1751654
+  - level: 926
+    gold: 1754716
+  - level: 927
+    gold: 1757799
+  - level: 928
+    gold: 1760867
+  - level: 929
+    gold: 1763937
+  - level: 930
+    gold: 1767009
+  - level: 931
+    gold: 1770084
+  - level: 932
+    gold: 1773162
+  - level: 933
+    gold: 1776243
+  - level: 934
+    gold: 1779326
+  - level: 935
+    gold: 1782393
+  - level: 936
+    gold: 1785482
+  - level: 937
+    gold: 1788573
+  - level: 938
+    gold: 1791648
+  - level: 939
+    gold: 1794744
+  - level: 940
+    gold: 1797824
+  - level: 941
+    gold: 1800926
+  - level: 942
+    gold: 1804012
+  - level: 943
+    gold: 1807100
+  - level: 944
+    gold: 1810190
+  - level: 945
+    gold: 1813284
+  - level: 946
+    gold: 1816399
+  - level: 947
+    gold: 1819497
+  - level: 948
+    gold: 1822580
+  - level: 949
+    gold: 1825683
+  - level: 950
+    gold: 1828790
+  - level: 951
+    gold: 1831899
+  - level: 952
+    gold: 1835011
+  - level: 953
+    gold: 1838106
+  - level: 954
+    gold: 1841223
+  - level: 955
+    gold: 1844323
+  - level: 956
+    gold: 1847445
+  - level: 957
+    gold: 1850551
+  - level: 958
+    gold: 1853659
+  - level: 959
+    gold: 1856789
+  - level: 960
+    gold: 1859902
+  - level: 961
+    gold: 1863018
+  - level: 962
+    gold: 1866137
+  - level: 963
+    gold: 1869258
+  - level: 964
+    gold: 1872382
+  - level: 965
+    gold: 1875508
+  - level: 966
+    gold: 1878637
+  - level: 967
+    gold: 1881768
+  - level: 968
+    gold: 1884883
+  - level: 969
+    gold: 1888020
+  - level: 970
+    gold: 1891159
+  - level: 971
+    gold: 1894281
+  - level: 972
+    gold: 1897426
+  - level: 973
+    gold: 1900553
+  - level: 974
+    gold: 1903683
+  - level: 975
+    gold: 1906835
+  - level: 976
+    gold: 1909970
+  - level: 977
+    gold: 1913108
+  - level: 978
+    gold: 1916248
+  - level: 979
+    gold: 1919391
+  - level: 980
+    gold: 1922536
+  - level: 981
+    gold: 1925684
+  - level: 982
+    gold: 1928835
+  - level: 983
+    gold: 1931988
+  - level: 984
+    gold: 1935143
+  - level: 985
+    gold: 1938282
+  - level: 986
+    gold: 1941442
+  - level: 987
+    gold: 1944586
+  - level: 988
+    gold: 1947752
+  - level: 989
+    gold: 1950900
+  - level: 990
+    gold: 1954071
+  - level: 991
+    gold: 1957225
+  - level: 992
+    gold: 1960381
+  - level: 993
+    gold: 1963559
+  - level: 994
+    gold: 1966720
+  - level: 995
+    gold: 1969884
+  - level: 996
+    gold: 1973050
+  - level: 997
+    gold: 1976219
+  - level: 998
+    gold: 1979390
+  - level: 999
+    gold: 1982564
+  - level: 1000
+    gold: 1982564
+  - level: 0
+    gold: 0

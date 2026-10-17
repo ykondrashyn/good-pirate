@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="An unofficial offline reconstruction of Good Pirate 1.13. Play the WebGL preview and explore the recovered project.">
+<title>Good Pirate | Reconstruction preview</title>
+<style>
+:root{color-scheme:dark;font:18px/1.6 system-ui,sans-serif;background:#071c28;color:#e7f1ef}body{margin:0}main{max-width:860px;margin:auto;padding:7vh 6vw}header{border-bottom:1px solid #31505c;padding-bottom:2rem}.eyebrow{color:#79cfbb;letter-spacing:.12em;text-transform:uppercase;font-size:.8rem}h1{font-size:clamp(3rem,9vw,5.5rem);line-height:1.05;margin:.5rem 0 1.5rem}h2{font-size:1.35rem;margin-top:2rem}p{max-width:65ch}nav{display:flex;flex-wrap:wrap;gap:.75rem;margin:2rem 0}a{color:#8cddc9}nav a{border:1px solid #587b80;border-radius:.4rem;padding:.65rem 1rem;text-decoration:none}nav a:first-child{background:#8cddc9;color:#071c28;font-weight:700}small,footer{color:#b2c6c9}footer{margin-top:3rem;font-size:.85rem}li{margin:.5rem 0}a:focus-visible{outline:3px solid #f0c478;outline-offset:4px}
+</style>
+<main>
+<header>
+<p class="eyebrow">Good Pirate 1.13 · Unofficial reconstruction</p>
+<h1>A sea worth<br>returning to.</h1>
+<p>Sail, build your fleet and explore the recovered world of Good Pirate in your browser. This offline reconstruction is a work in progress.</p>
+<nav aria-label="Project links">
+<a href="play/">Play preview</a>
+<a href="https://github.com/ykondrashyn/good-pirate">Source</a>
+<a id="download" href="https://github.com/ykondrashyn/good-pirate/releases">Download</a>
+<a href="https://github.com/ykondrashyn/good-pirate/issues/new">Report a problem</a>
+</nav>
+<small id="version">Preview release information is loading.</small>
+</header>
+<section><h2>Getting underway</h2>
+<p>Use a recent browser with WebGL 2. Hold and drag on the sea to steer, then release to stop accelerating. Follow the tutorial and use the on-screen controls for your fleet, map and island actions. The game keeps its portrait layout.</p>
+<p>The first load downloads the game and may take a while. Tap or click the game to enable audio. Fullscreen is available in the player.</p>
+</section>
+<section><h2>Your progress stays with you</h2>
+<p>The game saves locally in your browser. In Settings, use <strong>Copy Save</strong> to keep a backup or move progress to another browser. Use <strong>Paste Save</strong> to import it and confirm the replacement. Invalid saves are rejected.</p>
+<p>Progress from the localhost version does not appear here automatically. Copy it from that version and paste it here. Private browsing and clearing site storage can remove local progress.</p>
+</section>
+<section><h2>An offline preview</h2>
+<p>Former paid products are free local claims. Permanent unlocks remain owned, daily offers keep their limits and currency offers can be claimed repeatedly. No payment is taken. Former ad rewards use local completion actions.</p>
+<p>This preview does not establish full content parity or Android acceptance. See the release notes for the exact tested browsers, gameplay coverage and known problems.</p>
+</section>
+<footer>Unofficial preservation and reconstruction project. Good Pirate and recovered material belong to their respective owners. This project is not associated with or endorsed by the original developer. The application adds no analytics or advertising services. GitHub provides the hosting.</footer>
+</main>
+<script>
+fetch('publication.json').then(r=>{if(!r.ok)throw Error();return r.json()}).then(m=>{
+ document.getElementById('version').textContent=m.version+' · source '+m.source_commit.slice(0,12);
+ document.getElementById('download').href='https://github.com/ykondrashyn/good-pirate/releases/tag/'+encodeURIComponent(m.tag);
+}).catch(()=>{document.getElementById('version').textContent='Release information unavailable. See GitHub Releases.'});
+</script>
+</html>

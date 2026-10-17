@@ -1,0 +1,22 @@
+key	value	evidence
+apk.filename	Good+Pirate_1.13_APKPure.apk	filesystem
+apk.bytes	59381057	filesystem
+apk.sha256	eb30d068b2f811d5360b1d68dbb88d3969e4159ca3fd87223125a8b49e1773f7	filesystem
+package.application_id	com.zzoo.goodpirate	apkanalyzer manifest application-id
+package.version_code	30	apkanalyzer manifest version-code
+package.version_name	1.13	apkanalyzer manifest version-name
+package.min_sdk	16	apkanalyzer manifest min-sdk
+package.target_sdk	27	apkanalyzer manifest target-sdk
+package.signer_sha256	19039031bb2d461ed1815f8b892230d4bc278768e4aac7e723f3adb6d7f00c24	apksigner verify --print-certs
+unity.version	2018.3.11f1	globalgamemanagers string
+unity.scripting_backend	mono	archive layout
+unity.abis	armeabi-v7a	archive layout
+managed.assembly_count	99	archive layout
+il2cpp.global_metadata_present	0	archive layout
+tool.ilspy_version	11.0.0.9375	pinned package
+tool.ilspy_nupkg_sha256	8f555b3fca90a1d7a59050d78539c69deedaad421756bd4fe478d135bdac2dea	filesystem
+tool.ilspy_manifest_sha256	6e912cb9c1ff4a59e84bb42c16bb7f853fc10c3960d65e00d9e131f7c3cc468e	filesystem
+tool.dotnet_sdk_version	10.0.100	dotnet --version
+tool.dotnet_host_sha256	21afdffcfe1e2e04adaa3d7b330886920d0aebd025fb0ed9c8240e5a57b7377e	filesystem
+tool.managed_audit_source_sha256	b963ea0d85f11e0d83ac4bca07692e3f33e45ec428eceb9599f04b76bb4f3740	filesystem
+tool.mono_cecil_sha256	82d2fe510014c07737381b1e82af315ba2ee36dc8ba260ba1585afe227a6919b	filesystem

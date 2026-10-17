@@ -1,0 +1,234 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
+    <meta name="theme-color" content="#071118">
+    <title>{{{ PRODUCT_NAME }}}</title>
+    <link rel="stylesheet" href="TemplateData/style.css">
+#if DEVELOPMENT_PLAYER
+    <script src="<<<TemplateData/profiler.js>>>"></script>
+#endif
+  </head>
+  <body>
+    <main id="unity-container">
+      <canvas id="unity-canvas" width={{{ WIDTH }}} height={{{ HEIGHT }}} tabindex="-1"></canvas>
+      <div id="unity-loading-bar" role="status" aria-live="polite">
+        <div id="unity-loading-title">Loading Good Pirate</div>
+        <div id="unity-progress-bar-empty">
+          <div id="unity-progress-bar-full"></div>
+        </div>
+      </div>
+      <div id="unity-warning"></div>
+      <footer id="unity-footer">
+        <div id="unity-build-title">{{{ PRODUCT_NAME }}}</div>
+        <button id="unity-fullscreen-button" type="button">Fullscreen</button>
+      </footer>
+      <section id="clipboard-panel" hidden role="dialog" aria-modal="true" aria-labelledby="clipboard-title">
+        <div id="clipboard-card">
+          <h2 id="clipboard-title">Save transfer</h2>
+          <p id="clipboard-help"></p>
+          <textarea id="clipboard-text" rows="10" spellcheck="false" aria-label="Save data"></textarea>
+          <div id="clipboard-buttons">
+            <button id="clipboard-copy-button" type="button">Copy</button>
+            <button id="clipboard-read-button" type="button">Read clipboard</button>
+            <button id="clipboard-import-button" type="button">Replace local save</button>
+            <button id="clipboard-close-button" type="button">Close</button>
+          </div>
+        </div>
+      </section>
+    </main>
+    <script>
+      const canvas = document.querySelector("#unity-canvas");
+      const container = document.querySelector("#unity-container");
+      const authoredWidth = {{{ WIDTH }}};
+      const authoredHeight = {{{ HEIGHT }}};
+      const clipboardPanel = document.querySelector("#clipboard-panel");
+      const clipboardTitle = document.querySelector("#clipboard-title");
+      const clipboardHelp = document.querySelector("#clipboard-help");
+      const clipboardText = document.querySelector("#clipboard-text");
+      const clipboardCopyButton = document.querySelector("#clipboard-copy-button");
+      const clipboardReadButton = document.querySelector("#clipboard-read-button");
+      const clipboardImportButton = document.querySelector("#clipboard-import-button");
+      const clipboardCloseButton = document.querySelector("#clipboard-close-button");
+      let clipboardMode = "";
+      let unityInstance = null;
+	  let clipboardImportPending = false;
+
+      function resizeGame() {
+        const availableWidth = window.innerWidth;
+        const availableHeight = window.innerHeight;
+        const scale = Math.min(
+          availableWidth / authoredWidth,
+          availableHeight / authoredHeight
+        );
+        canvas.style.width = Math.max(1, Math.floor(authoredWidth * scale)) + "px";
+        canvas.style.height = Math.max(1, Math.floor(authoredHeight * scale)) + "px";
+      }
+
+      function unityShowBanner(message, type) {
+        const warning = document.querySelector("#unity-warning");
+        const item = document.createElement("div");
+        item.textContent = message;
+        item.className = type === "error" ? "error" : "warning";
+        warning.appendChild(item);
+        warning.hidden = false;
+        if (type !== "error") {
+          window.setTimeout(() => {
+            item.remove();
+            warning.hidden = warning.children.length === 0;
+          }, 5000);
+        }
+      }
+
+      function openClipboard(mode, value) {
+        clipboardMode = mode;
+		clipboardImportPending = false;
+        clipboardPanel.hidden = false;
+		clipboardTitle.textContent = mode === "copy" ? "Copy Save" : "Paste Save";
+        clipboardHelp.textContent = mode === "copy"
+          ? "Copy this selected save text."
+		  : value
+		    ? "Replace local progress with this clipboard save? The current save will remain as a backup."
+		    : "Paste save text below, then choose Replace local save. The current save will remain as a backup.";
+        clipboardText.readOnly = mode === "copy";
+        clipboardText.value = value || "";
+        clipboardCopyButton.hidden = mode !== "copy";
+        clipboardReadButton.hidden = mode !== "paste";
+        clipboardImportButton.hidden = mode !== "paste";
+		clipboardReadButton.disabled = false;
+		clipboardImportButton.disabled = false;
+        clipboardText.focus();
+        clipboardText.select();
+      }
+
+	  function closeClipboard(notifyUnity = true) {
+		if (notifyUnity && clipboardMode === "paste" && unityInstance) {
+		  unityInstance.SendMessage("Good Pirate Clipboard", "OnManualPasteCancelled", "cancelled");
+		}
+        clipboardPanel.hidden = true;
+        clipboardMode = "";
+		clipboardImportPending = false;
+        clipboardText.value = "";
+        canvas.focus();
+      }
+
+      clipboardCopyButton.addEventListener("click", () => {
+        clipboardText.focus();
+        clipboardText.select();
+        if (navigator.clipboard && navigator.clipboard.writeText) {
+          navigator.clipboard.writeText(clipboardText.value).then(() => {
+            clipboardHelp.textContent = "Save copied.";
+          }).catch(() => {
+            clipboardHelp.textContent = "Copy is blocked. The text is selected, use your system copy command.";
+          });
+        } else {
+          clipboardHelp.textContent = "The text is selected, use your system copy command.";
+        }
+      });
+
+      clipboardReadButton.addEventListener("click", () => {
+        if (navigator.clipboard && navigator.clipboard.readText) {
+          navigator.clipboard.readText().then(value => {
+            clipboardText.value = value;
+            clipboardText.focus();
+          }).catch(() => {
+            clipboardHelp.textContent = "Clipboard read is blocked. Paste into the text area manually.";
+            clipboardText.focus();
+          });
+        } else {
+          clipboardText.focus();
+        }
+      });
+
+      clipboardImportButton.addEventListener("click", () => {
+		if (!unityInstance || clipboardMode !== "paste" || clipboardImportPending) return;
+		clipboardImportPending = true;
+		clipboardReadButton.disabled = true;
+		clipboardImportButton.disabled = true;
+		clipboardHelp.textContent = "Validating save before replacing local progress...";
+        unityInstance.SendMessage("Good Pirate Clipboard", "OnManualPaste", clipboardText.value);
+      });
+
+      clipboardCloseButton.addEventListener("click", closeClipboard);
+      clipboardPanel.addEventListener("pointerdown", event => {
+        if (event.target === clipboardPanel) closeClipboard();
+      });
+      window.addEventListener("keydown", event => {
+        if (event.key === "Escape" && !clipboardPanel.hidden) closeClipboard();
+      });
+      window.addEventListener("goodpirate113-manual-copy", event => {
+        openClipboard("copy", event.detail && event.detail.value);
+      });
+      window.addEventListener("goodpirate113-manual-paste", () => {
+        openClipboard("paste", "");
+      });
+	  window.addEventListener("goodpirate113-confirm-paste", event => {
+		openClipboard("paste", event.detail && event.detail.value);
+	  });
+	  window.addEventListener("goodpirate113-import-result", event => {
+		const detail = event.detail || {};
+		if (detail.succeeded) {
+		  clipboardHelp.textContent = detail.message || "Save imported. Restarting the game...";
+		  window.setTimeout(() => window.location.reload(), 350);
+		  return;
+		}
+		clipboardImportPending = false;
+		clipboardReadButton.disabled = false;
+		clipboardImportButton.disabled = false;
+		clipboardHelp.textContent = detail.message || "This save could not be imported.";
+		clipboardText.focus();
+	  });
+
+      resizeGame();
+      window.addEventListener("resize", resizeGame, { passive: true });
+      window.addEventListener("orientationchange", resizeGame, { passive: true });
+
+      const buildUrl = "Build";
+      const loaderUrl = buildUrl + "/{{{ LOADER_FILENAME }}}";
+      const config = {
+        arguments: [],
+        dataUrl: buildUrl + "/{{{ DATA_FILENAME }}}",
+        frameworkUrl: buildUrl + "/{{{ FRAMEWORK_FILENAME }}}",
+#if USE_THREADS
+        workerUrl: buildUrl + "/{{{ WORKER_FILENAME }}}",
+#endif
+#if USE_WASM
+        codeUrl: buildUrl + "/{{{ CODE_FILENAME }}}",
+#endif
+#if SYMBOLS_FILENAME
+        symbolsUrl: buildUrl + "/{{{ SYMBOLS_FILENAME }}}",
+#endif
+        streamingAssetsUrl: "StreamingAssets",
+        companyName: {{{ JSON.stringify(COMPANY_NAME) }}},
+        productName: {{{ JSON.stringify(PRODUCT_NAME) }}},
+        productVersion: {{{ JSON.stringify(PRODUCT_VERSION) }}},
+        matchWebGLToCanvasSize: false,
+        autoSyncPersistentDataPath: true,
+        showBanner: unityShowBanner
+      };
+
+      document.querySelector("#unity-loading-bar").hidden = false;
+      const script = document.createElement("script");
+      script.src = loaderUrl;
+      script.onload = () => {
+        createUnityInstance(canvas, config, progress => {
+          document.querySelector("#unity-progress-bar-full").style.width =
+            Math.round(progress * 100) + "%";
+        }).then(instance => {
+          unityInstance = instance;
+          document.querySelector("#unity-loading-bar").hidden = true;
+          document.querySelector("#unity-fullscreen-button").onclick = () => {
+            unityInstance.SetFullscreen(1);
+          };
+#if DEVELOPMENT_PLAYER
+          const profile = unityProfiler.createButton(unityInstance);
+          profile.className = "unity-development-button";
+          container.appendChild(profile);
+#endif
+        }).catch(message => unityShowBanner(String(message), "error"));
+      };
+      document.body.appendChild(script);
+    </script>
+  </body>
+</html>

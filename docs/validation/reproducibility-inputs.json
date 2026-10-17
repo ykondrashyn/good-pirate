@@ -1,0 +1,249 @@
+{
+  "apk": {
+    "path": "../good_pirate_1_13_evidence/Good+Pirate_1.13_APKPure.apk",
+    "sha256": "eb30d068b2f811d5360b1d68dbb88d3969e4159ca3fd87223125a8b49e1773f7",
+    "size_bytes": 59381057
+  },
+  "compatibility_adapters": {
+    "Assets/Editor/GoodPirateJoystickTexturePostprocessor.cs": {
+      "reason": "User-authorized DOKDO joystick texture-import policy, scoped to the recovered Good Pirate UI_ring003 texture",
+      "sha256": "d54e9bf737abd207c3833bb3ff3bdc66bced5337a6569a0b2d269065a577dc49"
+    },
+    "Assets/Reconstruction/Plugins/WebGL/GoodPirate113Pointer.jslib": {
+      "reason": "User-authorized DOKDO-derived browser pointer-capture pattern, adapted to recovered Good Pirate 1.13 controls",
+      "sha256": "2e3b38280f750f59eb937038e871a49627832450418eecba296dcecdc6881e69"
+    },
+    "Assets/Reconstruction/Runtime/Platform/GoodPirateFrameRatePolicy.cs": {
+      "reason": "User-authorized DOKDO platform-boundary pattern, adapted to Unity WebGL requestAnimationFrame timing while preserving native Good Pirate preferences",
+      "sha256": "30cb71f5db94b83a3df7ae05faf9f44f9890a0df9030d39d00189371041286e7"
+    },
+    "Assets/Reconstruction/Runtime/Rendering/GoodPirateSteeringVisualRuntime.cs": {
+      "reason": "User-authorized DOKDO steering-visual repair, adapted to the recovered Good Pirate TouchPad and two-bone Sphere001 rig without importing gameplay logic",
+      "sha256": "73055e56669b3bae59a8f9e3986c80097158d76698e4331410c2bae9f74f1aaf"
+    }
+  },
+  "ledgers": {
+    "docs/behavior-coverage.tsv": [
+      "behavior_id",
+      "source_method_ids",
+      "script_guid",
+      "serialized_refs",
+      "entry_points",
+      "subsystem",
+      "milestone",
+      "evidence_status",
+      "confidence",
+      "implementation_status",
+      "test_ids",
+      "intentional_deviation",
+      "notes"
+    ],
+    "docs/offline-substitutions.tsv": [
+      "substitution_id",
+      "original_behavior",
+      "retained_callback",
+      "local_replacement",
+      "persistence_rule",
+      "acceptance_test",
+      "status",
+      "notes"
+    ],
+    "docs/source-merge-ledger.tsv": [
+      "donor_method_id",
+      "destination_script_guid",
+      "destination_path",
+      "merge_action",
+      "source_sha256_before",
+      "source_sha256_after",
+      "compile_state",
+      "evidence_confidence",
+      "test_id",
+      "intentional_deviation",
+      "notes"
+    ]
+  },
+  "normalized_inputs": [
+    ".gitignore",
+    "Assets/Editor/GoodPirate113Build.cs",
+    "Assets/Editor/GoodPirateJoystickTexturePostprocessor.cs",
+    "Assets/Editor/GoodPirateJoystickTexturePostprocessor.cs.meta",
+    "Assets/Material/WaterProDaytime.mat",
+    "Assets/Reconstruction/Plugins/WebGL/GoodPirate113Pointer.jslib",
+    "Assets/Reconstruction/Runtime/Bootstrap/GoodPirateRuntimeBootstrap.cs",
+    "Assets/Reconstruction/Runtime/GoodPirate113.Reconstruction.Runtime.asmdef",
+    "Assets/Reconstruction/Runtime/Platform/GoodPirateFrameRatePolicy.cs",
+    "Assets/Reconstruction/Runtime/Platform/GoodPirateFrameRatePolicy.cs.meta",
+    "Assets/Reconstruction/Runtime/Rendering.meta",
+    "Assets/Reconstruction/Runtime/Rendering/GoodPirateSteeringVisualRuntime.cs",
+    "Assets/Reconstruction/Runtime/Rendering/GoodPirateSteeringVisualRuntime.cs.meta",
+    "Assets/Scripts/Assembly-CSharp/Percent/TargetFrameControl.cs",
+    "Assets/Scripts/Assembly-CSharp/PlayerInfo.cs",
+    "Assets/Scripts/Assembly-CSharp/Shark.cs",
+    "Assets/Scripts/Assembly-CSharp/TouchPanel.cs",
+    "Assets/Scripts/Assembly-CSharp/UI_Manager.cs",
+    "Assets/Scripts/Assembly-CSharp/UI_SettingPopup.cs",
+    "Assets/Shader/Cartoon FX_Alpha Blended + Additive Soft.shader",
+    "Assets/Shader/Cartoon FX_Alpha Blended + Additive.shader",
+    "Assets/Shader/Cartoon FX_Particle Multiply Colored.shader",
+    "Assets/Shader/Cartoon FX_Particles Additive Alpha8.shader",
+    "Assets/Shader/Cartoon FX_Particles Alpha Blended Alpha8.shader",
+    "Assets/Shader/FX_Water.shader",
+    "Assets/Shader/FX_Water.shader.meta",
+    "Assets/Shader/Hidden_Cartoon FX_Particles.shader",
+    "Assets/Shader/Mobile_DiffuseX.shader",
+    "Assets/Tests/EditMode/CoreContractTests.cs",
+    "Assets/Tests/EditMode/GoodPirate113.Reconstruction.EditModeTests.asmdef",
+    "Assets/Texture2D/UI_ring003.png.meta",
+    "Assets/Texture2D/foam.png.meta",
+    "Assets/WebGLTemplates/GoodPirate113/TemplateData/style.css",
+    "Assets/WebGLTemplates/GoodPirate113/index.html",
+    "Packages/manifest.json",
+    "Packages/packages-lock.json",
+    "ProjectSettings/EditorBuildSettings.asset",
+    "ProjectSettings/EditorSettings.asset",
+    "ProjectSettings/ProjectSettings.asset",
+    "ProjectSettings/ProjectVersion.txt",
+    "ProjectSettings/QualitySettings.asset",
+    "README.md",
+    "STATUS.md",
+    "docs/authority.md",
+    "docs/behavior-coverage.tsv",
+    "docs/evidence/legacy-sdk-reachability.md",
+    "docs/offline-substitutions.tsv",
+    "docs/source-merge-ledger.tsv",
+    "docs/validation/PROTOCOL.md",
+    "docs/validation/reproducibility-inputs.json",
+    "tool/validate/audit_offline.py",
+    "tool/validate/audit_repository.py",
+    "tool/validate/common.py",
+    "tool/validate/run-all.sh",
+    "tool/validate/validate_ledgers.py",
+    "tool/validate/validate_reproducibility.py",
+    "tool/validate/validate_unity.py",
+    "tool/validate/verify_apk.py"
+  ],
+  "reference_inputs": {
+    "dokdo_browser_timing_policy": {
+      "commit": "ad45c22cd2dcf0edfaff679fb8ec440da6cf09fb",
+      "git_root": "../dokdo",
+      "path": "Assets/Dokdo/Web/Runtime/BrowserRuntimePolicy.cs",
+      "sha256": "a71812fe0fac9ce242b112bb322abc74b707e4ef909ffec104caacd84715c2be"
+    },
+    "dokdo_joystick_texture_policy": {
+      "commit": "709b90a4b3fd10b03535465bf255a2647766438c",
+      "git_root": "../dokdo",
+      "path": "Assets/Dokdo/Editor/JoystickTexturePostprocessor.cs",
+      "sha256": "00a196a7dd7cd7face35fddd2808d160e102c71e7c25e4826169f6bdd949bfb4"
+    },
+    "dokdo_steering_visual_runtime": {
+      "commit": "709b90a4b3fd10b03535465bf255a2647766438c",
+      "git_root": "../dokdo",
+      "path": "Assets/Dokdo/Web/Runtime/BrowserSteeringControlRuntime.cs",
+      "sha256": "282833e498a5564bb9c5e9e221c5bcff5a5ba8926bc3ef98679037d6192ebceb"
+    },
+    "dokdo_two_bone_quality_profile": {
+      "commit": "709b90a4b3fd10b03535465bf255a2647766438c",
+      "git_root": "../dokdo",
+      "path": "ProjectSettings/QualitySettings.asset",
+      "sha256": "116d47d845bd1b4bc5fbb111edc9aa23141df352a9858af283e556f482f314f1"
+    },
+    "dokdo_water_foam": {
+      "commit": "ad45c22cd2dcf0edfaff679fb8ec440da6cf09fb",
+      "git_root": "../dokdo",
+      "path": "Assets/Texture2D/foam.png",
+      "sha256": "88eb0a1c82650b850c39c0545fd28974b93081a14c97b570eaaa8b694eb90fb1"
+    },
+    "dokdo_water_foam_importer": {
+      "commit": "ad45c22cd2dcf0edfaff679fb8ec440da6cf09fb",
+      "git_root": "../dokdo",
+      "path": "Assets/Texture2D/foam.png.meta",
+      "sha256": "73db2690ae5eb9494c388962cc16cc27537e1b1bf1f982ed37b04eb2428be0a0"
+    },
+    "dokdo_water_material": {
+      "commit": "ad45c22cd2dcf0edfaff679fb8ec440da6cf09fb",
+      "git_root": "../dokdo",
+      "path": "Assets/Material/WaterProDaytime.mat",
+      "sha256": "955abc94974721687a4f99cc4902c1a795ef1a4016996ca330ebf003e6b9701a"
+    },
+    "private_browser_pointer_reference": {
+      "commit": "0d02a47191e12f0d2f5342ac3461a3761db8383a",
+      "git_root": "../good_pirate_1_16_reference",
+      "path": "Assets/Plugins/WebGL/GoodPirateBrowser.jslib",
+      "sha256": "70bc0a7429cf2b58a85c21fc350badbfee8fa8ca4af0324ec494545af862fb44"
+    }
+  },
+  "repository": {
+    "allowed_top_level": [
+      ".gitignore",
+      "Assets",
+      "Packages",
+      "ProjectSettings",
+      "README.md",
+      "STATUS.md",
+      "docs",
+      "tool"
+    ],
+    "authoritative_asset_root": "../good_pirate_1_13_evidence/asset-ripper/run-a/ExportedProject/Assets",
+    "authorized_donor_files": {
+      "Assets/Material/WaterProDaytime.mat": {
+        "reason": "User-authorized DOKDO water tuning adapted without changing the Good Pirate material or recovered texture GUIDs",
+        "sha256": "f7611c26de91cfb2d7aa9597390fae40a6b479507bf21c59c57ee4c3763ccbdb"
+      },
+      "Assets/Shader/Cartoon FX_Alpha Blended + Additive Soft.shader": {
+        "reason": "User-authorized DOKDO-derived rendering compatibility implementation",
+        "sha256": "09b77852b85d02fa26d1b5aea02f7bf14317489e5f3f57dfb9f4dc07a51e3c61"
+      },
+      "Assets/Shader/Cartoon FX_Alpha Blended + Additive.shader": {
+        "reason": "User-authorized DOKDO-derived rendering compatibility implementation",
+        "sha256": "91b76b1af134306bdac311d0ec53ead568f10884c12aba49d0d9f74c28b6d9a4"
+      },
+      "Assets/Shader/Cartoon FX_Particle Multiply Colored.shader": {
+        "reason": "User-authorized DOKDO-derived rendering compatibility implementation",
+        "sha256": "a3f45df91920bd4f1e08967fe8fa181e87995e90bf77e75ecbb97980ed14047e"
+      },
+      "Assets/Shader/Cartoon FX_Particles Additive Alpha8.shader": {
+        "reason": "User-authorized DOKDO-derived rendering compatibility implementation",
+        "sha256": "217370bbe7599cdc16d060f3b384212176f11553ff6bafa4660a175c864d3b61"
+      },
+      "Assets/Shader/Cartoon FX_Particles Alpha Blended Alpha8.shader": {
+        "reason": "User-authorized DOKDO-derived rendering compatibility implementation",
+        "sha256": "b24e1a3a9e048160e1008d9a828b61cba6c2ea3c6f7f2d91a6a257503d0fa636"
+      },
+      "Assets/Shader/FX_Water.shader": {
+        "reason": "User-authorized DOKDO water rendering implementation only",
+        "sha256": "471f8f8845d38b99fb3ecb16a32979c4b64efe519a9d7d9de14b0a2820e8aa0e"
+      },
+      "Assets/Shader/Hidden_Cartoon FX_Particles.shader": {
+        "reason": "User-authorized DOKDO-derived rendering compatibility implementation",
+        "sha256": "ae1be265c47a1c4247f22194fa3398aefc2bf1e0c42bc47d4574f8c0d7b8e7e1"
+      },
+      "Assets/Shader/Mobile_DiffuseX.shader": {
+        "reason": "User-authorized DOKDO-derived rendering compatibility implementation",
+        "sha256": "5c5d95330221d7a1ff3e65786cd860087374db81b5a04ad9ed75dd870cd3dd72"
+      },
+      "Assets/Texture2D/foam.png": {
+        "reason": "User-authorized DOKDO water foam texture",
+        "sha256": "88eb0a1c82650b850c39c0545fd28974b93081a14c97b570eaaa8b694eb90fb1"
+      }
+    },
+    "evidence_root": "../good_pirate_1_13_evidence",
+    "forbidden_donor_root": "../good_pirate_1_16_reference"
+  },
+  "schema_version": 1,
+  "unity": {
+    "android_min_sdk": 25,
+    "android_target_architectures": 2,
+    "application_identifier": "com.reconstruction.goodpirate113",
+    "company_name": "Reconstruction",
+    "editor_version": "6000.3.18f1",
+    "portrait_height": 2208,
+    "portrait_width": 1242,
+    "product_name": "Good Pirate 1.13 Reconstruction",
+    "required_manifest_dependencies": {
+      "com.unity.modules.jsonserialize": "1.0.0",
+      "com.unity.test-framework": "1.6.0"
+    },
+    "runtime_assembly": "GoodPirate113.Reconstruction.Runtime",
+    "version": "1.13-r1"
+  }
+}

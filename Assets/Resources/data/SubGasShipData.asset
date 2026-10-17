@@ -1,0 +1,7017 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98b7ce942920e8a381740961d70e2d4b, type: 3}
+  m_Name: SubGasShipData
+  m_EditorClassIdentifier:
+  SheetName: 아직은 제목은 없지만 쩔어줄 프로젝트
+  WorksheetName: SubGasShipData
+  dataArray:
+  - level: 1
+    attack: 118
+    health: 3528
+    firecooltime: 6
+    cannonnum: 1
+    enemyattack: 142
+    enemyhealth: 1147
+  - level: 2
+    attack: 120
+    health: 3606
+    firecooltime: 5.99
+    cannonnum: 1
+    enemyattack: 145
+    enemyhealth: 1171
+  - level: 3
+    attack: 122
+    health: 3685
+    firecooltime: 5.98
+    cannonnum: 1
+    enemyattack: 148
+    enemyhealth: 1195
+  - level: 4
+    attack: 125
+    health: 3763
+    firecooltime: 5.97
+    cannonnum: 1
+    enemyattack: 151
+    enemyhealth: 1219
+  - level: 5
+    attack: 127
+    health: 3842
+    firecooltime: 5.96
+    cannonnum: 1
+    enemyattack: 154
+    enemyhealth: 1243
+  - level: 6
+    attack: 130
+    health: 3922
+    firecooltime: 5.95
+    cannonnum: 1
+    enemyattack: 157
+    enemyhealth: 1267
+  - level: 7
+    attack: 132
+    health: 4001
+    firecooltime: 5.94
+    cannonnum: 1
+    enemyattack: 160
+    enemyhealth: 1290
+  - level: 8
+    attack: 134
+    health: 4081
+    firecooltime: 5.93
+    cannonnum: 1
+    enemyattack: 163
+    enemyhealth: 1314
+  - level: 9
+    attack: 137
+    health: 4160
+    firecooltime: 5.92
+    cannonnum: 1
+    enemyattack: 166
+    enemyhealth: 1338
+  - level: 10
+    attack: 139
+    health: 4241
+    firecooltime: 5.91
+    cannonnum: 1
+    enemyattack: 168
+    enemyhealth: 1362
+  - level: 11
+    attack: 142
+    health: 4321
+    firecooltime: 5.9
+    cannonnum: 1
+    enemyattack: 171
+    enemyhealth: 1386
+  - level: 12
+    attack: 144
+    health: 4402
+    firecooltime: 5.89
+    cannonnum: 1
+    enemyattack: 174
+    enemyhealth: 1410
+  - level: 13
+    attack: 146
+    health: 4484
+    firecooltime: 5.88
+    cannonnum: 1
+    enemyattack: 177
+    enemyhealth: 1435
+  - level: 14
+    attack: 149
+    health: 4565
+    firecooltime: 5.87
+    cannonnum: 1
+    enemyattack: 180
+    enemyhealth: 1459
+  - level: 15
+    attack: 151
+    health: 4646
+    firecooltime: 5.86
+    cannonnum: 1
+    enemyattack: 183
+    enemyhealth: 1483
+  - level: 16
+    attack: 154
+    health: 4729
+    firecooltime: 5.85
+    cannonnum: 1
+    enemyattack: 186
+    enemyhealth: 1507
+  - level: 17
+    attack: 156
+    health: 4811
+    firecooltime: 5.84
+    cannonnum: 1
+    enemyattack: 189
+    enemyhealth: 1531
+  - level: 18
+    attack: 158
+    health: 4894
+    firecooltime: 5.83
+    cannonnum: 1
+    enemyattack: 192
+    enemyhealth: 1555
+  - level: 19
+    attack: 161
+    health: 4976
+    firecooltime: 5.82
+    cannonnum: 1
+    enemyattack: 195
+    enemyhealth: 1579
+  - level: 20
+    attack: 163
+    health: 5059
+    firecooltime: 5.81
+    cannonnum: 1
+    enemyattack: 197
+    enemyhealth: 1603
+  - level: 21
+    attack: 166
+    health: 5143
+    firecooltime: 5.8
+    cannonnum: 1
+    enemyattack: 200
+    enemyhealth: 1628
+  - level: 22
+    attack: 168
+    health: 5227
+    firecooltime: 5.79
+    cannonnum: 1
+    enemyattack: 203
+    enemyhealth: 1652
+  - level: 23
+    attack: 170
+    health: 5311
+    firecooltime: 5.78
+    cannonnum: 1
+    enemyattack: 206
+    enemyhealth: 1676
+  - level: 24
+    attack: 173
+    health: 5395
+    firecooltime: 5.77
+    cannonnum: 1
+    enemyattack: 209
+    enemyhealth: 1700
+  - level: 25
+    attack: 175
+    health: 5480
+    firecooltime: 5.76
+    cannonnum: 1
+    enemyattack: 212
+    enemyhealth: 1725
+  - level: 26
+    attack: 178
+    health: 5564
+    firecooltime: 5.74
+    cannonnum: 1
+    enemyattack: 215
+    enemyhealth: 1749
+  - level: 27
+    attack: 180
+    health: 5650
+    firecooltime: 5.73
+    cannonnum: 1
+    enemyattack: 218
+    enemyhealth: 1773
+  - level: 28
+    attack: 182
+    health: 5735
+    firecooltime: 5.72
+    cannonnum: 1
+    enemyattack: 221
+    enemyhealth: 1798
+  - level: 29
+    attack: 185
+    health: 5821
+    firecooltime: 5.71
+    cannonnum: 1
+    enemyattack: 224
+    enemyhealth: 1822
+  - level: 30
+    attack: 187
+    health: 5908
+    firecooltime: 5.7
+    cannonnum: 1
+    enemyattack: 227
+    enemyhealth: 1846
+  - level: 31
+    attack: 190
+    health: 5994
+    firecooltime: 5.69
+    cannonnum: 1
+    enemyattack: 229
+    enemyhealth: 1871
+  - level: 32
+    attack: 192
+    health: 6080
+    firecooltime: 5.68
+    cannonnum: 1
+    enemyattack: 232
+    enemyhealth: 1895
+  - level: 33
+    attack: 194
+    health: 6167
+    firecooltime: 5.67
+    cannonnum: 1
+    enemyattack: 235
+    enemyhealth: 1919
+  - level: 34
+    attack: 197
+    health: 6255
+    firecooltime: 5.66
+    cannonnum: 1
+    enemyattack: 238
+    enemyhealth: 1944
+  - level: 35
+    attack: 199
+    health: 6343
+    firecooltime: 5.65
+    cannonnum: 1
+    enemyattack: 241
+    enemyhealth: 1968
+  - level: 36
+    attack: 202
+    health: 6431
+    firecooltime: 5.64
+    cannonnum: 1
+    enemyattack: 244
+    enemyhealth: 1993
+  - level: 37
+    attack: 204
+    health: 6519
+    firecooltime: 5.63
+    cannonnum: 1
+    enemyattack: 247
+    enemyhealth: 2017
+  - level: 38
+    attack: 206
+    health: 6608
+    firecooltime: 5.62
+    cannonnum: 1
+    enemyattack: 250
+    enemyhealth: 2042
+  - level: 39
+    attack: 209
+    health: 6697
+    firecooltime: 5.61
+    cannonnum: 1
+    enemyattack: 253
+    enemyhealth: 2066
+  - level: 40
+    attack: 211
+    health: 6786
+    firecooltime: 5.6
+    cannonnum: 1
+    enemyattack: 256
+    enemyhealth: 2091
+  - level: 41
+    attack: 214
+    health: 6876
+    firecooltime: 5.59
+    cannonnum: 1
+    enemyattack: 258
+    enemyhealth: 2115
+  - level: 42
+    attack: 216
+    health: 6966
+    firecooltime: 5.58
+    cannonnum: 1
+    enemyattack: 261
+    enemyhealth: 2140
+  - level: 43
+    attack: 218
+    health: 7056
+    firecooltime: 5.57
+    cannonnum: 1
+    enemyattack: 264
+    enemyhealth: 2165
+  - level: 44
+    attack: 221
+    health: 7147
+    firecooltime: 5.56
+    cannonnum: 1
+    enemyattack: 267
+    enemyhealth: 2189
+  - level: 45
+    attack: 223
+    health: 7238
+    firecooltime: 5.55
+    cannonnum: 1
+    enemyattack: 270
+    enemyhealth: 2214
+  - level: 46
+    attack: 226
+    health: 7329
+    firecooltime: 5.54
+    cannonnum: 1
+    enemyattack: 273
+    enemyhealth: 2239
+  - level: 47
+    attack: 228
+    health: 7421
+    firecooltime: 5.53
+    cannonnum: 1
+    enemyattack: 276
+    enemyhealth: 2263
+  - level: 48
+    attack: 230
+    health: 7513
+    firecooltime: 5.52
+    cannonnum: 1
+    enemyattack: 279
+    enemyhealth: 2288
+  - level: 49
+    attack: 233
+    health: 7605
+    firecooltime: 5.51
+    cannonnum: 1
+    enemyattack: 282
+    enemyhealth: 2313
+  - level: 50
+    attack: 235
+    health: 7697
+    firecooltime: 5.5
+    cannonnum: 1
+    enemyattack: 285
+    enemyhealth: 2337
+  - level: 51
+    attack: 238
+    health: 7790
+    firecooltime: 5.49
+    cannonnum: 1
+    enemyattack: 287
+    enemyhealth: 2362
+  - level: 52
+    attack: 240
+    health: 7884
+    firecooltime: 5.48
+    cannonnum: 1
+    enemyattack: 290
+    enemyhealth: 2387
+  - level: 53
+    attack: 242
+    health: 7978
+    firecooltime: 5.47
+    cannonnum: 1
+    enemyattack: 293
+    enemyhealth: 2412
+  - level: 54
+    attack: 245
+    health: 8072
+    firecooltime: 5.46
+    cannonnum: 1
+    enemyattack: 296
+    enemyhealth: 2436
+  - level: 55
+    attack: 247
+    health: 8166
+    firecooltime: 5.45
+    cannonnum: 1
+    enemyattack: 299
+    enemyhealth: 2461
+  - level: 56
+    attack: 250
+    health: 8261
+    firecooltime: 5.44
+    cannonnum: 1
+    enemyattack: 302
+    enemyhealth: 2486
+  - level: 57
+    attack: 252
+    health: 8356
+    firecooltime: 5.43
+    cannonnum: 1
+    enemyattack: 305
+    enemyhealth: 2511
+  - level: 58
+    attack: 254
+    health: 8451
+    firecooltime: 5.42
+    cannonnum: 1
+    enemyattack: 308
+    enemyhealth: 2536
+  - level: 59
+    attack: 257
+    health: 8547
+    firecooltime: 5.41
+    cannonnum: 1
+    enemyattack: 311
+    enemyhealth: 2561
+  - level: 60
+    attack: 259
+    health: 8643
+    firecooltime: 5.4
+    cannonnum: 1
+    enemyattack: 314
+    enemyhealth: 2586
+  - level: 61
+    attack: 262
+    health: 8740
+    firecooltime: 5.39
+    cannonnum: 1
+    enemyattack: 317
+    enemyhealth: 2610
+  - level: 62
+    attack: 264
+    health: 8837
+    firecooltime: 5.38
+    cannonnum: 1
+    enemyattack: 319
+    enemyhealth: 2635
+  - level: 63
+    attack: 266
+    health: 8934
+    firecooltime: 5.37
+    cannonnum: 1
+    enemyattack: 322
+    enemyhealth: 2660
+  - level: 64
+    attack: 269
+    health: 9032
+    firecooltime: 5.36
+    cannonnum: 1
+    enemyattack: 325
+    enemyhealth: 2685
+  - level: 65
+    attack: 271
+    health: 9130
+    firecooltime: 5.35
+    cannonnum: 1
+    enemyattack: 328
+    enemyhealth: 2710
+  - level: 66
+    attack: 274
+    health: 9228
+    firecooltime: 5.34
+    cannonnum: 1
+    enemyattack: 331
+    enemyhealth: 2735
+  - level: 67
+    attack: 276
+    health: 9327
+    firecooltime: 5.33
+    cannonnum: 1
+    enemyattack: 334
+    enemyhealth: 2760
+  - level: 68
+    attack: 278
+    health: 9426
+    firecooltime: 5.32
+    cannonnum: 1
+    enemyattack: 337
+    enemyhealth: 2785
+  - level: 69
+    attack: 281
+    health: 9526
+    firecooltime: 5.31
+    cannonnum: 1
+    enemyattack: 340
+    enemyhealth: 2810
+  - level: 70
+    attack: 283
+    health: 9626
+    firecooltime: 5.3
+    cannonnum: 1
+    enemyattack: 343
+    enemyhealth: 2836
+  - level: 71
+    attack: 286
+    health: 9726
+    firecooltime: 5.29
+    cannonnum: 1
+    enemyattack: 346
+    enemyhealth: 2861
+  - level: 72
+    attack: 288
+    health: 9827
+    firecooltime: 5.28
+    cannonnum: 1
+    enemyattack: 348
+    enemyhealth: 2886
+  - level: 73
+    attack: 290
+    health: 9928
+    firecooltime: 5.27
+    cannonnum: 1
+    enemyattack: 351
+    enemyhealth: 2911
+  - level: 74
+    attack: 293
+    health: 10029
+    firecooltime: 5.26
+    cannonnum: 1
+    enemyattack: 354
+    enemyhealth: 2936
+  - level: 75
+    attack: 295
+    health: 10131
+    firecooltime: 5.24
+    cannonnum: 1
+    enemyattack: 357
+    enemyhealth: 2961
+  - level: 76
+    attack: 298
+    health: 10233
+    firecooltime: 5.23
+    cannonnum: 1
+    enemyattack: 360
+    enemyhealth: 2986
+  - level: 77
+    attack: 300
+    health: 10336
+    firecooltime: 5.22
+    cannonnum: 1
+    enemyattack: 363
+    enemyhealth: 3012
+  - level: 78
+    attack: 302
+    health: 10439
+    firecooltime: 5.21
+    cannonnum: 1
+    enemyattack: 366
+    enemyhealth: 3037
+  - level: 79
+    attack: 305
+    health: 10543
+    firecooltime: 5.2
+    cannonnum: 1
+    enemyattack: 369
+    enemyhealth: 3062
+  - level: 80
+    attack: 307
+    health: 10646
+    firecooltime: 5.19
+    cannonnum: 1
+    enemyattack: 372
+    enemyhealth: 3087
+  - level: 81
+    attack: 310
+    health: 10751
+    firecooltime: 5.18
+    cannonnum: 1
+    enemyattack: 375
+    enemyhealth: 3113
+  - level: 82
+    attack: 312
+    health: 10855
+    firecooltime: 5.17
+    cannonnum: 1
+    enemyattack: 378
+    enemyhealth: 3138
+  - level: 83
+    attack: 314
+    health: 10961
+    firecooltime: 5.16
+    cannonnum: 1
+    enemyattack: 380
+    enemyhealth: 3163
+  - level: 84
+    attack: 317
+    health: 11066
+    firecooltime: 5.15
+    cannonnum: 1
+    enemyattack: 383
+    enemyhealth: 3189
+  - level: 85
+    attack: 319
+    health: 11172
+    firecooltime: 5.14
+    cannonnum: 1
+    enemyattack: 386
+    enemyhealth: 3214
+  - level: 86
+    attack: 322
+    health: 11278
+    firecooltime: 5.13
+    cannonnum: 1
+    enemyattack: 389
+    enemyhealth: 3239
+  - level: 87
+    attack: 324
+    health: 11385
+    firecooltime: 5.12
+    cannonnum: 1
+    enemyattack: 392
+    enemyhealth: 3265
+  - level: 88
+    attack: 326
+    health: 11492
+    firecooltime: 5.11
+    cannonnum: 1
+    enemyattack: 395
+    enemyhealth: 3290
+  - level: 89
+    attack: 329
+    health: 11600
+    firecooltime: 5.1
+    cannonnum: 1
+    enemyattack: 398
+    enemyhealth: 3316
+  - level: 90
+    attack: 331
+    health: 11708
+    firecooltime: 5.09
+    cannonnum: 1
+    enemyattack: 401
+    enemyhealth: 3341
+  - level: 91
+    attack: 334
+    health: 11816
+    firecooltime: 5.08
+    cannonnum: 1
+    enemyattack: 404
+    enemyhealth: 3366
+  - level: 92
+    attack: 336
+    health: 11926
+    firecooltime: 5.07
+    cannonnum: 1
+    enemyattack: 407
+    enemyhealth: 3392
+  - level: 93
+    attack: 338
+    health: 12035
+    firecooltime: 5.06
+    cannonnum: 1
+    enemyattack: 409
+    enemyhealth: 3417
+  - level: 94
+    attack: 341
+    health: 12145
+    firecooltime: 5.05
+    cannonnum: 1
+    enemyattack: 412
+    enemyhealth: 3443
+  - level: 95
+    attack: 343
+    health: 12255
+    firecooltime: 5.04
+    cannonnum: 1
+    enemyattack: 415
+    enemyhealth: 3468
+  - level: 96
+    attack: 346
+    health: 12366
+    firecooltime: 5.03
+    cannonnum: 1
+    enemyattack: 418
+    enemyhealth: 3494
+  - level: 97
+    attack: 348
+    health: 12477
+    firecooltime: 5.02
+    cannonnum: 1
+    enemyattack: 421
+    enemyhealth: 3520
+  - level: 98
+    attack: 350
+    health: 12589
+    firecooltime: 5.01
+    cannonnum: 1
+    enemyattack: 424
+    enemyhealth: 3545
+  - level: 99
+    attack: 353
+    health: 12701
+    firecooltime: 5
+    cannonnum: 1
+    enemyattack: 427
+    enemyhealth: 3571
+  - level: 100
+    attack: 339
+    health: 12713
+    firecooltime: 4.8
+    cannonnum: 1
+    enemyattack: 410
+    enemyhealth: 3432
+  - level: 101
+    attack: 342
+    health: 12847
+    firecooltime: 4.79
+    cannonnum: 1
+    enemyattack: 414
+    enemyhealth: 3464
+  - level: 102
+    attack: 345
+    health: 12981
+    firecooltime: 4.78
+    cannonnum: 1
+    enemyattack: 417
+    enemyhealth: 3496
+  - level: 103
+    attack: 348
+    health: 13116
+    firecooltime: 4.78
+    cannonnum: 1
+    enemyattack: 421
+    enemyhealth: 3527
+  - level: 104
+    attack: 351
+    health: 13252
+    firecooltime: 4.77
+    cannonnum: 1
+    enemyattack: 425
+    enemyhealth: 3559
+  - level: 105
+    attack: 354
+    health: 13388
+    firecooltime: 4.76
+    cannonnum: 1
+    enemyattack: 428
+    enemyhealth: 3591
+  - level: 106
+    attack: 357
+    health: 13524
+    firecooltime: 4.75
+    cannonnum: 1
+    enemyattack: 432
+    enemyhealth: 3623
+  - level: 107
+    attack: 360
+    health: 13661
+    firecooltime: 4.74
+    cannonnum: 1
+    enemyattack: 436
+    enemyhealth: 3654
+  - level: 108
+    attack: 363
+    health: 13798
+    firecooltime: 4.74
+    cannonnum: 1
+    enemyattack: 439
+    enemyhealth: 3686
+  - level: 109
+    attack: 366
+    health: 13936
+    firecooltime: 4.73
+    cannonnum: 1
+    enemyattack: 443
+    enemyhealth: 3718
+  - level: 110
+    attack: 369
+    health: 14074
+    firecooltime: 4.72
+    cannonnum: 1
+    enemyattack: 446
+    enemyhealth: 3750
+  - level: 111
+    attack: 372
+    health: 14213
+    firecooltime: 4.71
+    cannonnum: 1
+    enemyattack: 450
+    enemyhealth: 3782
+  - level: 112
+    attack: 375
+    health: 14353
+    firecooltime: 4.7
+    cannonnum: 1
+    enemyattack: 454
+    enemyhealth: 3814
+  - level: 113
+    attack: 378
+    health: 14492
+    firecooltime: 4.69
+    cannonnum: 1
+    enemyattack: 457
+    enemyhealth: 3846
+  - level: 114
+    attack: 381
+    health: 14632
+    firecooltime: 4.69
+    cannonnum: 1
+    enemyattack: 461
+    enemyhealth: 3878
+  - level: 115
+    attack: 384
+    health: 14773
+    firecooltime: 4.68
+    cannonnum: 1
+    enemyattack: 465
+    enemyhealth: 3910
+  - level: 116
+    attack: 387
+    health: 14914
+    firecooltime: 4.67
+    cannonnum: 1
+    enemyattack: 468
+    enemyhealth: 3942
+  - level: 117
+    attack: 390
+    health: 15056
+    firecooltime: 4.66
+    cannonnum: 1
+    enemyattack: 472
+    enemyhealth: 3974
+  - level: 118
+    attack: 393
+    health: 15198
+    firecooltime: 4.65
+    cannonnum: 1
+    enemyattack: 476
+    enemyhealth: 4006
+  - level: 119
+    attack: 396
+    health: 15341
+    firecooltime: 4.65
+    cannonnum: 1
+    enemyattack: 479
+    enemyhealth: 4038
+  - level: 120
+    attack: 399
+    health: 15484
+    firecooltime: 4.64
+    cannonnum: 1
+    enemyattack: 483
+    enemyhealth: 4070
+  - level: 121
+    attack: 402
+    health: 15628
+    firecooltime: 4.63
+    cannonnum: 1
+    enemyattack: 486
+    enemyhealth: 4102
+  - level: 122
+    attack: 405
+    health: 15772
+    firecooltime: 4.62
+    cannonnum: 1
+    enemyattack: 490
+    enemyhealth: 4134
+  - level: 123
+    attack: 408
+    health: 15916
+    firecooltime: 4.61
+    cannonnum: 1
+    enemyattack: 494
+    enemyhealth: 4166
+  - level: 124
+    attack: 411
+    health: 16061
+    firecooltime: 4.61
+    cannonnum: 1
+    enemyattack: 497
+    enemyhealth: 4198
+  - level: 125
+    attack: 414
+    health: 16207
+    firecooltime: 4.6
+    cannonnum: 1
+    enemyattack: 501
+    enemyhealth: 4231
+  - level: 126
+    attack: 417
+    health: 16354
+    firecooltime: 4.59
+    cannonnum: 1
+    enemyattack: 505
+    enemyhealth: 4263
+  - level: 127
+    attack: 420
+    health: 16500
+    firecooltime: 4.58
+    cannonnum: 1
+    enemyattack: 508
+    enemyhealth: 4295
+  - level: 128
+    attack: 423
+    health: 16647
+    firecooltime: 4.57
+    cannonnum: 1
+    enemyattack: 512
+    enemyhealth: 4327
+  - level: 129
+    attack: 426
+    health: 16795
+    firecooltime: 4.57
+    cannonnum: 1
+    enemyattack: 515
+    enemyhealth: 4360
+  - level: 130
+    attack: 429
+    health: 16943
+    firecooltime: 4.56
+    cannonnum: 1
+    enemyattack: 519
+    enemyhealth: 4392
+  - level: 131
+    attack: 432
+    health: 17092
+    firecooltime: 4.55
+    cannonnum: 1
+    enemyattack: 523
+    enemyhealth: 4424
+  - level: 132
+    attack: 435
+    health: 17242
+    firecooltime: 4.54
+    cannonnum: 1
+    enemyattack: 526
+    enemyhealth: 4457
+  - level: 133
+    attack: 438
+    health: 17391
+    firecooltime: 4.53
+    cannonnum: 1
+    enemyattack: 530
+    enemyhealth: 4489
+  - level: 134
+    attack: 441
+    health: 17542
+    firecooltime: 4.53
+    cannonnum: 1
+    enemyattack: 534
+    enemyhealth: 4521
+  - level: 135
+    attack: 444
+    health: 17692
+    firecooltime: 4.52
+    cannonnum: 1
+    enemyattack: 537
+    enemyhealth: 4554
+  - level: 136
+    attack: 447
+    health: 17844
+    firecooltime: 4.51
+    cannonnum: 1
+    enemyattack: 541
+    enemyhealth: 4586
+  - level: 137
+    attack: 450
+    health: 17996
+    firecooltime: 4.5
+    cannonnum: 1
+    enemyattack: 545
+    enemyhealth: 4619
+  - level: 138
+    attack: 453
+    health: 18149
+    firecooltime: 4.49
+    cannonnum: 1
+    enemyattack: 548
+    enemyhealth: 4651
+  - level: 139
+    attack: 456
+    health: 18302
+    firecooltime: 4.48
+    cannonnum: 1
+    enemyattack: 552
+    enemyhealth: 4684
+  - level: 140
+    attack: 459
+    health: 18455
+    firecooltime: 4.48
+    cannonnum: 1
+    enemyattack: 555
+    enemyhealth: 4716
+  - level: 141
+    attack: 462
+    health: 18610
+    firecooltime: 4.47
+    cannonnum: 1
+    enemyattack: 559
+    enemyhealth: 4749
+  - level: 142
+    attack: 465
+    health: 18764
+    firecooltime: 4.46
+    cannonnum: 1
+    enemyattack: 563
+    enemyhealth: 4781
+  - level: 143
+    attack: 468
+    health: 18920
+    firecooltime: 4.45
+    cannonnum: 1
+    enemyattack: 566
+    enemyhealth: 4814
+  - level: 144
+    attack: 471
+    health: 19076
+    firecooltime: 4.44
+    cannonnum: 1
+    enemyattack: 570
+    enemyhealth: 4847
+  - level: 145
+    attack: 474
+    health: 19232
+    firecooltime: 4.44
+    cannonnum: 1
+    enemyattack: 574
+    enemyhealth: 4879
+  - level: 146
+    attack: 477
+    health: 19389
+    firecooltime: 4.43
+    cannonnum: 1
+    enemyattack: 577
+    enemyhealth: 4912
+  - level: 147
+    attack: 480
+    health: 19547
+    firecooltime: 4.42
+    cannonnum: 1
+    enemyattack: 581
+    enemyhealth: 4945
+  - level: 148
+    attack: 483
+    health: 19705
+    firecooltime: 4.41
+    cannonnum: 1
+    enemyattack: 584
+    enemyhealth: 4977
+  - level: 149
+    attack: 486
+    health: 19864
+    firecooltime: 4.4
+    cannonnum: 1
+    enemyattack: 588
+    enemyhealth: 5010
+  - level: 150
+    attack: 489
+    health: 20023
+    firecooltime: 4.4
+    cannonnum: 1
+    enemyattack: 592
+    enemyhealth: 5043
+  - level: 151
+    attack: 492
+    health: 20183
+    firecooltime: 4.39
+    cannonnum: 1
+    enemyattack: 595
+    enemyhealth: 5076
+  - level: 152
+    attack: 495
+    health: 20344
+    firecooltime: 4.38
+    cannonnum: 1
+    enemyattack: 599
+    enemyhealth: 5108
+  - level: 153
+    attack: 498
+    health: 20504
+    firecooltime: 4.37
+    cannonnum: 1
+    enemyattack: 603
+    enemyhealth: 5141
+  - level: 154
+    attack: 501
+    health: 20666
+    firecooltime: 4.36
+    cannonnum: 1
+    enemyattack: 606
+    enemyhealth: 5174
+  - level: 155
+    attack: 504
+    health: 20828
+    firecooltime: 4.36
+    cannonnum: 1
+    enemyattack: 610
+    enemyhealth: 5207
+  - level: 156
+    attack: 507
+    health: 20992
+    firecooltime: 4.35
+    cannonnum: 1
+    enemyattack: 613
+    enemyhealth: 5240
+  - level: 157
+    attack: 510
+    health: 21155
+    firecooltime: 4.34
+    cannonnum: 1
+    enemyattack: 617
+    enemyhealth: 5273
+  - level: 158
+    attack: 513
+    health: 21319
+    firecooltime: 4.33
+    cannonnum: 1
+    enemyattack: 621
+    enemyhealth: 5306
+  - level: 159
+    attack: 516
+    health: 21484
+    firecooltime: 4.32
+    cannonnum: 1
+    enemyattack: 624
+    enemyhealth: 5339
+  - level: 160
+    attack: 519
+    health: 21649
+    firecooltime: 4.32
+    cannonnum: 1
+    enemyattack: 628
+    enemyhealth: 5372
+  - level: 161
+    attack: 522
+    health: 21815
+    firecooltime: 4.31
+    cannonnum: 1
+    enemyattack: 632
+    enemyhealth: 5405
+  - level: 162
+    attack: 525
+    health: 21982
+    firecooltime: 4.3
+    cannonnum: 1
+    enemyattack: 635
+    enemyhealth: 5438
+  - level: 163
+    attack: 528
+    health: 22149
+    firecooltime: 4.29
+    cannonnum: 1
+    enemyattack: 639
+    enemyhealth: 5471
+  - level: 164
+    attack: 531
+    health: 22317
+    firecooltime: 4.28
+    cannonnum: 1
+    enemyattack: 643
+    enemyhealth: 5504
+  - level: 165
+    attack: 534
+    health: 22486
+    firecooltime: 4.27
+    cannonnum: 1
+    enemyattack: 646
+    enemyhealth: 5537
+  - level: 166
+    attack: 537
+    health: 22655
+    firecooltime: 4.27
+    cannonnum: 1
+    enemyattack: 650
+    enemyhealth: 5570
+  - level: 167
+    attack: 540
+    health: 22825
+    firecooltime: 4.26
+    cannonnum: 1
+    enemyattack: 653
+    enemyhealth: 5603
+  - level: 168
+    attack: 543
+    health: 22995
+    firecooltime: 4.25
+    cannonnum: 1
+    enemyattack: 657
+    enemyhealth: 5636
+  - level: 169
+    attack: 546
+    health: 23166
+    firecooltime: 4.24
+    cannonnum: 1
+    enemyattack: 661
+    enemyhealth: 5670
+  - level: 170
+    attack: 549
+    health: 23338
+    firecooltime: 4.23
+    cannonnum: 1
+    enemyattack: 664
+    enemyhealth: 5703
+  - level: 171
+    attack: 552
+    health: 23510
+    firecooltime: 4.23
+    cannonnum: 1
+    enemyattack: 668
+    enemyhealth: 5736
+  - level: 172
+    attack: 555
+    health: 23683
+    firecooltime: 4.22
+    cannonnum: 1
+    enemyattack: 672
+    enemyhealth: 5769
+  - level: 173
+    attack: 558
+    health: 23857
+    firecooltime: 4.21
+    cannonnum: 1
+    enemyattack: 675
+    enemyhealth: 5803
+  - level: 174
+    attack: 561
+    health: 24031
+    firecooltime: 4.2
+    cannonnum: 1
+    enemyattack: 679
+    enemyhealth: 5836
+  - level: 175
+    attack: 564
+    health: 24206
+    firecooltime: 4.19
+    cannonnum: 1
+    enemyattack: 682
+    enemyhealth: 5869
+  - level: 176
+    attack: 567
+    health: 24382
+    firecooltime: 4.19
+    cannonnum: 1
+    enemyattack: 686
+    enemyhealth: 5902
+  - level: 177
+    attack: 570
+    health: 24559
+    firecooltime: 4.18
+    cannonnum: 1
+    enemyattack: 690
+    enemyhealth: 5936
+  - level: 178
+    attack: 573
+    health: 24736
+    firecooltime: 4.17
+    cannonnum: 1
+    enemyattack: 693
+    enemyhealth: 5969
+  - level: 179
+    attack: 576
+    health: 24913
+    firecooltime: 4.16
+    cannonnum: 1
+    enemyattack: 697
+    enemyhealth: 6003
+  - level: 180
+    attack: 579
+    health: 25092
+    firecooltime: 4.15
+    cannonnum: 1
+    enemyattack: 701
+    enemyhealth: 6036
+  - level: 181
+    attack: 582
+    health: 25271
+    firecooltime: 4.15
+    cannonnum: 1
+    enemyattack: 704
+    enemyhealth: 6070
+  - level: 182
+    attack: 585
+    health: 25451
+    firecooltime: 4.14
+    cannonnum: 1
+    enemyattack: 708
+    enemyhealth: 6103
+  - level: 183
+    attack: 588
+    health: 25631
+    firecooltime: 4.13
+    cannonnum: 1
+    enemyattack: 711
+    enemyhealth: 6137
+  - level: 184
+    attack: 591
+    health: 25813
+    firecooltime: 4.12
+    cannonnum: 1
+    enemyattack: 715
+    enemyhealth: 6170
+  - level: 185
+    attack: 594
+    health: 25995
+    firecooltime: 4.11
+    cannonnum: 1
+    enemyattack: 719
+    enemyhealth: 6204
+  - level: 186
+    attack: 597
+    health: 26177
+    firecooltime: 4.11
+    cannonnum: 1
+    enemyattack: 722
+    enemyhealth: 6237
+  - level: 187
+    attack: 600
+    health: 26361
+    firecooltime: 4.1
+    cannonnum: 1
+    enemyattack: 726
+    enemyhealth: 6271
+  - level: 188
+    attack: 603
+    health: 26545
+    firecooltime: 4.09
+    cannonnum: 1
+    enemyattack: 730
+    enemyhealth: 6304
+  - level: 189
+    attack: 606
+    health: 26730
+    firecooltime: 4.08
+    cannonnum: 1
+    enemyattack: 733
+    enemyhealth: 6338
+  - level: 190
+    attack: 609
+    health: 26915
+    firecooltime: 4.07
+    cannonnum: 1
+    enemyattack: 737
+    enemyhealth: 6372
+  - level: 191
+    attack: 612
+    health: 27102
+    firecooltime: 4.06
+    cannonnum: 1
+    enemyattack: 741
+    enemyhealth: 6405
+  - level: 192
+    attack: 615
+    health: 27289
+    firecooltime: 4.06
+    cannonnum: 1
+    enemyattack: 744
+    enemyhealth: 6439
+  - level: 193
+    attack: 618
+    health: 27477
+    firecooltime: 4.05
+    cannonnum: 1
+    enemyattack: 748
+    enemyhealth: 6473
+  - level: 194
+    attack: 621
+    health: 27665
+    firecooltime: 4.04
+    cannonnum: 1
+    enemyattack: 751
+    enemyhealth: 6507
+  - level: 195
+    attack: 624
+    health: 27855
+    firecooltime: 4.03
+    cannonnum: 1
+    enemyattack: 755
+    enemyhealth: 6540
+  - level: 196
+    attack: 627
+    health: 28045
+    firecooltime: 4.02
+    cannonnum: 1
+    enemyattack: 759
+    enemyhealth: 6574
+  - level: 197
+    attack: 630
+    health: 28236
+    firecooltime: 4.02
+    cannonnum: 1
+    enemyattack: 762
+    enemyhealth: 6608
+  - level: 198
+    attack: 633
+    health: 28427
+    firecooltime: 4.01
+    cannonnum: 1
+    enemyattack: 766
+    enemyhealth: 6642
+  - level: 199
+    attack: 636
+    health: 28620
+    firecooltime: 4
+    cannonnum: 1
+    enemyattack: 770
+    enemyhealth: 6676
+  - level: 200
+    attack: 636
+    health: 28620
+    firecooltime: 4
+    cannonnum: 1
+    enemyattack: 770
+    enemyhealth: 6678
+  - level: 201
+    attack: 640
+    health: 28833
+    firecooltime: 3.99
+    cannonnum: 1
+    enemyattack: 774
+    enemyhealth: 6718
+  - level: 202
+    attack: 643
+    health: 29047
+    firecooltime: 3.99
+    cannonnum: 1
+    enemyattack: 778
+    enemyhealth: 6758
+  - level: 203
+    attack: 647
+    health: 29261
+    firecooltime: 3.98
+    cannonnum: 1
+    enemyattack: 783
+    enemyhealth: 6799
+  - level: 204
+    attack: 650
+    health: 29476
+    firecooltime: 3.97
+    cannonnum: 1
+    enemyattack: 787
+    enemyhealth: 6839
+  - level: 205
+    attack: 654
+    health: 29692
+    firecooltime: 3.96
+    cannonnum: 1
+    enemyattack: 791
+    enemyhealth: 6879
+  - level: 206
+    attack: 658
+    health: 29909
+    firecooltime: 3.96
+    cannonnum: 1
+    enemyattack: 796
+    enemyhealth: 6920
+  - level: 207
+    attack: 661
+    health: 30127
+    firecooltime: 3.95
+    cannonnum: 1
+    enemyattack: 800
+    enemyhealth: 6960
+  - level: 208
+    attack: 665
+    health: 30345
+    firecooltime: 3.94
+    cannonnum: 1
+    enemyattack: 804
+    enemyhealth: 7000
+  - level: 209
+    attack: 668
+    health: 30564
+    firecooltime: 3.94
+    cannonnum: 1
+    enemyattack: 809
+    enemyhealth: 7041
+  - level: 210
+    attack: 672
+    health: 30784
+    firecooltime: 3.93
+    cannonnum: 1
+    enemyattack: 813
+    enemyhealth: 7081
+  - level: 211
+    attack: 676
+    health: 31005
+    firecooltime: 3.92
+    cannonnum: 1
+    enemyattack: 817
+    enemyhealth: 7122
+  - level: 212
+    attack: 679
+    health: 31226
+    firecooltime: 3.92
+    cannonnum: 1
+    enemyattack: 822
+    enemyhealth: 7162
+  - level: 213
+    attack: 683
+    health: 31448
+    firecooltime: 3.91
+    cannonnum: 1
+    enemyattack: 826
+    enemyhealth: 7203
+  - level: 214
+    attack: 686
+    health: 31672
+    firecooltime: 3.9
+    cannonnum: 1
+    enemyattack: 831
+    enemyhealth: 7243
+  - level: 215
+    attack: 690
+    health: 31896
+    firecooltime: 3.89
+    cannonnum: 1
+    enemyattack: 835
+    enemyhealth: 7284
+  - level: 216
+    attack: 694
+    health: 32120
+    firecooltime: 3.89
+    cannonnum: 1
+    enemyattack: 839
+    enemyhealth: 7324
+  - level: 217
+    attack: 697
+    health: 32346
+    firecooltime: 3.88
+    cannonnum: 1
+    enemyattack: 844
+    enemyhealth: 7365
+  - level: 218
+    attack: 701
+    health: 32572
+    firecooltime: 3.87
+    cannonnum: 1
+    enemyattack: 848
+    enemyhealth: 7406
+  - level: 219
+    attack: 704
+    health: 32800
+    firecooltime: 3.87
+    cannonnum: 1
+    enemyattack: 852
+    enemyhealth: 7446
+  - level: 220
+    attack: 708
+    health: 33028
+    firecooltime: 3.86
+    cannonnum: 1
+    enemyattack: 857
+    enemyhealth: 7487
+  - level: 221
+    attack: 712
+    health: 33257
+    firecooltime: 3.85
+    cannonnum: 1
+    enemyattack: 861
+    enemyhealth: 7528
+  - level: 222
+    attack: 715
+    health: 33486
+    firecooltime: 3.84
+    cannonnum: 1
+    enemyattack: 865
+    enemyhealth: 7569
+  - level: 223
+    attack: 719
+    health: 33717
+    firecooltime: 3.84
+    cannonnum: 1
+    enemyattack: 870
+    enemyhealth: 7609
+  - level: 224
+    attack: 722
+    health: 33948
+    firecooltime: 3.83
+    cannonnum: 1
+    enemyattack: 874
+    enemyhealth: 7650
+  - level: 225
+    attack: 726
+    health: 34181
+    firecooltime: 3.82
+    cannonnum: 1
+    enemyattack: 878
+    enemyhealth: 7691
+  - level: 226
+    attack: 730
+    health: 34414
+    firecooltime: 3.82
+    cannonnum: 1
+    enemyattack: 883
+    enemyhealth: 7732
+  - level: 227
+    attack: 733
+    health: 34648
+    firecooltime: 3.81
+    cannonnum: 1
+    enemyattack: 887
+    enemyhealth: 7773
+  - level: 228
+    attack: 737
+    health: 34883
+    firecooltime: 3.8
+    cannonnum: 1
+    enemyattack: 892
+    enemyhealth: 7814
+  - level: 229
+    attack: 740
+    health: 35118
+    firecooltime: 3.79
+    cannonnum: 1
+    enemyattack: 896
+    enemyhealth: 7855
+  - level: 230
+    attack: 744
+    health: 35355
+    firecooltime: 3.79
+    cannonnum: 1
+    enemyattack: 900
+    enemyhealth: 7896
+  - level: 231
+    attack: 748
+    health: 35593
+    firecooltime: 3.78
+    cannonnum: 1
+    enemyattack: 905
+    enemyhealth: 7937
+  - level: 232
+    attack: 751
+    health: 35831
+    firecooltime: 3.77
+    cannonnum: 1
+    enemyattack: 909
+    enemyhealth: 7978
+  - level: 233
+    attack: 755
+    health: 36070
+    firecooltime: 3.77
+    cannonnum: 1
+    enemyattack: 913
+    enemyhealth: 8019
+  - level: 234
+    attack: 758
+    health: 36310
+    firecooltime: 3.76
+    cannonnum: 1
+    enemyattack: 918
+    enemyhealth: 8060
+  - level: 235
+    attack: 762
+    health: 36551
+    firecooltime: 3.75
+    cannonnum: 1
+    enemyattack: 922
+    enemyhealth: 8101
+  - level: 236
+    attack: 766
+    health: 36793
+    firecooltime: 3.75
+    cannonnum: 1
+    enemyattack: 926
+    enemyhealth: 8142
+  - level: 237
+    attack: 769
+    health: 37036
+    firecooltime: 3.74
+    cannonnum: 1
+    enemyattack: 931
+    enemyhealth: 8183
+  - level: 238
+    attack: 773
+    health: 37280
+    firecooltime: 3.73
+    cannonnum: 1
+    enemyattack: 935
+    enemyhealth: 8225
+  - level: 239
+    attack: 776
+    health: 37525
+    firecooltime: 3.72
+    cannonnum: 1
+    enemyattack: 939
+    enemyhealth: 8266
+  - level: 240
+    attack: 780
+    health: 37771
+    firecooltime: 3.72
+    cannonnum: 1
+    enemyattack: 944
+    enemyhealth: 8307
+  - level: 241
+    attack: 784
+    health: 38017
+    firecooltime: 3.71
+    cannonnum: 1
+    enemyattack: 948
+    enemyhealth: 8348
+  - level: 242
+    attack: 787
+    health: 38265
+    firecooltime: 3.7
+    cannonnum: 1
+    enemyattack: 953
+    enemyhealth: 8390
+  - level: 243
+    attack: 791
+    health: 38513
+    firecooltime: 3.7
+    cannonnum: 1
+    enemyattack: 957
+    enemyhealth: 8431
+  - level: 244
+    attack: 794
+    health: 38763
+    firecooltime: 3.69
+    cannonnum: 1
+    enemyattack: 961
+    enemyhealth: 8472
+  - level: 245
+    attack: 798
+    health: 39013
+    firecooltime: 3.68
+    cannonnum: 1
+    enemyattack: 966
+    enemyhealth: 8514
+  - level: 246
+    attack: 802
+    health: 39265
+    firecooltime: 3.67
+    cannonnum: 1
+    enemyattack: 970
+    enemyhealth: 8555
+  - level: 247
+    attack: 805
+    health: 39517
+    firecooltime: 3.67
+    cannonnum: 1
+    enemyattack: 974
+    enemyhealth: 8597
+  - level: 248
+    attack: 809
+    health: 39770
+    firecooltime: 3.66
+    cannonnum: 1
+    enemyattack: 979
+    enemyhealth: 8638
+  - level: 249
+    attack: 812
+    health: 40025
+    firecooltime: 3.65
+    cannonnum: 1
+    enemyattack: 983
+    enemyhealth: 8679
+  - level: 250
+    attack: 816
+    health: 40280
+    firecooltime: 3.65
+    cannonnum: 1
+    enemyattack: 987
+    enemyhealth: 8721
+  - level: 251
+    attack: 820
+    health: 40537
+    firecooltime: 3.64
+    cannonnum: 1
+    enemyattack: 992
+    enemyhealth: 8763
+  - level: 252
+    attack: 823
+    health: 40794
+    firecooltime: 3.63
+    cannonnum: 1
+    enemyattack: 996
+    enemyhealth: 8804
+  - level: 253
+    attack: 827
+    health: 41052
+    firecooltime: 3.63
+    cannonnum: 1
+    enemyattack: 1000
+    enemyhealth: 8846
+  - level: 254
+    attack: 830
+    health: 41311
+    firecooltime: 3.62
+    cannonnum: 1
+    enemyattack: 1005
+    enemyhealth: 8887
+  - level: 255
+    attack: 834
+    health: 41572
+    firecooltime: 3.61
+    cannonnum: 1
+    enemyattack: 1009
+    enemyhealth: 8929
+  - level: 256
+    attack: 838
+    health: 41833
+    firecooltime: 3.6
+    cannonnum: 1
+    enemyattack: 1013
+    enemyhealth: 8971
+  - level: 257
+    attack: 841
+    health: 42095
+    firecooltime: 3.6
+    cannonnum: 1
+    enemyattack: 1018
+    enemyhealth: 9012
+  - level: 258
+    attack: 845
+    health: 42359
+    firecooltime: 3.59
+    cannonnum: 1
+    enemyattack: 1022
+    enemyhealth: 9054
+  - level: 259
+    attack: 848
+    health: 42623
+    firecooltime: 3.58
+    cannonnum: 1
+    enemyattack: 1027
+    enemyhealth: 9096
+  - level: 260
+    attack: 852
+    health: 42889
+    firecooltime: 3.58
+    cannonnum: 1
+    enemyattack: 1031
+    enemyhealth: 9138
+  - level: 261
+    attack: 856
+    health: 43156
+    firecooltime: 3.57
+    cannonnum: 1
+    enemyattack: 1035
+    enemyhealth: 9180
+  - level: 262
+    attack: 859
+    health: 43423
+    firecooltime: 3.56
+    cannonnum: 1
+    enemyattack: 1040
+    enemyhealth: 9221
+  - level: 263
+    attack: 863
+    health: 43691
+    firecooltime: 3.55
+    cannonnum: 1
+    enemyattack: 1044
+    enemyhealth: 9263
+  - level: 264
+    attack: 866
+    health: 43961
+    firecooltime: 3.55
+    cannonnum: 1
+    enemyattack: 1048
+    enemyhealth: 9305
+  - level: 265
+    attack: 870
+    health: 44232
+    firecooltime: 3.54
+    cannonnum: 1
+    enemyattack: 1053
+    enemyhealth: 9347
+  - level: 266
+    attack: 874
+    health: 44504
+    firecooltime: 3.53
+    cannonnum: 1
+    enemyattack: 1057
+    enemyhealth: 9389
+  - level: 267
+    attack: 877
+    health: 44777
+    firecooltime: 3.53
+    cannonnum: 1
+    enemyattack: 1061
+    enemyhealth: 9431
+  - level: 268
+    attack: 881
+    health: 45051
+    firecooltime: 3.52
+    cannonnum: 1
+    enemyattack: 1066
+    enemyhealth: 9473
+  - level: 269
+    attack: 884
+    health: 45326
+    firecooltime: 3.51
+    cannonnum: 1
+    enemyattack: 1070
+    enemyhealth: 9515
+  - level: 270
+    attack: 888
+    health: 45603
+    firecooltime: 3.51
+    cannonnum: 1
+    enemyattack: 1074
+    enemyhealth: 9557
+  - level: 271
+    attack: 892
+    health: 45880
+    firecooltime: 3.5
+    cannonnum: 1
+    enemyattack: 1079
+    enemyhealth: 9599
+  - level: 272
+    attack: 895
+    health: 46159
+    firecooltime: 3.49
+    cannonnum: 1
+    enemyattack: 1083
+    enemyhealth: 9641
+  - level: 273
+    attack: 899
+    health: 46438
+    firecooltime: 3.48
+    cannonnum: 1
+    enemyattack: 1088
+    enemyhealth: 9683
+  - level: 274
+    attack: 902
+    health: 46719
+    firecooltime: 3.48
+    cannonnum: 1
+    enemyattack: 1092
+    enemyhealth: 9726
+  - level: 275
+    attack: 906
+    health: 47001
+    firecooltime: 3.47
+    cannonnum: 1
+    enemyattack: 1096
+    enemyhealth: 9768
+  - level: 276
+    attack: 910
+    health: 47284
+    firecooltime: 3.46
+    cannonnum: 1
+    enemyattack: 1101
+    enemyhealth: 9810
+  - level: 277
+    attack: 913
+    health: 47569
+    firecooltime: 3.46
+    cannonnum: 1
+    enemyattack: 1105
+    enemyhealth: 9852
+  - level: 278
+    attack: 917
+    health: 47854
+    firecooltime: 3.45
+    cannonnum: 1
+    enemyattack: 1109
+    enemyhealth: 9895
+  - level: 279
+    attack: 920
+    health: 48140
+    firecooltime: 3.44
+    cannonnum: 1
+    enemyattack: 1114
+    enemyhealth: 9937
+  - level: 280
+    attack: 924
+    health: 48428
+    firecooltime: 3.43
+    cannonnum: 1
+    enemyattack: 1118
+    enemyhealth: 9979
+  - level: 281
+    attack: 928
+    health: 48718
+    firecooltime: 3.43
+    cannonnum: 1
+    enemyattack: 1122
+    enemyhealth: 10022
+  - level: 282
+    attack: 931
+    health: 49007
+    firecooltime: 3.42
+    cannonnum: 1
+    enemyattack: 1127
+    enemyhealth: 10064
+  - level: 283
+    attack: 935
+    health: 49299
+    firecooltime: 3.41
+    cannonnum: 1
+    enemyattack: 1131
+    enemyhealth: 10106
+  - level: 284
+    attack: 938
+    health: 49592
+    firecooltime: 3.41
+    cannonnum: 1
+    enemyattack: 1135
+    enemyhealth: 10149
+  - level: 285
+    attack: 942
+    health: 49885
+    firecooltime: 3.4
+    cannonnum: 1
+    enemyattack: 1140
+    enemyhealth: 10191
+  - level: 286
+    attack: 946
+    health: 50180
+    firecooltime: 3.39
+    cannonnum: 1
+    enemyattack: 1144
+    enemyhealth: 10234
+  - level: 287
+    attack: 949
+    health: 50477
+    firecooltime: 3.38
+    cannonnum: 1
+    enemyattack: 1149
+    enemyhealth: 10276
+  - level: 288
+    attack: 953
+    health: 50774
+    firecooltime: 3.38
+    cannonnum: 1
+    enemyattack: 1153
+    enemyhealth: 10319
+  - level: 289
+    attack: 956
+    health: 51073
+    firecooltime: 3.37
+    cannonnum: 1
+    enemyattack: 1157
+    enemyhealth: 10361
+  - level: 290
+    attack: 960
+    health: 51373
+    firecooltime: 3.36
+    cannonnum: 1
+    enemyattack: 1162
+    enemyhealth: 10404
+  - level: 291
+    attack: 964
+    health: 51674
+    firecooltime: 3.36
+    cannonnum: 1
+    enemyattack: 1166
+    enemyhealth: 10447
+  - level: 292
+    attack: 967
+    health: 51977
+    firecooltime: 3.35
+    cannonnum: 1
+    enemyattack: 1170
+    enemyhealth: 10489
+  - level: 293
+    attack: 971
+    health: 52280
+    firecooltime: 3.34
+    cannonnum: 1
+    enemyattack: 1175
+    enemyhealth: 10532
+  - level: 294
+    attack: 974
+    health: 52586
+    firecooltime: 3.34
+    cannonnum: 1
+    enemyattack: 1179
+    enemyhealth: 10575
+  - level: 295
+    attack: 978
+    health: 52892
+    firecooltime: 3.33
+    cannonnum: 1
+    enemyattack: 1183
+    enemyhealth: 10617
+  - level: 296
+    attack: 982
+    health: 53200
+    firecooltime: 3.32
+    cannonnum: 1
+    enemyattack: 1188
+    enemyhealth: 10660
+  - level: 297
+    attack: 985
+    health: 53509
+    firecooltime: 3.31
+    cannonnum: 1
+    enemyattack: 1192
+    enemyhealth: 10703
+  - level: 298
+    attack: 989
+    health: 53819
+    firecooltime: 3.31
+    cannonnum: 1
+    enemyattack: 1196
+    enemyhealth: 10746
+  - level: 299
+    attack: 992
+    health: 54131
+    firecooltime: 3.3
+    cannonnum: 1
+    enemyattack: 1201
+    enemyhealth: 10789
+  - level: 300
+    attack: 1202
+    health: 54108
+    firecooltime: 4
+    cannonnum: 1
+    enemyattack: 1455
+    enemyhealth: 13076
+  - level: 301
+    attack: 1206
+    health: 54366
+    firecooltime: 3.99
+    cannonnum: 1
+    enemyattack: 1459
+    enemyhealth: 13120
+  - level: 302
+    attack: 1210
+    health: 54625
+    firecooltime: 3.99
+    cannonnum: 1
+    enemyattack: 1464
+    enemyhealth: 13163
+  - level: 303
+    attack: 1213
+    health: 54885
+    firecooltime: 3.98
+    cannonnum: 1
+    enemyattack: 1468
+    enemyhealth: 13207
+  - level: 304
+    attack: 1217
+    health: 55146
+    firecooltime: 3.97
+    cannonnum: 1
+    enemyattack: 1472
+    enemyhealth: 13251
+  - level: 305
+    attack: 1220
+    health: 55408
+    firecooltime: 3.96
+    cannonnum: 1
+    enemyattack: 1477
+    enemyhealth: 13295
+  - level: 306
+    attack: 1224
+    health: 55670
+    firecooltime: 3.96
+    cannonnum: 1
+    enemyattack: 1481
+    enemyhealth: 13339
+  - level: 307
+    attack: 1228
+    health: 55934
+    firecooltime: 3.95
+    cannonnum: 1
+    enemyattack: 1485
+    enemyhealth: 13382
+  - level: 308
+    attack: 1231
+    health: 56199
+    firecooltime: 3.94
+    cannonnum: 1
+    enemyattack: 1490
+    enemyhealth: 13426
+  - level: 309
+    attack: 1235
+    health: 56464
+    firecooltime: 3.94
+    cannonnum: 1
+    enemyattack: 1494
+    enemyhealth: 13470
+  - level: 310
+    attack: 1238
+    health: 56731
+    firecooltime: 3.93
+    cannonnum: 1
+    enemyattack: 1498
+    enemyhealth: 13514
+  - level: 311
+    attack: 1242
+    health: 56998
+    firecooltime: 3.92
+    cannonnum: 1
+    enemyattack: 1503
+    enemyhealth: 13558
+  - level: 312
+    attack: 1246
+    health: 57267
+    firecooltime: 3.92
+    cannonnum: 1
+    enemyattack: 1507
+    enemyhealth: 13602
+  - level: 313
+    attack: 1249
+    health: 57536
+    firecooltime: 3.91
+    cannonnum: 1
+    enemyattack: 1512
+    enemyhealth: 13646
+  - level: 314
+    attack: 1253
+    health: 57806
+    firecooltime: 3.9
+    cannonnum: 1
+    enemyattack: 1516
+    enemyhealth: 13690
+  - level: 315
+    attack: 1256
+    health: 58078
+    firecooltime: 3.89
+    cannonnum: 1
+    enemyattack: 1520
+    enemyhealth: 13734
+  - level: 316
+    attack: 1260
+    health: 58351
+    firecooltime: 3.89
+    cannonnum: 1
+    enemyattack: 1525
+    enemyhealth: 13778
+  - level: 317
+    attack: 1264
+    health: 58624
+    firecooltime: 3.88
+    cannonnum: 1
+    enemyattack: 1529
+    enemyhealth: 13822
+  - level: 318
+    attack: 1267
+    health: 58898
+    firecooltime: 3.87
+    cannonnum: 1
+    enemyattack: 1533
+    enemyhealth: 13866
+  - level: 319
+    attack: 1271
+    health: 59173
+    firecooltime: 3.87
+    cannonnum: 1
+    enemyattack: 1538
+    enemyhealth: 13910
+  - level: 320
+    attack: 1274
+    health: 59450
+    firecooltime: 3.86
+    cannonnum: 1
+    enemyattack: 1542
+    enemyhealth: 13955
+  - level: 321
+    attack: 1278
+    health: 59727
+    firecooltime: 3.85
+    cannonnum: 1
+    enemyattack: 1546
+    enemyhealth: 13999
+  - level: 322
+    attack: 1282
+    health: 60005
+    firecooltime: 3.84
+    cannonnum: 1
+    enemyattack: 1551
+    enemyhealth: 14043
+  - level: 323
+    attack: 1285
+    health: 60285
+    firecooltime: 3.84
+    cannonnum: 1
+    enemyattack: 1555
+    enemyhealth: 14087
+  - level: 324
+    attack: 1289
+    health: 60565
+    firecooltime: 3.83
+    cannonnum: 1
+    enemyattack: 1559
+    enemyhealth: 14132
+  - level: 325
+    attack: 1292
+    health: 60847
+    firecooltime: 3.82
+    cannonnum: 1
+    enemyattack: 1564
+    enemyhealth: 14176
+  - level: 326
+    attack: 1296
+    health: 61129
+    firecooltime: 3.82
+    cannonnum: 1
+    enemyattack: 1568
+    enemyhealth: 14220
+  - level: 327
+    attack: 1300
+    health: 61413
+    firecooltime: 3.81
+    cannonnum: 1
+    enemyattack: 1573
+    enemyhealth: 14265
+  - level: 328
+    attack: 1303
+    health: 61698
+    firecooltime: 3.8
+    cannonnum: 1
+    enemyattack: 1577
+    enemyhealth: 14309
+  - level: 329
+    attack: 1307
+    health: 61984
+    firecooltime: 3.79
+    cannonnum: 1
+    enemyattack: 1581
+    enemyhealth: 14354
+  - level: 330
+    attack: 1310
+    health: 62270
+    firecooltime: 3.79
+    cannonnum: 1
+    enemyattack: 1586
+    enemyhealth: 14398
+  - level: 331
+    attack: 1314
+    health: 62558
+    firecooltime: 3.78
+    cannonnum: 1
+    enemyattack: 1590
+    enemyhealth: 14443
+  - level: 332
+    attack: 1318
+    health: 62847
+    firecooltime: 3.77
+    cannonnum: 1
+    enemyattack: 1594
+    enemyhealth: 14487
+  - level: 333
+    attack: 1321
+    health: 63137
+    firecooltime: 3.77
+    cannonnum: 1
+    enemyattack: 1599
+    enemyhealth: 14532
+  - level: 334
+    attack: 1325
+    health: 63428
+    firecooltime: 3.76
+    cannonnum: 1
+    enemyattack: 1603
+    enemyhealth: 14576
+  - level: 335
+    attack: 1328
+    health: 63720
+    firecooltime: 3.75
+    cannonnum: 1
+    enemyattack: 1607
+    enemyhealth: 14621
+  - level: 336
+    attack: 1332
+    health: 64013
+    firecooltime: 3.75
+    cannonnum: 1
+    enemyattack: 1612
+    enemyhealth: 14665
+  - level: 337
+    attack: 1336
+    health: 64308
+    firecooltime: 3.74
+    cannonnum: 1
+    enemyattack: 1616
+    enemyhealth: 14710
+  - level: 338
+    attack: 1339
+    health: 64604
+    firecooltime: 3.73
+    cannonnum: 1
+    enemyattack: 1620
+    enemyhealth: 14755
+  - level: 339
+    attack: 1343
+    health: 64900
+    firecooltime: 3.72
+    cannonnum: 1
+    enemyattack: 1625
+    enemyhealth: 14799
+  - level: 340
+    attack: 1346
+    health: 65198
+    firecooltime: 3.72
+    cannonnum: 1
+    enemyattack: 1629
+    enemyhealth: 14844
+  - level: 341
+    attack: 1350
+    health: 65497
+    firecooltime: 3.71
+    cannonnum: 1
+    enemyattack: 1634
+    enemyhealth: 14889
+  - level: 342
+    attack: 1354
+    health: 65797
+    firecooltime: 3.7
+    cannonnum: 1
+    enemyattack: 1638
+    enemyhealth: 14934
+  - level: 343
+    attack: 1357
+    health: 66098
+    firecooltime: 3.7
+    cannonnum: 1
+    enemyattack: 1642
+    enemyhealth: 14978
+  - level: 344
+    attack: 1361
+    health: 66400
+    firecooltime: 3.69
+    cannonnum: 1
+    enemyattack: 1647
+    enemyhealth: 15023
+  - level: 345
+    attack: 1364
+    health: 66704
+    firecooltime: 3.68
+    cannonnum: 1
+    enemyattack: 1651
+    enemyhealth: 15068
+  - level: 346
+    attack: 1368
+    health: 67009
+    firecooltime: 3.67
+    cannonnum: 1
+    enemyattack: 1655
+    enemyhealth: 15113
+  - level: 347
+    attack: 1372
+    health: 67315
+    firecooltime: 3.67
+    cannonnum: 1
+    enemyattack: 1660
+    enemyhealth: 15158
+  - level: 348
+    attack: 1375
+    health: 67622
+    firecooltime: 3.66
+    cannonnum: 1
+    enemyattack: 1664
+    enemyhealth: 15203
+  - level: 349
+    attack: 1379
+    health: 67930
+    firecooltime: 3.65
+    cannonnum: 1
+    enemyattack: 1668
+    enemyhealth: 15248
+  - level: 350
+    attack: 1382
+    health: 68239
+    firecooltime: 3.65
+    cannonnum: 1
+    enemyattack: 1673
+    enemyhealth: 15293
+  - level: 351
+    attack: 1386
+    health: 68550
+    firecooltime: 3.64
+    cannonnum: 1
+    enemyattack: 1677
+    enemyhealth: 15338
+  - level: 352
+    attack: 1390
+    health: 68862
+    firecooltime: 3.63
+    cannonnum: 1
+    enemyattack: 1681
+    enemyhealth: 15383
+  - level: 353
+    attack: 1393
+    health: 69175
+    firecooltime: 3.63
+    cannonnum: 1
+    enemyattack: 1686
+    enemyhealth: 15428
+  - level: 354
+    attack: 1397
+    health: 69489
+    firecooltime: 3.62
+    cannonnum: 1
+    enemyattack: 1690
+    enemyhealth: 15473
+  - level: 355
+    attack: 1400
+    health: 69805
+    firecooltime: 3.61
+    cannonnum: 1
+    enemyattack: 1694
+    enemyhealth: 15518
+  - level: 356
+    attack: 1404
+    health: 70121
+    firecooltime: 3.6
+    cannonnum: 1
+    enemyattack: 1699
+    enemyhealth: 15563
+  - level: 357
+    attack: 1408
+    health: 70439
+    firecooltime: 3.6
+    cannonnum: 1
+    enemyattack: 1703
+    enemyhealth: 15609
+  - level: 358
+    attack: 1411
+    health: 70759
+    firecooltime: 3.59
+    cannonnum: 1
+    enemyattack: 1708
+    enemyhealth: 15654
+  - level: 359
+    attack: 1415
+    health: 71079
+    firecooltime: 3.58
+    cannonnum: 1
+    enemyattack: 1712
+    enemyhealth: 15699
+  - level: 360
+    attack: 1418
+    health: 71401
+    firecooltime: 3.58
+    cannonnum: 1
+    enemyattack: 1716
+    enemyhealth: 15744
+  - level: 361
+    attack: 1422
+    health: 71724
+    firecooltime: 3.57
+    cannonnum: 1
+    enemyattack: 1721
+    enemyhealth: 15790
+  - level: 362
+    attack: 1426
+    health: 72048
+    firecooltime: 3.56
+    cannonnum: 1
+    enemyattack: 1725
+    enemyhealth: 15835
+  - level: 363
+    attack: 1429
+    health: 72374
+    firecooltime: 3.55
+    cannonnum: 1
+    enemyattack: 1729
+    enemyhealth: 15880
+  - level: 364
+    attack: 1433
+    health: 72701
+    firecooltime: 3.55
+    cannonnum: 1
+    enemyattack: 1734
+    enemyhealth: 15926
+  - level: 365
+    attack: 1436
+    health: 73029
+    firecooltime: 3.54
+    cannonnum: 1
+    enemyattack: 1738
+    enemyhealth: 15971
+  - level: 366
+    attack: 1440
+    health: 73358
+    firecooltime: 3.53
+    cannonnum: 1
+    enemyattack: 1742
+    enemyhealth: 16016
+  - level: 367
+    attack: 1444
+    health: 73690
+    firecooltime: 3.53
+    cannonnum: 1
+    enemyattack: 1747
+    enemyhealth: 16062
+  - level: 368
+    attack: 1447
+    health: 74021
+    firecooltime: 3.52
+    cannonnum: 1
+    enemyattack: 1751
+    enemyhealth: 16107
+  - level: 369
+    attack: 1451
+    health: 74355
+    firecooltime: 3.51
+    cannonnum: 1
+    enemyattack: 1755
+    enemyhealth: 16153
+  - level: 370
+    attack: 1454
+    health: 74690
+    firecooltime: 3.51
+    cannonnum: 1
+    enemyattack: 1760
+    enemyhealth: 16198
+  - level: 371
+    attack: 1458
+    health: 75026
+    firecooltime: 3.5
+    cannonnum: 1
+    enemyattack: 1764
+    enemyhealth: 16244
+  - level: 372
+    attack: 1462
+    health: 75364
+    firecooltime: 3.49
+    cannonnum: 1
+    enemyattack: 1769
+    enemyhealth: 16290
+  - level: 373
+    attack: 1465
+    health: 75703
+    firecooltime: 3.48
+    cannonnum: 1
+    enemyattack: 1773
+    enemyhealth: 16335
+  - level: 374
+    attack: 1469
+    health: 76043
+    firecooltime: 3.48
+    cannonnum: 1
+    enemyattack: 1777
+    enemyhealth: 16381
+  - level: 375
+    attack: 1472
+    health: 76385
+    firecooltime: 3.47
+    cannonnum: 1
+    enemyattack: 1782
+    enemyhealth: 16426
+  - level: 376
+    attack: 1476
+    health: 76728
+    firecooltime: 3.46
+    cannonnum: 1
+    enemyattack: 1786
+    enemyhealth: 16472
+  - level: 377
+    attack: 1480
+    health: 77072
+    firecooltime: 3.46
+    cannonnum: 1
+    enemyattack: 1790
+    enemyhealth: 16518
+  - level: 378
+    attack: 1483
+    health: 77419
+    firecooltime: 3.45
+    cannonnum: 1
+    enemyattack: 1795
+    enemyhealth: 16564
+  - level: 379
+    attack: 1487
+    health: 77766
+    firecooltime: 3.44
+    cannonnum: 1
+    enemyattack: 1799
+    enemyhealth: 16609
+  - level: 380
+    attack: 1490
+    health: 78115
+    firecooltime: 3.43
+    cannonnum: 1
+    enemyattack: 1803
+    enemyhealth: 16655
+  - level: 381
+    attack: 1494
+    health: 78465
+    firecooltime: 3.43
+    cannonnum: 1
+    enemyattack: 1808
+    enemyhealth: 16701
+  - level: 382
+    attack: 1498
+    health: 78817
+    firecooltime: 3.42
+    cannonnum: 1
+    enemyattack: 1812
+    enemyhealth: 16747
+  - level: 383
+    attack: 1501
+    health: 79169
+    firecooltime: 3.41
+    cannonnum: 1
+    enemyattack: 1816
+    enemyhealth: 16793
+  - level: 384
+    attack: 1505
+    health: 79524
+    firecooltime: 3.41
+    cannonnum: 1
+    enemyattack: 1821
+    enemyhealth: 16839
+  - level: 385
+    attack: 1508
+    health: 79880
+    firecooltime: 3.4
+    cannonnum: 1
+    enemyattack: 1825
+    enemyhealth: 16885
+  - level: 386
+    attack: 1512
+    health: 80238
+    firecooltime: 3.39
+    cannonnum: 1
+    enemyattack: 1830
+    enemyhealth: 16931
+  - level: 387
+    attack: 1516
+    health: 80597
+    firecooltime: 3.38
+    cannonnum: 1
+    enemyattack: 1834
+    enemyhealth: 16977
+  - level: 388
+    attack: 1519
+    health: 80957
+    firecooltime: 3.38
+    cannonnum: 1
+    enemyattack: 1838
+    enemyhealth: 17023
+  - level: 389
+    attack: 1523
+    health: 81319
+    firecooltime: 3.37
+    cannonnum: 1
+    enemyattack: 1843
+    enemyhealth: 17069
+  - level: 390
+    attack: 1526
+    health: 81683
+    firecooltime: 3.36
+    cannonnum: 1
+    enemyattack: 1847
+    enemyhealth: 17115
+  - level: 391
+    attack: 1530
+    health: 82048
+    firecooltime: 3.36
+    cannonnum: 1
+    enemyattack: 1851
+    enemyhealth: 17161
+  - level: 392
+    attack: 1534
+    health: 82415
+    firecooltime: 3.35
+    cannonnum: 1
+    enemyattack: 1856
+    enemyhealth: 17207
+  - level: 393
+    attack: 1537
+    health: 82783
+    firecooltime: 3.34
+    cannonnum: 1
+    enemyattack: 1860
+    enemyhealth: 17253
+  - level: 394
+    attack: 1541
+    health: 83153
+    firecooltime: 3.34
+    cannonnum: 1
+    enemyattack: 1864
+    enemyhealth: 17299
+  - level: 395
+    attack: 1544
+    health: 83524
+    firecooltime: 3.33
+    cannonnum: 1
+    enemyattack: 1869
+    enemyhealth: 17346
+  - level: 396
+    attack: 1548
+    health: 83897
+    firecooltime: 3.32
+    cannonnum: 1
+    enemyattack: 1873
+    enemyhealth: 17392
+  - level: 397
+    attack: 1552
+    health: 84272
+    firecooltime: 3.31
+    cannonnum: 1
+    enemyattack: 1877
+    enemyhealth: 17438
+  - level: 398
+    attack: 1555
+    health: 84648
+    firecooltime: 3.31
+    cannonnum: 1
+    enemyattack: 1882
+    enemyhealth: 17484
+  - level: 399
+    attack: 1559
+    health: 85025
+    firecooltime: 3.3
+    cannonnum: 1
+    enemyattack: 1886
+    enemyhealth: 17531
+  - level: 400
+    attack: 1653
+    health: 85032
+    firecooltime: 3.5
+    cannonnum: 1
+    enemyattack: 2001
+    enemyhealth: 18601
+  - level: 401
+    attack: 1658
+    health: 85421
+    firecooltime: 3.49
+    cannonnum: 1
+    enemyattack: 2006
+    enemyhealth: 18654
+  - level: 402
+    attack: 1662
+    health: 85811
+    firecooltime: 3.49
+    cannonnum: 1
+    enemyattack: 2011
+    enemyhealth: 18708
+  - level: 403
+    attack: 1666
+    health: 86203
+    firecooltime: 3.48
+    cannonnum: 1
+    enemyattack: 2016
+    enemyhealth: 18761
+  - level: 404
+    attack: 1670
+    health: 86596
+    firecooltime: 3.47
+    cannonnum: 1
+    enemyattack: 2021
+    enemyhealth: 18815
+  - level: 405
+    attack: 1674
+    health: 86990
+    firecooltime: 3.46
+    cannonnum: 1
+    enemyattack: 2026
+    enemyhealth: 18868
+  - level: 406
+    attack: 1679
+    health: 87387
+    firecooltime: 3.46
+    cannonnum: 1
+    enemyattack: 2031
+    enemyhealth: 18922
+  - level: 407
+    attack: 1683
+    health: 87785
+    firecooltime: 3.45
+    cannonnum: 1
+    enemyattack: 2036
+    enemyhealth: 18976
+  - level: 408
+    attack: 1687
+    health: 88185
+    firecooltime: 3.44
+    cannonnum: 1
+    enemyattack: 2041
+    enemyhealth: 19029
+  - level: 409
+    attack: 1691
+    health: 88586
+    firecooltime: 3.44
+    cannonnum: 1
+    enemyattack: 2046
+    enemyhealth: 19083
+  - level: 410
+    attack: 1695
+    health: 88990
+    firecooltime: 3.43
+    cannonnum: 1
+    enemyattack: 2051
+    enemyhealth: 19137
+  - level: 411
+    attack: 1700
+    health: 89395
+    firecooltime: 3.42
+    cannonnum: 1
+    enemyattack: 2057
+    enemyhealth: 19191
+  - level: 412
+    attack: 1704
+    health: 89801
+    firecooltime: 3.42
+    cannonnum: 1
+    enemyattack: 2062
+    enemyhealth: 19244
+  - level: 413
+    attack: 1708
+    health: 90209
+    firecooltime: 3.41
+    cannonnum: 1
+    enemyattack: 2067
+    enemyhealth: 19298
+  - level: 414
+    attack: 1712
+    health: 90619
+    firecooltime: 3.4
+    cannonnum: 1
+    enemyattack: 2072
+    enemyhealth: 19352
+  - level: 415
+    attack: 1716
+    health: 91031
+    firecooltime: 3.39
+    cannonnum: 1
+    enemyattack: 2077
+    enemyhealth: 19406
+  - level: 416
+    attack: 1721
+    health: 91444
+    firecooltime: 3.39
+    cannonnum: 1
+    enemyattack: 2082
+    enemyhealth: 19460
+  - level: 417
+    attack: 1725
+    health: 91859
+    firecooltime: 3.38
+    cannonnum: 1
+    enemyattack: 2087
+    enemyhealth: 19514
+  - level: 418
+    attack: 1729
+    health: 92275
+    firecooltime: 3.37
+    cannonnum: 1
+    enemyattack: 2092
+    enemyhealth: 19568
+  - level: 419
+    attack: 1733
+    health: 92694
+    firecooltime: 3.37
+    cannonnum: 1
+    enemyattack: 2097
+    enemyhealth: 19622
+  - level: 420
+    attack: 1737
+    health: 93114
+    firecooltime: 3.36
+    cannonnum: 1
+    enemyattack: 2102
+    enemyhealth: 19676
+  - level: 421
+    attack: 1742
+    health: 93536
+    firecooltime: 3.35
+    cannonnum: 1
+    enemyattack: 2107
+    enemyhealth: 19730
+  - level: 422
+    attack: 1746
+    health: 93960
+    firecooltime: 3.34
+    cannonnum: 1
+    enemyattack: 2112
+    enemyhealth: 19784
+  - level: 423
+    attack: 1750
+    health: 94385
+    firecooltime: 3.34
+    cannonnum: 1
+    enemyattack: 2118
+    enemyhealth: 19838
+  - level: 424
+    attack: 1754
+    health: 94813
+    firecooltime: 3.33
+    cannonnum: 1
+    enemyattack: 2123
+    enemyhealth: 19893
+  - level: 425
+    attack: 1758
+    health: 95242
+    firecooltime: 3.32
+    cannonnum: 1
+    enemyattack: 2128
+    enemyhealth: 19947
+  - level: 426
+    attack: 1763
+    health: 95673
+    firecooltime: 3.32
+    cannonnum: 1
+    enemyattack: 2133
+    enemyhealth: 20001
+  - level: 427
+    attack: 1767
+    health: 96106
+    firecooltime: 3.31
+    cannonnum: 1
+    enemyattack: 2138
+    enemyhealth: 20055
+  - level: 428
+    attack: 1771
+    health: 96541
+    firecooltime: 3.3
+    cannonnum: 1
+    enemyattack: 2143
+    enemyhealth: 20110
+  - level: 429
+    attack: 1775
+    health: 96977
+    firecooltime: 3.29
+    cannonnum: 1
+    enemyattack: 2148
+    enemyhealth: 20164
+  - level: 430
+    attack: 1779
+    health: 97416
+    firecooltime: 3.29
+    cannonnum: 1
+    enemyattack: 2153
+    enemyhealth: 20218
+  - level: 431
+    attack: 1784
+    health: 97856
+    firecooltime: 3.28
+    cannonnum: 1
+    enemyattack: 2158
+    enemyhealth: 20273
+  - level: 432
+    attack: 1788
+    health: 98299
+    firecooltime: 3.27
+    cannonnum: 1
+    enemyattack: 2163
+    enemyhealth: 20327
+  - level: 433
+    attack: 1792
+    health: 98743
+    firecooltime: 3.27
+    cannonnum: 1
+    enemyattack: 2168
+    enemyhealth: 20382
+  - level: 434
+    attack: 1796
+    health: 99189
+    firecooltime: 3.26
+    cannonnum: 1
+    enemyattack: 2173
+    enemyhealth: 20436
+  - level: 435
+    attack: 1800
+    health: 99637
+    firecooltime: 3.25
+    cannonnum: 1
+    enemyattack: 2178
+    enemyhealth: 20491
+  - level: 436
+    attack: 1805
+    health: 100087
+    firecooltime: 3.25
+    cannonnum: 1
+    enemyattack: 2184
+    enemyhealth: 20545
+  - level: 437
+    attack: 1809
+    health: 100539
+    firecooltime: 3.24
+    cannonnum: 1
+    enemyattack: 2189
+    enemyhealth: 20600
+  - level: 438
+    attack: 1813
+    health: 100993
+    firecooltime: 3.23
+    cannonnum: 1
+    enemyattack: 2194
+    enemyhealth: 20655
+  - level: 439
+    attack: 1817
+    health: 101449
+    firecooltime: 3.22
+    cannonnum: 1
+    enemyattack: 2199
+    enemyhealth: 20709
+  - level: 440
+    attack: 1821
+    health: 101907
+    firecooltime: 3.22
+    cannonnum: 1
+    enemyattack: 2204
+    enemyhealth: 20764
+  - level: 441
+    attack: 1826
+    health: 102367
+    firecooltime: 3.21
+    cannonnum: 1
+    enemyattack: 2209
+    enemyhealth: 20819
+  - level: 442
+    attack: 1830
+    health: 102829
+    firecooltime: 3.2
+    cannonnum: 1
+    enemyattack: 2214
+    enemyhealth: 20873
+  - level: 443
+    attack: 1834
+    health: 103293
+    firecooltime: 3.2
+    cannonnum: 1
+    enemyattack: 2219
+    enemyhealth: 20928
+  - level: 444
+    attack: 1838
+    health: 103759
+    firecooltime: 3.19
+    cannonnum: 1
+    enemyattack: 2224
+    enemyhealth: 20983
+  - level: 445
+    attack: 1842
+    health: 104227
+    firecooltime: 3.18
+    cannonnum: 1
+    enemyattack: 2229
+    enemyhealth: 21038
+  - level: 446
+    attack: 1847
+    health: 104698
+    firecooltime: 3.17
+    cannonnum: 1
+    enemyattack: 2234
+    enemyhealth: 21093
+  - level: 447
+    attack: 1851
+    health: 105170
+    firecooltime: 3.17
+    cannonnum: 1
+    enemyattack: 2239
+    enemyhealth: 21148
+  - level: 448
+    attack: 1855
+    health: 105644
+    firecooltime: 3.16
+    cannonnum: 1
+    enemyattack: 2245
+    enemyhealth: 21203
+  - level: 449
+    attack: 1859
+    health: 106121
+    firecooltime: 3.15
+    cannonnum: 1
+    enemyattack: 2250
+    enemyhealth: 21258
+  - level: 450
+    attack: 1863
+    health: 106600
+    firecooltime: 3.15
+    cannonnum: 1
+    enemyattack: 2255
+    enemyhealth: 21313
+  - level: 451
+    attack: 1868
+    health: 107081
+    firecooltime: 3.14
+    cannonnum: 1
+    enemyattack: 2260
+    enemyhealth: 21368
+  - level: 452
+    attack: 1872
+    health: 107564
+    firecooltime: 3.13
+    cannonnum: 1
+    enemyattack: 2265
+    enemyhealth: 21423
+  - level: 453
+    attack: 1876
+    health: 108049
+    firecooltime: 3.13
+    cannonnum: 1
+    enemyattack: 2270
+    enemyhealth: 21478
+  - level: 454
+    attack: 1880
+    health: 108536
+    firecooltime: 3.12
+    cannonnum: 1
+    enemyattack: 2275
+    enemyhealth: 21533
+  - level: 455
+    attack: 1884
+    health: 109026
+    firecooltime: 3.11
+    cannonnum: 1
+    enemyattack: 2280
+    enemyhealth: 21588
+  - level: 456
+    attack: 1889
+    health: 109518
+    firecooltime: 3.1
+    cannonnum: 1
+    enemyattack: 2285
+    enemyhealth: 21643
+  - level: 457
+    attack: 1893
+    health: 110012
+    firecooltime: 3.1
+    cannonnum: 1
+    enemyattack: 2290
+    enemyhealth: 21699
+  - level: 458
+    attack: 1897
+    health: 110509
+    firecooltime: 3.09
+    cannonnum: 1
+    enemyattack: 2295
+    enemyhealth: 21754
+  - level: 459
+    attack: 1901
+    health: 111007
+    firecooltime: 3.08
+    cannonnum: 1
+    enemyattack: 2300
+    enemyhealth: 21809
+  - level: 460
+    attack: 1905
+    health: 111508
+    firecooltime: 3.08
+    cannonnum: 1
+    enemyattack: 2306
+    enemyhealth: 21864
+  - level: 461
+    attack: 1910
+    health: 112012
+    firecooltime: 3.07
+    cannonnum: 1
+    enemyattack: 2311
+    enemyhealth: 21920
+  - level: 462
+    attack: 1914
+    health: 112517
+    firecooltime: 3.06
+    cannonnum: 1
+    enemyattack: 2316
+    enemyhealth: 21975
+  - level: 463
+    attack: 1918
+    health: 113025
+    firecooltime: 3.05
+    cannonnum: 1
+    enemyattack: 2321
+    enemyhealth: 22031
+  - level: 464
+    attack: 1922
+    health: 113536
+    firecooltime: 3.05
+    cannonnum: 1
+    enemyattack: 2326
+    enemyhealth: 22086
+  - level: 465
+    attack: 1926
+    health: 114048
+    firecooltime: 3.04
+    cannonnum: 1
+    enemyattack: 2331
+    enemyhealth: 22142
+  - level: 466
+    attack: 1931
+    health: 114563
+    firecooltime: 3.03
+    cannonnum: 1
+    enemyattack: 2336
+    enemyhealth: 22197
+  - level: 467
+    attack: 1935
+    health: 115081
+    firecooltime: 3.03
+    cannonnum: 1
+    enemyattack: 2341
+    enemyhealth: 22253
+  - level: 468
+    attack: 1939
+    health: 115600
+    firecooltime: 3.02
+    cannonnum: 1
+    enemyattack: 2346
+    enemyhealth: 22308
+  - level: 469
+    attack: 1943
+    health: 116123
+    firecooltime: 3.01
+    cannonnum: 1
+    enemyattack: 2351
+    enemyhealth: 22364
+  - level: 470
+    attack: 1947
+    health: 116648
+    firecooltime: 3.01
+    cannonnum: 1
+    enemyattack: 2356
+    enemyhealth: 22419
+  - level: 471
+    attack: 1952
+    health: 117175
+    firecooltime: 3
+    cannonnum: 1
+    enemyattack: 2361
+    enemyhealth: 22475
+  - level: 472
+    attack: 1956
+    health: 117704
+    firecooltime: 2.99
+    cannonnum: 1
+    enemyattack: 2367
+    enemyhealth: 22531
+  - level: 473
+    attack: 1960
+    health: 118237
+    firecooltime: 2.98
+    cannonnum: 1
+    enemyattack: 2372
+    enemyhealth: 22587
+  - level: 474
+    attack: 1964
+    health: 118772
+    firecooltime: 2.98
+    cannonnum: 1
+    enemyattack: 2377
+    enemyhealth: 22642
+  - level: 475
+    attack: 1968
+    health: 119309
+    firecooltime: 2.97
+    cannonnum: 1
+    enemyattack: 2382
+    enemyhealth: 22698
+  - level: 476
+    attack: 1973
+    health: 119849
+    firecooltime: 2.96
+    cannonnum: 1
+    enemyattack: 2387
+    enemyhealth: 22754
+  - level: 477
+    attack: 1977
+    health: 120392
+    firecooltime: 2.96
+    cannonnum: 1
+    enemyattack: 2392
+    enemyhealth: 22810
+  - level: 478
+    attack: 1981
+    health: 120937
+    firecooltime: 2.95
+    cannonnum: 1
+    enemyattack: 2397
+    enemyhealth: 22866
+  - level: 479
+    attack: 1985
+    health: 121484
+    firecooltime: 2.94
+    cannonnum: 1
+    enemyattack: 2402
+    enemyhealth: 22922
+  - level: 480
+    attack: 1989
+    health: 122035
+    firecooltime: 2.93
+    cannonnum: 1
+    enemyattack: 2407
+    enemyhealth: 22978
+  - level: 481
+    attack: 1994
+    health: 122588
+    firecooltime: 2.93
+    cannonnum: 1
+    enemyattack: 2412
+    enemyhealth: 23034
+  - level: 482
+    attack: 1998
+    health: 123143
+    firecooltime: 2.92
+    cannonnum: 1
+    enemyattack: 2417
+    enemyhealth: 23090
+  - level: 483
+    attack: 2002
+    health: 123702
+    firecooltime: 2.91
+    cannonnum: 1
+    enemyattack: 2422
+    enemyhealth: 23146
+  - level: 484
+    attack: 2006
+    health: 124263
+    firecooltime: 2.91
+    cannonnum: 1
+    enemyattack: 2428
+    enemyhealth: 23202
+  - level: 485
+    attack: 2010
+    health: 124827
+    firecooltime: 2.9
+    cannonnum: 1
+    enemyattack: 2433
+    enemyhealth: 23258
+  - level: 486
+    attack: 2015
+    health: 125393
+    firecooltime: 2.89
+    cannonnum: 1
+    enemyattack: 2438
+    enemyhealth: 23314
+  - level: 487
+    attack: 2019
+    health: 125963
+    firecooltime: 2.88
+    cannonnum: 1
+    enemyattack: 2443
+    enemyhealth: 23370
+  - level: 488
+    attack: 2023
+    health: 126535
+    firecooltime: 2.88
+    cannonnum: 1
+    enemyattack: 2448
+    enemyhealth: 23426
+  - level: 489
+    attack: 2027
+    health: 127110
+    firecooltime: 2.87
+    cannonnum: 1
+    enemyattack: 2453
+    enemyhealth: 23483
+  - level: 490
+    attack: 2031
+    health: 127688
+    firecooltime: 2.86
+    cannonnum: 1
+    enemyattack: 2458
+    enemyhealth: 23539
+  - level: 491
+    attack: 2036
+    health: 128269
+    firecooltime: 2.86
+    cannonnum: 1
+    enemyattack: 2463
+    enemyhealth: 23595
+  - level: 492
+    attack: 2040
+    health: 128852
+    firecooltime: 2.85
+    cannonnum: 1
+    enemyattack: 2468
+    enemyhealth: 23651
+  - level: 493
+    attack: 2044
+    health: 129439
+    firecooltime: 2.84
+    cannonnum: 1
+    enemyattack: 2473
+    enemyhealth: 23708
+  - level: 494
+    attack: 2048
+    health: 130028
+    firecooltime: 2.84
+    cannonnum: 1
+    enemyattack: 2478
+    enemyhealth: 23764
+  - level: 495
+    attack: 2052
+    health: 130621
+    firecooltime: 2.83
+    cannonnum: 1
+    enemyattack: 2483
+    enemyhealth: 23821
+  - level: 496
+    attack: 2057
+    health: 131216
+    firecooltime: 2.82
+    cannonnum: 1
+    enemyattack: 2488
+    enemyhealth: 23877
+  - level: 497
+    attack: 2061
+    health: 131814
+    firecooltime: 2.81
+    cannonnum: 1
+    enemyattack: 2494
+    enemyhealth: 23934
+  - level: 498
+    attack: 2065
+    health: 132416
+    firecooltime: 2.81
+    cannonnum: 1
+    enemyattack: 2499
+    enemyhealth: 23990
+  - level: 499
+    attack: 2069
+    health: 133020
+    firecooltime: 2.8
+    cannonnum: 1
+    enemyattack: 2504
+    enemyhealth: 24047
+  - level: 500
+    attack: 2587
+    health: 133056
+    firecooltime: 3.5
+    cannonnum: 1
+    enemyattack: 3131
+    enemyhealth: 30076
+  - level: 501
+    attack: 2591
+    health: 133542
+    firecooltime: 3.49
+    cannonnum: 1
+    enemyattack: 3136
+    enemyhealth: 30135
+  - level: 502
+    attack: 2596
+    health: 134030
+    firecooltime: 3.49
+    cannonnum: 1
+    enemyattack: 3141
+    enemyhealth: 30193
+  - level: 503
+    attack: 2600
+    health: 134519
+    firecooltime: 3.48
+    cannonnum: 1
+    enemyattack: 3146
+    enemyhealth: 30252
+  - level: 504
+    attack: 2604
+    health: 135011
+    firecooltime: 3.47
+    cannonnum: 1
+    enemyattack: 3151
+    enemyhealth: 30311
+  - level: 505
+    attack: 2608
+    health: 135505
+    firecooltime: 3.46
+    cannonnum: 1
+    enemyattack: 3156
+    enemyhealth: 30369
+  - level: 506
+    attack: 2612
+    health: 136000
+    firecooltime: 3.46
+    cannonnum: 1
+    enemyattack: 3161
+    enemyhealth: 30428
+  - level: 507
+    attack: 2617
+    health: 136498
+    firecooltime: 3.45
+    cannonnum: 1
+    enemyattack: 3166
+    enemyhealth: 30487
+  - level: 508
+    attack: 2621
+    health: 136998
+    firecooltime: 3.44
+    cannonnum: 1
+    enemyattack: 3171
+    enemyhealth: 30545
+  - level: 509
+    attack: 2625
+    health: 137500
+    firecooltime: 3.44
+    cannonnum: 1
+    enemyattack: 3176
+    enemyhealth: 30604
+  - level: 510
+    attack: 2629
+    health: 138004
+    firecooltime: 3.43
+    cannonnum: 1
+    enemyattack: 3181
+    enemyhealth: 30663
+  - level: 511
+    attack: 2633
+    health: 138510
+    firecooltime: 3.42
+    cannonnum: 1
+    enemyattack: 3186
+    enemyhealth: 30722
+  - level: 512
+    attack: 2638
+    health: 139018
+    firecooltime: 3.42
+    cannonnum: 1
+    enemyattack: 3191
+    enemyhealth: 30781
+  - level: 513
+    attack: 2642
+    health: 139528
+    firecooltime: 3.41
+    cannonnum: 1
+    enemyattack: 3197
+    enemyhealth: 30840
+  - level: 514
+    attack: 2646
+    health: 140041
+    firecooltime: 3.4
+    cannonnum: 1
+    enemyattack: 3202
+    enemyhealth: 30899
+  - level: 515
+    attack: 2650
+    health: 140555
+    firecooltime: 3.39
+    cannonnum: 1
+    enemyattack: 3207
+    enemyhealth: 30958
+  - level: 516
+    attack: 2654
+    health: 141072
+    firecooltime: 3.39
+    cannonnum: 1
+    enemyattack: 3212
+    enemyhealth: 31017
+  - level: 517
+    attack: 2659
+    health: 141591
+    firecooltime: 3.38
+    cannonnum: 1
+    enemyattack: 3217
+    enemyhealth: 31076
+  - level: 518
+    attack: 2663
+    health: 142112
+    firecooltime: 3.37
+    cannonnum: 1
+    enemyattack: 3222
+    enemyhealth: 31135
+  - level: 519
+    attack: 2667
+    health: 142635
+    firecooltime: 3.37
+    cannonnum: 1
+    enemyattack: 3227
+    enemyhealth: 31194
+  - level: 520
+    attack: 2671
+    health: 143160
+    firecooltime: 3.36
+    cannonnum: 1
+    enemyattack: 3232
+    enemyhealth: 31253
+  - level: 521
+    attack: 2675
+    health: 143688
+    firecooltime: 3.35
+    cannonnum: 1
+    enemyattack: 3237
+    enemyhealth: 31312
+  - level: 522
+    attack: 2680
+    health: 144218
+    firecooltime: 3.34
+    cannonnum: 1
+    enemyattack: 3242
+    enemyhealth: 31371
+  - level: 523
+    attack: 2684
+    health: 144750
+    firecooltime: 3.34
+    cannonnum: 1
+    enemyattack: 3247
+    enemyhealth: 31431
+  - level: 524
+    attack: 2688
+    health: 145284
+    firecooltime: 3.33
+    cannonnum: 1
+    enemyattack: 3252
+    enemyhealth: 31490
+  - level: 525
+    attack: 2692
+    health: 145820
+    firecooltime: 3.32
+    cannonnum: 1
+    enemyattack: 3258
+    enemyhealth: 31549
+  - level: 526
+    attack: 2696
+    health: 146360
+    firecooltime: 3.32
+    cannonnum: 1
+    enemyattack: 3263
+    enemyhealth: 31609
+  - level: 527
+    attack: 2701
+    health: 146901
+    firecooltime: 3.31
+    cannonnum: 1
+    enemyattack: 3268
+    enemyhealth: 31668
+  - level: 528
+    attack: 2705
+    health: 147444
+    firecooltime: 3.3
+    cannonnum: 1
+    enemyattack: 3273
+    enemyhealth: 31727
+  - level: 529
+    attack: 2709
+    health: 147990
+    firecooltime: 3.29
+    cannonnum: 1
+    enemyattack: 3278
+    enemyhealth: 31787
+  - level: 530
+    attack: 2713
+    health: 148538
+    firecooltime: 3.29
+    cannonnum: 1
+    enemyattack: 3283
+    enemyhealth: 31846
+  - level: 531
+    attack: 2717
+    health: 149089
+    firecooltime: 3.28
+    cannonnum: 1
+    enemyattack: 3288
+    enemyhealth: 31906
+  - level: 532
+    attack: 2722
+    health: 149642
+    firecooltime: 3.27
+    cannonnum: 1
+    enemyattack: 3293
+    enemyhealth: 31965
+  - level: 533
+    attack: 2726
+    health: 150197
+    firecooltime: 3.27
+    cannonnum: 1
+    enemyattack: 3298
+    enemyhealth: 32025
+  - level: 534
+    attack: 2730
+    health: 150755
+    firecooltime: 3.26
+    cannonnum: 1
+    enemyattack: 3303
+    enemyhealth: 32084
+  - level: 535
+    attack: 2734
+    health: 151315
+    firecooltime: 3.25
+    cannonnum: 1
+    enemyattack: 3308
+    enemyhealth: 32144
+  - level: 536
+    attack: 2738
+    health: 151877
+    firecooltime: 3.25
+    cannonnum: 1
+    enemyattack: 3313
+    enemyhealth: 32204
+  - level: 537
+    attack: 2743
+    health: 152443
+    firecooltime: 3.24
+    cannonnum: 1
+    enemyattack: 3319
+    enemyhealth: 32263
+  - level: 538
+    attack: 2747
+    health: 153010
+    firecooltime: 3.23
+    cannonnum: 1
+    enemyattack: 3324
+    enemyhealth: 32323
+  - level: 539
+    attack: 2751
+    health: 153580
+    firecooltime: 3.22
+    cannonnum: 1
+    enemyattack: 3329
+    enemyhealth: 32383
+  - level: 540
+    attack: 2755
+    health: 154153
+    firecooltime: 3.22
+    cannonnum: 1
+    enemyattack: 3334
+    enemyhealth: 32442
+  - level: 541
+    attack: 2759
+    health: 154728
+    firecooltime: 3.21
+    cannonnum: 1
+    enemyattack: 3339
+    enemyhealth: 32502
+  - level: 542
+    attack: 2764
+    health: 155305
+    firecooltime: 3.2
+    cannonnum: 1
+    enemyattack: 3344
+    enemyhealth: 32562
+  - level: 543
+    attack: 2768
+    health: 155885
+    firecooltime: 3.2
+    cannonnum: 1
+    enemyattack: 3349
+    enemyhealth: 32622
+  - level: 544
+    attack: 2772
+    health: 156468
+    firecooltime: 3.19
+    cannonnum: 1
+    enemyattack: 3354
+    enemyhealth: 32682
+  - level: 545
+    attack: 2776
+    health: 157054
+    firecooltime: 3.18
+    cannonnum: 1
+    enemyattack: 3359
+    enemyhealth: 32742
+  - level: 546
+    attack: 2780
+    health: 157642
+    firecooltime: 3.17
+    cannonnum: 1
+    enemyattack: 3364
+    enemyhealth: 32802
+  - level: 547
+    attack: 2785
+    health: 158232
+    firecooltime: 3.17
+    cannonnum: 1
+    enemyattack: 3369
+    enemyhealth: 32862
+  - level: 548
+    attack: 2789
+    health: 158825
+    firecooltime: 3.16
+    cannonnum: 1
+    enemyattack: 3374
+    enemyhealth: 32922
+  - level: 549
+    attack: 2793
+    health: 159421
+    firecooltime: 3.15
+    cannonnum: 1
+    enemyattack: 3380
+    enemyhealth: 32982
+  - level: 550
+    attack: 2797
+    health: 160019
+    firecooltime: 3.15
+    cannonnum: 1
+    enemyattack: 3385
+    enemyhealth: 33042
+  - level: 551
+    attack: 2801
+    health: 160621
+    firecooltime: 3.14
+    cannonnum: 1
+    enemyattack: 3390
+    enemyhealth: 33102
+  - level: 552
+    attack: 2806
+    health: 161225
+    firecooltime: 3.13
+    cannonnum: 1
+    enemyattack: 3395
+    enemyhealth: 33162
+  - level: 553
+    attack: 2810
+    health: 161831
+    firecooltime: 3.13
+    cannonnum: 1
+    enemyattack: 3400
+    enemyhealth: 33222
+  - level: 554
+    attack: 2814
+    health: 162441
+    firecooltime: 3.12
+    cannonnum: 1
+    enemyattack: 3405
+    enemyhealth: 33283
+  - level: 555
+    attack: 2818
+    health: 163053
+    firecooltime: 3.11
+    cannonnum: 1
+    enemyattack: 3410
+    enemyhealth: 33343
+  - level: 556
+    attack: 2822
+    health: 163668
+    firecooltime: 3.1
+    cannonnum: 1
+    enemyattack: 3415
+    enemyhealth: 33403
+  - level: 557
+    attack: 2827
+    health: 164286
+    firecooltime: 3.1
+    cannonnum: 1
+    enemyattack: 3420
+    enemyhealth: 33463
+  - level: 558
+    attack: 2831
+    health: 164906
+    firecooltime: 3.09
+    cannonnum: 1
+    enemyattack: 3425
+    enemyhealth: 33524
+  - level: 559
+    attack: 2835
+    health: 165530
+    firecooltime: 3.08
+    cannonnum: 1
+    enemyattack: 3430
+    enemyhealth: 33584
+  - level: 560
+    attack: 2839
+    health: 166156
+    firecooltime: 3.08
+    cannonnum: 1
+    enemyattack: 3435
+    enemyhealth: 33645
+  - level: 561
+    attack: 2843
+    health: 166786
+    firecooltime: 3.07
+    cannonnum: 1
+    enemyattack: 3441
+    enemyhealth: 33705
+  - level: 562
+    attack: 2848
+    health: 167417
+    firecooltime: 3.06
+    cannonnum: 1
+    enemyattack: 3446
+    enemyhealth: 33765
+  - level: 563
+    attack: 2852
+    health: 168053
+    firecooltime: 3.05
+    cannonnum: 1
+    enemyattack: 3451
+    enemyhealth: 33826
+  - level: 564
+    attack: 2856
+    health: 168691
+    firecooltime: 3.05
+    cannonnum: 1
+    enemyattack: 3456
+    enemyhealth: 33886
+  - level: 565
+    attack: 2860
+    health: 169331
+    firecooltime: 3.04
+    cannonnum: 1
+    enemyattack: 3461
+    enemyhealth: 33947
+  - level: 566
+    attack: 2864
+    health: 169975
+    firecooltime: 3.03
+    cannonnum: 1
+    enemyattack: 3466
+    enemyhealth: 34008
+  - level: 567
+    attack: 2869
+    health: 170623
+    firecooltime: 3.03
+    cannonnum: 1
+    enemyattack: 3471
+    enemyhealth: 34068
+  - level: 568
+    attack: 2873
+    health: 171272
+    firecooltime: 3.02
+    cannonnum: 1
+    enemyattack: 3476
+    enemyhealth: 34129
+  - level: 569
+    attack: 2877
+    health: 171925
+    firecooltime: 3.01
+    cannonnum: 1
+    enemyattack: 3481
+    enemyhealth: 34190
+  - level: 570
+    attack: 2881
+    health: 172582
+    firecooltime: 3.01
+    cannonnum: 1
+    enemyattack: 3486
+    enemyhealth: 34250
+  - level: 571
+    attack: 2885
+    health: 173240
+    firecooltime: 3
+    cannonnum: 1
+    enemyattack: 3491
+    enemyhealth: 34311
+  - level: 572
+    attack: 2890
+    health: 173903
+    firecooltime: 2.99
+    cannonnum: 1
+    enemyattack: 3496
+    enemyhealth: 34372
+  - level: 573
+    attack: 2894
+    health: 174568
+    firecooltime: 2.98
+    cannonnum: 1
+    enemyattack: 3501
+    enemyhealth: 34433
+  - level: 574
+    attack: 2898
+    health: 175237
+    firecooltime: 2.98
+    cannonnum: 1
+    enemyattack: 3507
+    enemyhealth: 34493
+  - level: 575
+    attack: 2902
+    health: 175909
+    firecooltime: 2.97
+    cannonnum: 1
+    enemyattack: 3512
+    enemyhealth: 34554
+  - level: 576
+    attack: 2906
+    health: 176584
+    firecooltime: 2.96
+    cannonnum: 1
+    enemyattack: 3517
+    enemyhealth: 34615
+  - level: 577
+    attack: 2911
+    health: 177262
+    firecooltime: 2.96
+    cannonnum: 1
+    enemyattack: 3522
+    enemyhealth: 34676
+  - level: 578
+    attack: 2915
+    health: 177944
+    firecooltime: 2.95
+    cannonnum: 1
+    enemyattack: 3527
+    enemyhealth: 34737
+  - level: 579
+    attack: 2919
+    health: 178628
+    firecooltime: 2.94
+    cannonnum: 1
+    enemyattack: 3532
+    enemyhealth: 34798
+  - level: 580
+    attack: 2923
+    health: 179317
+    firecooltime: 2.93
+    cannonnum: 1
+    enemyattack: 3537
+    enemyhealth: 34859
+  - level: 581
+    attack: 2927
+    health: 180008
+    firecooltime: 2.93
+    cannonnum: 1
+    enemyattack: 3542
+    enemyhealth: 34920
+  - level: 582
+    attack: 2932
+    health: 180703
+    firecooltime: 2.92
+    cannonnum: 1
+    enemyattack: 3547
+    enemyhealth: 34981
+  - level: 583
+    attack: 2936
+    health: 181400
+    firecooltime: 2.91
+    cannonnum: 1
+    enemyattack: 3552
+    enemyhealth: 35042
+  - level: 584
+    attack: 2940
+    health: 182102
+    firecooltime: 2.91
+    cannonnum: 1
+    enemyattack: 3557
+    enemyhealth: 35104
+  - level: 585
+    attack: 2944
+    health: 182807
+    firecooltime: 2.9
+    cannonnum: 1
+    enemyattack: 3562
+    enemyhealth: 35165
+  - level: 586
+    attack: 2948
+    health: 183515
+    firecooltime: 2.89
+    cannonnum: 1
+    enemyattack: 3568
+    enemyhealth: 35226
+  - level: 587
+    attack: 2953
+    health: 184228
+    firecooltime: 2.88
+    cannonnum: 1
+    enemyattack: 3573
+    enemyhealth: 35287
+  - level: 588
+    attack: 2957
+    health: 184943
+    firecooltime: 2.88
+    cannonnum: 1
+    enemyattack: 3578
+    enemyhealth: 35349
+  - level: 589
+    attack: 2961
+    health: 185662
+    firecooltime: 2.87
+    cannonnum: 1
+    enemyattack: 3583
+    enemyhealth: 35410
+  - level: 590
+    attack: 2965
+    health: 186384
+    firecooltime: 2.86
+    cannonnum: 1
+    enemyattack: 3588
+    enemyhealth: 35471
+  - level: 591
+    attack: 2969
+    health: 187110
+    firecooltime: 2.86
+    cannonnum: 1
+    enemyattack: 3593
+    enemyhealth: 35533
+  - level: 592
+    attack: 2974
+    health: 187840
+    firecooltime: 2.85
+    cannonnum: 1
+    enemyattack: 3598
+    enemyhealth: 35594
+  - level: 593
+    attack: 2978
+    health: 188573
+    firecooltime: 2.84
+    cannonnum: 1
+    enemyattack: 3603
+    enemyhealth: 35655
+  - level: 594
+    attack: 2982
+    health: 189310
+    firecooltime: 2.84
+    cannonnum: 1
+    enemyattack: 3608
+    enemyhealth: 35717
+  - level: 595
+    attack: 2986
+    health: 190050
+    firecooltime: 2.83
+    cannonnum: 1
+    enemyattack: 3613
+    enemyhealth: 35778
+  - level: 596
+    attack: 2990
+    health: 190795
+    firecooltime: 2.82
+    cannonnum: 1
+    enemyattack: 3618
+    enemyhealth: 35840
+  - level: 597
+    attack: 2995
+    health: 191543
+    firecooltime: 2.81
+    cannonnum: 1
+    enemyattack: 3623
+    enemyhealth: 35902
+  - level: 598
+    attack: 2999
+    health: 192295
+    firecooltime: 2.81
+    cannonnum: 1
+    enemyattack: 3629
+    enemyhealth: 35963
+  - level: 599
+    attack: 3003
+    health: 193050
+    firecooltime: 2.8
+    cannonnum: 1
+    enemyattack: 3634
+    enemyhealth: 36025
+  - level: 600
+    attack: 3753
+    health: 193032
+    firecooltime: 3.5
+    cannonnum: 1
+    enemyattack: 4542
+    enemyhealth: 45041
+  - level: 601
+    attack: 3758
+    health: 193639
+    firecooltime: 3.49
+    cannonnum: 1
+    enemyattack: 4547
+    enemyhealth: 45105
+  - level: 602
+    attack: 3762
+    health: 194249
+    firecooltime: 3.49
+    cannonnum: 1
+    enemyattack: 4552
+    enemyhealth: 45170
+  - level: 603
+    attack: 3766
+    health: 194861
+    firecooltime: 3.48
+    cannonnum: 1
+    enemyattack: 4557
+    enemyhealth: 45234
+  - level: 604
+    attack: 3770
+    health: 195476
+    firecooltime: 3.47
+    cannonnum: 1
+    enemyattack: 4562
+    enemyhealth: 45299
+  - level: 605
+    attack: 3774
+    health: 196093
+    firecooltime: 3.46
+    cannonnum: 1
+    enemyattack: 4567
+    enemyhealth: 45364
+  - level: 606
+    attack: 3779
+    health: 196712
+    firecooltime: 3.46
+    cannonnum: 1
+    enemyattack: 4572
+    enemyhealth: 45428
+  - level: 607
+    attack: 3783
+    health: 197335
+    firecooltime: 3.45
+    cannonnum: 1
+    enemyattack: 4577
+    enemyhealth: 45493
+  - level: 608
+    attack: 3787
+    health: 197959
+    firecooltime: 3.44
+    cannonnum: 1
+    enemyattack: 4582
+    enemyhealth: 45558
+  - level: 609
+    attack: 3791
+    health: 198587
+    firecooltime: 3.44
+    cannonnum: 1
+    enemyattack: 4587
+    enemyhealth: 45622
+  - level: 610
+    attack: 3795
+    health: 199217
+    firecooltime: 3.43
+    cannonnum: 1
+    enemyattack: 4592
+    enemyhealth: 45687
+  - level: 611
+    attack: 3800
+    health: 199849
+    firecooltime: 3.42
+    cannonnum: 1
+    enemyattack: 4598
+    enemyhealth: 45752
+  - level: 612
+    attack: 3804
+    health: 200484
+    firecooltime: 3.42
+    cannonnum: 1
+    enemyattack: 4603
+    enemyhealth: 45817
+  - level: 613
+    attack: 3808
+    health: 201122
+    firecooltime: 3.41
+    cannonnum: 1
+    enemyattack: 4608
+    enemyhealth: 45882
+  - level: 614
+    attack: 3812
+    health: 201763
+    firecooltime: 3.4
+    cannonnum: 1
+    enemyattack: 4613
+    enemyhealth: 45947
+  - level: 615
+    attack: 3816
+    health: 202406
+    firecooltime: 3.39
+    cannonnum: 1
+    enemyattack: 4618
+    enemyhealth: 46011
+  - level: 616
+    attack: 3821
+    health: 203051
+    firecooltime: 3.39
+    cannonnum: 1
+    enemyattack: 4623
+    enemyhealth: 46076
+  - level: 617
+    attack: 3825
+    health: 203700
+    firecooltime: 3.38
+    cannonnum: 1
+    enemyattack: 4628
+    enemyhealth: 46141
+  - level: 618
+    attack: 3829
+    health: 204351
+    firecooltime: 3.37
+    cannonnum: 1
+    enemyattack: 4633
+    enemyhealth: 46206
+  - level: 619
+    attack: 3833
+    health: 205005
+    firecooltime: 3.37
+    cannonnum: 1
+    enemyattack: 4638
+    enemyhealth: 46272
+  - level: 620
+    attack: 3837
+    health: 205661
+    firecooltime: 3.36
+    cannonnum: 1
+    enemyattack: 4643
+    enemyhealth: 46337
+  - level: 621
+    attack: 3842
+    health: 206321
+    firecooltime: 3.35
+    cannonnum: 1
+    enemyattack: 4648
+    enemyhealth: 46402
+  - level: 622
+    attack: 3846
+    health: 206983
+    firecooltime: 3.34
+    cannonnum: 1
+    enemyattack: 4653
+    enemyhealth: 46467
+  - level: 623
+    attack: 3850
+    health: 207649
+    firecooltime: 3.34
+    cannonnum: 1
+    enemyattack: 4659
+    enemyhealth: 46532
+  - level: 624
+    attack: 3854
+    health: 208316
+    firecooltime: 3.33
+    cannonnum: 1
+    enemyattack: 4664
+    enemyhealth: 46597
+  - level: 625
+    attack: 3858
+    health: 208987
+    firecooltime: 3.32
+    cannonnum: 1
+    enemyattack: 4669
+    enemyhealth: 46663
+  - level: 626
+    attack: 3863
+    health: 209660
+    firecooltime: 3.32
+    cannonnum: 1
+    enemyattack: 4674
+    enemyhealth: 46728
+  - level: 627
+    attack: 3867
+    health: 210337
+    firecooltime: 3.31
+    cannonnum: 1
+    enemyattack: 4679
+    enemyhealth: 46793
+  - level: 628
+    attack: 3871
+    health: 211016
+    firecooltime: 3.3
+    cannonnum: 1
+    enemyattack: 4684
+    enemyhealth: 46858
+  - level: 629
+    attack: 3875
+    health: 211699
+    firecooltime: 3.29
+    cannonnum: 1
+    enemyattack: 4689
+    enemyhealth: 46924
+  - level: 630
+    attack: 3879
+    health: 212384
+    firecooltime: 3.29
+    cannonnum: 1
+    enemyattack: 4694
+    enemyhealth: 46989
+  - level: 631
+    attack: 3884
+    health: 213072
+    firecooltime: 3.28
+    cannonnum: 1
+    enemyattack: 4699
+    enemyhealth: 47055
+  - level: 632
+    attack: 3888
+    health: 213763
+    firecooltime: 3.27
+    cannonnum: 1
+    enemyattack: 4704
+    enemyhealth: 47120
+  - level: 633
+    attack: 3892
+    health: 214457
+    firecooltime: 3.27
+    cannonnum: 1
+    enemyattack: 4709
+    enemyhealth: 47186
+  - level: 634
+    attack: 3896
+    health: 215154
+    firecooltime: 3.26
+    cannonnum: 1
+    enemyattack: 4714
+    enemyhealth: 47251
+  - level: 635
+    attack: 3900
+    health: 215854
+    firecooltime: 3.25
+    cannonnum: 1
+    enemyattack: 4719
+    enemyhealth: 47317
+  - level: 636
+    attack: 3905
+    health: 216557
+    firecooltime: 3.25
+    cannonnum: 1
+    enemyattack: 4725
+    enemyhealth: 47382
+  - level: 637
+    attack: 3909
+    health: 217264
+    firecooltime: 3.24
+    cannonnum: 1
+    enemyattack: 4730
+    enemyhealth: 47448
+  - level: 638
+    attack: 3913
+    health: 217973
+    firecooltime: 3.23
+    cannonnum: 1
+    enemyattack: 4735
+    enemyhealth: 47514
+  - level: 639
+    attack: 3917
+    health: 218686
+    firecooltime: 3.22
+    cannonnum: 1
+    enemyattack: 4740
+    enemyhealth: 47579
+  - level: 640
+    attack: 3921
+    health: 219401
+    firecooltime: 3.22
+    cannonnum: 1
+    enemyattack: 4745
+    enemyhealth: 47645
+  - level: 641
+    attack: 3926
+    health: 220120
+    firecooltime: 3.21
+    cannonnum: 1
+    enemyattack: 4750
+    enemyhealth: 47711
+  - level: 642
+    attack: 3930
+    health: 220842
+    firecooltime: 3.2
+    cannonnum: 1
+    enemyattack: 4755
+    enemyhealth: 47777
+  - level: 643
+    attack: 3934
+    health: 221567
+    firecooltime: 3.2
+    cannonnum: 1
+    enemyattack: 4760
+    enemyhealth: 47842
+  - level: 644
+    attack: 3938
+    health: 222296
+    firecooltime: 3.19
+    cannonnum: 1
+    enemyattack: 4765
+    enemyhealth: 47908
+  - level: 645
+    attack: 3942
+    health: 223027
+    firecooltime: 3.18
+    cannonnum: 1
+    enemyattack: 4770
+    enemyhealth: 47974
+  - level: 646
+    attack: 3947
+    health: 223762
+    firecooltime: 3.17
+    cannonnum: 1
+    enemyattack: 4775
+    enemyhealth: 48040
+  - level: 647
+    attack: 3951
+    health: 224500
+    firecooltime: 3.17
+    cannonnum: 1
+    enemyattack: 4780
+    enemyhealth: 48106
+  - level: 648
+    attack: 3955
+    health: 225242
+    firecooltime: 3.16
+    cannonnum: 1
+    enemyattack: 4786
+    enemyhealth: 48172
+  - level: 649
+    attack: 3959
+    health: 225986
+    firecooltime: 3.15
+    cannonnum: 1
+    enemyattack: 4791
+    enemyhealth: 48238
+  - level: 650
+    attack: 3963
+    health: 226735
+    firecooltime: 3.15
+    cannonnum: 1
+    enemyattack: 4796
+    enemyhealth: 48304
+  - level: 651
+    attack: 3968
+    health: 227486
+    firecooltime: 3.14
+    cannonnum: 1
+    enemyattack: 4801
+    enemyhealth: 48370
+  - level: 652
+    attack: 3972
+    health: 228241
+    firecooltime: 3.13
+    cannonnum: 1
+    enemyattack: 4806
+    enemyhealth: 48436
+  - level: 653
+    attack: 3976
+    health: 228999
+    firecooltime: 3.13
+    cannonnum: 1
+    enemyattack: 4811
+    enemyhealth: 48502
+  - level: 654
+    attack: 3980
+    health: 229761
+    firecooltime: 3.12
+    cannonnum: 1
+    enemyattack: 4816
+    enemyhealth: 48568
+  - level: 655
+    attack: 3984
+    health: 230526
+    firecooltime: 3.11
+    cannonnum: 1
+    enemyattack: 4821
+    enemyhealth: 48635
+  - level: 656
+    attack: 3989
+    health: 231295
+    firecooltime: 3.1
+    cannonnum: 1
+    enemyattack: 4826
+    enemyhealth: 48701
+  - level: 657
+    attack: 3993
+    health: 232067
+    firecooltime: 3.1
+    cannonnum: 1
+    enemyattack: 4831
+    enemyhealth: 48767
+  - level: 658
+    attack: 3997
+    health: 232843
+    firecooltime: 3.09
+    cannonnum: 1
+    enemyattack: 4836
+    enemyhealth: 48833
+  - level: 659
+    attack: 4001
+    health: 233622
+    firecooltime: 3.08
+    cannonnum: 1
+    enemyattack: 4841
+    enemyhealth: 48900
+  - level: 660
+    attack: 4005
+    health: 234404
+    firecooltime: 3.08
+    cannonnum: 1
+    enemyattack: 4847
+    enemyhealth: 48966
+  - level: 661
+    attack: 4010
+    health: 235191
+    firecooltime: 3.07
+    cannonnum: 1
+    enemyattack: 4852
+    enemyhealth: 49032
+  - level: 662
+    attack: 4014
+    health: 235981
+    firecooltime: 3.06
+    cannonnum: 1
+    enemyattack: 4857
+    enemyhealth: 49099
+  - level: 663
+    attack: 4018
+    health: 236775
+    firecooltime: 3.05
+    cannonnum: 1
+    enemyattack: 4862
+    enemyhealth: 49165
+  - level: 664
+    attack: 4022
+    health: 237572
+    firecooltime: 3.05
+    cannonnum: 1
+    enemyattack: 4867
+    enemyhealth: 49232
+  - level: 665
+    attack: 4026
+    health: 238373
+    firecooltime: 3.04
+    cannonnum: 1
+    enemyattack: 4872
+    enemyhealth: 49298
+  - level: 666
+    attack: 4031
+    health: 239179
+    firecooltime: 3.03
+    cannonnum: 1
+    enemyattack: 4877
+    enemyhealth: 49365
+  - level: 667
+    attack: 4035
+    health: 239987
+    firecooltime: 3.03
+    cannonnum: 1
+    enemyattack: 4882
+    enemyhealth: 49431
+  - level: 668
+    attack: 4039
+    health: 240800
+    firecooltime: 3.02
+    cannonnum: 1
+    enemyattack: 4887
+    enemyhealth: 49498
+  - level: 669
+    attack: 4043
+    health: 241616
+    firecooltime: 3.01
+    cannonnum: 1
+    enemyattack: 4892
+    enemyhealth: 49565
+  - level: 670
+    attack: 4047
+    health: 242436
+    firecooltime: 3.01
+    cannonnum: 1
+    enemyattack: 4897
+    enemyhealth: 49631
+  - level: 671
+    attack: 4052
+    health: 243260
+    firecooltime: 3
+    cannonnum: 1
+    enemyattack: 4902
+    enemyhealth: 49698
+  - level: 672
+    attack: 4056
+    health: 244088
+    firecooltime: 2.99
+    cannonnum: 1
+    enemyattack: 4908
+    enemyhealth: 49765
+  - level: 673
+    attack: 4060
+    health: 244919
+    firecooltime: 2.98
+    cannonnum: 1
+    enemyattack: 4913
+    enemyhealth: 49831
+  - level: 674
+    attack: 4064
+    health: 245755
+    firecooltime: 2.98
+    cannonnum: 1
+    enemyattack: 4918
+    enemyhealth: 49898
+  - level: 675
+    attack: 4068
+    health: 246595
+    firecooltime: 2.97
+    cannonnum: 1
+    enemyattack: 4923
+    enemyhealth: 49965
+  - level: 676
+    attack: 4073
+    health: 247439
+    firecooltime: 2.96
+    cannonnum: 1
+    enemyattack: 4928
+    enemyhealth: 50032
+  - level: 677
+    attack: 4077
+    health: 248287
+    firecooltime: 2.96
+    cannonnum: 1
+    enemyattack: 4933
+    enemyhealth: 50099
+  - level: 678
+    attack: 4081
+    health: 249138
+    firecooltime: 2.95
+    cannonnum: 1
+    enemyattack: 4938
+    enemyhealth: 50166
+  - level: 679
+    attack: 4085
+    health: 249994
+    firecooltime: 2.94
+    cannonnum: 1
+    enemyattack: 4943
+    enemyhealth: 50233
+  - level: 680
+    attack: 4089
+    health: 250854
+    firecooltime: 2.93
+    cannonnum: 1
+    enemyattack: 4948
+    enemyhealth: 50300
+  - level: 681
+    attack: 4094
+    health: 251718
+    firecooltime: 2.93
+    cannonnum: 1
+    enemyattack: 4953
+    enemyhealth: 50367
+  - level: 682
+    attack: 4098
+    health: 252587
+    firecooltime: 2.92
+    cannonnum: 1
+    enemyattack: 4958
+    enemyhealth: 50434
+  - level: 683
+    attack: 4102
+    health: 253459
+    firecooltime: 2.91
+    cannonnum: 1
+    enemyattack: 4963
+    enemyhealth: 50501
+  - level: 684
+    attack: 4106
+    health: 254336
+    firecooltime: 2.91
+    cannonnum: 1
+    enemyattack: 4969
+    enemyhealth: 50568
+  - level: 685
+    attack: 4110
+    health: 255217
+    firecooltime: 2.9
+    cannonnum: 1
+    enemyattack: 4974
+    enemyhealth: 50635
+  - level: 686
+    attack: 4115
+    health: 256103
+    firecooltime: 2.89
+    cannonnum: 1
+    enemyattack: 4979
+    enemyhealth: 50702
+  - level: 687
+    attack: 4119
+    health: 256993
+    firecooltime: 2.88
+    cannonnum: 1
+    enemyattack: 4984
+    enemyhealth: 50769
+  - level: 688
+    attack: 4123
+    health: 257887
+    firecooltime: 2.88
+    cannonnum: 1
+    enemyattack: 4989
+    enemyhealth: 50837
+  - level: 689
+    attack: 4127
+    health: 258785
+    firecooltime: 2.87
+    cannonnum: 1
+    enemyattack: 4994
+    enemyhealth: 50904
+  - level: 690
+    attack: 4131
+    health: 259688
+    firecooltime: 2.86
+    cannonnum: 1
+    enemyattack: 4999
+    enemyhealth: 50971
+  - level: 691
+    attack: 4136
+    health: 260596
+    firecooltime: 2.86
+    cannonnum: 1
+    enemyattack: 5004
+    enemyhealth: 51038
+  - level: 692
+    attack: 4140
+    health: 261508
+    firecooltime: 2.85
+    cannonnum: 1
+    enemyattack: 5009
+    enemyhealth: 51106
+  - level: 693
+    attack: 4144
+    health: 262424
+    firecooltime: 2.84
+    cannonnum: 1
+    enemyattack: 5014
+    enemyhealth: 51173
+  - level: 694
+    attack: 4148
+    health: 263345
+    firecooltime: 2.84
+    cannonnum: 1
+    enemyattack: 5019
+    enemyhealth: 51241
+  - level: 695
+    attack: 4152
+    health: 264271
+    firecooltime: 2.83
+    cannonnum: 1
+    enemyattack: 5024
+    enemyhealth: 51308
+  - level: 696
+    attack: 4157
+    health: 265201
+    firecooltime: 2.82
+    cannonnum: 1
+    enemyattack: 5029
+    enemyhealth: 51376
+  - level: 697
+    attack: 4161
+    health: 266136
+    firecooltime: 2.81
+    cannonnum: 1
+    enemyattack: 5035
+    enemyhealth: 51443
+  - level: 698
+    attack: 4165
+    health: 267076
+    firecooltime: 2.81
+    cannonnum: 1
+    enemyattack: 5040
+    enemyhealth: 51511
+  - level: 699
+    attack: 4169
+    health: 268020
+    firecooltime: 2.8
+    cannonnum: 1
+    enemyattack: 5045
+    enemyhealth: 51578
+  - level: 700
+    attack: 4467
+    health: 268032
+    firecooltime: 3
+    cannonnum: 1
+    enemyattack: 5405
+    enemyhealth: 55282
+  - level: 701
+    attack: 4472
+    health: 268772
+    firecooltime: 2.99
+    cannonnum: 1
+    enemyattack: 5411
+    enemyhealth: 55358
+  - level: 702
+    attack: 4477
+    health: 269515
+    firecooltime: 2.99
+    cannonnum: 1
+    enemyattack: 5417
+    enemyhealth: 55434
+  - level: 703
+    attack: 4482
+    health: 270261
+    firecooltime: 2.98
+    cannonnum: 1
+    enemyattack: 5423
+    enemyhealth: 55510
+  - level: 704
+    attack: 4486
+    health: 271009
+    firecooltime: 2.98
+    cannonnum: 1
+    enemyattack: 5429
+    enemyhealth: 55586
+  - level: 705
+    attack: 4491
+    health: 271760
+    firecooltime: 2.97
+    cannonnum: 1
+    enemyattack: 5434
+    enemyhealth: 55663
+  - level: 706
+    attack: 4496
+    health: 272513
+    firecooltime: 2.97
+    cannonnum: 1
+    enemyattack: 5440
+    enemyhealth: 55739
+  - level: 707
+    attack: 4501
+    health: 273268
+    firecooltime: 2.96
+    cannonnum: 1
+    enemyattack: 5446
+    enemyhealth: 55816
+  - level: 708
+    attack: 4506
+    health: 274027
+    firecooltime: 2.96
+    cannonnum: 1
+    enemyattack: 5452
+    enemyhealth: 55892
+  - level: 709
+    attack: 4510
+    health: 274787
+    firecooltime: 2.95
+    cannonnum: 1
+    enemyattack: 5458
+    enemyhealth: 55968
+  - level: 710
+    attack: 4515
+    health: 275551
+    firecooltime: 2.95
+    cannonnum: 1
+    enemyattack: 5463
+    enemyhealth: 56045
+  - level: 711
+    attack: 4520
+    health: 276317
+    firecooltime: 2.94
+    cannonnum: 1
+    enemyattack: 5469
+    enemyhealth: 56121
+  - level: 712
+    attack: 4525
+    health: 277085
+    firecooltime: 2.94
+    cannonnum: 1
+    enemyattack: 5475
+    enemyhealth: 56198
+  - level: 713
+    attack: 4530
+    health: 277857
+    firecooltime: 2.93
+    cannonnum: 1
+    enemyattack: 5481
+    enemyhealth: 56275
+  - level: 714
+    attack: 4534
+    health: 278631
+    firecooltime: 2.93
+    cannonnum: 1
+    enemyattack: 5487
+    enemyhealth: 56351
+  - level: 715
+    attack: 4539
+    health: 279408
+    firecooltime: 2.92
+    cannonnum: 1
+    enemyattack: 5492
+    enemyhealth: 56428
+  - level: 716
+    attack: 4544
+    health: 280187
+    firecooltime: 2.92
+    cannonnum: 1
+    enemyattack: 5498
+    enemyhealth: 56505
+  - level: 717
+    attack: 4549
+    health: 280969
+    firecooltime: 2.91
+    cannonnum: 1
+    enemyattack: 5504
+    enemyhealth: 56581
+  - level: 718
+    attack: 4554
+    health: 281754
+    firecooltime: 2.91
+    cannonnum: 1
+    enemyattack: 5510
+    enemyhealth: 56658
+  - level: 719
+    attack: 4558
+    health: 282542
+    firecooltime: 2.9
+    cannonnum: 1
+    enemyattack: 5516
+    enemyhealth: 56735
+  - level: 720
+    attack: 4563
+    health: 283332
+    firecooltime: 2.9
+    cannonnum: 1
+    enemyattack: 5521
+    enemyhealth: 56812
+  - level: 721
+    attack: 4568
+    health: 284125
+    firecooltime: 2.89
+    cannonnum: 1
+    enemyattack: 5527
+    enemyhealth: 56889
+  - level: 722
+    attack: 4573
+    health: 284921
+    firecooltime: 2.89
+    cannonnum: 1
+    enemyattack: 5533
+    enemyhealth: 56966
+  - level: 723
+    attack: 4578
+    health: 285719
+    firecooltime: 2.88
+    cannonnum: 1
+    enemyattack: 5539
+    enemyhealth: 57043
+  - level: 724
+    attack: 4582
+    health: 286520
+    firecooltime: 2.88
+    cannonnum: 1
+    enemyattack: 5545
+    enemyhealth: 57120
+  - level: 725
+    attack: 4587
+    health: 287325
+    firecooltime: 2.87
+    cannonnum: 1
+    enemyattack: 5551
+    enemyhealth: 57197
+  - level: 726
+    attack: 4592
+    health: 288132
+    firecooltime: 2.87
+    cannonnum: 1
+    enemyattack: 5556
+    enemyhealth: 57274
+  - level: 727
+    attack: 4597
+    health: 288942
+    firecooltime: 2.86
+    cannonnum: 1
+    enemyattack: 5562
+    enemyhealth: 57351
+  - level: 728
+    attack: 4602
+    health: 289754
+    firecooltime: 2.86
+    cannonnum: 1
+    enemyattack: 5568
+    enemyhealth: 57428
+  - level: 729
+    attack: 4606
+    health: 290570
+    firecooltime: 2.85
+    cannonnum: 1
+    enemyattack: 5574
+    enemyhealth: 57505
+  - level: 730
+    attack: 4611
+    health: 291389
+    firecooltime: 2.85
+    cannonnum: 1
+    enemyattack: 5580
+    enemyhealth: 57582
+  - level: 731
+    attack: 4616
+    health: 292210
+    firecooltime: 2.84
+    cannonnum: 1
+    enemyattack: 5585
+    enemyhealth: 57660
+  - level: 732
+    attack: 4621
+    health: 293035
+    firecooltime: 2.84
+    cannonnum: 1
+    enemyattack: 5591
+    enemyhealth: 57737
+  - level: 733
+    attack: 4626
+    health: 293861
+    firecooltime: 2.83
+    cannonnum: 1
+    enemyattack: 5597
+    enemyhealth: 57814
+  - level: 734
+    attack: 4630
+    health: 294692
+    firecooltime: 2.83
+    cannonnum: 1
+    enemyattack: 5603
+    enemyhealth: 57892
+  - level: 735
+    attack: 4635
+    health: 295525
+    firecooltime: 2.82
+    cannonnum: 1
+    enemyattack: 5609
+    enemyhealth: 57969
+  - level: 736
+    attack: 4640
+    health: 296361
+    firecooltime: 2.82
+    cannonnum: 1
+    enemyattack: 5614
+    enemyhealth: 58046
+  - level: 737
+    attack: 4645
+    health: 297200
+    firecooltime: 2.81
+    cannonnum: 1
+    enemyattack: 5620
+    enemyhealth: 58124
+  - level: 738
+    attack: 4650
+    health: 298043
+    firecooltime: 2.81
+    cannonnum: 1
+    enemyattack: 5626
+    enemyhealth: 58201
+  - level: 739
+    attack: 4654
+    health: 298888
+    firecooltime: 2.8
+    cannonnum: 1
+    enemyattack: 5632
+    enemyhealth: 58279
+  - level: 740
+    attack: 4659
+    health: 299736
+    firecooltime: 2.8
+    cannonnum: 1
+    enemyattack: 5638
+    enemyhealth: 58356
+  - level: 741
+    attack: 4664
+    health: 300587
+    firecooltime: 2.79
+    cannonnum: 1
+    enemyattack: 5643
+    enemyhealth: 58434
+  - level: 742
+    attack: 4669
+    health: 301442
+    firecooltime: 2.79
+    cannonnum: 1
+    enemyattack: 5649
+    enemyhealth: 58512
+  - level: 743
+    attack: 4674
+    health: 302300
+    firecooltime: 2.78
+    cannonnum: 1
+    enemyattack: 5655
+    enemyhealth: 58589
+  - level: 744
+    attack: 4678
+    health: 303160
+    firecooltime: 2.78
+    cannonnum: 1
+    enemyattack: 5661
+    enemyhealth: 58667
+  - level: 745
+    attack: 4683
+    health: 304024
+    firecooltime: 2.77
+    cannonnum: 1
+    enemyattack: 5667
+    enemyhealth: 58745
+  - level: 746
+    attack: 4688
+    health: 304891
+    firecooltime: 2.77
+    cannonnum: 1
+    enemyattack: 5672
+    enemyhealth: 58823
+  - level: 747
+    attack: 4693
+    health: 305761
+    firecooltime: 2.76
+    cannonnum: 1
+    enemyattack: 5678
+    enemyhealth: 58901
+  - level: 748
+    attack: 4698
+    health: 306635
+    firecooltime: 2.76
+    cannonnum: 1
+    enemyattack: 5684
+    enemyhealth: 58978
+  - level: 749
+    attack: 4702
+    health: 307511
+    firecooltime: 2.75
+    cannonnum: 1
+    enemyattack: 5690
+    enemyhealth: 59056
+  - level: 750
+    attack: 4707
+    health: 308391
+    firecooltime: 2.75
+    cannonnum: 1
+    enemyattack: 5696
+    enemyhealth: 59134
+  - level: 751
+    attack: 4712
+    health: 309274
+    firecooltime: 2.74
+    cannonnum: 1
+    enemyattack: 5702
+    enemyhealth: 59212
+  - level: 752
+    attack: 4717
+    health: 310160
+    firecooltime: 2.74
+    cannonnum: 1
+    enemyattack: 5707
+    enemyhealth: 59290
+  - level: 753
+    attack: 4722
+    health: 311050
+    firecooltime: 2.73
+    cannonnum: 1
+    enemyattack: 5713
+    enemyhealth: 59368
+  - level: 754
+    attack: 4726
+    health: 311942
+    firecooltime: 2.73
+    cannonnum: 1
+    enemyattack: 5719
+    enemyhealth: 59446
+  - level: 755
+    attack: 4731
+    health: 312839
+    firecooltime: 2.72
+    cannonnum: 1
+    enemyattack: 5725
+    enemyhealth: 59524
+  - level: 756
+    attack: 4736
+    health: 313738
+    firecooltime: 2.72
+    cannonnum: 1
+    enemyattack: 5731
+    enemyhealth: 59603
+  - level: 757
+    attack: 4741
+    health: 314641
+    firecooltime: 2.71
+    cannonnum: 1
+    enemyattack: 5736
+    enemyhealth: 59681
+  - level: 758
+    attack: 4746
+    health: 315547
+    firecooltime: 2.71
+    cannonnum: 1
+    enemyattack: 5742
+    enemyhealth: 59759
+  - level: 759
+    attack: 4750
+    health: 316457
+    firecooltime: 2.7
+    cannonnum: 1
+    enemyattack: 5748
+    enemyhealth: 59837
+  - level: 760
+    attack: 4755
+    health: 317369
+    firecooltime: 2.7
+    cannonnum: 1
+    enemyattack: 5754
+    enemyhealth: 59916
+  - level: 761
+    attack: 4760
+    health: 318286
+    firecooltime: 2.69
+    cannonnum: 1
+    enemyattack: 5760
+    enemyhealth: 59994
+  - level: 762
+    attack: 4765
+    health: 319206
+    firecooltime: 2.69
+    cannonnum: 1
+    enemyattack: 5765
+    enemyhealth: 60072
+  - level: 763
+    attack: 4770
+    health: 320129
+    firecooltime: 2.68
+    cannonnum: 1
+    enemyattack: 5771
+    enemyhealth: 60151
+  - level: 764
+    attack: 4774
+    health: 321056
+    firecooltime: 2.68
+    cannonnum: 1
+    enemyattack: 5777
+    enemyhealth: 60229
+  - level: 765
+    attack: 4779
+    health: 321986
+    firecooltime: 2.67
+    cannonnum: 1
+    enemyattack: 5783
+    enemyhealth: 60308
+  - level: 766
+    attack: 4784
+    health: 322920
+    firecooltime: 2.67
+    cannonnum: 1
+    enemyattack: 5789
+    enemyhealth: 60386
+  - level: 767
+    attack: 4789
+    health: 323857
+    firecooltime: 2.66
+    cannonnum: 1
+    enemyattack: 5794
+    enemyhealth: 60465
+  - level: 768
+    attack: 4794
+    health: 324798
+    firecooltime: 2.66
+    cannonnum: 1
+    enemyattack: 5800
+    enemyhealth: 60543
+  - level: 769
+    attack: 4798
+    health: 325743
+    firecooltime: 2.65
+    cannonnum: 1
+    enemyattack: 5806
+    enemyhealth: 60622
+  - level: 770
+    attack: 4803
+    health: 326691
+    firecooltime: 2.65
+    cannonnum: 1
+    enemyattack: 5812
+    enemyhealth: 60700
+  - level: 771
+    attack: 4808
+    health: 327643
+    firecooltime: 2.64
+    cannonnum: 1
+    enemyattack: 5818
+    enemyhealth: 60779
+  - level: 772
+    attack: 4813
+    health: 328598
+    firecooltime: 2.64
+    cannonnum: 1
+    enemyattack: 5823
+    enemyhealth: 60858
+  - level: 773
+    attack: 4818
+    health: 329557
+    firecooltime: 2.63
+    cannonnum: 1
+    enemyattack: 5829
+    enemyhealth: 60937
+  - level: 774
+    attack: 4822
+    health: 330520
+    firecooltime: 2.63
+    cannonnum: 1
+    enemyattack: 5835
+    enemyhealth: 61015
+  - level: 775
+    attack: 4827
+    health: 331486
+    firecooltime: 2.62
+    cannonnum: 1
+    enemyattack: 5841
+    enemyhealth: 61094
+  - level: 776
+    attack: 4832
+    health: 332456
+    firecooltime: 2.62
+    cannonnum: 1
+    enemyattack: 5847
+    enemyhealth: 61173
+  - level: 777
+    attack: 4837
+    health: 333430
+    firecooltime: 2.61
+    cannonnum: 1
+    enemyattack: 5853
+    enemyhealth: 61252
+  - level: 778
+    attack: 4842
+    health: 334408
+    firecooltime: 2.61
+    cannonnum: 1
+    enemyattack: 5858
+    enemyhealth: 61331
+  - level: 779
+    attack: 4846
+    health: 335390
+    firecooltime: 2.6
+    cannonnum: 1
+    enemyattack: 5864
+    enemyhealth: 61410
+  - level: 780
+    attack: 4851
+    health: 336375
+    firecooltime: 2.6
+    cannonnum: 1
+    enemyattack: 5870
+    enemyhealth: 61489
+  - level: 781
+    attack: 4856
+    health: 337364
+    firecooltime: 2.59
+    cannonnum: 1
+    enemyattack: 5876
+    enemyhealth: 61568
+  - level: 782
+    attack: 4861
+    health: 338357
+    firecooltime: 2.59
+    cannonnum: 1
+    enemyattack: 5882
+    enemyhealth: 61647
+  - level: 783
+    attack: 4866
+    health: 339354
+    firecooltime: 2.58
+    cannonnum: 1
+    enemyattack: 5887
+    enemyhealth: 61726
+  - level: 784
+    attack: 4870
+    health: 340355
+    firecooltime: 2.58
+    cannonnum: 1
+    enemyattack: 5893
+    enemyhealth: 61805
+  - level: 785
+    attack: 4875
+    health: 341360
+    firecooltime: 2.57
+    cannonnum: 1
+    enemyattack: 5899
+    enemyhealth: 61885
+  - level: 786
+    attack: 4880
+    health: 342368
+    firecooltime: 2.57
+    cannonnum: 1
+    enemyattack: 5905
+    enemyhealth: 61964
+  - level: 787
+    attack: 4885
+    health: 343381
+    firecooltime: 2.56
+    cannonnum: 1
+    enemyattack: 5911
+    enemyhealth: 62043
+  - level: 788
+    attack: 4890
+    health: 344398
+    firecooltime: 2.56
+    cannonnum: 1
+    enemyattack: 5916
+    enemyhealth: 62122
+  - level: 789
+    attack: 4894
+    health: 345419
+    firecooltime: 2.55
+    cannonnum: 1
+    enemyattack: 5922
+    enemyhealth: 62202
+  - level: 790
+    attack: 4899
+    health: 346444
+    firecooltime: 2.55
+    cannonnum: 1
+    enemyattack: 5928
+    enemyhealth: 62281
+  - level: 791
+    attack: 4904
+    health: 347472
+    firecooltime: 2.54
+    cannonnum: 1
+    enemyattack: 5934
+    enemyhealth: 62360
+  - level: 792
+    attack: 4909
+    health: 348505
+    firecooltime: 2.54
+    cannonnum: 1
+    enemyattack: 5940
+    enemyhealth: 62440
+  - level: 793
+    attack: 4914
+    health: 349543
+    firecooltime: 2.53
+    cannonnum: 1
+    enemyattack: 5945
+    enemyhealth: 62519
+  - level: 794
+    attack: 4918
+    health: 350584
+    firecooltime: 2.53
+    cannonnum: 1
+    enemyattack: 5951
+    enemyhealth: 62599
+  - level: 795
+    attack: 4923
+    health: 351629
+    firecooltime: 2.52
+    cannonnum: 1
+    enemyattack: 5957
+    enemyhealth: 62678
+  - level: 796
+    attack: 4928
+    health: 352679
+    firecooltime: 2.52
+    cannonnum: 1
+    enemyattack: 5963
+    enemyhealth: 62758
+  - level: 797
+    attack: 4933
+    health: 353732
+    firecooltime: 2.51
+    cannonnum: 1
+    enemyattack: 5969
+    enemyhealth: 62838
+  - level: 798
+    attack: 4938
+    health: 354790
+    firecooltime: 2.51
+    cannonnum: 1
+    enemyattack: 5974
+    enemyhealth: 62917
+  - level: 799
+    attack: 4942
+    health: 355853
+    firecooltime: 2.5
+    cannonnum: 1
+    enemyattack: 5980
+    enemyhealth: 62997
+  - level: 800
+    attack: 5931
+    health: 355872
+    firecooltime: 3
+    cannonnum: 1
+    enemyattack: 7177
+    enemyhealth: 75623
+  - level: 801
+    attack: 5936
+    health: 356761
+    firecooltime: 2.99
+    cannonnum: 1
+    enemyattack: 7183
+    enemyhealth: 75706
+  - level: 802
+    attack: 5941
+    health: 357652
+    firecooltime: 2.99
+    cannonnum: 1
+    enemyattack: 7188
+    enemyhealth: 75790
+  - level: 803
+    attack: 5946
+    health: 358547
+    firecooltime: 2.98
+    cannonnum: 1
+    enemyattack: 7194
+    enemyhealth: 75873
+  - level: 804
+    attack: 5950
+    health: 359444
+    firecooltime: 2.98
+    cannonnum: 1
+    enemyattack: 7200
+    enemyhealth: 75957
+  - level: 805
+    attack: 5955
+    health: 360345
+    firecooltime: 2.97
+    cannonnum: 1
+    enemyattack: 7206
+    enemyhealth: 76040
+  - level: 806
+    attack: 5960
+    health: 361249
+    firecooltime: 2.97
+    cannonnum: 1
+    enemyattack: 7212
+    enemyhealth: 76124
+  - level: 807
+    attack: 5965
+    health: 362156
+    firecooltime: 2.96
+    cannonnum: 1
+    enemyattack: 7217
+    enemyhealth: 76208
+  - level: 808
+    attack: 5970
+    health: 363066
+    firecooltime: 2.96
+    cannonnum: 1
+    enemyattack: 7223
+    enemyhealth: 76291
+  - level: 809
+    attack: 5974
+    health: 363979
+    firecooltime: 2.95
+    cannonnum: 1
+    enemyattack: 7229
+    enemyhealth: 76375
+  - level: 810
+    attack: 5979
+    health: 364895
+    firecooltime: 2.95
+    cannonnum: 1
+    enemyattack: 7235
+    enemyhealth: 76459
+  - level: 811
+    attack: 5984
+    health: 365815
+    firecooltime: 2.94
+    cannonnum: 1
+    enemyattack: 7241
+    enemyhealth: 76543
+  - level: 812
+    attack: 5989
+    health: 366737
+    firecooltime: 2.94
+    cannonnum: 1
+    enemyattack: 7246
+    enemyhealth: 76627
+  - level: 813
+    attack: 5994
+    health: 367663
+    firecooltime: 2.93
+    cannonnum: 1
+    enemyattack: 7252
+    enemyhealth: 76711
+  - level: 814
+    attack: 5998
+    health: 368591
+    firecooltime: 2.93
+    cannonnum: 1
+    enemyattack: 7258
+    enemyhealth: 76795
+  - level: 815
+    attack: 6003
+    health: 369523
+    firecooltime: 2.92
+    cannonnum: 1
+    enemyattack: 7264
+    enemyhealth: 76878
+  - level: 816
+    attack: 6008
+    health: 370459
+    firecooltime: 2.92
+    cannonnum: 1
+    enemyattack: 7270
+    enemyhealth: 76962
+  - level: 817
+    attack: 6013
+    health: 371397
+    firecooltime: 2.91
+    cannonnum: 1
+    enemyattack: 7275
+    enemyhealth: 77047
+  - level: 818
+    attack: 6018
+    health: 372339
+    firecooltime: 2.91
+    cannonnum: 1
+    enemyattack: 7281
+    enemyhealth: 77131
+  - level: 819
+    attack: 6022
+    health: 373284
+    firecooltime: 2.9
+    cannonnum: 1
+    enemyattack: 7287
+    enemyhealth: 77215
+  - level: 820
+    attack: 6027
+    health: 374233
+    firecooltime: 2.9
+    cannonnum: 1
+    enemyattack: 7293
+    enemyhealth: 77299
+  - level: 821
+    attack: 6032
+    health: 375184
+    firecooltime: 2.89
+    cannonnum: 1
+    enemyattack: 7299
+    enemyhealth: 77383
+  - level: 822
+    attack: 6037
+    health: 376139
+    firecooltime: 2.89
+    cannonnum: 1
+    enemyattack: 7305
+    enemyhealth: 77467
+  - level: 823
+    attack: 6042
+    health: 377098
+    firecooltime: 2.88
+    cannonnum: 1
+    enemyattack: 7310
+    enemyhealth: 77551
+  - level: 824
+    attack: 6046
+    health: 378059
+    firecooltime: 2.88
+    cannonnum: 1
+    enemyattack: 7316
+    enemyhealth: 77636
+  - level: 825
+    attack: 6051
+    health: 379024
+    firecooltime: 2.87
+    cannonnum: 1
+    enemyattack: 7322
+    enemyhealth: 77720
+  - level: 826
+    attack: 6056
+    health: 379993
+    firecooltime: 2.87
+    cannonnum: 1
+    enemyattack: 7328
+    enemyhealth: 77804
+  - level: 827
+    attack: 6061
+    health: 380965
+    firecooltime: 2.86
+    cannonnum: 1
+    enemyattack: 7334
+    enemyhealth: 77889
+  - level: 828
+    attack: 6066
+    health: 381940
+    firecooltime: 2.86
+    cannonnum: 1
+    enemyattack: 7339
+    enemyhealth: 77973
+  - level: 829
+    attack: 6070
+    health: 382919
+    firecooltime: 2.85
+    cannonnum: 1
+    enemyattack: 7345
+    enemyhealth: 78058
+  - level: 830
+    attack: 6075
+    health: 383901
+    firecooltime: 2.85
+    cannonnum: 1
+    enemyattack: 7351
+    enemyhealth: 78142
+  - level: 831
+    attack: 6080
+    health: 384887
+    firecooltime: 2.84
+    cannonnum: 1
+    enemyattack: 7357
+    enemyhealth: 78227
+  - level: 832
+    attack: 6085
+    health: 385876
+    firecooltime: 2.84
+    cannonnum: 1
+    enemyattack: 7363
+    enemyhealth: 78311
+  - level: 833
+    attack: 6090
+    health: 386869
+    firecooltime: 2.83
+    cannonnum: 1
+    enemyattack: 7368
+    enemyhealth: 78396
+  - level: 834
+    attack: 6094
+    health: 387865
+    firecooltime: 2.83
+    cannonnum: 1
+    enemyattack: 7374
+    enemyhealth: 78481
+  - level: 835
+    attack: 6099
+    health: 388865
+    firecooltime: 2.82
+    cannonnum: 1
+    enemyattack: 7380
+    enemyhealth: 78565
+  - level: 836
+    attack: 6104
+    health: 389869
+    firecooltime: 2.82
+    cannonnum: 1
+    enemyattack: 7386
+    enemyhealth: 78650
+  - level: 837
+    attack: 6109
+    health: 390875
+    firecooltime: 2.81
+    cannonnum: 1
+    enemyattack: 7392
+    enemyhealth: 78735
+  - level: 838
+    attack: 6114
+    health: 391886
+    firecooltime: 2.81
+    cannonnum: 1
+    enemyattack: 7397
+    enemyhealth: 78820
+  - level: 839
+    attack: 6118
+    health: 392900
+    firecooltime: 2.8
+    cannonnum: 1
+    enemyattack: 7403
+    enemyhealth: 78904
+  - level: 840
+    attack: 6123
+    health: 393919
+    firecooltime: 2.8
+    cannonnum: 1
+    enemyattack: 7409
+    enemyhealth: 78989
+  - level: 841
+    attack: 6128
+    health: 394940
+    firecooltime: 2.79
+    cannonnum: 1
+    enemyattack: 7415
+    enemyhealth: 79074
+  - level: 842
+    attack: 6133
+    health: 395966
+    firecooltime: 2.79
+    cannonnum: 1
+    enemyattack: 7421
+    enemyhealth: 79159
+  - level: 843
+    attack: 6138
+    health: 396995
+    firecooltime: 2.78
+    cannonnum: 1
+    enemyattack: 7426
+    enemyhealth: 79244
+  - level: 844
+    attack: 6142
+    health: 398027
+    firecooltime: 2.78
+    cannonnum: 1
+    enemyattack: 7432
+    enemyhealth: 79329
+  - level: 845
+    attack: 6147
+    health: 399064
+    firecooltime: 2.77
+    cannonnum: 1
+    enemyattack: 7438
+    enemyhealth: 79414
+  - level: 846
+    attack: 6152
+    health: 400105
+    firecooltime: 2.77
+    cannonnum: 1
+    enemyattack: 7444
+    enemyhealth: 79499
+  - level: 847
+    attack: 6157
+    health: 401149
+    firecooltime: 2.76
+    cannonnum: 1
+    enemyattack: 7450
+    enemyhealth: 79584
+  - level: 848
+    attack: 6162
+    health: 402197
+    firecooltime: 2.76
+    cannonnum: 1
+    enemyattack: 7456
+    enemyhealth: 79669
+  - level: 849
+    attack: 6166
+    health: 403249
+    firecooltime: 2.75
+    cannonnum: 1
+    enemyattack: 7461
+    enemyhealth: 79755
+  - level: 850
+    attack: 6171
+    health: 404305
+    firecooltime: 2.75
+    cannonnum: 1
+    enemyattack: 7467
+    enemyhealth: 79840
+  - level: 851
+    attack: 6176
+    health: 405364
+    firecooltime: 2.74
+    cannonnum: 1
+    enemyattack: 7473
+    enemyhealth: 79925
+  - level: 852
+    attack: 6181
+    health: 406427
+    firecooltime: 2.74
+    cannonnum: 1
+    enemyattack: 7479
+    enemyhealth: 80010
+  - level: 853
+    attack: 6186
+    health: 407495
+    firecooltime: 2.73
+    cannonnum: 1
+    enemyattack: 7485
+    enemyhealth: 80096
+  - level: 854
+    attack: 6190
+    health: 408566
+    firecooltime: 2.73
+    cannonnum: 1
+    enemyattack: 7490
+    enemyhealth: 80181
+  - level: 855
+    attack: 6195
+    health: 409642
+    firecooltime: 2.72
+    cannonnum: 1
+    enemyattack: 7496
+    enemyhealth: 80267
+  - level: 856
+    attack: 6200
+    health: 410721
+    firecooltime: 2.72
+    cannonnum: 1
+    enemyattack: 7502
+    enemyhealth: 80352
+  - level: 857
+    attack: 6205
+    health: 411805
+    firecooltime: 2.71
+    cannonnum: 1
+    enemyattack: 7508
+    enemyhealth: 80437
+  - level: 858
+    attack: 6210
+    health: 412892
+    firecooltime: 2.71
+    cannonnum: 1
+    enemyattack: 7514
+    enemyhealth: 80523
+  - level: 859
+    attack: 6214
+    health: 413984
+    firecooltime: 2.7
+    cannonnum: 1
+    enemyattack: 7519
+    enemyhealth: 80609
+  - level: 860
+    attack: 6219
+    health: 415079
+    firecooltime: 2.7
+    cannonnum: 1
+    enemyattack: 7525
+    enemyhealth: 80694
+  - level: 861
+    attack: 6224
+    health: 416179
+    firecooltime: 2.69
+    cannonnum: 1
+    enemyattack: 7531
+    enemyhealth: 80780
+  - level: 862
+    attack: 6229
+    health: 417283
+    firecooltime: 2.69
+    cannonnum: 1
+    enemyattack: 7537
+    enemyhealth: 80865
+  - level: 863
+    attack: 6234
+    health: 418391
+    firecooltime: 2.68
+    cannonnum: 1
+    enemyattack: 7543
+    enemyhealth: 80951
+  - level: 864
+    attack: 6238
+    health: 419503
+    firecooltime: 2.68
+    cannonnum: 1
+    enemyattack: 7548
+    enemyhealth: 81037
+  - level: 865
+    attack: 6243
+    health: 420619
+    firecooltime: 2.67
+    cannonnum: 1
+    enemyattack: 7554
+    enemyhealth: 81123
+  - level: 866
+    attack: 6248
+    health: 421740
+    firecooltime: 2.67
+    cannonnum: 1
+    enemyattack: 7560
+    enemyhealth: 81208
+  - level: 867
+    attack: 6253
+    health: 422865
+    firecooltime: 2.66
+    cannonnum: 1
+    enemyattack: 7566
+    enemyhealth: 81294
+  - level: 868
+    attack: 6258
+    health: 423994
+    firecooltime: 2.66
+    cannonnum: 1
+    enemyattack: 7572
+    enemyhealth: 81380
+  - level: 869
+    attack: 6262
+    health: 425128
+    firecooltime: 2.65
+    cannonnum: 1
+    enemyattack: 7578
+    enemyhealth: 81466
+  - level: 870
+    attack: 6267
+    health: 426265
+    firecooltime: 2.65
+    cannonnum: 1
+    enemyattack: 7583
+    enemyhealth: 81552
+  - level: 871
+    attack: 6272
+    health: 427408
+    firecooltime: 2.64
+    cannonnum: 1
+    enemyattack: 7589
+    enemyhealth: 81638
+  - level: 872
+    attack: 6277
+    health: 428554
+    firecooltime: 2.64
+    cannonnum: 1
+    enemyattack: 7595
+    enemyhealth: 81724
+  - level: 873
+    attack: 6282
+    health: 429705
+    firecooltime: 2.63
+    cannonnum: 1
+    enemyattack: 7601
+    enemyhealth: 81810
+  - level: 874
+    attack: 6286
+    health: 430860
+    firecooltime: 2.63
+    cannonnum: 1
+    enemyattack: 7607
+    enemyhealth: 81896
+  - level: 875
+    attack: 6291
+    health: 432020
+    firecooltime: 2.62
+    cannonnum: 1
+    enemyattack: 7612
+    enemyhealth: 81982
+  - level: 876
+    attack: 6296
+    health: 433184
+    firecooltime: 2.62
+    cannonnum: 1
+    enemyattack: 7618
+    enemyhealth: 82068
+  - level: 877
+    attack: 6301
+    health: 434353
+    firecooltime: 2.61
+    cannonnum: 1
+    enemyattack: 7624
+    enemyhealth: 82155
+  - level: 878
+    attack: 6306
+    health: 435526
+    firecooltime: 2.61
+    cannonnum: 1
+    enemyattack: 7630
+    enemyhealth: 82241
+  - level: 879
+    attack: 6310
+    health: 436704
+    firecooltime: 2.6
+    cannonnum: 1
+    enemyattack: 7636
+    enemyhealth: 82327
+  - level: 880
+    attack: 6315
+    health: 437887
+    firecooltime: 2.6
+    cannonnum: 1
+    enemyattack: 7641
+    enemyhealth: 82413
+  - level: 881
+    attack: 6320
+    health: 439073
+    firecooltime: 2.59
+    cannonnum: 1
+    enemyattack: 7647
+    enemyhealth: 82500
+  - level: 882
+    attack: 6325
+    health: 440266
+    firecooltime: 2.59
+    cannonnum: 1
+    enemyattack: 7653
+    enemyhealth: 82586
+  - level: 883
+    attack: 6330
+    health: 441462
+    firecooltime: 2.58
+    cannonnum: 1
+    enemyattack: 7659
+    enemyhealth: 82672
+  - level: 884
+    attack: 6334
+    health: 442663
+    firecooltime: 2.58
+    cannonnum: 1
+    enemyattack: 7665
+    enemyhealth: 82759
+  - level: 885
+    attack: 6339
+    health: 443869
+    firecooltime: 2.57
+    cannonnum: 1
+    enemyattack: 7670
+    enemyhealth: 82845
+  - level: 886
+    attack: 6344
+    health: 445079
+    firecooltime: 2.57
+    cannonnum: 1
+    enemyattack: 7676
+    enemyhealth: 82932
+  - level: 887
+    attack: 6349
+    health: 446294
+    firecooltime: 2.56
+    cannonnum: 1
+    enemyattack: 7682
+    enemyhealth: 83018
+  - level: 888
+    attack: 6354
+    health: 447514
+    firecooltime: 2.56
+    cannonnum: 1
+    enemyattack: 7688
+    enemyhealth: 83105
+  - level: 889
+    attack: 6358
+    health: 448739
+    firecooltime: 2.55
+    cannonnum: 1
+    enemyattack: 7694
+    enemyhealth: 83192
+  - level: 890
+    attack: 6363
+    health: 449969
+    firecooltime: 2.55
+    cannonnum: 1
+    enemyattack: 7699
+    enemyhealth: 83278
+  - level: 891
+    attack: 6368
+    health: 451204
+    firecooltime: 2.54
+    cannonnum: 1
+    enemyattack: 7705
+    enemyhealth: 83365
+  - level: 892
+    attack: 6373
+    health: 452443
+    firecooltime: 2.54
+    cannonnum: 1
+    enemyattack: 7711
+    enemyhealth: 83452
+  - level: 893
+    attack: 6378
+    health: 453688
+    firecooltime: 2.53
+    cannonnum: 1
+    enemyattack: 7717
+    enemyhealth: 83539
+  - level: 894
+    attack: 6382
+    health: 454937
+    firecooltime: 2.53
+    cannonnum: 1
+    enemyattack: 7723
+    enemyhealth: 83625
+  - level: 895
+    attack: 6387
+    health: 456192
+    firecooltime: 2.52
+    cannonnum: 1
+    enemyattack: 7729
+    enemyhealth: 83712
+  - level: 896
+    attack: 6392
+    health: 457451
+    firecooltime: 2.52
+    cannonnum: 1
+    enemyattack: 7734
+    enemyhealth: 83799
+  - level: 897
+    attack: 6397
+    health: 458716
+    firecooltime: 2.51
+    cannonnum: 1
+    enemyattack: 7740
+    enemyhealth: 83886
+  - level: 898
+    attack: 6402
+    health: 459986
+    firecooltime: 2.51
+    cannonnum: 1
+    enemyattack: 7746
+    enemyhealth: 83973
+  - level: 899
+    attack: 6406
+    health: 461261
+    firecooltime: 2.5
+    cannonnum: 1
+    enemyattack: 7752
+    enemyhealth: 84060
+  - level: 900
+    attack: 6406
+    health: 461232
+    firecooltime: 2.5
+    cannonnum: 1
+    enemyattack: 7751
+    enemyhealth: 84079
+  - level: 901
+    attack: 6412
+    health: 462589
+    firecooltime: 2.5
+    cannonnum: 1
+    enemyattack: 7759
+    enemyhealth: 84182
+  - level: 902
+    attack: 6418
+    health: 463952
+    firecooltime: 2.49
+    cannonnum: 1
+    enemyattack: 7766
+    enemyhealth: 84284
+  - level: 903
+    attack: 6424
+    health: 465320
+    firecooltime: 2.49
+    cannonnum: 1
+    enemyattack: 7773
+    enemyhealth: 84387
+  - level: 904
+    attack: 6430
+    health: 466694
+    firecooltime: 2.48
+    cannonnum: 1
+    enemyattack: 7780
+    enemyhealth: 84490
+  - level: 905
+    attack: 6436
+    health: 468073
+    firecooltime: 2.48
+    cannonnum: 1
+    enemyattack: 7788
+    enemyhealth: 84593
+  - level: 906
+    attack: 6442
+    health: 469457
+    firecooltime: 2.47
+    cannonnum: 1
+    enemyattack: 7795
+    enemyhealth: 84696
+  - level: 907
+    attack: 6448
+    health: 470848
+    firecooltime: 2.47
+    cannonnum: 1
+    enemyattack: 7802
+    enemyhealth: 84799
+  - level: 908
+    attack: 6454
+    health: 472244
+    firecooltime: 2.46
+    cannonnum: 1
+    enemyattack: 7809
+    enemyhealth: 84902
+  - level: 909
+    attack: 6460
+    health: 473645
+    firecooltime: 2.46
+    cannonnum: 1
+    enemyattack: 7817
+    enemyhealth: 85006
+  - level: 910
+    attack: 6466
+    health: 475053
+    firecooltime: 2.45
+    cannonnum: 1
+    enemyattack: 7824
+    enemyhealth: 85109
+  - level: 911
+    attack: 6472
+    health: 476466
+    firecooltime: 2.45
+    cannonnum: 1
+    enemyattack: 7831
+    enemyhealth: 85212
+  - level: 912
+    attack: 6478
+    health: 477885
+    firecooltime: 2.44
+    cannonnum: 1
+    enemyattack: 7838
+    enemyhealth: 85315
+  - level: 913
+    attack: 6484
+    health: 479310
+    firecooltime: 2.44
+    cannonnum: 1
+    enemyattack: 7846
+    enemyhealth: 85419
+  - level: 914
+    attack: 6490
+    health: 480741
+    firecooltime: 2.43
+    cannonnum: 1
+    enemyattack: 7853
+    enemyhealth: 85522
+  - level: 915
+    attack: 6496
+    health: 482177
+    firecooltime: 2.43
+    cannonnum: 1
+    enemyattack: 7860
+    enemyhealth: 85625
+  - level: 916
+    attack: 6502
+    health: 483620
+    firecooltime: 2.42
+    cannonnum: 1
+    enemyattack: 7867
+    enemyhealth: 85729
+  - level: 917
+    attack: 6508
+    health: 485068
+    firecooltime: 2.42
+    cannonnum: 1
+    enemyattack: 7875
+    enemyhealth: 85832
+  - level: 918
+    attack: 6514
+    health: 486523
+    firecooltime: 2.41
+    cannonnum: 1
+    enemyattack: 7882
+    enemyhealth: 85936
+  - level: 919
+    attack: 6520
+    health: 487984
+    firecooltime: 2.41
+    cannonnum: 1
+    enemyattack: 7889
+    enemyhealth: 86040
+  - level: 920
+    attack: 6526
+    health: 489450
+    firecooltime: 2.4
+    cannonnum: 1
+    enemyattack: 7896
+    enemyhealth: 86143
+  - level: 921
+    attack: 6532
+    health: 490923
+    firecooltime: 2.4
+    cannonnum: 1
+    enemyattack: 7904
+    enemyhealth: 86247
+  - level: 922
+    attack: 6538
+    health: 492401
+    firecooltime: 2.39
+    cannonnum: 1
+    enemyattack: 7911
+    enemyhealth: 86351
+  - level: 923
+    attack: 6544
+    health: 493887
+    firecooltime: 2.39
+    cannonnum: 1
+    enemyattack: 7918
+    enemyhealth: 86454
+  - level: 924
+    attack: 6550
+    health: 495378
+    firecooltime: 2.38
+    cannonnum: 1
+    enemyattack: 7926
+    enemyhealth: 86558
+  - level: 925
+    attack: 6556
+    health: 496876
+    firecooltime: 2.38
+    cannonnum: 1
+    enemyattack: 7933
+    enemyhealth: 86662
+  - level: 926
+    attack: 6562
+    health: 498380
+    firecooltime: 2.37
+    cannonnum: 1
+    enemyattack: 7940
+    enemyhealth: 86766
+  - level: 927
+    attack: 6568
+    health: 499890
+    firecooltime: 2.37
+    cannonnum: 1
+    enemyattack: 7947
+    enemyhealth: 86870
+  - level: 928
+    attack: 6574
+    health: 501407
+    firecooltime: 2.36
+    cannonnum: 1
+    enemyattack: 7955
+    enemyhealth: 86974
+  - level: 929
+    attack: 6580
+    health: 502930
+    firecooltime: 2.36
+    cannonnum: 1
+    enemyattack: 7962
+    enemyhealth: 87078
+  - level: 930
+    attack: 6586
+    health: 504460
+    firecooltime: 2.35
+    cannonnum: 1
+    enemyattack: 7969
+    enemyhealth: 87182
+  - level: 931
+    attack: 6592
+    health: 505996
+    firecooltime: 2.35
+    cannonnum: 1
+    enemyattack: 7976
+    enemyhealth: 87286
+  - level: 932
+    attack: 6598
+    health: 507538
+    firecooltime: 2.34
+    cannonnum: 1
+    enemyattack: 7984
+    enemyhealth: 87391
+  - level: 933
+    attack: 6604
+    health: 509088
+    firecooltime: 2.34
+    cannonnum: 1
+    enemyattack: 7991
+    enemyhealth: 87495
+  - level: 934
+    attack: 6610
+    health: 510644
+    firecooltime: 2.33
+    cannonnum: 1
+    enemyattack: 7998
+    enemyhealth: 87599
+  - level: 935
+    attack: 6616
+    health: 512206
+    firecooltime: 2.33
+    cannonnum: 1
+    enemyattack: 8005
+    enemyhealth: 87703
+  - level: 936
+    attack: 6622
+    health: 513776
+    firecooltime: 2.32
+    cannonnum: 1
+    enemyattack: 8013
+    enemyhealth: 87808
+  - level: 937
+    attack: 6628
+    health: 515352
+    firecooltime: 2.32
+    cannonnum: 1
+    enemyattack: 8020
+    enemyhealth: 87912
+  - level: 938
+    attack: 6634
+    health: 516935
+    firecooltime: 2.31
+    cannonnum: 1
+    enemyattack: 8027
+    enemyhealth: 88017
+  - level: 939
+    attack: 6640
+    health: 518525
+    firecooltime: 2.31
+    cannonnum: 1
+    enemyattack: 8034
+    enemyhealth: 88121
+  - level: 940
+    attack: 6646
+    health: 520122
+    firecooltime: 2.3
+    cannonnum: 1
+    enemyattack: 8042
+    enemyhealth: 88226
+  - level: 941
+    attack: 6652
+    health: 521725
+    firecooltime: 2.3
+    cannonnum: 1
+    enemyattack: 8049
+    enemyhealth: 88330
+  - level: 942
+    attack: 6658
+    health: 523336
+    firecooltime: 2.29
+    cannonnum: 1
+    enemyattack: 8056
+    enemyhealth: 88435
+  - level: 943
+    attack: 6664
+    health: 524954
+    firecooltime: 2.29
+    cannonnum: 1
+    enemyattack: 8063
+    enemyhealth: 88540
+  - level: 944
+    attack: 6670
+    health: 526579
+    firecooltime: 2.28
+    cannonnum: 1
+    enemyattack: 8071
+    enemyhealth: 88644
+  - level: 945
+    attack: 6676
+    health: 528211
+    firecooltime: 2.28
+    cannonnum: 1
+    enemyattack: 8078
+    enemyhealth: 88749
+  - level: 946
+    attack: 6682
+    health: 529850
+    firecooltime: 2.27
+    cannonnum: 1
+    enemyattack: 8085
+    enemyhealth: 88854
+  - level: 947
+    attack: 6688
+    health: 531497
+    firecooltime: 2.27
+    cannonnum: 1
+    enemyattack: 8092
+    enemyhealth: 88959
+  - level: 948
+    attack: 6694
+    health: 533150
+    firecooltime: 2.26
+    cannonnum: 1
+    enemyattack: 8100
+    enemyhealth: 89064
+  - level: 949
+    attack: 6700
+    health: 534812
+    firecooltime: 2.26
+    cannonnum: 1
+    enemyattack: 8107
+    enemyhealth: 89169
+  - level: 950
+    attack: 6706
+    health: 536480
+    firecooltime: 2.25
+    cannonnum: 1
+    enemyattack: 8114
+    enemyhealth: 89274
+  - level: 951
+    attack: 6712
+    health: 538156
+    firecooltime: 2.25
+    cannonnum: 1
+    enemyattack: 8122
+    enemyhealth: 89379
+  - level: 952
+    attack: 6718
+    health: 539839
+    firecooltime: 2.24
+    cannonnum: 1
+    enemyattack: 8129
+    enemyhealth: 89484
+  - level: 953
+    attack: 6724
+    health: 541530
+    firecooltime: 2.24
+    cannonnum: 1
+    enemyattack: 8136
+    enemyhealth: 89589
+  - level: 954
+    attack: 6730
+    health: 543229
+    firecooltime: 2.23
+    cannonnum: 1
+    enemyattack: 8143
+    enemyhealth: 89694
+  - level: 955
+    attack: 6736
+    health: 544935
+    firecooltime: 2.23
+    cannonnum: 1
+    enemyattack: 8151
+    enemyhealth: 89799
+  - level: 956
+    attack: 6742
+    health: 546649
+    firecooltime: 2.22
+    cannonnum: 1
+    enemyattack: 8158
+    enemyhealth: 89905
+  - level: 957
+    attack: 6748
+    health: 548370
+    firecooltime: 2.22
+    cannonnum: 1
+    enemyattack: 8165
+    enemyhealth: 90010
+  - level: 958
+    attack: 6754
+    health: 550100
+    firecooltime: 2.21
+    cannonnum: 1
+    enemyattack: 8172
+    enemyhealth: 90115
+  - level: 959
+    attack: 6760
+    health: 551837
+    firecooltime: 2.21
+    cannonnum: 1
+    enemyattack: 8180
+    enemyhealth: 90221
+  - level: 960
+    attack: 6766
+    health: 553582
+    firecooltime: 2.2
+    cannonnum: 1
+    enemyattack: 8187
+    enemyhealth: 90326
+  - level: 961
+    attack: 6772
+    health: 555335
+    firecooltime: 2.2
+    cannonnum: 1
+    enemyattack: 8194
+    enemyhealth: 90432
+  - level: 962
+    attack: 6778
+    health: 557096
+    firecooltime: 2.19
+    cannonnum: 1
+    enemyattack: 8201
+    enemyhealth: 90537
+  - level: 963
+    attack: 6784
+    health: 558865
+    firecooltime: 2.19
+    cannonnum: 1
+    enemyattack: 8209
+    enemyhealth: 90643
+  - level: 964
+    attack: 6790
+    health: 560642
+    firecooltime: 2.18
+    cannonnum: 1
+    enemyattack: 8216
+    enemyhealth: 90748
+  - level: 965
+    attack: 6796
+    health: 562427
+    firecooltime: 2.18
+    cannonnum: 1
+    enemyattack: 8223
+    enemyhealth: 90854
+  - level: 966
+    attack: 6802
+    health: 564221
+    firecooltime: 2.17
+    cannonnum: 1
+    enemyattack: 8230
+    enemyhealth: 90960
+  - level: 967
+    attack: 6808
+    health: 566023
+    firecooltime: 2.17
+    cannonnum: 1
+    enemyattack: 8238
+    enemyhealth: 91066
+  - level: 968
+    attack: 6814
+    health: 567833
+    firecooltime: 2.16
+    cannonnum: 1
+    enemyattack: 8245
+    enemyhealth: 91171
+  - level: 969
+    attack: 6820
+    health: 569652
+    firecooltime: 2.16
+    cannonnum: 1
+    enemyattack: 8252
+    enemyhealth: 91277
+  - level: 970
+    attack: 6826
+    health: 571479
+    firecooltime: 2.15
+    cannonnum: 1
+    enemyattack: 8259
+    enemyhealth: 91383
+  - level: 971
+    attack: 6832
+    health: 573314
+    firecooltime: 2.15
+    cannonnum: 1
+    enemyattack: 8267
+    enemyhealth: 91489
+  - level: 972
+    attack: 6838
+    health: 575159
+    firecooltime: 2.14
+    cannonnum: 1
+    enemyattack: 8274
+    enemyhealth: 91595
+  - level: 973
+    attack: 6844
+    health: 577012
+    firecooltime: 2.14
+    cannonnum: 1
+    enemyattack: 8281
+    enemyhealth: 91701
+  - level: 974
+    attack: 6850
+    health: 578873
+    firecooltime: 2.13
+    cannonnum: 1
+    enemyattack: 8289
+    enemyhealth: 91807
+  - level: 975
+    attack: 6856
+    health: 580744
+    firecooltime: 2.13
+    cannonnum: 1
+    enemyattack: 8296
+    enemyhealth: 91913
+  - level: 976
+    attack: 6862
+    health: 582623
+    firecooltime: 2.12
+    cannonnum: 1
+    enemyattack: 8303
+    enemyhealth: 92019
+  - level: 977
+    attack: 6868
+    health: 584510
+    firecooltime: 2.12
+    cannonnum: 1
+    enemyattack: 8310
+    enemyhealth: 92126
+  - level: 978
+    attack: 6874
+    health: 586408
+    firecooltime: 2.11
+    cannonnum: 1
+    enemyattack: 8318
+    enemyhealth: 92232
+  - level: 979
+    attack: 6880
+    health: 588314
+    firecooltime: 2.11
+    cannonnum: 1
+    enemyattack: 8325
+    enemyhealth: 92338
+  - level: 980
+    attack: 6886
+    health: 590228
+    firecooltime: 2.1
+    cannonnum: 1
+    enemyattack: 8332
+    enemyhealth: 92445
+  - level: 981
+    attack: 6892
+    health: 592153
+    firecooltime: 2.1
+    cannonnum: 1
+    enemyattack: 8339
+    enemyhealth: 92551
+  - level: 982
+    attack: 6898
+    health: 594086
+    firecooltime: 2.09
+    cannonnum: 1
+    enemyattack: 8347
+    enemyhealth: 92657
+  - level: 983
+    attack: 6904
+    health: 596029
+    firecooltime: 2.09
+    cannonnum: 1
+    enemyattack: 8354
+    enemyhealth: 92764
+  - level: 984
+    attack: 6910
+    health: 597981
+    firecooltime: 2.08
+    cannonnum: 1
+    enemyattack: 8361
+    enemyhealth: 92870
+  - level: 985
+    attack: 6916
+    health: 599942
+    firecooltime: 2.08
+    cannonnum: 1
+    enemyattack: 8368
+    enemyhealth: 92977
+  - level: 986
+    attack: 6922
+    health: 601913
+    firecooltime: 2.07
+    cannonnum: 1
+    enemyattack: 8376
+    enemyhealth: 93084
+  - level: 987
+    attack: 6928
+    health: 603893
+    firecooltime: 2.07
+    cannonnum: 1
+    enemyattack: 8383
+    enemyhealth: 93190
+  - level: 988
+    attack: 6934
+    health: 605884
+    firecooltime: 2.06
+    cannonnum: 1
+    enemyattack: 8390
+    enemyhealth: 93297
+  - level: 989
+    attack: 6940
+    health: 607883
+    firecooltime: 2.06
+    cannonnum: 1
+    enemyattack: 8397
+    enemyhealth: 93404
+  - level: 990
+    attack: 6946
+    health: 609893
+    firecooltime: 2.05
+    cannonnum: 1
+    enemyattack: 8405
+    enemyhealth: 93511
+  - level: 991
+    attack: 6952
+    health: 611912
+    firecooltime: 2.05
+    cannonnum: 1
+    enemyattack: 8412
+    enemyhealth: 93617
+  - level: 992
+    attack: 6958
+    health: 613941
+    firecooltime: 2.04
+    cannonnum: 1
+    enemyattack: 8419
+    enemyhealth: 93724
+  - level: 993
+    attack: 6964
+    health: 615980
+    firecooltime: 2.04
+    cannonnum: 1
+    enemyattack: 8426
+    enemyhealth: 93831
+  - level: 994
+    attack: 6970
+    health: 618029
+    firecooltime: 2.03
+    cannonnum: 1
+    enemyattack: 8434
+    enemyhealth: 93938
+  - level: 995
+    attack: 6976
+    health: 620089
+    firecooltime: 2.03
+    cannonnum: 1
+    enemyattack: 8441
+    enemyhealth: 94045
+  - level: 996
+    attack: 6982
+    health: 622159
+    firecooltime: 2.02
+    cannonnum: 1
+    enemyattack: 8448
+    enemyhealth: 94152
+  - level: 997
+    attack: 6988
+    health: 624238
+    firecooltime: 2.02
+    cannonnum: 1
+    enemyattack: 8455
+    enemyhealth: 94259
+  - level: 998
+    attack: 6994
+    health: 626329
+    firecooltime: 2.01
+    cannonnum: 1
+    enemyattack: 8463
+    enemyhealth: 94367
+  - level: 999
+    attack: 7000
+    health: 628429
+    firecooltime: 2.01
+    cannonnum: 1
+    enemyattack: 8470
+    enemyhealth: 94474
+  - level: 1000
+    attack: 7006
+    health: 630540
+    firecooltime: 2
+    cannonnum: 1
+    enemyattack: 8477
+    enemyhealth: 94581

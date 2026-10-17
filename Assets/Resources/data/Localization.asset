@@ -1,0 +1,2635 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce6a43f61174cb45a98b43bde2c231e2, type: 3}
+  m_Name: Localization
+  m_EditorClassIdentifier:
+  SheetName: 아직은 제목은 없지만 쩔어줄 프로젝트
+  WorksheetName: Localization
+  dataArray:
+  - key: key_claim
+    en: Conquest
+    ko: 점령전
+    hans: 占领战
+    hant: 佔領戰
+    ja: 占領戦
+    de: Eroberung
+    ru: Завоевание
+    fr: Conquête
+    es: Conquista
+    pt: Conquista
+  - key: key_objective
+    en: Objective
+    ko: 목표
+    hans: 目标
+    hant: 目標
+    ja: 目標
+    de: Ziel
+    ru: Цель
+    fr: Objectif
+    es: Objetivo
+    pt: Objetivo
+  - key: key_claim_message_killall
+    en: Eliminate all enemies!
+    ko: 모든 적 처치
+    hans: 消灭所有敌人!
+    hant: 擊殺所有敵人
+    ja: 全ての敵撃退
+    de: Besiege alle Feinde!
+    ru: Уничтожьте всех врагов!
+    fr: Éliminez tous les ennemis !
+    es: ¡Matar a todos los enemigos!
+    pt: Elimine todos os inimigos!
+  - key: key_claim_message_killboss
+    en: Eliminate Boss!
+    ko: 보스 처치
+    hans: 消灭Boss!
+    hant: 擊殺BOSS
+    ja: ボス撃退
+    de: Besiege den Boss!
+    ru: Уничтожьте босса!
+    fr: Éliminez le boss !
+    es: ¡Matar al Jefe!
+    pt: Elimine o Chefão!
+  - key: key_claim_message_defend
+    en: Protect the Supply Ship!
+    ko: 보급선 호위
+    hans: 保护补给船！
+    hant: 保護補給船
+    ja: 補給船包囲
+    de: Schütze das Versorgungsschiff!
+    ru: Защищайте корабль с припасами!
+    fr: Protégez le navire d'approvisionnement !
+    es: ¡Proteger el barco proveedor!
+    pt: Proteja o navio de suprimentos!
+  - key: key_match_start
+    en: Match
+    ko: 매칭 시작
+    hans: 开始匹配
+    hant: 開始匹配
+    ja: マッチング開始
+    de: Übereinstimmung finden
+    ru: Найти матч
+    fr: Trouver un match
+    es: Buscar Combate
+    pt: Encontrar adversário
+  - key: key_giveup
+    en: Quit
+    ko: 포기
+    hans: 放弃
+    hant: 放棄
+    ja: ギブアップ
+    de: Beenden
+    ru: Выход
+    fr: Quitter
+    es: Salir
+    pt: Sair
+  - key: key_message_giveup
+    en: "Do you want to quit the battle?\nYou will not get any reward even if your team wins."
+    ko: "전투를 포기 하시겠습니까?\n팀이 승리해도 보상을 얻지 못하게 됩니다."
+    hans: "是否确认放弃战斗？\n即使队伍取得胜利，也无法获得奖励。"
+    hant: "是否確定放棄戰鬥？\n即使隊伍取得勝利，也無法獲得獎勵。"
+    ja: "戦闘をギブアップしますか？\nチームが勝利しても報酬を獲得できなくなります。"
+    de: "Möchtest du den Kampf beenden?\nDu erhältst keine Belohnung, auch wenn dein Team gewinnt."
+    ru: "Вы хотите выйти из битвы? Вы не получите \nнаграду, даже если ваша команда победит."
+    fr: "Voulez-vous quitter la bataille ?\nVous ne recevrez aucune récompense même si votre équipe gagne."
+    es: "¿Desea salir de la batalla?\nNo conseguirás ninguna recompensa aunque tu equipo gane."
+    pt: "Sair da batalha?\nVocê não ganhará nenhuma recompensa, mesmo se a sua equipe vencer."
+  - key: key_claim_message_lose
+    en: All ally ships have been destroyed.
+    ko: 모든 아군 함선이 파괴 되었습니다.
+    hans: 我军所有战舰都已被摧毁。
+    hant: 友軍的所有艦船都被摧毀了。
+    ja: 味方の全ての艦船が破壊されました。
+    de: Alle verbündeten Schiffe wurden zerstört.
+    ru: Все союзные корабли уничтожены.
+    fr: Tous les navires alliés ont été détruits.
+    es: Todos los barcos aliados han sido destruidos.
+    pt: Todos os navios foram destruídos.
+  - key: key_claim_message_win
+    en: You have achieved the objective!
+    ko: 목표를 달성 하였습니다.
+    hans: 目标已达成！
+    hant: 目標達成了。
+    ja: 目標を達成しました。
+    de: Du hast das Ziel erreicht!
+    ru: Вы достигли цели!
+    fr: Vous avez atteint l'objectif !
+    es: ¡Has alcanzado el objetivo!
+    pt: Você conquistou o objetivo!
+  - key: key_tax
+    en: Tax
+    ko: 세금
+    hans: 税款
+    hant: 稅款
+    ja: 税金
+    de: Steuer
+    ru: Налог
+    fr: Taxes
+    es: Impuesto
+    pt: Imposto
+  - key: key_message_need_claim
+    en: Conquest victory is required!
+    ko: 점령전 승리 필요
+    hans: 需要在占领战中获胜！
+    hant: 需要在佔領戰中獲勝
+    ja: 占領戦勝利必要
+    de: Eroberungssieg ist erforderlich!
+    ru: Требуется победа в Завоевании!
+    fr: Victoire en conquête requise !
+    es: ¡La victoria de conquista es requerida!
+    pt: Conquistar é um requisito!
+  - key: key_captain
+    en: Captain
+    ko: 선장
+    hans: 船长
+    hant: 船長
+    ja: 船長
+    de: Kapitän
+    ru: Капитан
+    fr: Capitaine
+    es: ¡Capitán
+    pt: Capitão
+  - key: tutorial_claim_start
+    en: "Captain!\nWe can liberate the island through Conquest.\nLet's join forces with other pirates and drive out the navy."
+    ko: "선장님 !\n점령전을 통해 섬을 완전히 해방시킬 수 있습니다.\n다른 해적들과 협동하여 해군을 몰아냅시다."
+    hans: "船长！\n通过占领战可以彻底解放岛屿，\n和其他海盗联盟一起击退海军吧！"
+    hant: "船長！\n你可以通過佔領戰讓島嶼徹底解放。\n與別的海盜聯手打退海軍吧！"
+    ja: "船長！\n占領戦で島を解放してあげましょう。\n他の海賊たちと協力して海軍を追放するのです。"
+    de: "Kapitän!\nWir können die Insel durch Eroberung befreien.\nLasst uns mit anderen Piraten zusammenarbeiten und die Marine vertreiben."
+    ru: "Капитан!\nМы можем освободить остров с помощью Завоевания.\nДавайте объединим силы с другими пиратами и выдворим военный флот."
+    fr: "Capitaine !\nNous pouvons libérer l'île par la conquête.\nJoignons nos forces avec d'autres pirates et chassons la marine."
+    es: "¡Capitán!\nPodemos liberar la isla a través de la Conquista.\nUnamos nuestras fuerzas con otros piratas para expulsar al navío."
+    pt: "Capitão!\nPodemos libertar esta ilha se a conquistarmos!\nVamos juntar forças com outros piratas para afugentar a Marinha."
+  - key: tutorial_claim_win
+    en: "You have won the Conquest battle!\nThe island is now free from ruthless governing by the Navy.\nPeople on the island will pay you tax from now on."
+    ko: "점령전을 승리하셨군요 !\n이제 이 섬은 해군의 지배를 벗어났습니다.\n섬의 주민들이 세금을 바칠 것입니다."
+    hans: "你在占领战中获得了胜利！\n现在该岛屿已脱离海军的管辖。\n岛屿上的居民现在开始会向你缴税。"
+    hant: "你在佔領戰中取得了勝利！\n現在這個島嶼擺脫了海軍的支配。\n島嶼上的居民將會向你繳稅。"
+    ja: "占領戦に勝利しました！\nこれでこの島は海軍の支配から脱することができました。\n島の住民が税金を納めてくれるでしょう。"
+    de: "Du hast die Eroberungsschlacht gewonnen!\nDie Insel ist jetzt von der skrupellosen Regierung durch die Marine befreit.\nDie Menschen auf der Insel zahlen von nun an Steuern."
+    ru: "Вы победили в битве Завоевания!\nОстров свободен от гнусного диктаторства флота.\nОтныне жители острова будут платить налоги вам."
+    fr: "Vous avez gagné la bataille de la conquête !\nL'île est maintenant libérée du contrôle impitoyable de la marine.\nLes gens de l'île vous paieront des impôts à partir de maintenant."
+    es: "¡Has ganado la batalla de Conquista!\nLa isla ahora es libre del gobierno despiadado del Navío.\nLas personas de la isla te pagaran impuestos a partir de ahora. "
+    pt: "Você ganhou a batalha de conquista!\nAgora a ilha se libertou do governo impiedoso da Marinha.\nOs moradores da ilha pagarão os impostos para você de agora em diante."
+  - key: key_deco
+    en: Decorate
+    ko: '꾸미기 '
+    hans: 装饰
+    hant: 裝飾
+    ja: デコレーション
+    de: Dekorieren
+    ru: Украсить
+    fr: Décorer
+    es: Decorar
+    pt: Decorar
+  - key: key_skin
+    en: Skin
+    ko: 외형
+    hans: 外形
+    hant: 外形
+    ja: 外形
+    de: Erscheinungsbild
+    ru: Внешний вид
+    fr: Apparence
+    es: Aspecto
+    pt: Visual
+  - key: key_equip
+    en: Equip
+    ko: 장착하기
+    hans: 佩戴
+    hant: 佩戴
+    ja: 装着する
+    de: Ausstatten
+    ru: Экипировать
+    fr: Équiper
+    es: Equipar
+    pt: Equipar
+  - key: key_unequip
+    en: Unequip
+    ko: 해제하기
+    hans: 卸除
+    hant: 卸除
+    ja: 解除する
+    de: Entfernen
+    ru: Удалить
+    fr: Retirer
+    es: Eliminar
+    pt: Remover
+  - key: key_skin_0
+    en: Sampan
+    ko: 동방 소형선
+    hans: 东方小型船
+    hant: 東方小型船
+    ja: 東方小型船
+    de: Sampan
+    ru: Сампан
+    fr: Sampan
+    es: Sampan
+    pt: Sampana
+  - key: key_skin_1
+    en: Fluyt
+    ko: 프류트
+    hans: 福禄特
+    hant: 福祿特
+    ja: プリュート
+    de: Fluyt
+    ru: Флейт
+    fr: Fluyt
+    es: Fluyt
+    pt: Filibote
+  - key: key_skin_2
+    en: Junk
+    ko: 동방 중형선
+    hans: 东方中型船
+    hant: 東方中型船
+    ja: 東方中型船
+    de: Junk
+    ru: Джонка
+    fr: Junk
+    es: Junk
+    pt: Junco
+  - key: key_skin_3
+    en: Caravel
+    ko: 캐러벨
+    hans: 轻快帆船
+    hant: 輕快帆船
+    ja: キャラベル
+    de: Karavelle
+    ru: Каравелла
+    fr: Caravelle
+    es: Carabela
+    pt: Caravela
+  - key: key_skin_4
+    en: Chinese Trawler
+    ko: 동방 원양선
+    hans: 东方远洋轮船
+    hant: 東方遠洋輪船
+    ja: 東方遠洋船
+    de: Chinesischer Trawler
+    ru: Китайский траулер
+    fr: Chalutier chinois
+    es: Arrastrero Chino
+    pt: Arrastão chinês
+  - key: key_skin_5
+    en: Dhow
+    ko: 다우
+    hans: 单桅三角帆船
+    hant: 單桅三角帆船
+    ja: ダウ
+    de: Dhow
+    ru: Дау
+    fr: Boutre
+    es: Dhow
+    pt: Dhow
+  - key: key_skin_6
+    en: Galley
+    ko: 갤리
+    hans: 桨帆船
+    hant: 槳帆船
+    ja: ギャリー
+    de: Kombüse
+    ru: Галера
+    fr: Galère
+    es: Galera
+    pt: Galé
+  - key: key_skin_7
+    en: Chinese Flyboat
+    ko: 동방 쾌속선
+    hans: 东方快船
+    hant: 東方快船
+    ja: 東方快速船
+    de: Chinesisches Flyboat
+    ru: Китайская плоскодонка
+    fr: Flibot chinois
+    es: Barco Volador Chino
+    pt: Barco voador chinês
+  - key: key_skin_8
+    en: Fish-head
+    ko: 피쉬헤드
+    hans: 鱼头
+    hant: 魚頭
+    ja: フィッシュヘッド
+    de: Fischkopf
+    ru: Рыбья голова
+    fr: Tête de poisson
+    es: Cabeza de Pez
+    pt: Cabeça de peixe
+  - key: key_skin_9
+    en: Missile
+    ko: 미사일
+    hans: 导弹
+    hant: 導彈
+    ja: ミサイル
+    de: Rakete
+    ru: Ракета
+    fr: Missile
+    es: Misil
+    pt: Barco de mísseis
+  - key: key_skin_10
+    en: Cutter
+    ko: 커터
+    hans: 武装快船
+    hant: 武裝快船
+    ja: カッター
+    de: Messer
+    ru: Рубака
+    fr: Cutter
+    es: Guardacostas
+    pt: Cúter
+  - key: key_skin_11
+    en: Bull
+    ko: 불
+    hans: 公牛
+    hant: 公牛
+    ja: 牡牛
+    de: Stier
+    ru: Бык
+    fr: Taureau
+    es: Toro
+    pt: Canoa
+  - key: key_skin_12
+    en: Swan
+    ko: 스완
+    hans: 天鹅
+    hant: 天鵝
+    ja: 白鳥
+    de: Schwan
+    ru: Лебедь
+    fr: Cygne
+    es: Cisne
+    pt: Skiff
+  - key: key_skin_13
+    en: Viking
+    ko: 바이킹
+    hans: 维京
+    hant: 維京
+    ja: バイキング
+    de: Wikinger
+    ru: Викинг
+    fr: Viking
+    es: Vikingo
+    pt: Karve
+  - key: key_skin_14
+    en: Armadillo
+    ko: 아르마딜로
+    hans: 犰狳
+    hant: 犰狳
+    ja: アルマジロ
+    de: Gürteltier
+    ru: Броненосец
+    fr: Tatou
+    es: Armadillo
+    pt: Navio-tanque
+  - key: key_skin_15
+    en: Galleon
+    ko: 대형 갤리
+    hans: 大型桨帆船
+    hant: 大型槳帆船
+    ja: 大型ギャリー
+    de: Galeone
+    ru: Галеон
+    fr: Galion
+    es: Galeón
+    pt: Galeão
+  - key: key_skin_16
+    en: Castle
+    ko: 캐슬
+    hans: 堡垒
+    hant: 堡壘
+    ja: キャッスル
+    de: Schloss
+    ru: Замок
+    fr: Château
+    es: Castillo
+    pt: Castelo
+  - key: key_skin_17
+    en: Chinese Frigate
+    ko: 동방 대형선
+    hans: 东方大型船
+    hant: 東方大型船
+    ja: 東方大型船
+    de: Chinesische Fregatte
+    ru: Китайский фрегат
+    fr: Frégate chinoise
+    es: Fragata China
+    pt: Fragata chinesa
+  - key: key_skin_18
+    en: Ghost Ship
+    ko: 유령선
+    hans: 幽灵船
+    hant: 幽靈船
+    ja: 幽霊船
+    de: Geisterschiff
+    ru: Корабль-призрак
+    fr: Vaisseau fantôme
+    es: Barco Fantasma
+    pt: Navio fantasma
+  - key: key_skin_19
+    en: Aegis
+    ko: 이지스
+    hans: 宙斯盾
+    hant: 宙斯盾
+    ja: イージス
+    de: Ägide
+    ru: Эгида
+    fr: Aegis
+    es: Tutela
+    pt: Lancha
+  - key: key_skin_raft
+    en: Robinson's Raft
+    ko: 로빈슨의 뗏목
+    hans: 罗宾逊的木筏
+    hant: 羅賓遜的木筏
+    ja: ロビンソンの筏
+    de: Robinsons Floß
+    ru: Плот Робинзона
+    fr: Radeau de Robinson
+    es: Balsa Árbol de Robinson
+    pt: Jangada do Robinson
+  - key: key_challenge
+    en: Challenge
+    ko: 도전
+    hans: 挑战
+    hant: 挑戰
+    ja: 挑戦
+    de: Herausforderung
+    ru: Испытание
+    fr: Défi
+    es: Desafío
+    pt: Desafio
+  - key: key_ready
+    en: Ready
+    ko: 준비
+    hans: 准备
+    hant: 準備
+    ja: 準備
+    de: Bereit
+    ru: Готово
+    fr: Prêt
+    es: Preparado
+    pt: Pronto
+  - key: key_challengeinfo
+    en: You can enter the Challenge Mode at Lv. 100.
+    ko: 레벨 100부터 입장 가능
+    hans: 100等级之后可进入挑战模式
+    hant: 100級後可以進入
+    ja: レベル100以上で入場可能
+    de: Du kannst den Herausforderungsmodus auf St. 100 betreten.
+    ru: Режим испытаний доступен с 100 ур.
+    fr: Vous pouvez entrer en mode Défi au Nv. 100.
+    es: Puede acceder al Modo Desafío en Lv. 100
+    pt: Você pode acessar o modo desafio no nível 100.
+  - key: key_enter
+    en: Enter
+    ko: 입장
+    hans: 进入岛屿
+    hant: 進入
+    ja: 入場
+    de: Betreten
+    ru: Войти
+    fr: Entrer
+    es: Entrar
+    pt: Entrar
+  - key: key_next
+    en: Next
+    ko: 다음
+    hans: 下一步
+    hant: 下一個
+    ja: 次
+    de: Weiter
+    ru: Далее
+    fr: Suivant
+    es: Siguiente
+    pt: Próxima
+  - key: key_stage
+    en: Stage
+    ko: 단계
+    hans: 阶段
+    hant: 階段
+    ja: 段階
+    de: Phase
+    ru: Этап
+    fr: Niveau
+    es: Etapa
+    pt: Fase
+  - key: key_lose
+    en: Lose
+    ko: 패배
+    hans: 失败
+    hant: 失敗
+    ja: 敗北
+    de: Niederlage
+    ru: Поражение
+    fr: Défaite
+    es: Perder
+    pt: Perdeu
+  - key: key_win
+    en: Win !
+    ko: 승리 !
+    hans: 胜利 !
+    hant: 勝利
+    ja: 勝利
+    de: Sieg
+    ru: Победа
+    fr: Victoire
+    es: Ganar
+    pt: Ganhou
+  - key: key_retry
+    en: Retry
+    ko: 재도전
+    hans: 重新挑战
+    hant: 重新挑戰
+    ja: 再挑戦
+    de: Erneut versuchen
+    ru: Повторить
+    fr: Réessayer
+    es: Reintentar
+    pt: Tentar novamente
+  - key: key_exit
+    en: Exit
+    ko: 나가기
+    hans: 退出
+    hant: 離開
+    ja: やめる
+    de: Verlassen
+    ru: Выйти
+    fr: Quitter
+    es: Salida
+    pt: Sair
+  - key: key_continue
+    en: Continue
+    ko: 계속하기
+    hans: 继续
+    hant: 繼續
+    ja: つづける
+    de: Fortsetzen
+    ru: Продолжить
+    fr: Continuer
+    es: Continuar
+    pt: Continuar
+  - key: key_inapp_pack_starter
+    en: Starter Pack
+    ko: 초보자 패키지
+    hans: 初级套餐
+    hant: 新手禮包
+    ja: 初心者パッケージ
+    de: Starter-Paket
+    ru: Набор новичка
+    fr: Pack débutant
+    es: Paquete de Principiante
+    pt: Pacote de iniciante
+  - key: key_inapp_pack_inter
+    en: Intermediate Pack
+    ko: 중급자 패키지
+    hans: 中级套餐
+    hant: 熟手禮包
+    ja: 中級者パッケージ
+    de: Fortgeschrittenen-Paket
+    ru: Набор профессионала
+    fr: Pack intermédiaire
+    es: Paquete Intermedio
+    pt: Pacote de intermediário
+  - key: key_inapp_pack_expert
+    en: Expert Pack
+    ko: 전문가 패키지
+    hans: 高级套餐
+    hant: 專家禮包
+    ja: エキスパートパッケージ
+    de: Experten-Paket
+    ru: Набор эксперта
+    fr: Pack expert
+    es: Paquete Experto
+    pt: Pacote de especialista
+  - key: key_inapp_pack_today
+    en: Today's Legendary Pack
+    ko: 오늘의 레전더리 패키지
+    hans: 今日传奇套餐
+    hant: 今天的傳奇禮包
+    ja: 今日のレジェンドパッケージ
+    de: Heutiges Legendäres Paket
+    ru: Легендарный набор этого дня
+    fr: Pack légendaire du jour
+    es: Paquete Legendario de Hoy
+    pt: Pacote lendário do dia
+  - key: key_inapp_birds
+    en: Birds Pack
+    ko: 선장의 친구들
+    hans: 船长的朋友们
+    hant: 船長的朋友
+    ja: 船長のフレンド
+    de: Vogel-Paket
+    ru: Набор "Птицы"
+    fr: Pack oiseaux
+    es: Paquete Pájaro
+    pt: Pacote de pássaros
+  - key: key_inapp_crewpack
+    en: Crew Card Pack
+    ko: 선원 카드팩
+    hans: 船员卡片套餐
+    hant: 水手卡包
+    ja: 船員カードパック
+    de: Mannschaftskarten-Paket
+    ru: Набор "Экипаж"
+    fr: Packs cartes d'équipage
+    es: Paquete Carta Tripulación
+    pt: Pacote de carta da tripulação
+  - key: key_inapp_chestpack
+    en: Treasure Box Pack
+    ko: 보물 상자 패키지
+    hans: 宝箱套餐
+    hant: 寶箱禮包
+    ja: 宝箱パッケージ
+    de: Schatztruhen-Paket
+    ru: Набор "Сундук с сокровищами"
+    fr: Pack boîte au trésor
+    es: Paquete Caja del Tesoro
+    pt: Pacote de caixa de tesouros
+  - key: key_inapp_blackboxpack
+    en: Black Box Pack
+    ko: 마법 상자 패키지
+    hans: 魔箱套餐
+    hant: 魔法箱禮包
+    ja: マジックボックスパッケージ
+    de: Schwarztruhen-Paket
+    ru: Набор "Черный сундук"
+    fr: Pack boîte noire
+    es: Paquete Caja Negra
+    pt: Pacote de caixa preta
+  - key: key_inapp_goldboxpack
+    en: Gold Box Pack
+    ko: 황금 상자 패키지
+    hans: 金箱套餐
+    hant: 黃金箱禮包
+    ja: ゴールドボックスパッケージ
+    de: Goldtruhen-Paket
+    ru: Набор "Сундук с золотом"
+    fr: Pack boîte d'or
+    es: Paquete Caja de Oro
+    pt: Pacote de caixa dourada
+  - key: key_need_starter
+    en: Need Starter Pack
+    ko: 초보자 패키지가 필요합니다.
+    hans: 请先购买初级套餐
+    hant: 需要新手禮包。
+    ja: 初心者パッケージが必要です。
+    de: Starter-Paket benötigt
+    ru: Требуется набор новичка
+    fr: Besoin d'un Pack débutant
+    es: Paquete Necesario de Principiante
+    pt: Pacote de iniciante necessário
+  - key: key_need_inter
+    en: Need Intermediate Pack
+    ko: 중급자 패키지가 필요합니다.
+    hans: 请先购买中级套餐
+    hant: 需要熟手禮包。
+    ja: 中級者パッケージが必要です。
+    de: Fortgeschrittenen-Paket benötigt
+    ru: Требуется набор профессионала
+    fr: Besoin d'un Pack intermédiaire
+    es: Paquete Necesario de Intermedio
+    pt: Pacote de intermediário necessário
+  - key: key_pushnoti_hp_title
+    en: We're ready to start our journey!
+    ko: 출항 준비 완료 !
+    hans: 出航准备完成！
+    hant: 啟航準備就緒！
+    ja: 出航準備完了！
+    de: Wir sind bereit, unsere Reise zu beginnen!
+    ru: Мы готовы выйти в плавание!
+    fr: Nous sommes prêts à commencer notre voyage !
+    es: ¡Estamos listos para empezar nuestro viaje!
+    pt: Estamos prontos para iniciarmos a nossa jornada!
+  - key: key_pushnoti_hp_body
+    en: "The ship has been repaired!\nLet's set sail again!"
+    ko: "함선이 수리 완료 되었습니다 !\n다시 한번 바다로 떠나보세요 !"
+    hans: "船舶修理完成！\n准备出航！"
+    hant: "艦船修理完成！\n再一次駛向大海吧！"
+    ja: "船の修理が完了しました。\n海に向けて出航しましょう！"
+    de: "Das Schiff wurde repariert!\nLass uns wieder Segel setzen!"
+    ru: "Корабль отремонтирован!\nПора поднять паруса!"
+    fr: "Le navire a été réparé !\nRemettons les voiles !"
+    es: "¡El barco ha sido reparado!\n¡Zarpemos de nuevo!"
+    pt: "O navio precisa de reparos!\nVamos velejar de novo!"
+  - key: tutorial_firstisland_00
+    en: "You arrived on\nthe enemy's island!\nClaim this island by\ndestroying enemy ships"
+    ko: "적이 점령한 섬에\n도착했습니다 !\n표시된 적 함선을 처치하면\n섬을 차지할 수 있습니다."
+    hans: "到达敌军占领岛屿\n消灭所有敌军战舰即可占领岛屿"
+    hant: "到達了敵人\n佔領的島嶼！\n擊殺標記的敵方艦船\n就能佔領島嶼。"
+    ja: "敵が占領している島に\n到着しました！\n表示されている敵の艦船を\n撃退して島を奪還しましょう。"
+    de: "Du hast die Insel des Feindes\nerreicht!\nErobere diese Insel, indem du\nfeindliche Schiffe zerstörst."
+    ru: "Вы приплыли\nна вражеский остров!\nЗахватите его,\nуничтожив чужие корабли."
+    fr: "Vous êtes arrivés sur\nl'île de l'ennemi !\nPrenez l'île en détruisant\nles navires ennemis."
+    es: "¡Has llegado\na la isla enemiga!\nReclama esta isla\ndestruyendo barcos enemigos."
+    pt: "Você chegou na\nilha do inimigo!\nConquiste esta ilha ao\ndestruir a frota inimiga."
+  - key: key_resurrection_info
+    en: "If you are killed, use <color=#FF4200>1</color> and\nresurrect with <color=#FF4200>70% HP</color>"
+    ko: "전투중 사망시 <color=#FF4200>1개</color>를 소모하여\n <color=#FF4200>70%의 HP</color>로 부활"
+    hans: 使用后战斗中死亡时可恢复<color=#FF4200>70%的HP</color>
+    hant: 戰鬥途中死亡時，消耗<color=#FF4200>1個</color>以<color=#FF4200>70%的HP</color>復活
+    ja: 戦闘中死亡時、<color=#FF4200>1個</color>を消費して<color=#FF4200>70%のHP</color>で復活
+    de: Wenn du getötet wurdest, verwende <color=#FF4200>1</color> und wiederbelebe dich mit <color=#FF4200>70 % LP</color>.
+    ru: Если вас убили, используйте <color=#FF4200>1</color>, чтобы воскреснуть с <color=#FF4200>70% ОЗ</color>.
+    fr: Si vous mourez, utilisez <color=#FF4200>1</color> et ressuscitez avec <color=#FF4200>70 % de vos PV</color>.
+    es: Si te matan, usa <color=#FF4200>1</color> y resucita con <color=#FF4200>70% HP</color>.
+    pt: Se morrer, use <color=#FF4200>1</color> para ressuscitar com <color=#FF4200>70% do PV</color>.
+  - key: key_other
+    en: Other
+    ko: 기타
+    hans: 其他
+    hant: 其他
+    ja: その他
+    de: Sonstiges
+    ru: Другое
+    fr: Autre
+    es: Otro
+    pt: Outro
+  - key: key_cloudfail
+    en: "Connection failed\n\nCheck your network"
+    ko: "연결 실패\n\n네트워크 상태를 확인해주세요"
+    hans: "网路连接失败，\n请检查网络状态"
+    hant: "連接失敗\n\n請檢查網路狀態。"
+    ja: "接続失敗\n\nネットワークの状態を確認してください。"
+    de: "Verbindung fehlgeschlagen.\n\nÜberprüfe dein Netzwerk."
+    ru: "Соединение прервано.\n\nПроверьте подключение к сети."
+    fr: "Échec de connexion.\n\nVérifiez votre réseau."
+    es: "La conexión ha fallado.\n\nRevise su red."
+    pt: "Falha na conexão.\n\nConfira a sua rede."
+  - key: key_refresh
+    en: Refresh
+    ko: 새로고침
+    hans: 刷新
+    hant: 刷新
+    ja: 更新
+    de: Aktualisieren
+    ru: Обновить
+    fr: Actualiser
+    es: Recargar
+    pt: Atualizar
+  - key: key_cloudsuccess
+    en: Complete !
+    ko: 완료 !
+    hans: 完成！
+    hant: 完成！
+    ja: 完了！
+    de: Abgeschlossen!
+    ru: Выполнено!
+    fr: Terminé !
+    es: ¡Completado!
+    pt: Concluir!
+  - key: key_callthem
+    en: Call them ?
+    ko: 호출하시겠습니까?
+    hans: 确认呼唤？
+    hant: 是否確定呼叫？
+    ja: 呼び出しますか？
+    de: Rufen?
+    ru: Призвать их?
+    fr: Appeler ?
+    es: ¿Llámalos?
+    pt: Chamá-los?
+  - key: key_10min
+    en: 'Duration: 5 min.'
+    ko: 5분동안 지속
+    hans: 持续时间5分钟
+    hant: 持續5分鐘
+    ja: 5分間持続
+    de: 'Dauer: 5 Min.'
+    ru: 'Длительность: 5 мин.'
+    fr: 'Durée : 5 min.'
+    es: 'Duración: 5 min.'
+    pt: 'Duração: 5 minutos'
+  - key: key_no
+    en: No
+    ko: 아니요
+    hans: 否
+    hant: 否
+    ja: いいえ
+    de: Nein
+    ru: Нет
+    fr: Non
+    es: No
+    pt: Não
+  - key: key_yes
+    en: Yes
+    ko: 예
+    hans: 是
+    hant: 是
+    ja: はい
+    de: Ja
+    ru: Да
+    fr: Oui
+    es: Yes
+    pt: Sim
+  - key: key_askenter
+    en: Enter ?
+    ko: '들어가시겠습니까? '
+    hans: 是否返回至港口
+    hant: 是否確定進入？
+    ja: 入場しますか？
+    de: Betreten?
+    ru: Войти?
+    fr: Entrer ?
+    es: ¿Entrar?
+    pt: Entrar?
+  - key: key_upgrade
+    en: Upgrade
+    ko: 업그레이드
+    hans: 升级
+    hant: 升級
+    ja: アップグレード
+    de: Verbesserung
+    ru: Улучшить
+    fr: Améliorer
+    es: Ascender
+    pt: Atualizar
+  - key: key_flags
+    en: Flags
+    ko: 깃발
+    hans: 旗帜
+    hant: 旗幟
+    ja: 旗
+    de: Flaggen
+    ru: Флаги
+    fr: Drapeaux
+    es: Banderas
+    pt: Bandeiras
+  - key: key_journey
+    en: Set Sail
+    ko: 출항
+    hans: 出航
+    hant: 啟航
+    ja: 出航
+    de: Segel setzen
+    ru: Поднять паруса
+    fr: Embarquer
+    es: Zarpar
+    pt: Velejar
+  - key: key_mainship
+    en: Flagship
+    ko: 기함
+    hans: 旗舰
+    hant: 指揮艦
+    ja: 旗艦
+    de: Flaggschiff
+    ru: Флагман
+    fr: Vaisseau mère
+    es: Insignia
+    pt: Capitânia
+  - key: key_subship
+    en: Escort ship
+    ko: 호위함
+    hans: 护航舰
+    hant: 護衛艦
+    ja: 護衛艦
+    de: Begleitschiff
+    ru: Корабль сопровождения
+    fr: Navire d'escorte
+    es: Buque Escolta
+    pt: Navio de escolta
+  - key: key_normalship
+    en: Normal ship
+    ko: 일반 호위함
+    hans: 普通舰
+    hant: 普通護衛艦
+    ja: 一般護衛艦
+    de: Gewöhnliches Begleitschiff
+    ru: Обычный корабль сопровождения
+    fr: Navire d'escorte commun
+    es: Buque Escolta Común
+    pt: Navio de escolta comum
+  - key: key_rapidship
+    en: Rapid ship
+    ko: 연발 호위함
+    hans: 连发舰
+    hant: 連發護衛艦
+    ja: 連発護衛艦
+    de: Schienenkanonen-Begleitschiff
+    ru: Корабль сопровождения с рельсовой пушкой
+    fr: Navire d'escorte à railgun
+    es: Buque Escolta Electromagnético
+    pt: Navio de escolta com canhão elétrico
+  - key: key_cannonship
+    en: Cannon ship
+    ko: 대포 호위함
+    hans: 大炮舰
+    hant: 大砲護衛艦
+    ja: 大砲護衛艦
+    de: Kanonen-Begleitschiff
+    ru: Корабль сопровождения с пушкой
+    fr: Navire d'escorte à canon
+    es: Buque Escolta Cañón
+    pt: Navio de escolta com canhão
+  - key: key_toxicship
+    en: Gas ship
+    ko: 가스 호위함
+    hans: 毒气舰
+    hant: 燃氣護衛艦
+    ja: ガス護衛艦
+    de: Tank-Begleitschiff
+    ru: Корабль сопровождения с газом
+    fr: Navire d'escorte à essence
+    es: Buque Escolta Gas
+    pt: Navio de escolta com gás
+  - key: key_missileship
+    en: Missile ship
+    ko: 미사일 호위함
+    hans: 导弹舰
+    hant: 導彈護衛艦
+    ja: ミサイル護衛艦
+    de: Raketen-Begleitschiff
+    ru: Корабль сопровождения с ракетами
+    fr: Navire d'escorte à missiles
+    es: Buque Escolta Misil
+    pt: Navio de escolta com míssil
+  - key: key_multipleship
+    en: Multiple ship
+    ko: 다연장 호위함
+    hans: 多功能舰
+    hant: 多管護衛艦
+    ja: 多連装護衛艦
+    de: Mehrzweck-Begleitschiff
+    ru: Корабль сопровождения многоцелевой
+    fr: Navire d'escorte polyvalent
+    es: Buque Escolta Multi-Usos
+    pt: Navio de escolta multiuso
+  - key: key_levelup
+    en: Level Up
+    ko: 강화
+    hans: 升级
+    hant: 強化
+    ja: 強化
+    de: Stufenaufstieg
+    ru: Повышение уровня
+    fr: Augmentation niveau
+    es: Subir de Nivel
+    pt: Aumentar o nível
+  - key: key_lock
+    en: Lock
+    ko: 잠김
+    hans: 锁定
+    hant: 上鎖
+    ja: ロック
+    de: Aufschalten
+    ru: Закрыто
+    fr: Bloquer
+    es: Bloquear
+    pt: Bloquear
+  - key: key_fixnow
+    en: Fix Now
+    ko: 즉시 수리
+    hans: 立即修理
+    hant: 立即修理
+    ja: 即時修理
+    de: Jetzt reparieren
+    ru: Починить
+    fr: Réparer maintenant
+    es: Reparar ahora
+    pt: Reparar agora
+  - key: key_crews
+    en: Crew
+    ko: 선원
+    hans: 船员
+    hant: 水手
+    ja: 船員
+    de: Mannschaft
+    ru: Экипаж
+    fr: Équipage
+    es: Tripulación
+    pt: Tripulação
+  - key: key_boatswain
+    en: Boatswain
+    ko: 갑판원
+    hans: 水手
+    hant: 甲板員
+    ja: 甲板員
+    de: Bootsmann
+    ru: Боцман
+    fr: Maître d'équipage
+    es: Contramaestre
+    pt: Contramestre
+  - key: key_gunner
+    en: Gunner
+    ko: 포수
+    hans: 炮手
+    hant: 砲手
+    ja: 砲手
+    de: Kanonier
+    ru: Канонир
+    fr: Tireur
+    es: Artillero
+    pt: Artilheiro
+  - key: key_sailingmaster
+    en: Sailing Master
+    ko: 조범수
+    hans: 航海官
+    hant: 航海官
+    ja: 操帆手
+    de: Segelmeister
+    ru: Штурман
+    fr: Navigateur expert
+    es: Capitán de vela
+    pt: Mestre
+  - key: key_steersman
+    en: Steersman
+    ko: 조타수
+    hans: 舵手
+    hant: 舵手
+    ja: 操舵手
+    de: Steuermann
+    ru: Рулевой
+    fr: Timonier
+    es: Timonero
+    pt: Timoneiro
+  - key: key_endnow
+    en: End Now
+    ko: 즉시 완료
+    hans: 立即完成
+    hant: 立即完成
+    ja: 即時完了
+    de: Jetzt beenden
+    ru: Завершить
+    fr: Terminer maintenant
+    es: Terminar ahora
+    pt: Finalizar agora
+  - key: key_back
+    en: Back
+    ko: 뒤로
+    hans: 后退
+    hant: 返回
+    ja: 戻る
+    de: Zurück
+    ru: Назад
+    fr: Retour
+    es: Atrás
+    pt: Voltar
+  - key: key_island
+    en: Island
+    ko: 섬
+    hans: 岛屿
+    hant: 島嶼
+    ja: 島
+    de: Insel
+    ru: Остров
+    fr: Île
+    es: Isla
+    pt: Ilha
+  - key: key_world
+    en: World
+    ko: 월드
+    hans: 世界
+    hant: 世界
+    ja: ワールド
+    de: Welt
+    ru: Мир
+    fr: Monde
+    es: Mundo
+    pt: Mundo
+  - key: key_reward
+    en: Reward
+    ko: 보상
+    hans: 奖励
+    hant: 獎勵
+    ja: 報酬
+    de: Belohnung
+    ru: Награда
+    fr: Récompense
+    es: Premiar
+    pt: Recompensa
+  - key: key_setdest
+    en: Set Destination
+    ko: 목표 설정
+    hans: 设定目的地
+    hant: 目標設置
+    ja: 目標設定
+    de: Ziel setzen
+    ru: Выбрать место назначения
+    fr: Définir destination
+    es: Elegir Destino
+    pt: Escolher destino
+  - key: key_cancel
+    en: Cancel
+    ko: 취소
+    hans: 取消
+    hant: 取消
+    ja: キャンセル
+    de: Abbrechen
+    ru: Отмена
+    fr: Annuler
+    es: Cancelar
+    pt: Cancelar
+  - key: key_teleport
+    en: Teleport
+    ko: 즉시 이동
+    hans: 移动
+    hant: 立即移動
+    ja: 即時移動
+    de: Teleportieren
+    ru: Телепортация
+    fr: Téléportation
+    es: Teletransportar
+    pt: Teletransportar
+  - key: key_cantteleport
+    en: Can not Teleport
+    ko: 즉시 이동 불가
+    hans: 不可移动
+    hant: 無法立即移動
+    ja: 即時移動不可
+    de: Kann nicht teleportieren
+    ru: Телепортация недоступна
+    fr: Ne pas téléporter
+    es: No se puede teletransportar
+    pt: Não foi possível teletransportar
+  - key: key_deadask
+    en: Do you want to resurrect here?
+    ko: 여기서 부활 하시겠습니까?
+    hans: 确认现在复活吗？
+    hant: 是否確定在這裡復活？
+    ja: ここで復活しますか？
+    de: Möchtest du hier wiederbeleben?
+    ru: Хотите воскреснуть?
+    fr: Ressusciter ici ?
+    es: ¿Quiere revivir aquí?
+    pt: Ressuscitar aqui?
+  - key: key_dead
+    en: Killed
+    ko: 죽음
+    hans: 死亡
+    hant: 死亡
+    ja: 死亡
+    de: Getötet
+    ru: Убит
+    fr: Morts
+    es: Muerto.
+    pt: Morreu
+  - key: key_sec
+    en: Sec
+    ko: 초
+    hans: 秒
+    hant: 秒
+    ja: 秒
+    de: Sek.
+    ru: сек.
+    fr: Sec.
+    es: Seg.
+    pt: Segundo
+  - key: key_buy
+    en: Buy
+    ko: 구매
+    hans: 购买
+    hant: 購買
+    ja: 購入
+    de: Kaufen
+    ru: Купить
+    fr: Acheter
+    es: Comprar
+    pt: Comprar
+  - key: key_get
+    en: Get
+    ko: 얻기
+    hans: 获取
+    hant: 獲得
+    ja: 獲得
+    de: Nehmen
+    ru: Получить
+    fr: Obtenir
+    es: Conseguir
+    pt: Pegar
+  - key: key_bgm
+    en: BGM
+    ko: 배경음
+    hans: 背景音乐
+    hant: 背景音樂
+    ja: BGM
+    de: HINTERGRUNDMUSIK
+    ru: Музыка
+    fr: MUSIQUE
+    es: BGM
+    pt: Trilha sonora
+  - key: key_sfx
+    en: EFFECT
+    ko: 효과음
+    hans: 效果音乐
+    hant: 效果音
+    ja: 効果音
+    de: EFFEKT
+    ru: ЭФФЕКТЫ
+    fr: EFFETS
+    es: EFECTO
+    pt: EFEITO
+  - key: key_setting
+    en: Setting
+    ko: 설정
+    hans: 设置
+    hant: 設置
+    ja: 設定
+    de: Einstellung
+    ru: Параметры
+    fr: Réglages
+    es: Ajuste
+    pt: Configuração
+  - key: key_package
+    en: Package
+    ko: 패키지
+    hans: 套餐
+    hant: 禮包
+    ja: パッケージ
+    de: Paket
+    ru: Набор
+    fr: Pack
+    es: Paquete
+    pt: Pacote
+  - key: key_hotdeal
+    en: HOT DEAL
+    ko: 핫 딜
+    hans: 热门交易
+    hant: 熱銷
+    ja: HOT DEAL
+    de: TOPANGEBOT
+    ru: АКЦИЯ
+    fr: BON PLAN
+    es: Oferta Especial
+    pt: SUPERPROMOÇÃO
+  - key: key_chest
+    en: Chest
+    ko: 상자
+    hans: 木箱
+    hant: 寶箱
+    ja: ボックス
+    de: Truhe
+    ru: Сундук
+    fr: Coffre
+    es: Cofre
+    pt: Baú
+  - key: key_crystal
+    en: Crystal
+    ko: 크리스탈
+    hans: 宝石
+    hant: 水晶
+    ja: クリスタル
+    de: Kristall
+    ru: Кристалл
+    fr: Cristal
+    es: Cristal
+    pt: Cristal
+  - key: key_store
+    en: Store
+    ko: 상점
+    hans: 商店
+    hant: 商店
+    ja: ショップ
+    de: Laden
+    ru: Магазин
+    fr: Boutique
+    es: Tienda
+    pt: Loja
+  - key: key_capturedisland
+    en: Captured island
+    ko: 점령한 섬
+    hans: 占领岛屿
+    hant: 佔領的島嶼
+    ja: 占領した島
+    de: Eroberte Insel
+    ru: Захваченный остров
+    fr: Île capturée
+    es: Isla Capturada
+    pt: Ilha capturada
+  - key: key_chestslots
+    en: Chest Slot
+    ko: 상자 슬롯
+    hans: 木箱位置
+    hant: 寶箱槽
+    ja: ボックススロット
+    de: Truhen-Slot
+    ru: Ячейка сундука
+    fr: Emplacement coffre
+    es: Hueco de cofre
+    pt: Espaço para baú
+  - key: key_slotempty
+    en: empty
+    ko: 빈 슬롯
+    hans: 空箱
+    hant: 空槽
+    ja: 空きスロット
+    de: Leerer Slot
+    ru: Пустая ячейка
+    fr: Emplacement libre
+    es: Hueco Vacío
+    pt: Espaço vazio
+  - key: key_slotlocked
+    en: "Slot\nLocked"
+    ko: "슬롯\n잠김"
+    hans: 位置锁定
+    hant: 上鎖
+    ja: スロットロック
+    de: "Slot\ngesperrt"
+    ru: "Ячейка\nЗакрыто"
+    fr: "Emplacement\nbloqué"
+    es: "Hueco\nBloqueado"
+    pt: "Espaço\nBloqueado"
+  - key: key_open
+    en: Open
+    ko: 열기
+    hans: 打开
+    hant: 打開
+    ja: オープン
+    de: Freischalten
+    ru: Открыть
+    fr: Débloquer
+    es: Desbloquear
+    pt: Desbloquear
+  - key: key_freechest
+    en: Free
+    ko: 무료 상자
+    hans: 免费木箱
+    hant: 免費寶箱
+    ja: 無料ボックス
+    de: Frei
+    ru: Бесплатно
+    fr: Gratuit
+    es: Libre
+    pt: Grátis
+  - key: key_active
+    en: Active
+    ko: 발동 효과
+    hans: 发动效果
+    hant: 發動效果
+    ja: 発動効果
+    de: Aktiv
+    ru: Активн.
+    fr: Actif
+    es: Activar
+    pt: Ativo
+  - key: key_passive
+    en: Passive
+    ko: 자동 효과
+    hans: 自动效果
+    hant: 自動效果
+    ja: 自動効果
+    de: Passiv
+    ru: Пассивн.
+    fr: Passif
+    es: Desactivar
+    pt: Passivo
+  - key: key_activecrew1name
+    en: Fire Mage
+    ko: 불의 마법사
+    hans: 火法师
+    hant: 火之魔法師
+    ja: 火の魔法使い
+    de: Feuermagier
+    ru: Маг огня
+    fr: Mage de feu
+    es: Mago del Fuego
+    pt: Mago ígneo
+  - key: key_activecrew1log
+    en: "Deals massive damage around wide area\nand temporarily increases attack damage."
+    ko: 불의 마법을 사용하여 넓은 지역에 피해를 입히고, 일시적으로 공격력을 대폭 향상시킵니다
+    hans: 大范围内造成更大伤害，短时间内增强攻击力
+    hant: 使用火魔法對大範圍造成傷害，短時間內使攻擊力大福提升。
+    ja: "火の魔法を使用して広い範囲にダメージを与えるとともに、\n一時的に攻撃力を大幅に上昇させます。"
+    de: "Verursacht in einem großen Bereich massiven Schaden\nund steigert vorübergehend den Angriffsschaden."
+    ru: "Наносит серьезный урон по области\nи временно увеличивает урон при атаке."
+    fr: "Inflige des dégâts massives dans une zone vaste\net augmente temporairement les dégâts d'attaque."
+    es: "Lidia con daños masivos en un área amplia \ny aumenta temporalmente el daño en el ataque."
+    pt: "Causa dano grave em uma área ampla\ne aumenta o dano de ataque temporariamente."
+  - key: key_activecrew2name
+    en: Lightning Mage
+    ko: 번개의 마법사
+    hans: 闪电法师
+    hant: 雷之魔法師
+    ja: 雷の魔法使い
+    de: Blitzmagier
+    ru: Маг молнии
+    fr: Mage de foudre
+    es: Mago del Rayo
+    pt: Mago dos relâmpagos
+  - key: key_activecrew2log
+    en: "Shoots lightning to nearby enemies\nand temporarily increases ship speed."
+    ko: 번개의 마법을 사용하여 가까운 지역에 번개를 발사하고, 일시적으로 속도를 대폭 향상시킵니다
+    hans: 近距离闪电电击敌船，短时间内增大速度
+    hant: 使用雷魔法向附近地區發射雷電，短時間內使速度大福提升。
+    ja: "雷の魔法を使用して近い地域に雷を発射するとともに、\n一時的に速度を大幅に上昇させます。"
+    de: "Verschießt Blitze auf umstehende Feinde\nund steigert vorübergehend die Schiffsgeschwindigkeit."
+    ru: "Направляет молнии в ближайших врагов\nи временно увеличивает скорость корабля."
+    fr: "Tire de la foudre sur les ennemis proches et\naugmente temporairement la vitesse du navire."
+    es: "Dispara rayos a enemigos cercanos\ny aumenta temporalmente la velocidad del barco."
+    pt: "Lança raios nos inimigos próximos\ne aumenta a velocidade do navio temporariamente."
+  - key: key_activecrew3name
+    en: Wind Mage
+    ko: 바람의 마법사
+    hans: 风法师
+    hant: 風之魔法師
+    ja: 風の魔法使い
+    de: Windmagier
+    ru: Маг ветра
+    fr: Mage de vent
+    es: Mago del Viento
+    pt: Mago eólico
+  - key: key_activecrew3log
+    en: "Pushes enemies far back\nand temporarily generates a shield."
+    ko: 바람의 마법을 사용하여 적을 멀리 밀어내고, 일시적으로 보호막을 얻습니다
+    hans: 把敌船推到远处，获取临时保护膜
+    hant: 使用風魔法推開敵人，在短時間內生成護盾。
+    ja: "風の魔法を使用して敵を遠くへと吹き飛ばすとともに、\n一時的にシールドを生成します。"
+    de: "Drängt Feinde weit zurück\nund erzeugt vorübergehend einen Schild."
+    ru: "Отбрасывает врагов назад\nи создает временный щит."
+    fr: "Repousse les ennemis au loin et\ncrée temporairement un bouclier."
+    es: "Empuja enemigos lejos\ny temporalmente genera un escudo."
+    pt: "Empurra os inimigos para longe\ne gera escudo temporariamente."
+  - key: key_power
+    en: ATK
+    ko: 공격력
+    hans: 攻击力
+    hant: 攻擊力
+    ja: 攻撃力
+    de: ANG
+    ru: АТК
+    fr: ATQ
+    es: ATK
+    pt: ATQ
+  - key: key_cooltime
+    en: CoolTime
+    ko: 재사용 시간
+    hans: 冻结时间
+    hant: 冷卻時間
+    ja: 再使用時間
+    de: Abklingzeit
+    ru: Замедление времени
+    fr: Temps recharge
+    es: Hora de calma
+    pt: Tempo de recarga
+  - key: key_activecrew1buff
+    en: Increase ATK
+    ko: 공격력 증가
+    hans: 增加攻击力
+    hant: 增加攻擊力
+    ja: 攻撃力上昇
+    de: ANG steigern
+    ru: Увеличение АТК
+    fr: Augmentation ATQ
+    es: Aumentar ATK
+    pt: Aumenta o ATQ
+  - key: key_activecrew2buff
+    en: Increase Speed
+    ko: 속도 증가
+    hans: 增加速度
+    hant: 增加速度
+    ja: 速度上昇
+    de: Geschwindigkeit steigern
+    ru: Увеличение скорости
+    fr: Augmentation vitesse
+    es: Aumentar Velocidad
+    pt: Aumenta a velocidade
+  - key: key_activecrew3buff
+    en: Shield
+    ko: 보호막
+    hans: 保护膜
+    hant: 護盾
+    ja: シールド
+    de: Schild
+    ru: Щит
+    fr: Bouclier
+    es: Escudo
+    pt: Escudo
+  - key: key_duration
+    en: Duration
+    ko: 지속시간
+    hans: 持续时间
+    hant: 持續時間
+    ja: 持続時間
+    de: Dauer
+    ru: Длительность
+    fr: Durée
+    es: Duración
+    pt: Duração
+  - key: key_passivecrew1name
+    en: Supreme Officer
+    ko: 위대한 항해사
+    hans: 伟大的航海士
+    hant: 偉大的航海士
+    ja: 偉大な航海士
+    de: Höchster Offizier
+    ru: Отличный лоцман
+    fr: Officier suprême
+    es: Oficial Superior
+    pt: Comandante-chefe
+  - key: key_passivecrew1log
+    en: Become immune to debuff elements in the World
+    ko: 월드에 존재하는 부정적 환경요소를 무시합니다
+    hans: 获取远离危险航海区域的能力
+    hant: 無視世界上的負面環境因素。
+    ja: ワールドに配置されているトラップを無視します。
+    de: Werde immun, um Elemente der Welt zu schwächen.
+    ru: Получает иммунитет к препятствиям в мире.
+    fr: Devenez insensible aux éléments de debuff dans le monde.
+    es: Volverse inmune para perjudicar elementos en el Mundo.
+    pt: Torne-se imune às penalidades do mundo.
+  - key: key_fog
+    en: Fog
+    ko: 안개
+    hans: 雾
+    hant: 濃霧
+    ja: 霧
+    de: Nebel
+    ru: Туман
+    fr: Brouillard
+    es: Niebla
+    pt: Névoa
+  - key: key_reef
+    en: Reef
+    ko: 암초
+    hans: 暗礁
+    hant: 礁石
+    ja: 岩礁
+    de: Riff
+    ru: Риф
+    fr: Récif
+    es: Arrecife
+    pt: Coral
+  - key: key_thorn
+    en: Thorn
+    ko: 가시
+    hans: 刺
+    hant: 尖刺
+    ja: 棘
+    de: Dorn
+    ru: Заросли
+    fr: Épine
+    es: Pincho
+    pt: Espinho
+  - key: key_immune
+    en: Immune
+    ko: '면역 : '
+    hans: 免除
+    hant: 免疫：
+    ja: '免疫 :'
+    de: 'Immun:'
+    ru: 'Иммунитет:'
+    fr: 'Protection :'
+    es: 'Inmune:'
+    pt: 'Imune:'
+  - key: key_passivecrew1skill
+    en: Perfect Sailing
+    ko: 완벽한 항해
+    hans: 完美的航海
+    hant: 完美的航行
+    ja: 完璧な航海
+    de: Perfektes Segeln
+    ru: Идеальное плавание
+    fr: Navigation parfaite
+    es: Navegación perfecta
+    pt: Navegação perfeita
+  - key: key_passivecrew2name
+    en: Supreme Shipmaster
+    ko: 위대한 부선장
+    hans: 伟大的副船长
+    hant: 偉大的副船長
+    ja: 偉大な副船長
+    de: Höchster Schiffsführer
+    ru: Отличный шкипер
+    fr: Capitaine ultime
+    es: Capitán Superior
+    pt: Capitão Supremo
+  - key: key_passivecrew2log
+    en: Gain additional ship slot
+    ko: 추가 보조함을 소환할 수 있게 합니다
+    hans: 获取更多护航舰位置
+    hant: 可以召喚輔助艦。
+    ja: 追加補助艦が召喚できるようになります。
+    de: Erhalte einen zusätzlichen Schiffs-Slot.
+    ru: Получает дополнительную ячейку корабля.
+    fr: Obtenez un emplacement de navire supplémentaire.
+    es: Ganar hueco adicional de buque
+    pt: Ganhe mais um espaço de navio.
+  - key: key_passivecrew2skill
+    en: Bigger Fleet
+    ko: 더 큰 함대
+    hans: 更多舰队
+    hant: 更大的艦隊
+    ja: より偉大な艦隊
+    de: Größere Flotte
+    ru: Большой флот
+    fr: Plus grosse flotte
+    es: Flota mayor
+    pt: Frota maior
+  - key: key_passivecrew3name
+    en: Supreme Recruiter
+    ko: 위대한 징병관
+    hans: 伟大的征兵官
+    hant: 偉大的徵兵官
+    ja: 痛いな徴兵官
+    de: Höchster Rekrutierer
+    ru: Отличный вербовщик
+    fr: Recruteur suprême
+    es: Reclutador Superior
+    pt: Recruta Supremo
+  - key: key_passivecrew3log
+    en: Reduces recruit time for all Escort Ships
+    ko: 모든 보조함의 소환 시간을 단축합니다
+    hans: 减少所有护航舰制造时间
+    hant: 縮短所有輔助艦的召喚時間。
+    ja: 全ての補助艦の召喚時間を短縮します。
+    de: Verringert die Rekrutierungszeit für alle Begleitschiffe.
+    ru: Снижает время вербовки для всех кораблей сопровождения.
+    fr: Réduit le temps de recrutement pour tous les navires d'escorte.
+    es: Reduce tiempo de reclutamiento para todos los Buques Escoltas.
+    pt: Reduz o tempo de recruta para todos os navios de escolta.
+  - key: key_passivecrew3skill
+    en: Speedy Recruit
+    ko: 빠른 소집
+    hans: 更快征兵
+    hant: 快速召集
+    ja: 素早い招集
+    de: Schneller Rekrut
+    ru: Быстрый вербовщик
+    fr: Recrutement rapide
+    es: Reclutamiento rápido
+    pt: Recruta veloz
+  - key: key_passivecrew4name
+    en: Supreme Gunner
+    ko: 위대한 사냥꾼
+    hans: 伟大的炮手
+    hant: 偉大的獵人
+    ja: 偉大なハンター
+    de: Höchster Kanonier
+    ru: Отличный канонир
+    fr: Canonnier suprême
+    es: Artillero Superior
+    pt: Artilheiro Supremo
+  - key: key_passivecrew4log
+    en: Decreases all enemies` Max HP
+    ko: 모든 적의 최대 체력을 감소시킵니다
+    hans: 给予敌船最大攻击
+    hant: 降低敵人全體的最大HP。
+    ja: 全ての敵の最大体力を低下させます。
+    de: Verringert die maximale LP aller Feinde.
+    ru: Снижает макс. ОЗ всех врагов.
+    fr: Réduit les PV max. de tous les ennemis.
+    es: Reduce el max HP de todos los enemigos.
+    pt: Diminui o PV máximo de todos os inimigos.
+  - key: key_passivecrew4skill
+    en: Expose Armor
+    ko: 약점 노출
+    hans: 曝光弱点
+    hant: 弱點暴露
+    ja: 弱点露出
+    de: Panzerung exponieren
+    ru: Дает информацию о вооружении
+    fr: Exposer armure
+    es: Exponer Armadura
+    pt: Arsenal exposto
+  - key: key_passivecrew5name
+    en: Supreme Merchant
+    ko: 위대한 상인
+    hans: 伟大的商人
+    hant: 偉大的商人
+    ja: 偉大な商人
+    de: Höchster Kaufmann
+    ru: Отличный торговец
+    fr: Marchand suprême
+    es: Comerciante Superior
+    pt: Mercante Supremo
+  - key: key_passivecrew5log
+    en: Gain Gold based on your current level at every 20 sec. after sailing off
+    ko: 출항 후 매 20초마다 현재 레벨에 비례한 코인을 획득합니다
+    hans: 出航后每20秒可获取对应等级的金币
+    hant: 啟航後每20秒獲得與當前等級成比例的金幣。
+    ja: 出航後、20秒ごとに現在のレベルに比例したコインを獲得できます。
+    de: "Erhalte nach dem Setzen der Segel alle 20 Sek.\nGold basierend auf deiner gegenwärtigen Stufe."
+    ru: "Приносит золото каждые 20 сек.\nпосле отплытия, в зависимости от вашего уровня."
+    fr: "Gagnez de l'or en fonction de votre niveau actuel toutes\nles 20 secondes après l'embarcation."
+    es: "Conseguir Oro en base a tu nivel actual cada 20 seg.\ndespués de zarpar."
+    pt: "Ganhe ouro baseado no seu nível atual a cada\n20 segundos depois de velejar."
+  - key: key_passivecrew5skill
+    en: Time is Money
+    ko: 시간은 금
+    hans: 时间就是金钱
+    hant: 時間是金錢
+    ja: 時は金なり
+    de: Zeit ist Geld
+    ru: Время - деньги
+    fr: Le temps c'est de l'argent
+    es: El tiempo es dinero.
+    pt: Tempo é dinheiro
+  - key: key_starterpackage
+    en: Starter Package
+    ko: 스타터 패키지
+    hans: 初级套餐
+    hant: 新人禮包
+    ja: スターターパッケージ
+    de: Starter-Paket
+    ru: Набор новичка
+    fr: Pack débutant
+    es: Paquete de Principiante
+    pt: Pacote de iniciante
+  - key: key_sclass
+    en: '<color=#FFE700FF>S Class</color> Medusa Character'
+    ko: '<color=#FFE700FF>S 등급</color> 메두사 선원'
+    hans: '<color=#FFE700FF>S 等级</color> 美杜莎船员'
+    hant: '<color=#FFE700FF>S級</color>美杜莎水手'
+    ja: '<color=#FFE700FF>S等級</color>メデューサ船員'
+    de: '<color=#FFE700FF>S-Klasse</color> Medusa-Charakter'
+    ru: Медуза <color=#FFE700FF>класса S</color>
+    fr: Personnage Medusa <color=#FFE700FF>classe S</color>
+    es: '<color=#FFE700FF>S Class</color> Personaje Medusa'
+    pt: Personagem Medusa de<color=#FFE700FF>Classe S</color>
+  - key: key_medusa
+    en: + <color=#FFE700FF>S Class</color> Chest Box x 5
+    ko: + <color=#FFE700FF>S 등급</color> 상자 x 5
+    hans: + <color=#FFE700FF>S 等级</color> 木箱 x 5
+    hant: ' + <color=#FFE700FF>S級</color>寶箱x5'
+    ja: + <color=#FFE700FF>S等級</color>ボックス x 5
+    de: + <color=#FFE700FF>S-Klasse</color> Truhenkiste x5
+    ru: + 5 сундуков <color=#FFE700FF>класса S</color>
+    fr: + Boîte au trésor <color=#FFE700FF>classe S</color> x 5
+    es: + <color=#FFE700FF>S Class</color> Caja Cofre x 5
+    pt: + Caixa de baú x5 de <color=#FFE700FF>Classe S</color>
+  - key: key_parrotpackage
+    en: Parrot Package
+    ko: 앵무새 패키지
+    hans: 鹦鹉套餐
+    hant: 鸚鵡禮包
+    ja: オウム
+    de: Papagei-Paket
+    ru: Набор "Попугай"
+    fr: Pack perroquet
+    es: Paquete Loro
+    pt: Pacote de papagaio
+  - key: key_parrot
+    en: Parrot
+    ko: 앵무새
+    hans: 鹦鹉
+    hant: 鸚鵡
+    ja: オウムパッケージ
+    de: Papagei
+    ru: Попугай
+    fr: Perroquet
+    es: Loro
+    pt: Papagaio
+  - key: key_parroteffect
+    en: Heal 3% per 10sec
+    ko: 10초당 3% 체력 회복
+    hans: 每10秒恢复3%体力
+    hant: 每10秒恢復10HP
+    ja: 10秒ごとに3%体力回復
+    de: Stelle alle 10 Sek. 3 % der LP wieder her.
+    ru: Восстанавливает 3% ОЗ каждые 10 сек.
+    fr: Récupérez 3 % des PV toutes les 10 s.
+    es: Recuperar 3% de HP cada 10 seg.
+    pt: Recupera 3% do PV a cada 10 segundos.
+  - key: key_chestbirdeffect
+    en: Slot + 1
+    ko: 슬롯 추가
+    hans: 位置+1
+    hant: 擴展插槽
+    ja: スロット追加
+    de: Slot +1
+    ru: Ячейка + 1
+    fr: Emplacements + 1
+    es: Hueco + 1
+    pt: Espaço +1
+  - key: key_eaglepackage
+    en: Eagle Package
+    ko: 독수리 패키지
+    hans: 雄鹰套餐
+    hant: 老鷹禮包
+    ja: ハゲワシパッケージ
+    de: Adler-Paket
+    ru: Набор "Орел"
+    fr: Pack aigle
+    es: Paquete Águila
+    pt: Pacote de águia
+  - key: key_eagle
+    en: Eagle
+    ko: 독수리
+    hans: 雄鹰
+    hant: 老鷹
+    ja: ハゲワシ
+    de: Adler
+    ru: Орел
+    fr: Aigle
+    es: Águila
+    pt: Águia
+  - key: key_eagleeffect
+    en: Auto Pick Up
+    ko: 상자 자동 획득
+    hans: 自动收取木箱
+    hant: 自動獲得寶箱
+    ja: ボックス自動獲得
+    de: Autom. Aufsammeln
+    ru: Автосбор
+    fr: Récupération auto
+    es: Auto Recoger
+    pt: Coleta automática
+  - key: key_removeads
+    en: Remove Ads
+    ko: 광고 제거
+    hans: 去除广告
+    hant: 清除廣告
+    ja: 広告非表示
+    de: Anzeigen entfernen
+    ru: Убрать рекламу
+    fr: Supprimer pubs
+    es: Eliminar Anuncios
+    pt: Remover propagandas
+  - key: key_expectedreward
+    en: Expected Reward
+    ko: 예상 획득량
+    hans: 预计获取量
+    hant: 預計獲得量
+    ja: 予想獲得量
+    de: Erwartete Belohnung
+    ru: Ожидаемая награда
+    fr: Récompense attendue
+    es: Recompensa Esperada
+    pt: Recompensa esperada
+  - key: key_addchestslot
+    en: Additional Chest Slot
+    ko: 상자 슬롯 추가
+    hans: 增加木箱位置
+    hant: 擴展寶箱槽
+    ja: ボックススロット追加
+    de: Zusätzlicher Truhen-Slot
+    ru: Дополнительная ячейка сундука
+    fr: Emplacement coffre supplémentaire
+    es: Hueco de cofre adicional
+    pt: Espaço de baú extra
+  - key: key_soldout
+    en: Sold Out
+    ko: 품절
+    hans: 售完
+    hant: 售完
+    ja: 売切
+    de: Ausverkauft
+    ru: Продано
+    fr: Rupture
+    es: Agotado
+    pt: Esgotado
+  - key: key_blackchest
+    en: Black Chest
+    ko: 마법 상자
+    hans: 魔箱
+    hant: 魔法箱
+    ja: マジックボックス
+    de: Magische Truhe
+    ru: Волшебный сундук
+    fr: Coffre magique
+    es: Cofre Mágico
+    pt: Baú mágico
+  - key: key_goldchest
+    en: Gold Chest
+    ko: 황금 상자
+    hans: 金箱
+    hant: 黃金箱
+    ja: ゴールドボックス
+    de: Goldtruhe
+    ru: Сундук с золотом
+    fr: Coffre d'or
+    es: Cofre de Oro
+    pt: Baú de ouro
+  - key: key_openimmediately
+    en: Open Now
+    ko: 즉시 개방
+    hans: 立即打开
+    hant: 立即開啟
+    ja: 即時オープン
+    de: Jetzt öffnen
+    ru: Открыть
+    fr: Ouvrir maintenant
+    es: Abrir ahora
+    pt: Abrir agora
+  - key: key_resurrection
+    en: Resurrection
+    ko: 부활권
+    hans: 复活券
+    hant: 復活券
+    ja: 復活券
+    de: Wiederbelebungsticket
+    ru: Билет на воскрешение
+    fr: Ticket résurrection
+    es: Ticket de Resurrección
+    pt: Ingresso de ressurreição
+  - key: key_free
+    en: FREE
+    ko: 무료
+    hans: 观看广告
+    hant: 看廣告
+    ja: 広告視聴
+    de: Anzeige ansehen
+    ru: Смотреть рекламу
+    fr: Regarder pub
+    es: Ver Anuncio
+    pt: Assistir à propaganda
+  - key: tutorial_00
+    en: "Captain!\nWe are\nready to sail!"
+    ko: "선장님,\n출항 준비가\n완료되었습니다 !"
+    hans: 船长，已经准备好出发！
+    hant: "船長，\n啟航準備\n已經就緒了！"
+    ja: "船長、\n出航の準備が\n整いました！"
+    de: "Kapitän!\nWir sind bereit,\ndie Segel zu segeln!"
+    ru: "Капитан!\nМы готовы\nк отплытию!"
+    fr: "Capitaine !\nNous sommes prêts\nà embarquer !"
+    es: "¡Capitán!\n¡Estamos listos\npara zarpar!"
+    pt: "Capitão!\nEstamos\nprontos para velejar!"
+  - key: tutorial_01
+    en: "Press the Set Sail\nbutton and anchor off!"
+    ko: "출항 버튼을 눌러 바다로\n나아갑시다 !"
+    hans: 点击开始旅行！
+    hant: "點擊啟航\n駛向大海吧！"
+    ja: "出航ボタンを押して\n海へと出航しましょう！"
+    de: "Drücke auf „Segel setzen“\nund hole den Anker ein!"
+    ru: "Нажмите \"Поднять паруса\",\nчтобы отчалить!"
+    fr: "Appuyez sur le bouton Embarquer\net larguez les amarres !"
+    es: "Pulsa el botón de Zarpar\ny quita el ancla. "
+    pt: "Pressione o botão\nVelejar para subir a âncora!"
+  - key: tutorial_02
+    en: "Drag the ship\nto move or\nchange direction."
+    ko: "함선은 드래그를 통해\n이동 또는 회전\n가능합니다."
+    hans: 通过拖拽船舶移动或换向
+    hant: "拖動螢幕\n就能使艦船\n移動或旋轉。"
+    ja: "船をドラッグすると\n移動または回転が\n可能です。"
+    de: "Ziehe das Schiff,\num es zu bewegen oder\ndie Richtung zu ändern."
+    ru: "Перетащите корабль,\nчтобы плыть или\nсменить направление."
+    fr: "Déplacez le navire\npour vous déplacer ou\nchanger de direction."
+    es: "Arrastra el barco\npara mover\no cambiar de dirección."
+    pt: "Arraste o navio\npara se mover ou\nmudar a direção."
+  - key: tutorial_03
+    en: "Look !\nThere is a Wooden\nChest"
+    ko: 앗 ! 저기에 나무상자가 보입니다 !
+    hans: 看！那里有一个木箱！
+    hant: 啊！那裡有一個木箱！
+    ja: あっ！あそこに木箱があります！
+    de: Schau! Da ist eine Holztruhe!
+    ru: Смотрите! Деревянный сундук!
+    fr: Regardez ! Un coffre de bois !
+    es: ¡Mira! ¡Hay un Cofre de Madera!
+    pt: Olhe! É um baú de madeira!
+  - key: tutorial_04
+    en: Let`s pick it up
+    ko: 함선을 이동시켜 나무상자를 획득해봅시다
+    hans: 出发去捡起这个木箱
+    hant: 把艦船移動到那裡並獲得木箱吧！
+    ja: 船を移動させて木箱を獲得してみましょう。
+    de: Sammeln wir sie ein.
+    ru: Давайте подберем
+    fr: Récupérons-le.
+    es: Vamos a recogerlo
+    pt: Vamos pegá-lo
+  - key: tutorial_05
+    en: Approach
+    ko: 근처에 가면 자동 습득
+    hans: 接近后自动回收
+    hant: 移動到附近就會自動獲得。
+    ja: 近くに移動して自動獲得
+    de: Begib dich in ihre Nähe, um sie aufzusammeln.
+    ru: Подойдите ближе, чтобы подобрать находку.
+    fr: Approchez-vous-en pour le récupérer.
+    es: Acércate para recogerlo.
+    pt: Aproxime-se para pegá-lo.
+  - key: tutorial_06
+    en: "Enemy ship spotted !\nMove aside to fire\nthe cannon !"
+    ko: "적 함선이 나타났습니다 !\n함선을 이동시켜 대포를\n발사합시다 !"
+    hans: "发现敌船！\n移动到敌船附近发起攻击！"
+    hant: "敵方艦船出現了！\n移動艦船後\n發射大砲吧！"
+    ja: "敵の船が出現しました！\n船を移動させて大砲を\n発射しましょう！"
+    de: "Feindliches Schiff gesichtet!\nBewege dich zur Seite, um\ndie Kanone abzufeuern!"
+    ru: "Замечен вражеский корабль!\nСойдитесь бортами, чтобы\nвыстрелить из пушки!"
+    fr: "Navire ennemi en vue !\nMettez-vous sur le côté\npour tirer avec le canon !"
+    es: "¡Barco enemigo detectado!\nMuévete a un lado para disparar\nel cañón. "
+    pt: "Navio inimigo à vista!\nFique ao lado dele\npara atirar o canhão!"
+  - key: tutorial_07
+    en: "Great shooting !\nEnemy ship got\nengulfed in fire !"
+    ko: "멋진 사격이었습니다\n적 배는 불타 없어졌군요"
+    hans: "干得漂亮！\n敌船已沉没"
+    hant: "你的射擊技術真厲害！\n敵方的船已經被燒得無影無蹤了！"
+    ja: "素晴らしい射撃でした。\n敵の船は燃えて消滅しました。"
+    de: "Großartiger Schuss!\nFeindliches Schiff\nist in Flammen aufgegangen!"
+    ru: "Попадание!\nВражеское судно\nохвачено огнем!"
+    fr: "Joli tir !\nLe navire ennemi est\nenglouti dans les flammes !"
+    es: "¡Buen disparo!\nEl barco enemigo\nestá envuelto en llamas."
+    pt: "Belo tiro!\nO navio inimigo\nestá coberto por chamas!"
+  - key: tutorial_08
+    en: "Enemy ship\nspotted again !"
+    ko: "앗 ! 적이 또\n나타났습니다 !"
+    hans: 又出现敌军舰队！
+    hant: 啊！敵人又出現了！
+    ja: "あっ！敵がまた\n出現しました！"
+    de: "Feindliches Schiff\nerneut gesichtet!"
+    ru: "Еще один\nвражеский корабль!"
+    fr: "Autre navire ennemi\nrepéré !"
+    es: ¡Barco enemigo detectado otra vez!
+    pt: "Outro navio inimigo\nà vista!"
+  - key: tutorial_09
+    en: "Recruit the Escort Ship.\nPress the button below."
+    ko: "호위함을 소환해 봅시다\n아래 버튼을 눌러주세요"
+    hans: 点击下方箭头制造护航舰
+    hant: "快點召喚護衛艦吧！\n請點擊下面的按鍵。"
+    ja: "護衛艦を召喚してみましょう。\n下のボタンを押してください。"
+    de: "Rekrutiere das Begleitschiff.\nDrücke den unteren Knopf."
+    ru: "Завербуйте корабль сопровождения.\nНажмите кнопку ниже."
+    fr: "Recrutez le navire d'escorte.\nAppuyez sur le bouton ci-dessous."
+    es: "Reclutar el Buque Escolta.\nPulsa el botón de abajo."
+    pt: "Recrute o navio de escolta.\nPressione o botão abaixo."
+  - key: tutorial_10
+    en: "Push the recruit button.\nIt takes time to recruit\nthe Escort Ship."
+    ko: "호위함을 소환합시다\n소환에는 시간이\n필요합니다"
+    hans: "点击制造\n制造护航舰需要时间"
+    hant: "那就召喚護衛艦吧。\n召喚需要一點時間。"
+    ja: "護衛艦を召喚しましょう。\n召喚には時間が\nかかります。"
+    de: "Drücke den Rekrutierungsknopf.\nEs dauert eine Weile,\num das Begleitschiff zu rekrutieren."
+    ru: "Нажмите кнопку вербовки.\nПонадобится время, чтобы\nнанять корабль сопровождения."
+    fr: "Appuyez sur le bouton Recruter.\nIl faut du temps pour recruter\nun navire d'escorte."
+    es: "Empuja el botón de reclutamiento.\nReclutar el Buque Escolta\ntoma su tiempo."
+    pt: "Aperte o botão Recrutar.\nLeva um tempo para recrutar\no navio de escolta."
+  - key: tutorial_11
+    en: "Use Crystals\nto recruit instantly."
+    ko: "크리스탈을 사용하여\n즉시 소환을 해 봅시다"
+    hans: 使用钻石立即完成制造
+    hant: "使用水晶\n立即召喚吧。"
+    ja: "クリスタルを使用して\n即時召喚してみましょう。"
+    de: "Verwende Kristalle,\num sofort zu rekrutieren."
+    ru: "Завербуйте его сразу\nза кристаллы."
+    fr: "Utilisez les cristaux pour\nrecruter instantanément."
+    es: "Utiliza Cristales\npara reclutar inmediatamente."
+    pt: "Use cristais\npara recrutar imediatamente."
+  - key: tutorial_12
+    en: "Nicely done!\nAll enemies\nare defeated!"
+    ko: "훌륭한 협동\n공격이었습니다 !"
+    hans: "干得漂亮！\n敌军全部消灭！"
+    hant: "真是漂亮的\n合作攻擊啊！"
+    ja: "見事な連携\nプレイでした！"
+    de: "Gut gemacht!\nAlle Feinde\nwurden besiegt!"
+    ru: "Прекрасно!\nВсе враги\nуничтожены!"
+    fr: "Beau travail !\nTous les ennemis\nsont vaincus !"
+    es: "¡Bien hecho!\n¡Todos los enemigos\nhan sido derrotados!"
+    pt: "Muito bem!\nVocê derrotou\ntodos os inimigos!"
+  - key: tutorial_13
+    en: "Let`s set the next\ndestination at the\nWorld Map."
+    ko: "선장님, 다음 목표를\n월드맵에서 정해 봅시다"
+    hans: 在世界地图上设定下一个目的地
+    hant: "船長，接下來在世界地圖上\n選擇下一個目標吧。"
+    ja: "船長、次の目標を\nワールドマップから選んでみましょう。"
+    de: "Setzen wir das nächste\nZiel auf der\nWeltkarte."
+    ru: "Выберите новый\nпункт назначения\nна карте мира."
+    fr: "Définissons la prochaine\ndestination sur la\ncarte du monde."
+    es: "Vamos a seleccionar\nel siguiente destino\nen el Mapa del Mundo."
+    pt: "Hora de escolher o próximo\ndestino no\nMapa do Mundo."
+  - key: tutorial_14
+    en: "You can check all\nisland info at the\nWorld Map"
+    ko: "이곳에서는 해역에\n존재하는 섬의 정보와\n위치를 볼 수 있습니다"
+    hans: 在世界地图上可以查看所有岛屿信息
+    hant: "在這裡可以查看\n海域上的島嶼資訊\n和所在位置。"
+    ja: "ここでは海域に存在する\n島の情報と位置を\n確認することができます。"
+    de: "Du kannst alle\nInselinformationen\nauf der Weltkarte einsehen."
+    ru: "Можно исследовать\nвсе острова\nна карте мира."
+    fr: "Vous pouvez voir toutes\nles infos sur l'île sur\nla carte du monde."
+    es: "Puedes ver\ntoda la información de la isla\nen el Mapa del Mundo"
+    pt: "É possível conferir as\ninformações de todas as ilhas no\nMapa do Mundo"
+  - key: tutorial_15
+    en: "Set Island 2 as\nthe next destination.\nPress the Island."
+    ko: "'섬 2' 을 다음\n목표로 지정해보죠\n섬을 눌러봅시다"
+    hans: 将下一个目的地设置为“岛屿2”
+    hant: "那就把「島嶼2」\n設置為目標吧。\n請點擊島嶼。"
+    ja: "「Island 2」を次の\n目標に指定してみましょう。\n島に狙いをつけましょう。"
+    de: "Wähle Insel 2 als\nnächsten Zielort aus.\nDrücke auf die Insel."
+    ru: "Выберите Остров 2\nследующей целью.\nНажмите на остров."
+    fr: "Définissez l'Île 2 comme\nprochaine destination.\nAppuyez sur l'île."
+    es: "Seleccionar Isla 2\ncomo próximo destino.\nPulsa la Isla."
+    pt: "Escolha a Ilha 2 como\no próximo destino.\nPressione a Ilha."
+  - key: tutorial_16
+    en: "Press the\nSet Destination\nbutton."
+    ko: "목표 설정 버튼을\n누르면 해당 섬이\n목표로 지정됩니다"
+    hans: 点击“设置目的地”
+    hant: "點擊目標設置\n就能將該島嶼\n設置為目標。"
+    ja: "目標設定ボタンを\n押すと指定した島が\n目標になります。"
+    de: "Drücke den\n„Ziel setzen“-Knopf."
+    ru: "Нажмите на кнопку\n\"Выбрать место\nназначения\"."
+    fr: "Appuyez sur le\nbouton\nDéfinir destination."
+    es: "Pulsa el botón\nde Seleccionar Destino."
+    pt: "Pressione o botão\nEscolher destino\ndestino."
+  - key: tutorial_17
+    en: "The Auto Sailing\nmode will activate\nby double tapping."
+    ko: "연속 2번 터치하면\n함선이 자동이동 됩니다"
+    hans: 连续点击两次，船舶自动移动
+    hant: "連續點擊2次\n就會自動移動到那裡。"
+    ja: "2回連続タッチすると\n船が自動移動します。"
+    de: "Der Autom.-Segeln-Modus\nwird durch Doppeltippen\naktiviert."
+    ru: "Режим автоматического\nплавания включается\nдвойным нажатием."
+    fr: "Le mode Navigation auto\ns'active en appuyant\ndeux fois."
+    es: "El modo automático\nde navegación se activará\npulsando dos veces."
+    pt: "O modo navegação automática\né ativado\ncom dois toques."
+  - key: tutorial_box_00
+    en: "You got a\nTreasure Chest!\nYou can get Gold  and\nCrews from the chest."
+    ko: "보물상자를 얻으셨군요.\n보물상자에서는 금화와\n선원 카드를 획득할 수\n있습니다 !"
+    hans: "得到一个宝箱\n通过宝箱可获取金币和船员卡"
+    hant: "獲得了寶箱啊。\n在寶箱裡可以獲得\n金幣和水手卡！"
+    ja: "宝箱を獲得しましたね。\n宝箱からは金貨と\n船員カードを\nゲットできます。"
+    de: "Du hast eine\nSchatztruhe gefunden!\nDu kannst Gold und\nMannschaftsmitglieder über die Truhe erhalten."
+    ru: "Вы нашли сундук \nс сокровищами!\nИз него можно получить\nзолото и экипаж."
+    fr: "Vous avez trouvé un\ncoffre au trésor !\nVous pouvez obtenir de l'or et\ndes membres d'équipage ainsi."
+    es: "¡Has conseguido un Cofre Tesoro!\nPuedes conseguir Oro y\ntripulantes del Cofre."
+    pt: "Você encontrou um\nBaú de tesouros!\nVocê pode encontrar ouro e\ntripulantes nos baús."
+  - key: tutorial_box_01
+    en: "You can open the\nchest instantly\nby using Crystals."
+    ko: "크리스탈을 사용하면\n보물상자를 빨리\n열 수 있습니다"
+    hans: 使用钻石直接打开箱子
+    hant: "使用水晶\n就能迅速\n打開寶箱。"
+    ja: "クリスタルを使用すると\n宝箱をさらに速く\n開けることができます。"
+    de: "Du kannst die\nTruhe sofort öffnen,\nindem du Kristalle verwendest."
+    ru: "Вы можете открыть \nсундук сразу\nза кристаллы."
+    fr: "Vous pouvez ouvrir le coffre \ninstantanément en utilisant\ndes cristaux."
+    es: "Puedes abrir\nel cobre inmediatamente\nutilizando Cristales."
+    pt: "É possível abrir os\nbaús imediatamente\ncom cristais."
+  - key: tutorial_crew_00
+    en: "Crews increase the\nfleet ability.\nYou can acquire crews\nfrom the Treasure Chests."
+    ko: "선원을 활성화 시키면 \n특정 효과를 얻습니다\n선원은 보물상자에서\n얻을 수 있습니다"
+    hans: "通过船员可获得特殊能力\n通过宝箱可得到船员"
+    hant: "啟用水手就能\n獲得特定效果，\n水手可以在寶箱\n中獲得。"
+    ja: "船員をオープンすると\n一定の効果が得られます。\n船員は宝箱から\nゲットできます。"
+    de: "Mannschaftsmitglieder steigern\ndie Fähigkeit der Flotte.\nDu kannst Mannschaftsmitglieder\nüber Schatztruhen erhalten."
+    ru: "Экипаж повышает\nспособности флота.\nЕго можно получить\nиз сундуков с сокровищами."
+    fr: "Les membres d'équipage améliorent\nla capacité de la flotte.\nVous pouvez en obtenir dans\nles coffres au trésor."
+    es: "Tripulantes aumentan\nla habilidad de la flota.\nPuedes conseguir tripulantes\ndel Cofre Tesoro."
+    pt: "A tripulação aumenta a\nhabilidade da frota.\nVocê pode ganhar mais tripulantes\nnos baús de tesouros!"
+  - key: tutorial_firstdock_00
+    en: "You can repair\ndamaged ship on\nthe island. Use crystal\nto repair instantly."
+    ko: "함선은 섬에서\n천천히 수리됩니다\n크리스탈을 사용하면\n즉시 수리됩니다"
+    hans: "受损船舶在岛上修复\n可使用钻石快速完成修复"
+    hant: "艦船可以在\n島嶼上慢慢修理，\n但是使用水晶就能\n立即修理。"
+    ja: "船は島で\n時間をかけて修理されます。\nクリスタルを使用すると\n即時修理が可能です。"
+    de: "Du kannst ein\nbeschädigtes Schiff auf\nder Insel reparieren. Verwende Kristalle,\num sofort zu reparieren."
+    ru: "Поврежденный корабль\nможно отремонтировать\nна острове. За кристаллы\nвы почините его сразу."
+    fr: "Vous pouvez réparer les\nnavires endommagés\nsur l'île. Utilisez un cristal\npour une réparation instantanée."
+    es: "Puedes reparar\nbarcos dañados\nen la isla. Utiliza Cristales\npara reparar inmediatamente."
+    pt: "Repare\nos navios na\nilha. Use cristais\npara reparar imediatamente."
+  - key: tutorial_upgrade_00
+    en: "Upgrade your ships\nto increase their abilities.\nEvery 100th upgrade\nwill evolve the ship."
+    ko: "기함과 호위함을 강화하면\n모든 능력이 상승합니다\n매 100번째 강화마다\n더욱 강력해집니다"
+    hans: "升级船舶获取更多能力\n每100次升级可达到一次强化"
+    hant: "強化指揮艦和護衛艦\n就能提升所有能力值。\n每強化100次\n就會變得更強。"
+    ja: "旗艦と護衛艦を強化すると\n全ての能力値が上昇します。\n100回強化するごとに\n能力値が大幅上昇します。"
+    de: "Verbessere deine Schiffe,\num ihre Fähigkeiten zu steigern.\nJede 100. Verbesserung\nentwickelt das Schiff weiter."
+    ru: "Улучшайте корабли,\nчтобы повысить их способности.\nКаждое сотое улучшение\nизменяет тип корабля."
+    fr: "Améliorez vos navires pour\naugmenter leurs capacités.\nLe navire évoluera toutes les\n100 améliorations."
+    es: "Actualiza tus barcos\npara aumentar sus habilidades.\nCada 100 actualizaciones\ntu barco evolucionará."
+    pt: "Melhore seus navios\npara aumentar a habilidade deles.\nO navio evolui\na cada 100 melhorias."
+  - key: tutorial_info_00
+    en: "Assistance UI will\nappear when you\npress the button."
+    ko: "해당 버튼을 누르면\n각종 전투 정보를 쉽게\n확인할 수 있습니다"
+    hans: 按下可获取详细战斗信息
+    hant: "點擊此按鍵\n就能一眼查看\n各種戰鬥資訊。"
+    ja: "それぞれのボタンを押すと\n各種戦闘情報を\n確認することができます。"
+    de: "Ein Benutzeroberflächen-Assistent\nerscheint, wenn du den\nKnopf drückst."
+    ru: "Нажав на кнопку,\nвы откроете интерфейс\nпользователя."
+    fr: "L'interface d'aide s'affiche\nquand vous appuyez sur\nce bouton."
+    es: "La asistencia UI\naparecerá cuando\npulses el botón."
+    pt: "O assistente de IU\naparece quando você\npressiona o botão."
+  - key: tip_00
+    en: You will definitely need the Supreme Officer to sail through fog area.
+    ko: 안개 지역에서는 위대한 항해사가 꼭 필요할 겁니다
+    hans: 大雾地区需要“伟大的航海士”
+    hant: 在濃霧地區裡偉大的航海士必不可少。
+    ja: 霧がかかっている地域では偉大な航海士が必要です。
+    de: Du brauchst auf jeden Fall den Höchsten Offizier, um durch das Nebelgebiet zu segeln.
+    ru: Чтобы пройти сквозь туман, вам потребуется отличный лоцман.
+    fr: Vous aurez certainement besoin de l'Officier suprême pour naviguer dans les zones de brouillard.
+    es: Vas a necesitar al Oficial Superior para navegar el área con niebla.
+    pt: O Comandante-chefe é extremamente necessário para velejar em áreas com névoa.
+  - key: tip_01
+    en: Supreme Recruiter can reduce recruit time for all Escort Ships.
+    ko: 위대한 징병관은 모든 보조함의 소환 시간을 단축합니다
+    hans: “伟大的征兵官”可以减少召唤护航舰的时间
+    hant: 偉大的徵兵官可以縮短所有輔助艦的召喚時間。
+    ja: 偉大な徴兵官は全ての補助艦の召喚時間を短縮します。
+    de: Der Höchste Rekrutierer kann die Rekrutierungszeit für alle Begleitschiffe verringern.
+    ru: Отличный вербовщик сократит время вербовки кораблей сопровождения.
+    fr: Le Recruteur suprême peut réduire le temps de recrutement pour tous les navires d'escorte.
+    es: El Reclutador Superior puede reducir el tiempo de reclutamiento para todos los Buques Escoltas.
+    pt: O Recruta Supremo reduz o tempo de recruta de todos os navios de escolta.
+  - key: tip_02
+    en: Supreme Gunner carries special cannon called the Big Game Hunter.
+    ko: 위대한 사냥꾼은 '거물 사냥꾼'이라는 대포를 가지고 다닙니다
+    hans: “伟大的炮手”拥有“巨炮”
+    hant: 偉大的獵人擁有叫做「巨物獵人」的大砲。
+    ja: 偉大なハンターは「イチモツハンター」と呼ばれる大砲を持っています。
+    de: Der Höchste Kanonier bedient eine besondere Kanone namens Großwildjäger.
+    ru: Отличный канонир принесет вам пушку под названием "Слонобой".
+    fr: Le Canonnier suprême porte un canon spécial baptisé le Chasseur de grosses proies.
+    es: El Artillero Superior tiene un cañón especial llamado el Gran Cazador del Juego.
+    pt: O Artilheiro Supremo carrega um canhão especial chamado O Caçador de Aventuras.
+  - key: tip_03
+    en: Supreme Merchant is also known to be an expert fisherman.
+    ko: 위대한 상인은 낚시에도 깊은 소양이 있다고 합니다
+    hans: “伟大的商人”曾经是位优秀的渔夫
+    hant: 據說偉大的商人擁有不可忽視的釣魚實力。
+    ja: 偉大な商人は釣りの才能があるそうです。
+    de: Der Höchste Kaufmann ist auch ein ausgezeichneter Fischer.
+    ru: Отличный торговец также является и опытным рыболовом.
+    fr: Le Marchand suprême est aussi connu pour être un pêcheur expert.
+    es: El Comerciante Superior también es reconocido por ser un pescador experto.
+    pt: O Mercante Supremo também é um excelente pescador.
+  - key: tip_04
+    en: Double tap in the direction you want to move to activate the Auto Sail mode.
+    ko: 함선을 자동이동하고 싶다면 원하는 방향으로 연속 2번 터치하면 됩니다
+    hans: 连续点击两次后船舶进入自动航行模式
+    hant: 如果想讓艦船自動移動，只要向要去的方向連續點擊2次即可。
+    ja: 船を自動的に移動させたい時は、移動させたい方向に2連続タッチしてください。
+    de: Tippe doppelt in die gewünschte Richtung, um den Autom.-Segeln-Modus zu aktivieren.
+    ru: Нажмите дважды на место назначения, чтобы активировать режим автоматического плавания.
+    fr: Appuyez deux fois dans la direction dans laquelle vous voulez vous déplacer pour activer le mode Navigation auto.
+    es: Pulsa dos veces en la dirección a la que deseas moverte para activar el modo Navegación Automática.
+    pt: Toque duas vezes na direção para a qual quer se mover para ativar o modo navegação automática.
+  - key: tip_05
+    en: You can acquire the crew from the Treasure Chests.
+    ko: 선원은 보물상자에서 얻을 수 있습니다
+    hans: 可通过宝箱得到船员
+    hant: 水手可以從寶箱中獲得。
+    ja: 船員は宝箱から獲得できます。
+    de: Du kannst die Mannschaft über Schatztruhen erhalten.
+    ru: Экипаж можно получить из сундуков с сокровищами.
+    fr: Vous pouvez acquérir de l'équipage dans les coffres au trésor.
+    es: "Puedes conseguir la tripulación\ndel Cofre Tesoro."
+    pt: Você encontra tripulantes nos baús de tesouros.
+  - key: tip_06
+    en: Upgrading your ship will increase all of the ship's abilities.
+    ko: 기함과 호위함을 업그레이드하면 모든 능력이 상승합니다
+    hans: 升级旗舰和护航舰可提升所有能力
+    hant: 升級指揮艦和護衛艦就能提升所有能力值。
+    ja: 旗艦と護衛艦をアップグレードすると全ての能力値が上昇します。
+    de: Durch die Verbesserung deines Schiffes werden alle Schiffsfähigkeiten gesteigert.
+    ru: Улучшая корабль, вы усиливаете его способности.
+    fr: Améliorer votre navire augmentera toutes les capacités du navire.
+    es: Actualizando tu barco aumentarás las habilidades de todos tus barcos.
+    pt: Melhorar o seu navio aumenta todas as habilidades do navio.
+  - key: tip_07
+    en: Every 100th upgrade will evolve the ship to make it even stronger.
+    ko: 각 함선은 매 100 번째 업그레이드마다 더욱 강력해집니다
+    hans: 各船每100次升级时会得到一次强化
+    hant: 每個艦船每升級100次會變得更強。
+    ja: それぞれの船は100回アップグレードするごとに強化されます。
+    de: Jede 100. Verbesserung entwickelt das Schiff weiter, so dass es noch stärker wird.
+    ru: Каждое сотое улучшение меняет тип корабля и делает его еще сильнее.
+    fr: Le navire évoluera toutes les 100 améliorations et deviendra encore plus fort.
+    es: Cada 100 actualizaciones evolucionarás tu barco para hacerlo más fuerte.
+    pt: Seu navio evolui e fica mais forte a cada 100 melhorias.
+  - key: tip_08
+    en: A captain possessing a parrot has 20% higher survival rate.
+    ko: 앵무새를 보유한 해적 선장은 약 20%의 더 높은 생존률을 달성했다고 하는군요
+    hans: 拥有鹦鹉的船长存活率高出约20%
+    hant: 據說擁有鸚鵡的海盜船長的生存率比別的船長高20%左右。
+    ja: オウムを飼っている海賊船長の生存率は20%ほど高いそうです。
+    de: Ein Kapitän mit einem Papagei hat eine 20 % höhere Überlebensrate.
+    ru: У капитана с попугаем уровень выживаемости больше на 20%.
+    fr: Un capitaine possédant un perroquet a 20 % plus de chances de survie.
+    es: Un capitán con un loro tiene un 20% más de indice de supervivencia.
+    pt: A taxa de sobrevivência do Capitão aumenta em 20% se ele tiver um papagaio.
+  - key: tip_09
+    en: Crystals are known to have magical powers.
+    ko: 크리스탈에는 신비한 마법의 힘이 들어있다고 합니다
+    hans: 钻石拥有神奇的魔力
+    hant: 聽說水晶蘊含著神奇的魔法。
+    ja: クリスタルには神秘的な魔法の力がこめられているそうです。
+    de: Kristalle sind für ihre magischen Kräfte bekannt.
+    ru: Кристаллы обладают волшебными свойствами.
+    fr: Les cristaux sont connus pour avoir des pouvoirs magiques.
+    es: Los Cristales son conocidos por sus poderes mágicos.
+    pt: Os cristais são conhecidos por seus poderes mágicos.
+  - key: tip_10
+    en: There are many foggy area in the region of Giant Turtle habitat.
+    ko: 거대 거북이 서식하는 해역에서는 많은 안개지역이 존재한다고 합니다
+    hans: “巨龟”海域中有很多多雾地区
+    hant: 據說巨龜棲息的海域上有著許多濃霧地區。
+    ja: 巨大な蟹が生息する海域には、たくさんの霧がたちこめているそうです。
+    de: Es gibt zahlreiche neblige Bereiche im Habitat der Riesenschildkröte.
+    ru: Зона обитания большой черепахи известна своими туманами.
+    fr: Il y a de nombreuses zones brumeuses dans la région d'habitat de la Tortue géante.
+    es: Hay muchas regiones nublosas en el hábitat de la Tortuga Gigante.
+    pt: A área do habitat da Tartaruga Gigante está coberta por névoa.
+  - key: tip_11
+    en: Ship will be damaged when it enters the reef area.
+    ko: 암초 지역에 들어가면 배 손상이 발생합니다
+    hans: 进入暗礁地区会对船舶造成损害
+    hant: 進入礁石地區船就會受損。
+    ja: 岩礁に入りこむと、船が損傷します。
+    de: Das Schiff wird beschädigt, wenn es in ein Riff-Gebiet segelt.
+    ru: Если корабль попадает в зону с рифами, он будет поврежден.
+    fr: Le navire sera endommagé si vous pénétrez dans une zone de récif.
+    es: El barco será dañado cuando entre el área de los arrecifes.
+    pt: O navio sofre danos quando entra em uma área de coral.
+  - key: tip_12
+    en: You will get great rewards when you destroy Elite Ship.
+    ko: 정예 함선을 처치하면 큰 보상을 획득할 수 있습니다
+    hans: 毁坏精英船舶将得到大量奖励
+    hant: 擊殺精英艦船就能獲得更多的獎勵。
+    ja: 精鋭艦船を撃退すると、たくさんの報酬を獲得できます。
+    de: Du erhältst großartige Belohnungen, wenn du das Elite-Schiff zerstörst.
+    ru: За уничтожение элитного корабля вы получите большую награду.
+    fr: Vous obtiendrez de belles récompenses en détruisant un Navire d'élite.
+    es: Conseguirás grandes recompensas cuando destruyas el Buque Élite.
+    pt: Você ganha boas recompensas quando destrói um navio de elite.
+  - key: tip_13
+    en: You will get great rewards when you kill the Boss monsters.
+    ko: 보스 몬스터를 처치하면 막대한 보상을 획득할 수 있습니다
+    hans: 消灭终极怪物将得到难以估量的奖励
+    hant: 擊殺BOSS怪物就能獲得豐厚的獎勵。
+    ja: ボスモンスターを撃退すると、莫大な量の報酬を獲得できます。
+    de: Du erhältst großartige Belohnungen, wenn du die Boss-Monster tötest.
+    ru: За уничтожение босса монстров вы получите большую награду.
+    fr: Vous obtiendrez de belles récompenses en tuant les boss.
+    es: Conseguirás grandes recompensas cuando mates al Jefe de los Monstruos.
+    pt: Você ganha boas recompensas quando mata monstros Chefões.
+  - key: tip_14
+    en: Higher grade Treasure Chests contains even more rewards. But it takes longer time to unlock.
+    ko: 높은 등급의 보물상자에는 더 많은 코인과 선원 카드가 들어 있습니다. 하지만 더 많은 시간이 필요하죠
+    hans: 可从高级宝箱中得到更多奖励，但需要更长时间
+    hant: 高級寶箱裡面裝著更多的金幣和水手卡，但是需要更長的時間。
+    ja: 高い等級の宝箱からはたくさんのコインと船員カードが入っています。ただし、オープンするのに時間がかかります。
+    de: Höherstufige Schatztruhen enthalten noch mehr Belohnungen. Es dauert aber länger, sie zu öffnen.
+    ru: Чем выше уровень сундука с сокровищами, тем больше награда. Но вам потребуется время для того, чтобы его открыть.
+    fr: Les coffres à trésor de haut grade contiennent encore plus de récompenses. Mais ils prennent plus de temps à ouvrir.
+    es: Los Cofres Tesoro de grados más altos contienen más recompensas. Pero toma más tiempo desbloquearlos.
+    pt: Baús com hierarquias maiores, rendem recompensas ainda melhores. Mas demoram mais para serem desbloqueados.
+  - key: tip_15
+    en: If you possess an Eagle, it will pick up all the loot items in the area.
+    ko: 독수리를 보유하면 주변의 모든 전리품을 자동으로 획득합니다
+    hans: 雄鹰可以自动收集周围的战利品
+    hant: 擁有老鷹就能自動獲得周圍的所有戰利品。
+    ja: ハゲワシを保有していると、全ての戦利品を自動的に回収できます。
+    de: Wenn du einen Adler besitzt, wird er alle Beute-Gegenstände im Bereich aufsammeln.
+    ru: Если у вас есть орел, он сможет собрать все трофеи в зоне.
+    fr: Si vous possédez un aigle, il récupérera tous les objets de butin dans la région.
+    es: Si posees un Águila, recogerá todos los objetos saqueados del área.
+    pt: A águia recolhe todos os itens de saque da área.
+  - key: tip_16
+    en: Ghost Ship can only be destroyed by destroying its heart.
+    ko: 유령선은 심장을 파괴해야만 멈출 수 있습니다
+    hans: 需要破坏幽灵船的心脏才可以获得胜利
+    hant: 必須摧毀幽靈船的心臟才能使它停下來。
+    ja: 幽霊船は心臓を破壊しないと止められません。
+    de: Das Geisterschiff kann nur zerstört werden, wenn sein Herz zerstört wird.
+    ru: Корабль-призрак можно уничтожить, только уничтожив его сердце.
+    fr: Le vaisseau fantôme peut uniquement être coulé en détruisant son cœur.
+    es: El Buque Fantasma solo puede ser destruido destruyendo su corazón.
+    pt: Para destruir um navio fantasma, você deve destruir o coração dele.
+  - key: intro_00
+    en: 100 Years War with the Navy!
+    ko: 100년 넘게 이어져온 해군과의 전쟁
+    hans: 海盗和海军之间的冲突持续了超过100年
+    hant: 與海軍的戰爭已經超過100年
+    ja: 100年以上の歴史を有する海軍と戦い！
+    de: 100 Jahre Krieg mit der Marine!
+    ru: 100 лет идет война с военным флотом!
+    fr: Guerre de 100 ans avec la marine !
+    es: ¡100 Años de Guerra con el Navío!
+    pt: 100 anos de guerra com a marinha!
+  - key: intro_01
+    en: "Navy summoned powerful sea\nmonsters to defeat the pirates."
+    ko: "해군은 해적들을 이기기 위해\n강력한 해저 괴물들을 불러들였다"
+    hans: 海军使用黑暗魔法控制了深海怪物
+    hant: "海軍為了殲滅海盜，\n召喚了強大的海底怪物。"
+    ja: "海軍は海賊を撃退するため\n強力な海底生物を呼び寄せた。"
+    de: "Die Marine hat mächtige Seeungeheuer\nbeschworen, um die Piraten zu besiegen."
+    ru: "Флот призвал морских \nчудищ на бой с пиратами."
+    fr: "La marine a invoqué de puissants monstres\nmarins pour vaincre les pirates."
+    es: "¡El Navío convocó a monstruos \npoderosos del mar para derrotar a los piratas."
+    pt: "A Marinha convoca monstros\nmarítimos poderosos para derrotar os piratas."
+  - key: intro_02
+    en: Pirates were slaughtered by the navy's bombardment and their monsters.
+    ko: 우리는 해군의 포탄과 괴물들의 공격에 힘없이 쓰러졌다
+    hans: 所有海盗都被打败并沉没到深海中
+    hant: 我們無力地倒在海軍的炮彈和怪物的攻擊之下。
+    ja: 我々は海軍の砲弾と怪物の攻撃に対し力なく倒れた。
+    de: Die Piraten wurden durch die Bombardierung der Marine und ihre Monster abgeschlachtet.
+    ru: Они встретили свою кончину под огнем военных кораблей и в когтях чудищ.
+    fr: Les pirates ont été massacrés par les bombardements de la marine et leurs monstres.
+    es: Los piratas fueron asesinados por el bombardeo del navío y sus monstruos.
+    pt: Os piratas foram massacrados pelos bombardeios e monstros da Marinha.
+  - key: intro_03
+    en: All of pirates' treasures were looted by the navy.
+    ko: '해적의 보물은 모두 해군들의 손에 넘어갔으며, '
+    hans: 海盗的所有宝藏被海军偷走
+    hant: 海盜的寶藏全都納入海軍的手中，
+    ja: 海賊たちの財宝は全て海軍の手に渡った。
+    de: Alle Piratenschätze wurden von der Marine erbeutet.
+    ru: Все сокровища достались военному флоту.
+    fr: Tous les trésors des pirates ont été pillés par la marine.
+    es: Todos los tesoros de los piratas fueron saqueados por el navío.
+    pt: A Marinha saqueou todo o tesouro dos piratas.
+  - key: intro_04
+    en: "Surviving pirates and their families\nwere sacrificed to the monsters."
+    ko: "동료와 가족들은 괴물들의\n제물로 끌려갔다"
+    hans: 战友和家人作为贡品献给怪物
+    hant: "夥伴和家族則\n變成了怪物的祭品。"
+    ja: "家族と仲間たちは怪物の\n生け贄として連れ去られた。"
+    de: "Überlebende Piraten und ihre Familien wurden\nden Monstern als Opfer überlassen."
+    ru: "Уцелевших пиратов и их семьи\nотдали в жертву чудовищам."
+    fr: "Les pirates survivants et leurs familles ont\nété sacrifiés aux monstres."
+    es: "Los piratas supervivientes y sus familias\n fueron sacrificados a los monstruos."
+    pt: "Piratas sobreviventes e a família deles\nforam sacrificados pelos monstros."
+  - key: intro_05
+    en: "I barely survived,\nbut with only 1 last ship."
+    ko: "하지만 나는 살아남았다.\n그리고, 마지막 한 척의 배가 남았다"
+    hans: "虽然最后活下来了\n却只剩下一艘船"
+    hant: "但是，我活下來了。\n而且，我還剩下最後一艘艦船。"
+    ja: "しかし自分は生き残った。\nそして、船も一隻残った。"
+    de: "Ich habe gerade so überlebt,\ndoch mit nur einem letzten Schiff."
+    ru: "Мне едва удалось спастись с \nодним-единственным кораблем."
+    fr: "J'ai tout juste survécu, mais il ne me\nreste qu'un seul navire."
+    es: "Yo casi sobreviví,\npero solo con 1 último barco."
+    pt: "Eu mal sobrevivi,\ne só me restou 1 único navio."
+  - key: intro_06
+    en: "It's time to retaliate!\nThe war is not over, yet!"
+    ko: "이제 반격의 시간이다\n전쟁은 아직 끝나지 않았다"
+    hans: "复仇的时间到了\n战争并没有结束"
+    hant: "現在輪到我反擊了！\n戰爭還沒結束！"
+    ja: "反撃の時間が始まる。\n戦いはまだ終わっていない。"
+    de: "Es ist Zeit, zurückzuschlagen!\nDer Krieg ist noch nicht vorbei!"
+    ru: "Я жажду мести!\nВойна еще не окончена!"
+    fr: "Il est temps de se venger !\nLa guerre n'est pas encore finie !"
+    es: "¡Es hora de contraatacar!\n¡La guerra no ha acabado, todavía!"
+    pt: "Está na hora de nos vingarmos!\nA guerra ainda não acabou!"
+  - key: key_restore
+    en: Restore
+    ko: Restore
+    hans: 恢复
+    hant: 恢復
+    ja: Restore
+    de: Restore
+    ru: Restore
+    fr: Restore
+    es: Restore
+    pt: Restore
+  - key: key_max
+    en: Max
+    ko: 최대속도
+    hans: 最大速度
+    hant: 最大速度
+    ja: Max
+    de: Max
+    ru: Max
+    fr: Max
+    es: Max
+    pt: Max
+  - key: key_card
+    en: Card
+    ko: 카드
+    hans: 卡
+    hant: 卡
+    ja: Card
+    de: Card
+    ru: Card
+    fr: Card
+    es: Card
+    pt: Card
+  - key: key_pack
+    en: Pack
+    ko: 팩
+    hans: 套
+    hant: 套
+    ja: Pack
+    de: Pack
+    ru: Pack
+    fr: Pack
+    es: Pack
+    pt: Pack
+  - key: key_bonus
+    en: Bonus
+    ko: 보너스
+    hans: 赠送
+    hant: 贈送
+    ja: Bonus
+    de: Bonus
+    ru: Bonus
+    fr: Bonus
+    es: Bonus
+    pt: Bonus
+  - key: key_hot
+    en: HOT
+    ko: 인기
+    hans: 热门
+    hant: 熱門
+    ja: HOT
+    de: HOT
+    ru: HOT
+    fr: HOT
+    es: HOT
+    pt: HOT
+  - key: key_today
+    en: "Today's\nOnly"
+    ko: "오늘의\n패키지"
+    hans: 仅限今日
+    hant: 僅限今日
+    ja: "Today's\nOnly"
+    de: "Today's\nOnly"
+    ru: "Today's\nOnly"
+    fr: "Today's\nOnly"
+    es: "Today's\nOnly"
+    pt: "Today's\nOnly"
+  - key: key_best
+    en: Best
+    ko: 최고
+    hans: 精选
+    hant: 精選
+    ja: Best
+    de: Best
+    ru: Best
+    fr: Best
+    es: Best
+    pt: Best
+  - key: key_bronze
+    en: Bronze
+    ko: 브론즈
+    hans: 铜
+    hant: 銅
+    ja: Bronze
+    de: Bronze
+    ru: Bronze
+    fr: Bronze
+    es: Bronze
+    pt: Bronze
+  - key: key_silver
+    en: Silver
+    ko: 실버
+    hans: 银
+    hant: 銀
+    ja: Silver
+    de: Silver
+    ru: Silver
+    fr: Silver
+    es: Silver
+    pt: Silver
+  - key: key_gold
+    en: Gold
+    ko: 골드
+    hans: 金
+    hant: 金
+    ja: Gold
+    de: Gold
+    ru: Gold
+    fr: Gold
+    es: Gold
+    pt: Gold
+  - key: key_black
+    en: Black
+    ko: 마법
+    hans: 黑
+    hant: 黑
+    ja: Black
+    de: Black
+    ru: Black
+    fr: Black
+    es: Black
+    pt: Black
+  - key: key_won
+    en: Won
+    ko: 승리
+    hans: 胜利
+    hant: 勝利
+    ja: Won
+    de: Won
+    ru: Won
+    fr: Won
+    es: Won
+    pt: Won
+  - key: key_tips
+    en: Tips
+    ko: 팁
+    hans: 提示
+    hant: 提示
+    ja: Tips
+    de: Tips
+    ru: Tips
+    fr: Tips
+    es: Tips
+    pt: Tips
+  - key: key_alladsfree
+    en: All ads free
+    ko: All ads free
+    hans: 广告免费观看
+    hant: 廣告免費觀看
+    ja: All ads free
+    de: All ads free
+    ru: All ads free
+    fr: All ads free
+    es: All ads free
+    pt: All ads free
+  - key: key_skip
+    en: SKIP
+    ko: 스킵
+    hans: 跳过
+    hant: 跳過
+    ja: SKIP
+    de: SKIP
+    ru: SKIP
+    fr: SKIP
+    es: SKIP
+    pt: SKIP

@@ -1,0 +1,273 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71e0f42217a13caa75ca6be0874df871, type: 3}
+  m_Name: ISD_Settings
+  m_EditorClassIdentifier:
+  LastVersionCode:
+  Frameworks:
+  - IsOptional: 0
+    IsEmbeded: 0
+    Type: 18
+  - IsOptional: 0
+    IsEmbeded: 0
+    Type: 4
+  - IsOptional: 0
+    IsEmbeded: 0
+    Type: 74
+  - IsOptional: 0
+    IsEmbeded: 0
+    Type: 78
+  - IsOptional: 0
+    IsEmbeded: 0
+    Type: 35
+  - IsOptional: 0
+    IsEmbeded: 0
+    Type: 82
+  EmbededFrameworks: []
+  Libraries: []
+  Flags: []
+  PlistVariables:
+  - IsOpen: 1
+    IsListOpen: 1
+    Name: AppLovinSdkKey
+    Type: 0
+    StringValue: AMbwKxLlutn0Ky20lQqPSV2Cw_qdITJSqwN9siukZfkubnuLCimeDor7nel363Vxzt5qazX8dG0D1vTEbJtp5h
+    IntegerValue: 0
+    FloatValue: 0
+    BooleanValue: 1
+    ChildrensIds: []
+  - IsOpen: 1
+    IsListOpen: 1
+    Name: CFBundleLocalizations
+    Type: 3
+    StringValue:
+    IntegerValue: 0
+    FloatValue: 0
+    BooleanValue: 1
+    ChildrensIds:
+    - aLD7Aiw6PY3n8FwUGPFd
+    - NOtuDYBV9xv9MuvjHdIi
+    - 2ppXgb3MARJLsXen44dl
+    - tFgNKcAGgbheU7o0sRQN
+  - IsOpen: 1
+    IsListOpen: 1
+    Name: NSCameraUsageDescription
+    Type: 0
+    StringValue: Please change 'Camera Usage Description' with IOS Native UI Kit Editor Settings
+    IntegerValue: 0
+    FloatValue: 0
+    BooleanValue: 1
+    ChildrensIds: []
+  - IsOpen: 1
+    IsListOpen: 1
+    Name: NSPhotoLibraryUsageDescription
+    Type: 0
+    StringValue: Please change 'Photo Library Usage Description' with IOS Native UI Kit Editor Settings
+    IntegerValue: 0
+    FloatValue: 0
+    BooleanValue: 1
+    ChildrensIds: []
+  - IsOpen: 1
+    IsListOpen: 1
+    Name: NSPhotoLibraryAddUsageDescription
+    Type: 0
+    StringValue: Please change 'Photo Library Add Usage Description' with IOS Native UI Kit Editor Settings
+    IntegerValue: 0
+    FloatValue: 0
+    BooleanValue: 1
+    ChildrensIds: []
+  - IsOpen: 1
+    IsListOpen: 1
+    Name: NSMicrophoneUsageDescription
+    Type: 0
+    StringValue: Please change 'Microphone Usage Description' with IOS Native UI Kit Editor Settings
+    IntegerValue: 0
+    FloatValue: 0
+    BooleanValue: 1
+    ChildrensIds: []
+  VariableDictionary:
+  - VariableValue:
+      IsOpen: 1
+      IsListOpen: 1
+      Name:
+      Type: 0
+      StringValue: English
+      IntegerValue: 0
+      FloatValue: 0
+      BooleanValue: 1
+      ChildrensIds: []
+    uniqueIdKey: 7uPOd4S1A9SkM6GYp1LM
+  - VariableValue:
+      IsOpen: 1
+      IsListOpen: 1
+      Name:
+      Type: 0
+      StringValue: Korean
+      IntegerValue: 0
+      FloatValue: 0
+      BooleanValue: 1
+      ChildrensIds: []
+    uniqueIdKey: KMeKHCnxkECMjq68WB8I
+  - VariableValue:
+      IsOpen: 1
+      IsListOpen: 1
+      Name:
+      Type: 0
+      StringValue: English
+      IntegerValue: 0
+      FloatValue: 0
+      BooleanValue: 1
+      ChildrensIds: []
+    uniqueIdKey: LjdVxQbVjWv3cmAbHPxx
+  - VariableValue:
+      IsOpen: 1
+      IsListOpen: 1
+      Name:
+      Type: 0
+      StringValue: Korean
+      IntegerValue: 0
+      FloatValue: 0
+      BooleanValue: 1
+      ChildrensIds: []
+    uniqueIdKey: Hua43hrNwDVbYIMuZpej
+  - VariableValue:
+      IsOpen: 1
+      IsListOpen: 1
+      Name:
+      Type: 0
+      StringValue: English
+      IntegerValue: 0
+      FloatValue: 0
+      BooleanValue: 1
+      ChildrensIds: []
+    uniqueIdKey: aLD7Aiw6PY3n8FwUGPFd
+  - VariableValue:
+      IsOpen: 1
+      IsListOpen: 1
+      Name:
+      Type: 0
+      StringValue: Korean
+      IntegerValue: 0
+      FloatValue: 0
+      BooleanValue: 1
+      ChildrensIds: []
+    uniqueIdKey: NOtuDYBV9xv9MuvjHdIi
+  - VariableValue:
+      IsOpen: 1
+      IsListOpen: 1
+      Name:
+      Type: 0
+      StringValue: German
+      IntegerValue: 0
+      FloatValue: 0
+      BooleanValue: 1
+      ChildrensIds: []
+    uniqueIdKey: 2ppXgb3MARJLsXen44dl
+  - VariableValue:
+      IsOpen: 1
+      IsListOpen: 1
+      Name:
+      Type: 0
+      StringValue: Portuguese (Brazil)
+      IntegerValue: 0
+      FloatValue: 0
+      BooleanValue: 1
+      ChildrensIds: []
+    uniqueIdKey: tFgNKcAGgbheU7o0sRQN
+  Languages:
+  - m_code: en
+    m_name: English
+    m_nativeName: English
+  - m_code: ko
+    m_name: Korean
+    m_nativeName: 한국어 (韓國語), 조선말 (朝鮮語)
+  - m_code: de
+    m_name: German
+    m_nativeName: Deutsch
+  - m_code: pt-br
+    m_name: Portuguese (Brazil)
+    m_nativeName: Português (Brasil)
+  ShellScripts: []
+  m_buildProperties:
+  - m_name: ENABLE_BITCODE
+    m_value: NO
+    m_options:
+    - YES
+    - NO
+  - m_name: ENABLE_TESTABILITY
+    m_value: NO
+    m_options:
+    - YES
+    - NO
+  - m_name: GENERATE_PROFILING_CODE
+    m_value: NO
+    m_options:
+    - YES
+    - NO
+  - m_name: GCC_ENABLE_OBJC_EXCEPTIONS
+    m_value: YES
+    m_options:
+    - YES
+    - NO
+  Capability:
+    iCloud:
+      Enabled: 1
+      keyValueStorage: 1
+      iCloudDocument: 0
+      customContainers: []
+    PushNotifications:
+      Enabled: 1
+      development: 1
+    GameCenter:
+      Enabled: 1
+    Wallet:
+      Enabled: 0
+      passSubset: []
+    Siri:
+      Enabled: 0
+    ApplePay:
+      Enabled: 0
+      merchants: []
+    InAppPurchase:
+      Enabled: 1
+    Maps:
+      Enabled: 0
+      options:
+    PersonalVPN:
+      Enabled: 0
+    BackgroundModes:
+      Enabled: 0
+      options:
+    InterAppAudio:
+      Enabled: 0
+    KeychainSharing:
+      Enabled: 0
+      accessGroups: []
+    AssociatedDomains:
+      Enabled: 0
+      domains: []
+    AppGroups:
+      Enabled: 0
+      groups: []
+    DataProtection:
+      Enabled: 0
+    HomeKit:
+      Enabled: 0
+    HealthKit:
+      Enabled: 0
+    WirelessAccessoryConfiguration:
+      Enabled: 0
+  Files:
+  - XCodePath:
+    Asset: {fileID: 8300000, guid: 96e3c949e96d0f349b0f624d94e5aa7c, type: 3}
+  EntitlementsMode: 0
+  EntitlementsFile: {fileID: 0}

@@ -1,0 +1,8025 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07cb422cf772a346f5a0df4edb9aed77, type: 3}
+  m_Name: IslandSheetData
+  m_EditorClassIdentifier:
+  SheetName: 아직은 제목은 없지만 쩔어줄 프로젝트
+  WorksheetName: IslandSheetData
+  dataArray:
+  - id: 0
+    gold: 1375
+    enemylevelmin: 1
+    enemylevelmax: 5
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 1
+    gold: 2169
+    enemylevelmin: 5
+    enemylevelmax: 10
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 5
+  - id: 2
+    gold: 3610
+    enemylevelmin: 10
+    enemylevelmax: 15
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 3
+    gold: 10465
+    enemylevelmin: 25
+    enemylevelmax: 30
+    diamond: 0
+    skillcrewid: 31
+    crewgrade: 0
+    crewcount: 0
+  - id: 4
+    gold: 13452
+    enemylevelmin: 30
+    enemylevelmax: 35
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 3
+  - id: 5
+    gold: 16759
+    enemylevelmin: 35
+    enemylevelmax: 40
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 6
+    gold: 28332
+    enemylevelmin: 50
+    enemylevelmax: 55
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 3
+  - id: 7
+    gold: 32702
+    enemylevelmin: 55
+    enemylevelmax: 60
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 3
+  - id: 8
+    gold: 37304
+    enemylevelmin: 60
+    enemylevelmax: 65
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 9
+    gold: 42129
+    enemylevelmin: 65
+    enemylevelmax: 70
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 10
+    gold: 47159
+    enemylevelmin: 70
+    enemylevelmax: 75
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 1
+    crewcount: 2
+  - id: 11
+    gold: 63445
+    enemylevelmin: 85
+    enemylevelmax: 90
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 12
+    gold: 69239
+    enemylevelmin: 90
+    enemylevelmax: 95
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 13
+    gold: 75205
+    enemylevelmin: 95
+    enemylevelmax: 100
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 2
+    crewcount: 2
+  - id: 14
+    gold: 81332
+    enemylevelmin: 100
+    enemylevelmax: 105
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 15
+    gold: 87611
+    enemylevelmin: 105
+    enemylevelmax: 110
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 16
+    gold: 107342
+    enemylevelmin: 120
+    enemylevelmax: 125
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 3
+  - id: 17
+    gold: 114198
+    enemylevelmin: 125
+    enemylevelmax: 130
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 18
+    gold: 121179
+    enemylevelmin: 130
+    enemylevelmax: 135
+    diamond: 0
+    skillcrewid: 38
+    crewgrade: 0
+    crewcount: 0
+  - id: 19
+    gold: 128286
+    enemylevelmin: 135
+    enemylevelmax: 140
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 3
+    crewcount: 2
+  - id: 20
+    gold: 94044
+    enemylevelmin: 110
+    enemylevelmax: 115
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 21
+    gold: 100620
+    enemylevelmin: 115
+    enemylevelmax: 120
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 3
+  - id: 22
+    gold: 107342
+    enemylevelmin: 120
+    enemylevelmax: 125
+    diamond: 0
+    skillcrewid: 35
+    crewgrade: 0
+    crewcount: 3
+  - id: 23
+    gold: 128286
+    enemylevelmin: 135
+    enemylevelmax: 140
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 24
+    gold: 135507
+    enemylevelmin: 140
+    enemylevelmax: 145
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 3
+  - id: 25
+    gold: 142855
+    enemylevelmin: 145
+    enemylevelmax: 150
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 26
+    gold: 150320
+    enemylevelmin: 150
+    enemylevelmax: 155
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 27
+    gold: 121179
+    enemylevelmin: 130
+    enemylevelmax: 135
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 3
+  - id: 28
+    gold: 173328
+    enemylevelmin: 165
+    enemylevelmax: 170
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 29
+    gold: 173328
+    enemylevelmin: 165
+    enemylevelmax: 170
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 2
+    crewcount: 2
+  - id: 30
+    gold: 189171
+    enemylevelmin: 175
+    enemylevelmax: 180
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 3
+    crewcount: 2
+  - id: 31
+    gold: 197243
+    enemylevelmin: 180
+    enemylevelmax: 185
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 1
+    crewcount: 2
+  - id: 32
+    gold: 205388
+    enemylevelmin: 185
+    enemylevelmax: 190
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 33
+    gold: 213630
+    enemylevelmin: 190
+    enemylevelmax: 195
+    diamond: 0
+    skillcrewid: 33
+    crewgrade: 0
+    crewcount: 3
+  - id: 34
+    gold: 238850
+    enemylevelmin: 205
+    enemylevelmax: 210
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 35
+    gold: 247413
+    enemylevelmin: 210
+    enemylevelmax: 215
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 36
+    gold: 256051
+    enemylevelmin: 215
+    enemylevelmax: 220
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 1
+    crewcount: 2
+  - id: 37
+    gold: 264763
+    enemylevelmin: 220
+    enemylevelmax: 225
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 38
+    gold: 273551
+    enemylevelmin: 225
+    enemylevelmax: 230
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 3
+  - id: 39
+    gold: 282401
+    enemylevelmin: 230
+    enemylevelmax: 235
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 1
+    crewcount: 2
+  - id: 40
+    gold: 230361
+    enemylevelmin: 200
+    enemylevelmax: 205
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 41
+    gold: 238850
+    enemylevelmin: 205
+    enemylevelmax: 210
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 1
+    crewcount: 2
+  - id: 42
+    gold: 247413
+    enemylevelmin: 210
+    enemylevelmax: 215
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 3
+  - id: 43
+    gold: 256051
+    enemylevelmin: 215
+    enemylevelmax: 220
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 44
+    gold: 264763
+    enemylevelmin: 220
+    enemylevelmax: 225
+    diamond: 0
+    skillcrewid: 32
+    crewgrade: 0
+    crewcount: 3
+  - id: 45
+    gold: 256051
+    enemylevelmin: 215
+    enemylevelmax: 220
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 46
+    gold: 273551
+    enemylevelmin: 225
+    enemylevelmax: 230
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 47
+    gold: 300302
+    enemylevelmin: 240
+    enemylevelmax: 245
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 1
+    crewcount: 2
+  - id: 48
+    gold: 309352
+    enemylevelmin: 245
+    enemylevelmax: 250
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 3
+  - id: 49
+    gold: 318466
+    enemylevelmin: 250
+    enemylevelmax: 255
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 3
+  - id: 50
+    gold: 318466
+    enemylevelmin: 250
+    enemylevelmax: 255
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 2
+    crewcount: 2
+  - id: 51
+    gold: 327642
+    enemylevelmin: 255
+    enemylevelmax: 260
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 52
+    gold: 336869
+    enemylevelmin: 260
+    enemylevelmax: 265
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 53
+    gold: 346158
+    enemylevelmin: 265
+    enemylevelmax: 270
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 1
+    crewcount: 2
+  - id: 54
+    gold: 374350
+    enemylevelmin: 280
+    enemylevelmax: 285
+    diamond: 0
+    skillcrewid: 35
+    crewgrade: 0
+    crewcount: 3
+  - id: 55
+    gold: 383864
+    enemylevelmin: 285
+    enemylevelmax: 290
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 56
+    gold: 393415
+    enemylevelmin: 290
+    enemylevelmax: 295
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 57
+    gold: 403015
+    enemylevelmin: 295
+    enemylevelmax: 300
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 58
+    gold: 412677
+    enemylevelmin: 300
+    enemylevelmax: 305
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 59
+    gold: 422375
+    enemylevelmin: 305
+    enemylevelmax: 310
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 60
+    gold: 432122
+    enemylevelmin: 310
+    enemylevelmax: 315
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 61
+    gold: 441905
+    enemylevelmin: 315
+    enemylevelmax: 320
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 2
+    crewcount: 2
+  - id: 62
+    gold: 451749
+    enemylevelmin: 320
+    enemylevelmax: 325
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 63
+    gold: 481504
+    enemylevelmin: 335
+    enemylevelmax: 340
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 1
+    crewcount: 2
+  - id: 64
+    gold: 491514
+    enemylevelmin: 340
+    enemylevelmax: 345
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 65
+    gold: 501558
+    enemylevelmin: 345
+    enemylevelmax: 350
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 3
+  - id: 66
+    gold: 511636
+    enemylevelmin: 350
+    enemylevelmax: 355
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 67
+    gold: 521747
+    enemylevelmin: 355
+    enemylevelmax: 360
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 1
+    crewcount: 2
+  - id: 68
+    gold: 531905
+    enemylevelmin: 360
+    enemylevelmax: 365
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 3
+  - id: 69
+    gold: 542097
+    enemylevelmin: 365
+    enemylevelmax: 370
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 70
+    gold: 552321
+    enemylevelmin: 370
+    enemylevelmax: 375
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 71
+    gold: 562591
+    enemylevelmin: 375
+    enemylevelmax: 380
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 72
+    gold: 572879
+    enemylevelmin: 380
+    enemylevelmax: 385
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 3
+  - id: 73
+    gold: 583213
+    enemylevelmin: 385
+    enemylevelmax: 390
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 3
+  - id: 74
+    gold: 614390
+    enemylevelmin: 400
+    enemylevelmax: 405
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 75
+    gold: 624849
+    enemylevelmin: 405
+    enemylevelmax: 410
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 76
+    gold: 635338
+    enemylevelmin: 410
+    enemylevelmax: 415
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 2
+    crewcount: 2
+  - id: 77
+    gold: 645858
+    enemylevelmin: 415
+    enemylevelmax: 420
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 3
+  - id: 78
+    gold: 656393
+    enemylevelmin: 420
+    enemylevelmax: 425
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 3
+  - id: 79
+    gold: 666971
+    enemylevelmin: 425
+    enemylevelmax: 430
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 3
+    crewcount: 2
+  - id: 80
+    gold: 583213
+    enemylevelmin: 385
+    enemylevelmax: 390
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 81
+    gold: 593579
+    enemylevelmin: 390
+    enemylevelmax: 395
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 3
+  - id: 82
+    gold: 603976
+    enemylevelmin: 395
+    enemylevelmax: 400
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 1
+    crewcount: 2
+  - id: 83
+    gold: 614390
+    enemylevelmin: 400
+    enemylevelmax: 405
+    diamond: 0
+    skillcrewid: 37
+    crewgrade: 0
+    crewcount: 0
+  - id: 84
+    gold: 624849
+    enemylevelmin: 405
+    enemylevelmax: 410
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 85
+    gold: 635338
+    enemylevelmin: 410
+    enemylevelmax: 415
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 1
+    crewcount: 2
+  - id: 86
+    gold: 635338
+    enemylevelmin: 410
+    enemylevelmax: 415
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 2
+    crewcount: 2
+  - id: 87
+    gold: 645858
+    enemylevelmin: 415
+    enemylevelmax: 420
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 88
+    gold: 677579
+    enemylevelmin: 430
+    enemylevelmax: 435
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 3
+  - id: 89
+    gold: 688202
+    enemylevelmin: 435
+    enemylevelmax: 440
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 90
+    gold: 698853
+    enemylevelmin: 440
+    enemylevelmax: 445
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 3
+  - id: 91
+    gold: 709546
+    enemylevelmin: 445
+    enemylevelmax: 450
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 92
+    gold: 741750
+    enemylevelmin: 460
+    enemylevelmax: 465
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 93
+    gold: 752525
+    enemylevelmin: 465
+    enemylevelmax: 470
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 2
+    crewcount: 2
+  - id: 94
+    gold: 763340
+    enemylevelmin: 470
+    enemylevelmax: 475
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 95
+    gold: 774168
+    enemylevelmin: 475
+    enemylevelmax: 480
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 96
+    gold: 785021
+    enemylevelmin: 480
+    enemylevelmax: 485
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 3
+  - id: 97
+    gold: 795900
+    enemylevelmin: 485
+    enemylevelmax: 490
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 98
+    gold: 806805
+    enemylevelmin: 490
+    enemylevelmax: 495
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 99
+    gold: 817734
+    enemylevelmin: 495
+    enemylevelmax: 500
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 100
+    gold: 828674
+    enemylevelmin: 500
+    enemylevelmax: 505
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 3
+  - id: 101
+    gold: 839638
+    enemylevelmin: 505
+    enemylevelmax: 510
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 102
+    gold: 850626
+    enemylevelmin: 510
+    enemylevelmax: 515
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 1
+    crewcount: 2
+  - id: 103
+    gold: 883716
+    enemylevelmin: 525
+    enemylevelmax: 530
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 104
+    gold: 894798
+    enemylevelmin: 530
+    enemylevelmax: 535
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 105
+    gold: 905886
+    enemylevelmin: 535
+    enemylevelmax: 540
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 3
+  - id: 106
+    gold: 916997
+    enemylevelmin: 540
+    enemylevelmax: 545
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 3
+  - id: 107
+    gold: 950429
+    enemylevelmin: 555
+    enemylevelmax: 560
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 108
+    gold: 961610
+    enemylevelmin: 560
+    enemylevelmax: 565
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 3
+  - id: 109
+    gold: 972811
+    enemylevelmin: 565
+    enemylevelmax: 570
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 3
+  - id: 110
+    gold: 984033
+    enemylevelmin: 570
+    enemylevelmax: 575
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 111
+    gold: 995275
+    enemylevelmin: 575
+    enemylevelmax: 580
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 112
+    gold: 1006521
+    enemylevelmin: 580
+    enemylevelmax: 585
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 113
+    gold: 1017786
+    enemylevelmin: 585
+    enemylevelmax: 590
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 3
+  - id: 114
+    gold: 1051711
+    enemylevelmin: 600
+    enemylevelmax: 605
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 3
+  - id: 115
+    gold: 1063034
+    enemylevelmin: 605
+    enemylevelmax: 610
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 116
+    gold: 1074391
+    enemylevelmin: 610
+    enemylevelmax: 615
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 1
+    crewcount: 2
+  - id: 117
+    gold: 1085750
+    enemylevelmin: 615
+    enemylevelmax: 620
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 3
+    crewcount: 2
+  - id: 118
+    gold: 1097142
+    enemylevelmin: 620
+    enemylevelmax: 625
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 1
+    crewcount: 2
+  - id: 119
+    gold: 1108535
+    enemylevelmin: 625
+    enemylevelmax: 630
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 2
+    crewcount: 2
+  - id: 120
+    gold: 1017786
+    enemylevelmin: 585
+    enemylevelmax: 590
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 121
+    gold: 1017786
+    enemylevelmin: 585
+    enemylevelmax: 590
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 3
+  - id: 122
+    gold: 1029086
+    enemylevelmin: 590
+    enemylevelmax: 595
+    diamond: 0
+    skillcrewid: 34
+    crewgrade: 0
+    crewcount: 0
+  - id: 123
+    gold: 1040389
+    enemylevelmin: 595
+    enemylevelmax: 600
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 3
+  - id: 124
+    gold: 1051711
+    enemylevelmin: 600
+    enemylevelmax: 605
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 125
+    gold: 1063034
+    enemylevelmin: 605
+    enemylevelmax: 610
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 126
+    gold: 1063034
+    enemylevelmin: 605
+    enemylevelmax: 610
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 1
+    crewcount: 2
+  - id: 127
+    gold: 1097142
+    enemylevelmin: 620
+    enemylevelmax: 625
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 3
+  - id: 128
+    gold: 1108535
+    enemylevelmin: 625
+    enemylevelmax: 630
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 1
+    crewcount: 2
+  - id: 129
+    gold: 1119944
+    enemylevelmin: 630
+    enemylevelmax: 635
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 3
+  - id: 130
+    gold: 1131369
+    enemylevelmin: 635
+    enemylevelmax: 640
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 131
+    gold: 1142810
+    enemylevelmin: 640
+    enemylevelmax: 645
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 132
+    gold: 1154267
+    enemylevelmin: 645
+    enemylevelmax: 650
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 133
+    gold: 1165739
+    enemylevelmin: 650
+    enemylevelmax: 655
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 3
+  - id: 134
+    gold: 1188712
+    enemylevelmin: 660
+    enemylevelmax: 665
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 135
+    gold: 1211758
+    enemylevelmin: 670
+    enemylevelmax: 675
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 136
+    gold: 1223286
+    enemylevelmin: 675
+    enemylevelmax: 680
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 137
+    gold: 1234844
+    enemylevelmin: 680
+    enemylevelmax: 685
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 3
+  - id: 138
+    gold: 1246398
+    enemylevelmin: 685
+    enemylevelmax: 690
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 139
+    gold: 1257981
+    enemylevelmin: 690
+    enemylevelmax: 695
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 140
+    gold: 1269561
+    enemylevelmin: 695
+    enemylevelmax: 700
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 2
+    crewcount: 2
+  - id: 141
+    gold: 1304405
+    enemylevelmin: 710
+    enemylevelmax: 715
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 3
+  - id: 142
+    gold: 1316032
+    enemylevelmin: 715
+    enemylevelmax: 720
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 143
+    gold: 1327687
+    enemylevelmin: 720
+    enemylevelmax: 725
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 2
+    crewcount: 2
+  - id: 144
+    gold: 1339353
+    enemylevelmin: 725
+    enemylevelmax: 730
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 3
+  - id: 145
+    gold: 1351011
+    enemylevelmin: 730
+    enemylevelmax: 735
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 146
+    gold: 1362698
+    enemylevelmin: 735
+    enemylevelmax: 740
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 147
+    gold: 1374394
+    enemylevelmin: 740
+    enemylevelmax: 745
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 148
+    gold: 1386100
+    enemylevelmin: 745
+    enemylevelmax: 750
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 2
+    crewcount: 2
+  - id: 149
+    gold: 1397815
+    enemylevelmin: 750
+    enemylevelmax: 755
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 1
+    crewcount: 2
+  - id: 150
+    gold: 1433032
+    enemylevelmin: 765
+    enemylevelmax: 770
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 3
+  - id: 151
+    gold: 1444799
+    enemylevelmin: 770
+    enemylevelmax: 775
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 152
+    gold: 1468339
+    enemylevelmin: 780
+    enemylevelmax: 785
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 153
+    gold: 1480129
+    enemylevelmin: 785
+    enemylevelmax: 790
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 3
+    crewcount: 2
+  - id: 154
+    gold: 1491944
+    enemylevelmin: 790
+    enemylevelmax: 795
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 3
+  - id: 155
+    gold: 1503748
+    enemylevelmin: 795
+    enemylevelmax: 800
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 1
+    crewcount: 2
+  - id: 156
+    gold: 1515576
+    enemylevelmin: 800
+    enemylevelmax: 805
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 157
+    gold: 1527393
+    enemylevelmin: 805
+    enemylevelmax: 810
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 158
+    gold: 1539233
+    enemylevelmin: 810
+    enemylevelmax: 815
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 3
+  - id: 159
+    gold: 1551098
+    enemylevelmin: 815
+    enemylevelmax: 820
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 1
+    crewcount: 2
+  - id: 160
+    gold: 1397815
+    enemylevelmin: 750
+    enemylevelmax: 755
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 161
+    gold: 1397815
+    enemylevelmin: 750
+    enemylevelmax: 755
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 3
+  - id: 162
+    gold: 1409557
+    enemylevelmin: 755
+    enemylevelmax: 760
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 163
+    gold: 1421290
+    enemylevelmin: 760
+    enemylevelmax: 765
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 1
+    crewcount: 2
+  - id: 164
+    gold: 1433032
+    enemylevelmin: 765
+    enemylevelmax: 770
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 3
+  - id: 165
+    gold: 1444799
+    enemylevelmin: 770
+    enemylevelmax: 775
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 3
+  - id: 166
+    gold: 1456574
+    enemylevelmin: 775
+    enemylevelmax: 780
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 167
+    gold: 1491944
+    enemylevelmin: 790
+    enemylevelmax: 795
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 1
+    crewcount: 2
+  - id: 168
+    gold: 1503748
+    enemylevelmin: 795
+    enemylevelmax: 800
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 3
+  - id: 169
+    gold: 1515576
+    enemylevelmin: 800
+    enemylevelmax: 805
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 170
+    gold: 1527393
+    enemylevelmin: 805
+    enemylevelmax: 810
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 2
+    crewcount: 2
+  - id: 171
+    gold: 1539233
+    enemylevelmin: 810
+    enemylevelmax: 815
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 172
+    gold: 1551098
+    enemylevelmin: 815
+    enemylevelmax: 820
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 173
+    gold: 1586703
+    enemylevelmin: 830
+    enemylevelmax: 835
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 174
+    gold: 1598588
+    enemylevelmin: 835
+    enemylevelmax: 840
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 3
+  - id: 175
+    gold: 1610476
+    enemylevelmin: 840
+    enemylevelmax: 845
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 176
+    gold: 1622387
+    enemylevelmin: 845
+    enemylevelmax: 850
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 3
+  - id: 177
+    gold: 1634301
+    enemylevelmin: 850
+    enemylevelmax: 855
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 3
+  - id: 178
+    gold: 1646219
+    enemylevelmin: 855
+    enemylevelmax: 860
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 179
+    gold: 1658158
+    enemylevelmin: 860
+    enemylevelmax: 865
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 180
+    gold: 1670082
+    enemylevelmin: 865
+    enemylevelmax: 870
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 3
+  - id: 181
+    gold: 1682046
+    enemylevelmin: 870
+    enemylevelmax: 875
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 1
+    crewcount: 2
+  - id: 182
+    gold: 1693994
+    enemylevelmin: 875
+    enemylevelmax: 880
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 3
+  - id: 183
+    gold: 1705962
+    enemylevelmin: 880
+    enemylevelmax: 885
+    diamond: 0
+    skillcrewid: 38
+    crewgrade: 0
+    crewcount: 0
+  - id: 184
+    gold: 1717932
+    enemylevelmin: 885
+    enemylevelmax: 890
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 3
+  - id: 185
+    gold: 1729923
+    enemylevelmin: 890
+    enemylevelmax: 895
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 3
+  - id: 186
+    gold: 1765901
+    enemylevelmin: 905
+    enemylevelmax: 910
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 187
+    gold: 1777915
+    enemylevelmin: 910
+    enemylevelmax: 915
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 188
+    gold: 1789947
+    enemylevelmin: 915
+    enemylevelmax: 920
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 1
+    crewcount: 2
+  - id: 189
+    gold: 1801980
+    enemylevelmin: 920
+    enemylevelmax: 925
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 3
+  - id: 190
+    gold: 1814012
+    enemylevelmin: 925
+    enemylevelmax: 930
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 191
+    gold: 1826063
+    enemylevelmin: 930
+    enemylevelmax: 935
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 192
+    gold: 1838114
+    enemylevelmin: 935
+    enemylevelmax: 940
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 2
+    crewcount: 2
+  - id: 193
+    gold: 1850163
+    enemylevelmin: 940
+    enemylevelmax: 945
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 1
+    crewcount: 2
+  - id: 194
+    gold: 1862231
+    enemylevelmin: 945
+    enemylevelmax: 950
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 3
+  - id: 195
+    gold: 1874316
+    enemylevelmin: 950
+    enemylevelmax: 955
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 196
+    gold: 1886399
+    enemylevelmin: 955
+    enemylevelmax: 960
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 197
+    gold: 1898481
+    enemylevelmin: 960
+    enemylevelmax: 965
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 3
+  - id: 198
+    gold: 1910580
+    enemylevelmin: 965
+    enemylevelmax: 970
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 199
+    gold: 1922676
+    enemylevelmin: 970
+    enemylevelmax: 975
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 1
+    crewcount: 2
+  - id: 200
+    gold: 1934789
+    enemylevelmin: 975
+    enemylevelmax: 980
+    diamond: 5
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 201
+    gold: 1946919
+    enemylevelmin: 980
+    enemylevelmax: 985
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 3
+  - id: 202
+    gold: 1959026
+    enemylevelmin: 985
+    enemylevelmax: 990
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 3
+    crewcount: 2
+  - id: 203
+    gold: 1983308
+    enemylevelmin: 1000
+    enemylevelmax: 1000
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 1
+    crewcount: 2
+  - id: 204
+    gold: 1983308
+    enemylevelmin: 1000
+    enemylevelmax: 1000
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 2
+    crewcount: 2
+  - id: 205
+    gold: 1983308
+    enemylevelmin: 1000
+    enemylevelmax: 1000
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 1
+    crewcount: 2
+  - id: 206
+    gold: 1983308
+    enemylevelmin: 1000
+    enemylevelmax: 1000
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 3
+  - id: 207
+    gold: 1983308
+    enemylevelmin: 1000
+    enemylevelmax: 1000
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 2
+    crewcount: 2
+  - id: 208
+    gold: 1983308
+    enemylevelmin: 1000
+    enemylevelmax: 1000
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 3
+  - id: 209
+    gold: 1983308
+    enemylevelmin: 1000
+    enemylevelmax: 1000
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 3
+    crewcount: 2
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0
+  - id: 0
+    gold: 0
+    enemylevelmin: 0
+    enemylevelmax: 0
+    diamond: 0
+    skillcrewid: 0
+    crewgrade: 0
+    crewcount: 0

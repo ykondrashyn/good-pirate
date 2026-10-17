@@ -1,0 +1,21 @@
+{
+  "name": "GoodPirate113.Reconstruction.EditModeTests",
+  "rootNamespace": "GoodPirate113.Reconstruction.Tests",
+  "references": [
+    "GoodPirate113.Reconstruction.Runtime"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": false,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false,
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ]
+}

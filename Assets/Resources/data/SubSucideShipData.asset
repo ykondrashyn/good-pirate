@@ -1,0 +1,5017 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e612c4f813b73036c6a85b3fb5459a34, type: 3}
+  m_Name: SubSucideShipData
+  m_EditorClassIdentifier:
+  SheetName: 아직은 제목은 없지만 쩔어줄 프로젝트
+  WorksheetName: SubSucideShipData
+  dataArray:
+  - level: 1
+    attack: 1882
+    health: 471
+    enemyattack: 1882
+    enemyhealth: 471
+  - level: 2
+    attack: 1920
+    health: 480
+    enemyattack: 1920
+    enemyhealth: 480
+  - level: 3
+    attack: 1958
+    health: 490
+    enemyattack: 1958
+    enemyhealth: 490
+  - level: 4
+    attack: 1997
+    health: 500
+    enemyattack: 1997
+    enemyhealth: 500
+  - level: 5
+    attack: 2035
+    health: 510
+    enemyattack: 2035
+    enemyhealth: 510
+  - level: 6
+    attack: 2074
+    health: 520
+    enemyattack: 2074
+    enemyhealth: 520
+  - level: 7
+    attack: 2112
+    health: 530
+    enemyattack: 2112
+    enemyhealth: 530
+  - level: 8
+    attack: 2150
+    health: 540
+    enemyattack: 2150
+    enemyhealth: 540
+  - level: 9
+    attack: 2189
+    health: 550
+    enemyattack: 2189
+    enemyhealth: 550
+  - level: 10
+    attack: 2227
+    health: 560
+    enemyattack: 2227
+    enemyhealth: 560
+  - level: 11
+    attack: 2266
+    health: 570
+    enemyattack: 2266
+    enemyhealth: 570
+  - level: 12
+    attack: 2304
+    health: 579
+    enemyattack: 2304
+    enemyhealth: 579
+  - level: 13
+    attack: 2342
+    health: 589
+    enemyattack: 2342
+    enemyhealth: 589
+  - level: 14
+    attack: 2381
+    health: 599
+    enemyattack: 2381
+    enemyhealth: 599
+  - level: 15
+    attack: 2419
+    health: 609
+    enemyattack: 2419
+    enemyhealth: 609
+  - level: 16
+    attack: 2458
+    health: 619
+    enemyattack: 2458
+    enemyhealth: 619
+  - level: 17
+    attack: 2496
+    health: 629
+    enemyattack: 2496
+    enemyhealth: 629
+  - level: 18
+    attack: 2534
+    health: 639
+    enemyattack: 2534
+    enemyhealth: 639
+  - level: 19
+    attack: 2573
+    health: 649
+    enemyattack: 2573
+    enemyhealth: 649
+  - level: 20
+    attack: 2611
+    health: 659
+    enemyattack: 2611
+    enemyhealth: 659
+  - level: 21
+    attack: 2650
+    health: 669
+    enemyattack: 2650
+    enemyhealth: 669
+  - level: 22
+    attack: 2688
+    health: 679
+    enemyattack: 2688
+    enemyhealth: 679
+  - level: 23
+    attack: 2726
+    health: 689
+    enemyattack: 2726
+    enemyhealth: 689
+  - level: 24
+    attack: 2765
+    health: 699
+    enemyattack: 2765
+    enemyhealth: 699
+  - level: 25
+    attack: 2803
+    health: 710
+    enemyattack: 2803
+    enemyhealth: 710
+  - level: 26
+    attack: 2842
+    health: 720
+    enemyattack: 2842
+    enemyhealth: 720
+  - level: 27
+    attack: 2880
+    health: 730
+    enemyattack: 2880
+    enemyhealth: 730
+  - level: 28
+    attack: 2918
+    health: 740
+    enemyattack: 2918
+    enemyhealth: 740
+  - level: 29
+    attack: 2957
+    health: 750
+    enemyattack: 2957
+    enemyhealth: 750
+  - level: 30
+    attack: 2995
+    health: 760
+    enemyattack: 2995
+    enemyhealth: 760
+  - level: 31
+    attack: 3034
+    health: 770
+    enemyattack: 3034
+    enemyhealth: 770
+  - level: 32
+    attack: 3072
+    health: 780
+    enemyattack: 3072
+    enemyhealth: 780
+  - level: 33
+    attack: 3110
+    health: 790
+    enemyattack: 3110
+    enemyhealth: 790
+  - level: 34
+    attack: 3149
+    health: 801
+    enemyattack: 3149
+    enemyhealth: 801
+  - level: 35
+    attack: 3187
+    health: 811
+    enemyattack: 3187
+    enemyhealth: 811
+  - level: 36
+    attack: 3226
+    health: 821
+    enemyattack: 3226
+    enemyhealth: 821
+  - level: 37
+    attack: 3264
+    health: 831
+    enemyattack: 3264
+    enemyhealth: 831
+  - level: 38
+    attack: 3302
+    health: 841
+    enemyattack: 3302
+    enemyhealth: 841
+  - level: 39
+    attack: 3341
+    health: 851
+    enemyattack: 3341
+    enemyhealth: 851
+  - level: 40
+    attack: 3379
+    health: 862
+    enemyattack: 3379
+    enemyhealth: 862
+  - level: 41
+    attack: 3418
+    health: 872
+    enemyattack: 3418
+    enemyhealth: 872
+  - level: 42
+    attack: 3456
+    health: 882
+    enemyattack: 3456
+    enemyhealth: 882
+  - level: 43
+    attack: 3494
+    health: 892
+    enemyattack: 3494
+    enemyhealth: 892
+  - level: 44
+    attack: 3533
+    health: 903
+    enemyattack: 3533
+    enemyhealth: 903
+  - level: 45
+    attack: 3571
+    health: 913
+    enemyattack: 3571
+    enemyhealth: 913
+  - level: 46
+    attack: 3610
+    health: 923
+    enemyattack: 3610
+    enemyhealth: 923
+  - level: 47
+    attack: 3648
+    health: 933
+    enemyattack: 3648
+    enemyhealth: 933
+  - level: 48
+    attack: 3686
+    health: 944
+    enemyattack: 3686
+    enemyhealth: 944
+  - level: 49
+    attack: 3725
+    health: 954
+    enemyattack: 3725
+    enemyhealth: 954
+  - level: 50
+    attack: 3763
+    health: 964
+    enemyattack: 3763
+    enemyhealth: 964
+  - level: 51
+    attack: 3802
+    health: 975
+    enemyattack: 3802
+    enemyhealth: 975
+  - level: 52
+    attack: 3840
+    health: 985
+    enemyattack: 3840
+    enemyhealth: 985
+  - level: 53
+    attack: 3878
+    health: 995
+    enemyattack: 3878
+    enemyhealth: 995
+  - level: 54
+    attack: 3917
+    health: 1006
+    enemyattack: 3917
+    enemyhealth: 1006
+  - level: 55
+    attack: 3955
+    health: 1016
+    enemyattack: 3955
+    enemyhealth: 1016
+  - level: 56
+    attack: 3994
+    health: 1026
+    enemyattack: 3994
+    enemyhealth: 1026
+  - level: 57
+    attack: 4032
+    health: 1037
+    enemyattack: 4032
+    enemyhealth: 1037
+  - level: 58
+    attack: 4070
+    health: 1047
+    enemyattack: 4070
+    enemyhealth: 1047
+  - level: 59
+    attack: 4109
+    health: 1058
+    enemyattack: 4109
+    enemyhealth: 1058
+  - level: 60
+    attack: 4147
+    health: 1068
+    enemyattack: 4147
+    enemyhealth: 1068
+  - level: 61
+    attack: 4186
+    health: 1078
+    enemyattack: 4186
+    enemyhealth: 1078
+  - level: 62
+    attack: 4224
+    health: 1089
+    enemyattack: 4224
+    enemyhealth: 1089
+  - level: 63
+    attack: 4262
+    health: 1099
+    enemyattack: 4262
+    enemyhealth: 1099
+  - level: 64
+    attack: 4301
+    health: 1110
+    enemyattack: 4301
+    enemyhealth: 1110
+  - level: 65
+    attack: 4339
+    health: 1120
+    enemyattack: 4339
+    enemyhealth: 1120
+  - level: 66
+    attack: 4378
+    health: 1131
+    enemyattack: 4378
+    enemyhealth: 1131
+  - level: 67
+    attack: 4416
+    health: 1141
+    enemyattack: 4416
+    enemyhealth: 1141
+  - level: 68
+    attack: 4454
+    health: 1151
+    enemyattack: 4454
+    enemyhealth: 1151
+  - level: 69
+    attack: 4493
+    health: 1162
+    enemyattack: 4493
+    enemyhealth: 1162
+  - level: 70
+    attack: 4531
+    health: 1172
+    enemyattack: 4531
+    enemyhealth: 1172
+  - level: 71
+    attack: 4570
+    health: 1183
+    enemyattack: 4570
+    enemyhealth: 1183
+  - level: 72
+    attack: 4608
+    health: 1193
+    enemyattack: 4608
+    enemyhealth: 1193
+  - level: 73
+    attack: 4646
+    health: 1204
+    enemyattack: 4646
+    enemyhealth: 1204
+  - level: 74
+    attack: 4685
+    health: 1215
+    enemyattack: 4685
+    enemyhealth: 1215
+  - level: 75
+    attack: 4723
+    health: 1225
+    enemyattack: 4723
+    enemyhealth: 1225
+  - level: 76
+    attack: 4762
+    health: 1236
+    enemyattack: 4762
+    enemyhealth: 1236
+  - level: 77
+    attack: 4800
+    health: 1246
+    enemyattack: 4800
+    enemyhealth: 1246
+  - level: 78
+    attack: 4838
+    health: 1257
+    enemyattack: 4838
+    enemyhealth: 1257
+  - level: 79
+    attack: 4877
+    health: 1267
+    enemyattack: 4877
+    enemyhealth: 1267
+  - level: 80
+    attack: 4915
+    health: 1278
+    enemyattack: 4915
+    enemyhealth: 1278
+  - level: 81
+    attack: 4954
+    health: 1289
+    enemyattack: 4954
+    enemyhealth: 1289
+  - level: 82
+    attack: 4992
+    health: 1299
+    enemyattack: 4992
+    enemyhealth: 1299
+  - level: 83
+    attack: 5030
+    health: 1310
+    enemyattack: 5030
+    enemyhealth: 1310
+  - level: 84
+    attack: 5069
+    health: 1320
+    enemyattack: 5069
+    enemyhealth: 1320
+  - level: 85
+    attack: 5107
+    health: 1331
+    enemyattack: 5107
+    enemyhealth: 1331
+  - level: 86
+    attack: 5146
+    health: 1342
+    enemyattack: 5146
+    enemyhealth: 1342
+  - level: 87
+    attack: 5184
+    health: 1352
+    enemyattack: 5184
+    enemyhealth: 1352
+  - level: 88
+    attack: 5222
+    health: 1363
+    enemyattack: 5222
+    enemyhealth: 1363
+  - level: 89
+    attack: 5261
+    health: 1374
+    enemyattack: 5261
+    enemyhealth: 1374
+  - level: 90
+    attack: 5299
+    health: 1384
+    enemyattack: 5299
+    enemyhealth: 1384
+  - level: 91
+    attack: 5338
+    health: 1395
+    enemyattack: 5338
+    enemyhealth: 1395
+  - level: 92
+    attack: 5376
+    health: 1406
+    enemyattack: 5376
+    enemyhealth: 1406
+  - level: 93
+    attack: 5414
+    health: 1417
+    enemyattack: 5414
+    enemyhealth: 1417
+  - level: 94
+    attack: 5453
+    health: 1427
+    enemyattack: 5453
+    enemyhealth: 1427
+  - level: 95
+    attack: 5491
+    health: 1438
+    enemyattack: 5491
+    enemyhealth: 1438
+  - level: 96
+    attack: 5530
+    health: 1449
+    enemyattack: 5530
+    enemyhealth: 1449
+  - level: 97
+    attack: 5568
+    health: 1460
+    enemyattack: 5568
+    enemyhealth: 1460
+  - level: 98
+    attack: 5606
+    health: 1470
+    enemyattack: 5606
+    enemyhealth: 1470
+  - level: 99
+    attack: 5645
+    health: 1481
+    enemyattack: 5645
+    enemyhealth: 1481
+  - level: 100
+    attack: 5424
+    health: 1424
+    enemyattack: 5424
+    enemyhealth: 1424
+  - level: 101
+    attack: 5472
+    health: 1437
+    enemyattack: 5472
+    enemyhealth: 1437
+  - level: 102
+    attack: 5520
+    health: 1450
+    enemyattack: 5520
+    enemyhealth: 1450
+  - level: 103
+    attack: 5568
+    health: 1464
+    enemyattack: 5568
+    enemyhealth: 1464
+  - level: 104
+    attack: 5616
+    health: 1477
+    enemyattack: 5616
+    enemyhealth: 1477
+  - level: 105
+    attack: 5664
+    health: 1490
+    enemyattack: 5664
+    enemyhealth: 1490
+  - level: 106
+    attack: 5712
+    health: 1504
+    enemyattack: 5712
+    enemyhealth: 1504
+  - level: 107
+    attack: 5760
+    health: 1517
+    enemyattack: 5760
+    enemyhealth: 1517
+  - level: 108
+    attack: 5808
+    health: 1530
+    enemyattack: 5808
+    enemyhealth: 1530
+  - level: 109
+    attack: 5856
+    health: 1544
+    enemyattack: 5856
+    enemyhealth: 1544
+  - level: 110
+    attack: 5904
+    health: 1557
+    enemyattack: 5904
+    enemyhealth: 1557
+  - level: 111
+    attack: 5952
+    health: 1571
+    enemyattack: 5952
+    enemyhealth: 1571
+  - level: 112
+    attack: 6000
+    health: 1584
+    enemyattack: 6000
+    enemyhealth: 1584
+  - level: 113
+    attack: 6048
+    health: 1597
+    enemyattack: 6048
+    enemyhealth: 1597
+  - level: 114
+    attack: 6096
+    health: 1611
+    enemyattack: 6096
+    enemyhealth: 1611
+  - level: 115
+    attack: 6144
+    health: 1624
+    enemyattack: 6144
+    enemyhealth: 1624
+  - level: 116
+    attack: 6192
+    health: 1638
+    enemyattack: 6192
+    enemyhealth: 1638
+  - level: 117
+    attack: 6240
+    health: 1651
+    enemyattack: 6240
+    enemyhealth: 1651
+  - level: 118
+    attack: 6288
+    health: 1665
+    enemyattack: 6288
+    enemyhealth: 1665
+  - level: 119
+    attack: 6336
+    health: 1678
+    enemyattack: 6336
+    enemyhealth: 1678
+  - level: 120
+    attack: 6384
+    health: 1692
+    enemyattack: 6384
+    enemyhealth: 1692
+  - level: 121
+    attack: 6432
+    health: 1705
+    enemyattack: 6432
+    enemyhealth: 1705
+  - level: 122
+    attack: 6480
+    health: 1719
+    enemyattack: 6480
+    enemyhealth: 1719
+  - level: 123
+    attack: 6528
+    health: 1732
+    enemyattack: 6528
+    enemyhealth: 1732
+  - level: 124
+    attack: 6576
+    health: 1746
+    enemyattack: 6576
+    enemyhealth: 1746
+  - level: 125
+    attack: 6624
+    health: 1760
+    enemyattack: 6624
+    enemyhealth: 1760
+  - level: 126
+    attack: 6672
+    health: 1773
+    enemyattack: 6672
+    enemyhealth: 1773
+  - level: 127
+    attack: 6720
+    health: 1787
+    enemyattack: 6720
+    enemyhealth: 1787
+  - level: 128
+    attack: 6768
+    health: 1800
+    enemyattack: 6768
+    enemyhealth: 1800
+  - level: 129
+    attack: 6816
+    health: 1814
+    enemyattack: 6816
+    enemyhealth: 1814
+  - level: 130
+    attack: 6864
+    health: 1828
+    enemyattack: 6864
+    enemyhealth: 1828
+  - level: 131
+    attack: 6912
+    health: 1841
+    enemyattack: 6912
+    enemyhealth: 1841
+  - level: 132
+    attack: 6960
+    health: 1855
+    enemyattack: 6960
+    enemyhealth: 1855
+  - level: 133
+    attack: 7008
+    health: 1869
+    enemyattack: 7008
+    enemyhealth: 1869
+  - level: 134
+    attack: 7056
+    health: 1882
+    enemyattack: 7056
+    enemyhealth: 1882
+  - level: 135
+    attack: 7104
+    health: 1896
+    enemyattack: 7104
+    enemyhealth: 1896
+  - level: 136
+    attack: 7152
+    health: 1910
+    enemyattack: 7152
+    enemyhealth: 1910
+  - level: 137
+    attack: 7200
+    health: 1923
+    enemyattack: 7200
+    enemyhealth: 1923
+  - level: 138
+    attack: 7248
+    health: 1937
+    enemyattack: 7248
+    enemyhealth: 1937
+  - level: 139
+    attack: 7296
+    health: 1951
+    enemyattack: 7296
+    enemyhealth: 1951
+  - level: 140
+    attack: 7344
+    health: 1965
+    enemyattack: 7344
+    enemyhealth: 1965
+  - level: 141
+    attack: 7392
+    health: 1978
+    enemyattack: 7392
+    enemyhealth: 1978
+  - level: 142
+    attack: 7440
+    health: 1992
+    enemyattack: 7440
+    enemyhealth: 1992
+  - level: 143
+    attack: 7488
+    health: 2006
+    enemyattack: 7488
+    enemyhealth: 2006
+  - level: 144
+    attack: 7536
+    health: 2020
+    enemyattack: 7536
+    enemyhealth: 2020
+  - level: 145
+    attack: 7584
+    health: 2033
+    enemyattack: 7584
+    enemyhealth: 2033
+  - level: 146
+    attack: 7632
+    health: 2047
+    enemyattack: 7632
+    enemyhealth: 2047
+  - level: 147
+    attack: 7680
+    health: 2061
+    enemyattack: 7680
+    enemyhealth: 2061
+  - level: 148
+    attack: 7728
+    health: 2075
+    enemyattack: 7728
+    enemyhealth: 2075
+  - level: 149
+    attack: 7776
+    health: 2089
+    enemyattack: 7776
+    enemyhealth: 2089
+  - level: 150
+    attack: 7824
+    health: 2103
+    enemyattack: 7824
+    enemyhealth: 2103
+  - level: 151
+    attack: 7872
+    health: 2117
+    enemyattack: 7872
+    enemyhealth: 2117
+  - level: 152
+    attack: 7920
+    health: 2130
+    enemyattack: 7920
+    enemyhealth: 2130
+  - level: 153
+    attack: 7968
+    health: 2144
+    enemyattack: 7968
+    enemyhealth: 2144
+  - level: 154
+    attack: 8016
+    health: 2158
+    enemyattack: 8016
+    enemyhealth: 2158
+  - level: 155
+    attack: 8064
+    health: 2172
+    enemyattack: 8064
+    enemyhealth: 2172
+  - level: 156
+    attack: 8112
+    health: 2186
+    enemyattack: 8112
+    enemyhealth: 2186
+  - level: 157
+    attack: 8160
+    health: 2200
+    enemyattack: 8160
+    enemyhealth: 2200
+  - level: 158
+    attack: 8208
+    health: 2214
+    enemyattack: 8208
+    enemyhealth: 2214
+  - level: 159
+    attack: 8256
+    health: 2228
+    enemyattack: 8256
+    enemyhealth: 2228
+  - level: 160
+    attack: 8304
+    health: 2242
+    enemyattack: 8304
+    enemyhealth: 2242
+  - level: 161
+    attack: 8352
+    health: 2256
+    enemyattack: 8352
+    enemyhealth: 2256
+  - level: 162
+    attack: 8400
+    health: 2270
+    enemyattack: 8400
+    enemyhealth: 2270
+  - level: 163
+    attack: 8448
+    health: 2284
+    enemyattack: 8448
+    enemyhealth: 2284
+  - level: 164
+    attack: 8496
+    health: 2298
+    enemyattack: 8496
+    enemyhealth: 2298
+  - level: 165
+    attack: 8544
+    health: 2312
+    enemyattack: 8544
+    enemyhealth: 2312
+  - level: 166
+    attack: 8592
+    health: 2326
+    enemyattack: 8592
+    enemyhealth: 2326
+  - level: 167
+    attack: 8640
+    health: 2340
+    enemyattack: 8640
+    enemyhealth: 2340
+  - level: 168
+    attack: 8688
+    health: 2354
+    enemyattack: 8688
+    enemyhealth: 2354
+  - level: 169
+    attack: 8736
+    health: 2369
+    enemyattack: 8736
+    enemyhealth: 2369
+  - level: 170
+    attack: 8784
+    health: 2383
+    enemyattack: 8784
+    enemyhealth: 2383
+  - level: 171
+    attack: 8832
+    health: 2397
+    enemyattack: 8832
+    enemyhealth: 2397
+  - level: 172
+    attack: 8880
+    health: 2411
+    enemyattack: 8880
+    enemyhealth: 2411
+  - level: 173
+    attack: 8928
+    health: 2425
+    enemyattack: 8928
+    enemyhealth: 2425
+  - level: 174
+    attack: 8976
+    health: 2439
+    enemyattack: 8976
+    enemyhealth: 2439
+  - level: 175
+    attack: 9024
+    health: 2453
+    enemyattack: 9024
+    enemyhealth: 2453
+  - level: 176
+    attack: 9072
+    health: 2468
+    enemyattack: 9072
+    enemyhealth: 2468
+  - level: 177
+    attack: 9120
+    health: 2482
+    enemyattack: 9120
+    enemyhealth: 2482
+  - level: 178
+    attack: 9168
+    health: 2496
+    enemyattack: 9168
+    enemyhealth: 2496
+  - level: 179
+    attack: 9216
+    health: 2510
+    enemyattack: 9216
+    enemyhealth: 2510
+  - level: 180
+    attack: 9264
+    health: 2524
+    enemyattack: 9264
+    enemyhealth: 2524
+  - level: 181
+    attack: 9312
+    health: 2539
+    enemyattack: 9312
+    enemyhealth: 2539
+  - level: 182
+    attack: 9360
+    health: 2553
+    enemyattack: 9360
+    enemyhealth: 2553
+  - level: 183
+    attack: 9408
+    health: 2567
+    enemyattack: 9408
+    enemyhealth: 2567
+  - level: 184
+    attack: 9456
+    health: 2581
+    enemyattack: 9456
+    enemyhealth: 2581
+  - level: 185
+    attack: 9504
+    health: 2596
+    enemyattack: 9504
+    enemyhealth: 2596
+  - level: 186
+    attack: 9552
+    health: 2610
+    enemyattack: 9552
+    enemyhealth: 2610
+  - level: 187
+    attack: 9600
+    health: 2624
+    enemyattack: 9600
+    enemyhealth: 2624
+  - level: 188
+    attack: 9648
+    health: 2639
+    enemyattack: 9648
+    enemyhealth: 2639
+  - level: 189
+    attack: 9696
+    health: 2653
+    enemyattack: 9696
+    enemyhealth: 2653
+  - level: 190
+    attack: 9744
+    health: 2667
+    enemyattack: 9744
+    enemyhealth: 2667
+  - level: 191
+    attack: 9792
+    health: 2682
+    enemyattack: 9792
+    enemyhealth: 2682
+  - level: 192
+    attack: 9840
+    health: 2696
+    enemyattack: 9840
+    enemyhealth: 2696
+  - level: 193
+    attack: 9888
+    health: 2711
+    enemyattack: 9888
+    enemyhealth: 2711
+  - level: 194
+    attack: 9936
+    health: 2725
+    enemyattack: 9936
+    enemyhealth: 2725
+  - level: 195
+    attack: 9984
+    health: 2739
+    enemyattack: 9984
+    enemyhealth: 2739
+  - level: 196
+    attack: 10032
+    health: 2754
+    enemyattack: 10032
+    enemyhealth: 2754
+  - level: 197
+    attack: 10080
+    health: 2768
+    enemyattack: 10080
+    enemyhealth: 2768
+  - level: 198
+    attack: 10128
+    health: 2783
+    enemyattack: 10128
+    enemyhealth: 2783
+  - level: 199
+    attack: 10176
+    health: 2797
+    enemyattack: 10176
+    enemyhealth: 2797
+  - level: 200
+    attack: 10176
+    health: 2798
+    enemyattack: 10176
+    enemyhealth: 2798
+  - level: 201
+    attack: 10234
+    health: 2816
+    enemyattack: 10234
+    enemyhealth: 2816
+  - level: 202
+    attack: 10291
+    health: 2833
+    enemyattack: 10291
+    enemyhealth: 2833
+  - level: 203
+    attack: 10349
+    health: 2850
+    enemyattack: 10349
+    enemyhealth: 2850
+  - level: 204
+    attack: 10406
+    health: 2867
+    enemyattack: 10406
+    enemyhealth: 2867
+  - level: 205
+    attack: 10464
+    health: 2884
+    enemyattack: 10464
+    enemyhealth: 2884
+  - level: 206
+    attack: 10522
+    health: 2901
+    enemyattack: 10522
+    enemyhealth: 2901
+  - level: 207
+    attack: 10579
+    health: 2919
+    enemyattack: 10579
+    enemyhealth: 2919
+  - level: 208
+    attack: 10637
+    health: 2936
+    enemyattack: 10637
+    enemyhealth: 2936
+  - level: 209
+    attack: 10694
+    health: 2953
+    enemyattack: 10694
+    enemyhealth: 2953
+  - level: 210
+    attack: 10752
+    health: 2970
+    enemyattack: 10752
+    enemyhealth: 2970
+  - level: 211
+    attack: 10810
+    health: 2988
+    enemyattack: 10810
+    enemyhealth: 2988
+  - level: 212
+    attack: 10867
+    health: 3005
+    enemyattack: 10867
+    enemyhealth: 3005
+  - level: 213
+    attack: 10925
+    health: 3022
+    enemyattack: 10925
+    enemyhealth: 3022
+  - level: 214
+    attack: 10982
+    health: 3039
+    enemyattack: 10982
+    enemyhealth: 3039
+  - level: 215
+    attack: 11040
+    health: 3057
+    enemyattack: 11040
+    enemyhealth: 3057
+  - level: 216
+    attack: 11098
+    health: 3074
+    enemyattack: 11098
+    enemyhealth: 3074
+  - level: 217
+    attack: 11155
+    health: 3091
+    enemyattack: 11155
+    enemyhealth: 3091
+  - level: 218
+    attack: 11213
+    health: 3109
+    enemyattack: 11213
+    enemyhealth: 3109
+  - level: 219
+    attack: 11270
+    health: 3126
+    enemyattack: 11270
+    enemyhealth: 3126
+  - level: 220
+    attack: 11328
+    health: 3144
+    enemyattack: 11328
+    enemyhealth: 3144
+  - level: 221
+    attack: 11386
+    health: 3161
+    enemyattack: 11386
+    enemyhealth: 3161
+  - level: 222
+    attack: 11443
+    health: 3178
+    enemyattack: 11443
+    enemyhealth: 3178
+  - level: 223
+    attack: 11501
+    health: 3196
+    enemyattack: 11501
+    enemyhealth: 3196
+  - level: 224
+    attack: 11558
+    health: 3213
+    enemyattack: 11558
+    enemyhealth: 3213
+  - level: 225
+    attack: 11616
+    health: 3231
+    enemyattack: 11616
+    enemyhealth: 3231
+  - level: 226
+    attack: 11674
+    health: 3248
+    enemyattack: 11674
+    enemyhealth: 3248
+  - level: 227
+    attack: 11731
+    health: 3266
+    enemyattack: 11731
+    enemyhealth: 3266
+  - level: 228
+    attack: 11789
+    health: 3283
+    enemyattack: 11789
+    enemyhealth: 3283
+  - level: 229
+    attack: 11846
+    health: 3301
+    enemyattack: 11846
+    enemyhealth: 3301
+  - level: 230
+    attack: 11904
+    health: 3318
+    enemyattack: 11904
+    enemyhealth: 3318
+  - level: 231
+    attack: 11962
+    health: 3336
+    enemyattack: 11962
+    enemyhealth: 3336
+  - level: 232
+    attack: 12019
+    health: 3353
+    enemyattack: 12019
+    enemyhealth: 3353
+  - level: 233
+    attack: 12077
+    health: 3371
+    enemyattack: 12077
+    enemyhealth: 3371
+  - level: 234
+    attack: 12134
+    health: 3389
+    enemyattack: 12134
+    enemyhealth: 3389
+  - level: 235
+    attack: 12192
+    health: 3406
+    enemyattack: 12192
+    enemyhealth: 3406
+  - level: 236
+    attack: 12250
+    health: 3424
+    enemyattack: 12250
+    enemyhealth: 3424
+  - level: 237
+    attack: 12307
+    health: 3441
+    enemyattack: 12307
+    enemyhealth: 3441
+  - level: 238
+    attack: 12365
+    health: 3459
+    enemyattack: 12365
+    enemyhealth: 3459
+  - level: 239
+    attack: 12422
+    health: 3477
+    enemyattack: 12422
+    enemyhealth: 3477
+  - level: 240
+    attack: 12480
+    health: 3494
+    enemyattack: 12480
+    enemyhealth: 3494
+  - level: 241
+    attack: 12538
+    health: 3512
+    enemyattack: 12538
+    enemyhealth: 3512
+  - level: 242
+    attack: 12595
+    health: 3530
+    enemyattack: 12595
+    enemyhealth: 3530
+  - level: 243
+    attack: 12653
+    health: 3548
+    enemyattack: 12653
+    enemyhealth: 3548
+  - level: 244
+    attack: 12710
+    health: 3565
+    enemyattack: 12710
+    enemyhealth: 3565
+  - level: 245
+    attack: 12768
+    health: 3583
+    enemyattack: 12768
+    enemyhealth: 3583
+  - level: 246
+    attack: 12826
+    health: 3601
+    enemyattack: 12826
+    enemyhealth: 3601
+  - level: 247
+    attack: 12883
+    health: 3619
+    enemyattack: 12883
+    enemyhealth: 3619
+  - level: 248
+    attack: 12941
+    health: 3636
+    enemyattack: 12941
+    enemyhealth: 3636
+  - level: 249
+    attack: 12998
+    health: 3654
+    enemyattack: 12998
+    enemyhealth: 3654
+  - level: 250
+    attack: 13056
+    health: 3672
+    enemyattack: 13056
+    enemyhealth: 3672
+  - level: 251
+    attack: 13114
+    health: 3690
+    enemyattack: 13114
+    enemyhealth: 3690
+  - level: 252
+    attack: 13171
+    health: 3708
+    enemyattack: 13171
+    enemyhealth: 3708
+  - level: 253
+    attack: 13229
+    health: 3726
+    enemyattack: 13229
+    enemyhealth: 3726
+  - level: 254
+    attack: 13286
+    health: 3743
+    enemyattack: 13286
+    enemyhealth: 3743
+  - level: 255
+    attack: 13344
+    health: 3761
+    enemyattack: 13344
+    enemyhealth: 3761
+  - level: 256
+    attack: 13402
+    health: 3779
+    enemyattack: 13402
+    enemyhealth: 3779
+  - level: 257
+    attack: 13459
+    health: 3797
+    enemyattack: 13459
+    enemyhealth: 3797
+  - level: 258
+    attack: 13517
+    health: 3815
+    enemyattack: 13517
+    enemyhealth: 3815
+  - level: 259
+    attack: 13574
+    health: 3833
+    enemyattack: 13574
+    enemyhealth: 3833
+  - level: 260
+    attack: 13632
+    health: 3851
+    enemyattack: 13632
+    enemyhealth: 3851
+  - level: 261
+    attack: 13690
+    health: 3869
+    enemyattack: 13690
+    enemyhealth: 3869
+  - level: 262
+    attack: 13747
+    health: 3887
+    enemyattack: 13747
+    enemyhealth: 3887
+  - level: 263
+    attack: 13805
+    health: 3905
+    enemyattack: 13805
+    enemyhealth: 3905
+  - level: 264
+    attack: 13862
+    health: 3923
+    enemyattack: 13862
+    enemyhealth: 3923
+  - level: 265
+    attack: 13920
+    health: 3941
+    enemyattack: 13920
+    enemyhealth: 3941
+  - level: 266
+    attack: 13978
+    health: 3959
+    enemyattack: 13978
+    enemyhealth: 3959
+  - level: 267
+    attack: 14035
+    health: 3977
+    enemyattack: 14035
+    enemyhealth: 3977
+  - level: 268
+    attack: 14093
+    health: 3995
+    enemyattack: 14093
+    enemyhealth: 3995
+  - level: 269
+    attack: 14150
+    health: 4013
+    enemyattack: 14150
+    enemyhealth: 4013
+  - level: 270
+    attack: 14208
+    health: 4032
+    enemyattack: 14208
+    enemyhealth: 4032
+  - level: 271
+    attack: 14266
+    health: 4050
+    enemyattack: 14266
+    enemyhealth: 4050
+  - level: 272
+    attack: 14323
+    health: 4068
+    enemyattack: 14323
+    enemyhealth: 4068
+  - level: 273
+    attack: 14381
+    health: 4086
+    enemyattack: 14381
+    enemyhealth: 4086
+  - level: 274
+    attack: 14438
+    health: 4104
+    enemyattack: 14438
+    enemyhealth: 4104
+  - level: 275
+    attack: 14496
+    health: 4122
+    enemyattack: 14496
+    enemyhealth: 4122
+  - level: 276
+    attack: 14554
+    health: 4140
+    enemyattack: 14554
+    enemyhealth: 4140
+  - level: 277
+    attack: 14611
+    health: 4159
+    enemyattack: 14611
+    enemyhealth: 4159
+  - level: 278
+    attack: 14669
+    health: 4177
+    enemyattack: 14669
+    enemyhealth: 4177
+  - level: 279
+    attack: 14726
+    health: 4195
+    enemyattack: 14726
+    enemyhealth: 4195
+  - level: 280
+    attack: 14784
+    health: 4213
+    enemyattack: 14784
+    enemyhealth: 4213
+  - level: 281
+    attack: 14842
+    health: 4232
+    enemyattack: 14842
+    enemyhealth: 4232
+  - level: 282
+    attack: 14899
+    health: 4250
+    enemyattack: 14899
+    enemyhealth: 4250
+  - level: 283
+    attack: 14957
+    health: 4268
+    enemyattack: 14957
+    enemyhealth: 4268
+  - level: 284
+    attack: 15014
+    health: 4287
+    enemyattack: 15014
+    enemyhealth: 4287
+  - level: 285
+    attack: 15072
+    health: 4305
+    enemyattack: 15072
+    enemyhealth: 4305
+  - level: 286
+    attack: 15130
+    health: 4323
+    enemyattack: 15130
+    enemyhealth: 4323
+  - level: 287
+    attack: 15187
+    health: 4342
+    enemyattack: 15187
+    enemyhealth: 4342
+  - level: 288
+    attack: 15245
+    health: 4360
+    enemyattack: 15245
+    enemyhealth: 4360
+  - level: 289
+    attack: 15302
+    health: 4378
+    enemyattack: 15302
+    enemyhealth: 4378
+  - level: 290
+    attack: 15360
+    health: 4397
+    enemyattack: 15360
+    enemyhealth: 4397
+  - level: 291
+    attack: 15418
+    health: 4415
+    enemyattack: 15418
+    enemyhealth: 4415
+  - level: 292
+    attack: 15475
+    health: 4434
+    enemyattack: 15475
+    enemyhealth: 4434
+  - level: 293
+    attack: 15533
+    health: 4452
+    enemyattack: 15533
+    enemyhealth: 4452
+  - level: 294
+    attack: 15590
+    health: 4471
+    enemyattack: 15590
+    enemyhealth: 4471
+  - level: 295
+    attack: 15648
+    health: 4489
+    enemyattack: 15648
+    enemyhealth: 4489
+  - level: 296
+    attack: 15706
+    health: 4508
+    enemyattack: 15706
+    enemyhealth: 4508
+  - level: 297
+    attack: 15763
+    health: 4526
+    enemyattack: 15763
+    enemyhealth: 4526
+  - level: 298
+    attack: 15821
+    health: 4545
+    enemyattack: 15821
+    enemyhealth: 4545
+  - level: 299
+    attack: 15878
+    health: 4563
+    enemyattack: 15878
+    enemyhealth: 4563
+  - level: 300
+    attack: 19238
+    health: 5531
+    enemyattack: 19238
+    enemyhealth: 5531
+  - level: 301
+    attack: 19296
+    health: 5550
+    enemyattack: 19296
+    enemyhealth: 5550
+  - level: 302
+    attack: 19354
+    health: 5569
+    enemyattack: 19354
+    enemyhealth: 5569
+  - level: 303
+    attack: 19411
+    health: 5588
+    enemyattack: 19411
+    enemyhealth: 5588
+  - level: 304
+    attack: 19469
+    health: 5607
+    enemyattack: 19469
+    enemyhealth: 5607
+  - level: 305
+    attack: 19526
+    health: 5626
+    enemyattack: 19526
+    enemyhealth: 5626
+  - level: 306
+    attack: 19584
+    health: 5645
+    enemyattack: 19584
+    enemyhealth: 5645
+  - level: 307
+    attack: 19642
+    health: 5664
+    enemyattack: 19642
+    enemyhealth: 5664
+  - level: 308
+    attack: 19699
+    health: 5683
+    enemyattack: 19699
+    enemyhealth: 5683
+  - level: 309
+    attack: 19757
+    health: 5702
+    enemyattack: 19757
+    enemyhealth: 5702
+  - level: 310
+    attack: 19814
+    health: 5721
+    enemyattack: 19814
+    enemyhealth: 5721
+  - level: 311
+    attack: 19872
+    health: 5741
+    enemyattack: 19872
+    enemyhealth: 5741
+  - level: 312
+    attack: 19930
+    health: 5760
+    enemyattack: 19930
+    enemyhealth: 5760
+  - level: 313
+    attack: 19987
+    health: 5779
+    enemyattack: 19987
+    enemyhealth: 5779
+  - level: 314
+    attack: 20045
+    health: 5798
+    enemyattack: 20045
+    enemyhealth: 5798
+  - level: 315
+    attack: 20102
+    health: 5817
+    enemyattack: 20102
+    enemyhealth: 5817
+  - level: 316
+    attack: 20160
+    health: 5836
+    enemyattack: 20160
+    enemyhealth: 5836
+  - level: 317
+    attack: 20218
+    health: 5856
+    enemyattack: 20218
+    enemyhealth: 5856
+  - level: 318
+    attack: 20275
+    health: 5875
+    enemyattack: 20275
+    enemyhealth: 5875
+  - level: 319
+    attack: 20333
+    health: 5894
+    enemyattack: 20333
+    enemyhealth: 5894
+  - level: 320
+    attack: 20390
+    health: 5913
+    enemyattack: 20390
+    enemyhealth: 5913
+  - level: 321
+    attack: 20448
+    health: 5932
+    enemyattack: 20448
+    enemyhealth: 5932
+  - level: 322
+    attack: 20506
+    health: 5952
+    enemyattack: 20506
+    enemyhealth: 5952
+  - level: 323
+    attack: 20563
+    health: 5971
+    enemyattack: 20563
+    enemyhealth: 5971
+  - level: 324
+    attack: 20621
+    health: 5990
+    enemyattack: 20621
+    enemyhealth: 5990
+  - level: 325
+    attack: 20678
+    health: 6010
+    enemyattack: 20678
+    enemyhealth: 6010
+  - level: 326
+    attack: 20736
+    health: 6029
+    enemyattack: 20736
+    enemyhealth: 6029
+  - level: 327
+    attack: 20794
+    health: 6048
+    enemyattack: 20794
+    enemyhealth: 6048
+  - level: 328
+    attack: 20851
+    health: 6068
+    enemyattack: 20851
+    enemyhealth: 6068
+  - level: 329
+    attack: 20909
+    health: 6087
+    enemyattack: 20909
+    enemyhealth: 6087
+  - level: 330
+    attack: 20966
+    health: 6106
+    enemyattack: 20966
+    enemyhealth: 6106
+  - level: 331
+    attack: 21024
+    health: 6126
+    enemyattack: 21024
+    enemyhealth: 6126
+  - level: 332
+    attack: 21082
+    health: 6145
+    enemyattack: 21082
+    enemyhealth: 6145
+  - level: 333
+    attack: 21139
+    health: 6165
+    enemyattack: 21139
+    enemyhealth: 6165
+  - level: 334
+    attack: 21197
+    health: 6184
+    enemyattack: 21197
+    enemyhealth: 6184
+  - level: 335
+    attack: 21254
+    health: 6204
+    enemyattack: 21254
+    enemyhealth: 6204
+  - level: 336
+    attack: 21312
+    health: 6223
+    enemyattack: 21312
+    enemyhealth: 6223
+  - level: 337
+    attack: 21370
+    health: 6243
+    enemyattack: 21370
+    enemyhealth: 6243
+  - level: 338
+    attack: 21427
+    health: 6262
+    enemyattack: 21427
+    enemyhealth: 6262
+  - level: 339
+    attack: 21485
+    health: 6282
+    enemyattack: 21485
+    enemyhealth: 6282
+  - level: 340
+    attack: 21542
+    health: 6301
+    enemyattack: 21542
+    enemyhealth: 6301
+  - level: 341
+    attack: 21600
+    health: 6321
+    enemyattack: 21600
+    enemyhealth: 6321
+  - level: 342
+    attack: 21658
+    health: 6340
+    enemyattack: 21658
+    enemyhealth: 6340
+  - level: 343
+    attack: 21715
+    health: 6360
+    enemyattack: 21715
+    enemyhealth: 6360
+  - level: 344
+    attack: 21773
+    health: 6379
+    enemyattack: 21773
+    enemyhealth: 6379
+  - level: 345
+    attack: 21830
+    health: 6399
+    enemyattack: 21830
+    enemyhealth: 6399
+  - level: 346
+    attack: 21888
+    health: 6419
+    enemyattack: 21888
+    enemyhealth: 6419
+  - level: 347
+    attack: 21946
+    health: 6438
+    enemyattack: 21946
+    enemyhealth: 6438
+  - level: 348
+    attack: 22003
+    health: 6458
+    enemyattack: 22003
+    enemyhealth: 6458
+  - level: 349
+    attack: 22061
+    health: 6478
+    enemyattack: 22061
+    enemyhealth: 6478
+  - level: 350
+    attack: 22118
+    health: 6497
+    enemyattack: 22118
+    enemyhealth: 6497
+  - level: 351
+    attack: 22176
+    health: 6517
+    enemyattack: 22176
+    enemyhealth: 6517
+  - level: 352
+    attack: 22234
+    health: 6537
+    enemyattack: 22234
+    enemyhealth: 6537
+  - level: 353
+    attack: 22291
+    health: 6556
+    enemyattack: 22291
+    enemyhealth: 6556
+  - level: 354
+    attack: 22349
+    health: 6576
+    enemyattack: 22349
+    enemyhealth: 6576
+  - level: 355
+    attack: 22406
+    health: 6596
+    enemyattack: 22406
+    enemyhealth: 6596
+  - level: 356
+    attack: 22464
+    health: 6616
+    enemyattack: 22464
+    enemyhealth: 6616
+  - level: 357
+    attack: 22522
+    health: 6635
+    enemyattack: 22522
+    enemyhealth: 6635
+  - level: 358
+    attack: 22579
+    health: 6655
+    enemyattack: 22579
+    enemyhealth: 6655
+  - level: 359
+    attack: 22637
+    health: 6675
+    enemyattack: 22637
+    enemyhealth: 6675
+  - level: 360
+    attack: 22694
+    health: 6695
+    enemyattack: 22694
+    enemyhealth: 6695
+  - level: 361
+    attack: 22752
+    health: 6715
+    enemyattack: 22752
+    enemyhealth: 6715
+  - level: 362
+    attack: 22810
+    health: 6735
+    enemyattack: 22810
+    enemyhealth: 6735
+  - level: 363
+    attack: 22867
+    health: 6754
+    enemyattack: 22867
+    enemyhealth: 6754
+  - level: 364
+    attack: 22925
+    health: 6774
+    enemyattack: 22925
+    enemyhealth: 6774
+  - level: 365
+    attack: 22982
+    health: 6794
+    enemyattack: 22982
+    enemyhealth: 6794
+  - level: 366
+    attack: 23040
+    health: 6814
+    enemyattack: 23040
+    enemyhealth: 6814
+  - level: 367
+    attack: 23098
+    health: 6834
+    enemyattack: 23098
+    enemyhealth: 6834
+  - level: 368
+    attack: 23155
+    health: 6854
+    enemyattack: 23155
+    enemyhealth: 6854
+  - level: 369
+    attack: 23213
+    health: 6874
+    enemyattack: 23213
+    enemyhealth: 6874
+  - level: 370
+    attack: 23270
+    health: 6894
+    enemyattack: 23270
+    enemyhealth: 6894
+  - level: 371
+    attack: 23328
+    health: 6914
+    enemyattack: 23328
+    enemyhealth: 6914
+  - level: 372
+    attack: 23386
+    health: 6934
+    enemyattack: 23386
+    enemyhealth: 6934
+  - level: 373
+    attack: 23443
+    health: 6954
+    enemyattack: 23443
+    enemyhealth: 6954
+  - level: 374
+    attack: 23501
+    health: 6974
+    enemyattack: 23501
+    enemyhealth: 6974
+  - level: 375
+    attack: 23558
+    health: 6994
+    enemyattack: 23558
+    enemyhealth: 6994
+  - level: 376
+    attack: 23616
+    health: 7014
+    enemyattack: 23616
+    enemyhealth: 7014
+  - level: 377
+    attack: 23674
+    health: 7034
+    enemyattack: 23674
+    enemyhealth: 7034
+  - level: 378
+    attack: 23731
+    health: 7054
+    enemyattack: 23731
+    enemyhealth: 7054
+  - level: 379
+    attack: 23789
+    health: 7074
+    enemyattack: 23789
+    enemyhealth: 7074
+  - level: 380
+    attack: 23846
+    health: 7094
+    enemyattack: 23846
+    enemyhealth: 7094
+  - level: 381
+    attack: 23904
+    health: 7114
+    enemyattack: 23904
+    enemyhealth: 7114
+  - level: 382
+    attack: 23962
+    health: 7135
+    enemyattack: 23962
+    enemyhealth: 7135
+  - level: 383
+    attack: 24019
+    health: 7155
+    enemyattack: 24019
+    enemyhealth: 7155
+  - level: 384
+    attack: 24077
+    health: 7175
+    enemyattack: 24077
+    enemyhealth: 7175
+  - level: 385
+    attack: 24134
+    health: 7195
+    enemyattack: 24134
+    enemyhealth: 7195
+  - level: 386
+    attack: 24192
+    health: 7215
+    enemyattack: 24192
+    enemyhealth: 7215
+  - level: 387
+    attack: 24250
+    health: 7235
+    enemyattack: 24250
+    enemyhealth: 7235
+  - level: 388
+    attack: 24307
+    health: 7256
+    enemyattack: 24307
+    enemyhealth: 7256
+  - level: 389
+    attack: 24365
+    health: 7276
+    enemyattack: 24365
+    enemyhealth: 7276
+  - level: 390
+    attack: 24422
+    health: 7296
+    enemyattack: 24422
+    enemyhealth: 7296
+  - level: 391
+    attack: 24480
+    health: 7316
+    enemyattack: 24480
+    enemyhealth: 7316
+  - level: 392
+    attack: 24538
+    health: 7337
+    enemyattack: 24538
+    enemyhealth: 7337
+  - level: 393
+    attack: 24595
+    health: 7357
+    enemyattack: 24595
+    enemyhealth: 7357
+  - level: 394
+    attack: 24653
+    health: 7377
+    enemyattack: 24653
+    enemyhealth: 7377
+  - level: 395
+    attack: 24710
+    health: 7398
+    enemyattack: 24710
+    enemyhealth: 7398
+  - level: 396
+    attack: 24768
+    health: 7418
+    enemyattack: 24768
+    enemyhealth: 7418
+  - level: 397
+    attack: 24826
+    health: 7438
+    enemyattack: 24826
+    enemyhealth: 7438
+  - level: 398
+    attack: 24883
+    health: 7459
+    enemyattack: 24883
+    enemyhealth: 7459
+  - level: 399
+    attack: 24941
+    health: 7479
+    enemyattack: 24941
+    enemyhealth: 7479
+  - level: 400
+    attack: 26454
+    health: 7936
+    enemyattack: 26454
+    enemyhealth: 7936
+  - level: 401
+    attack: 26522
+    health: 7960
+    enemyattack: 26522
+    enemyhealth: 7960
+  - level: 402
+    attack: 26589
+    health: 7983
+    enemyattack: 26589
+    enemyhealth: 7983
+  - level: 403
+    attack: 26656
+    health: 8007
+    enemyattack: 26656
+    enemyhealth: 8007
+  - level: 404
+    attack: 26723
+    health: 8030
+    enemyattack: 26723
+    enemyhealth: 8030
+  - level: 405
+    attack: 26790
+    health: 8054
+    enemyattack: 26790
+    enemyhealth: 8054
+  - level: 406
+    attack: 26858
+    health: 8077
+    enemyattack: 26858
+    enemyhealth: 8077
+  - level: 407
+    attack: 26925
+    health: 8101
+    enemyattack: 26925
+    enemyhealth: 8101
+  - level: 408
+    attack: 26992
+    health: 8125
+    enemyattack: 26992
+    enemyhealth: 8125
+  - level: 409
+    attack: 27059
+    health: 8148
+    enemyattack: 27059
+    enemyhealth: 8148
+  - level: 410
+    attack: 27126
+    health: 8172
+    enemyattack: 27126
+    enemyhealth: 8172
+  - level: 411
+    attack: 27194
+    health: 8195
+    enemyattack: 27194
+    enemyhealth: 8195
+  - level: 412
+    attack: 27261
+    health: 8219
+    enemyattack: 27261
+    enemyhealth: 8219
+  - level: 413
+    attack: 27328
+    health: 8243
+    enemyattack: 27328
+    enemyhealth: 8243
+  - level: 414
+    attack: 27395
+    health: 8267
+    enemyattack: 27395
+    enemyhealth: 8267
+  - level: 415
+    attack: 27462
+    health: 8290
+    enemyattack: 27462
+    enemyhealth: 8290
+  - level: 416
+    attack: 27530
+    health: 8314
+    enemyattack: 27530
+    enemyhealth: 8314
+  - level: 417
+    attack: 27597
+    health: 8338
+    enemyattack: 27597
+    enemyhealth: 8338
+  - level: 418
+    attack: 27664
+    health: 8361
+    enemyattack: 27664
+    enemyhealth: 8361
+  - level: 419
+    attack: 27731
+    health: 8385
+    enemyattack: 27731
+    enemyhealth: 8385
+  - level: 420
+    attack: 27798
+    health: 8409
+    enemyattack: 27798
+    enemyhealth: 8409
+  - level: 421
+    attack: 27866
+    health: 8433
+    enemyattack: 27866
+    enemyhealth: 8433
+  - level: 422
+    attack: 27933
+    health: 8457
+    enemyattack: 27933
+    enemyhealth: 8457
+  - level: 423
+    attack: 28000
+    health: 8481
+    enemyattack: 28000
+    enemyhealth: 8481
+  - level: 424
+    attack: 28067
+    health: 8504
+    enemyattack: 28067
+    enemyhealth: 8504
+  - level: 425
+    attack: 28134
+    health: 8528
+    enemyattack: 28134
+    enemyhealth: 8528
+  - level: 426
+    attack: 28202
+    health: 8552
+    enemyattack: 28202
+    enemyhealth: 8552
+  - level: 427
+    attack: 28269
+    health: 8576
+    enemyattack: 28269
+    enemyhealth: 8576
+  - level: 428
+    attack: 28336
+    health: 8600
+    enemyattack: 28336
+    enemyhealth: 8600
+  - level: 429
+    attack: 28403
+    health: 8624
+    enemyattack: 28403
+    enemyhealth: 8624
+  - level: 430
+    attack: 28470
+    health: 8648
+    enemyattack: 28470
+    enemyhealth: 8648
+  - level: 431
+    attack: 28538
+    health: 8672
+    enemyattack: 28538
+    enemyhealth: 8672
+  - level: 432
+    attack: 28605
+    health: 8696
+    enemyattack: 28605
+    enemyhealth: 8696
+  - level: 433
+    attack: 28672
+    health: 8720
+    enemyattack: 28672
+    enemyhealth: 8720
+  - level: 434
+    attack: 28739
+    health: 8744
+    enemyattack: 28739
+    enemyhealth: 8744
+  - level: 435
+    attack: 28806
+    health: 8768
+    enemyattack: 28806
+    enemyhealth: 8768
+  - level: 436
+    attack: 28874
+    health: 8792
+    enemyattack: 28874
+    enemyhealth: 8792
+  - level: 437
+    attack: 28941
+    health: 8816
+    enemyattack: 28941
+    enemyhealth: 8816
+  - level: 438
+    attack: 29008
+    health: 8840
+    enemyattack: 29008
+    enemyhealth: 8840
+  - level: 439
+    attack: 29075
+    health: 8864
+    enemyattack: 29075
+    enemyhealth: 8864
+  - level: 440
+    attack: 29142
+    health: 8888
+    enemyattack: 29142
+    enemyhealth: 8888
+  - level: 441
+    attack: 29210
+    health: 8913
+    enemyattack: 29210
+    enemyhealth: 8913
+  - level: 442
+    attack: 29277
+    health: 8937
+    enemyattack: 29277
+    enemyhealth: 8937
+  - level: 443
+    attack: 29344
+    health: 8961
+    enemyattack: 29344
+    enemyhealth: 8961
+  - level: 444
+    attack: 29411
+    health: 8985
+    enemyattack: 29411
+    enemyhealth: 8985
+  - level: 445
+    attack: 29478
+    health: 9009
+    enemyattack: 29478
+    enemyhealth: 9009
+  - level: 446
+    attack: 29546
+    health: 9034
+    enemyattack: 29546
+    enemyhealth: 9034
+  - level: 447
+    attack: 29613
+    health: 9058
+    enemyattack: 29613
+    enemyhealth: 9058
+  - level: 448
+    attack: 29680
+    health: 9082
+    enemyattack: 29680
+    enemyhealth: 9082
+  - level: 449
+    attack: 29747
+    health: 9106
+    enemyattack: 29747
+    enemyhealth: 9106
+  - level: 450
+    attack: 29814
+    health: 9131
+    enemyattack: 29814
+    enemyhealth: 9131
+  - level: 451
+    attack: 29882
+    health: 9155
+    enemyattack: 29882
+    enemyhealth: 9155
+  - level: 452
+    attack: 29949
+    health: 9179
+    enemyattack: 29949
+    enemyhealth: 9179
+  - level: 453
+    attack: 30016
+    health: 9204
+    enemyattack: 30016
+    enemyhealth: 9204
+  - level: 454
+    attack: 30083
+    health: 9228
+    enemyattack: 30083
+    enemyhealth: 9228
+  - level: 455
+    attack: 30150
+    health: 9252
+    enemyattack: 30150
+    enemyhealth: 9252
+  - level: 456
+    attack: 30218
+    health: 9277
+    enemyattack: 30218
+    enemyhealth: 9277
+  - level: 457
+    attack: 30285
+    health: 9301
+    enemyattack: 30285
+    enemyhealth: 9301
+  - level: 458
+    attack: 30352
+    health: 9326
+    enemyattack: 30352
+    enemyhealth: 9326
+  - level: 459
+    attack: 30419
+    health: 9350
+    enemyattack: 30419
+    enemyhealth: 9350
+  - level: 460
+    attack: 30486
+    health: 9375
+    enemyattack: 30486
+    enemyhealth: 9375
+  - level: 461
+    attack: 30554
+    health: 9399
+    enemyattack: 30554
+    enemyhealth: 9399
+  - level: 462
+    attack: 30621
+    health: 9424
+    enemyattack: 30621
+    enemyhealth: 9424
+  - level: 463
+    attack: 30688
+    health: 9448
+    enemyattack: 30688
+    enemyhealth: 9448
+  - level: 464
+    attack: 30755
+    health: 9473
+    enemyattack: 30755
+    enemyhealth: 9473
+  - level: 465
+    attack: 30822
+    health: 9497
+    enemyattack: 30822
+    enemyhealth: 9497
+  - level: 466
+    attack: 30890
+    health: 9522
+    enemyattack: 30890
+    enemyhealth: 9522
+  - level: 467
+    attack: 30957
+    health: 9546
+    enemyattack: 30957
+    enemyhealth: 9546
+  - level: 468
+    attack: 31024
+    health: 9571
+    enemyattack: 31024
+    enemyhealth: 9571
+  - level: 469
+    attack: 31091
+    health: 9596
+    enemyattack: 31091
+    enemyhealth: 9596
+  - level: 470
+    attack: 31158
+    health: 9620
+    enemyattack: 31158
+    enemyhealth: 9620
+  - level: 471
+    attack: 31226
+    health: 9645
+    enemyattack: 31226
+    enemyhealth: 9645
+  - level: 472
+    attack: 31293
+    health: 9669
+    enemyattack: 31293
+    enemyhealth: 9669
+  - level: 473
+    attack: 31360
+    health: 9694
+    enemyattack: 31360
+    enemyhealth: 9694
+  - level: 474
+    attack: 31427
+    health: 9719
+    enemyattack: 31427
+    enemyhealth: 9719
+  - level: 475
+    attack: 31494
+    health: 9744
+    enemyattack: 31494
+    enemyhealth: 9744
+  - level: 476
+    attack: 31562
+    health: 9768
+    enemyattack: 31562
+    enemyhealth: 9768
+  - level: 477
+    attack: 31629
+    health: 9793
+    enemyattack: 31629
+    enemyhealth: 9793
+  - level: 478
+    attack: 31696
+    health: 9818
+    enemyattack: 31696
+    enemyhealth: 9818
+  - level: 479
+    attack: 31763
+    health: 9843
+    enemyattack: 31763
+    enemyhealth: 9843
+  - level: 480
+    attack: 31830
+    health: 9867
+    enemyattack: 31830
+    enemyhealth: 9867
+  - level: 481
+    attack: 31898
+    health: 9892
+    enemyattack: 31898
+    enemyhealth: 9892
+  - level: 482
+    attack: 31965
+    health: 9917
+    enemyattack: 31965
+    enemyhealth: 9917
+  - level: 483
+    attack: 32032
+    health: 9942
+    enemyattack: 32032
+    enemyhealth: 9942
+  - level: 484
+    attack: 32099
+    health: 9967
+    enemyattack: 32099
+    enemyhealth: 9967
+  - level: 485
+    attack: 32166
+    health: 9992
+    enemyattack: 32166
+    enemyhealth: 9992
+  - level: 486
+    attack: 32234
+    health: 10017
+    enemyattack: 32234
+    enemyhealth: 10017
+  - level: 487
+    attack: 32301
+    health: 10042
+    enemyattack: 32301
+    enemyhealth: 10042
+  - level: 488
+    attack: 32368
+    health: 10066
+    enemyattack: 32368
+    enemyhealth: 10066
+  - level: 489
+    attack: 32435
+    health: 10091
+    enemyattack: 32435
+    enemyhealth: 10091
+  - level: 490
+    attack: 32502
+    health: 10116
+    enemyattack: 32502
+    enemyhealth: 10116
+  - level: 491
+    attack: 32570
+    health: 10141
+    enemyattack: 32570
+    enemyhealth: 10141
+  - level: 492
+    attack: 32637
+    health: 10166
+    enemyattack: 32637
+    enemyhealth: 10166
+  - level: 493
+    attack: 32704
+    health: 10191
+    enemyattack: 32704
+    enemyhealth: 10191
+  - level: 494
+    attack: 32771
+    health: 10216
+    enemyattack: 32771
+    enemyhealth: 10216
+  - level: 495
+    attack: 32838
+    health: 10241
+    enemyattack: 32838
+    enemyhealth: 10241
+  - level: 496
+    attack: 32906
+    health: 10267
+    enemyattack: 32906
+    enemyhealth: 10267
+  - level: 497
+    attack: 32973
+    health: 10292
+    enemyattack: 32973
+    enemyhealth: 10292
+  - level: 498
+    attack: 33040
+    health: 10317
+    enemyattack: 33040
+    enemyhealth: 10317
+  - level: 499
+    attack: 33107
+    health: 10342
+    enemyattack: 33107
+    enemyhealth: 10342
+  - level: 500
+    attack: 41395
+    health: 12936
+    enemyattack: 41395
+    enemyhealth: 12936
+  - level: 501
+    attack: 41462
+    health: 12962
+    enemyattack: 41462
+    enemyhealth: 12962
+  - level: 502
+    attack: 41530
+    health: 12988
+    enemyattack: 41530
+    enemyhealth: 12988
+  - level: 503
+    attack: 41597
+    health: 13015
+    enemyattack: 41597
+    enemyhealth: 13015
+  - level: 504
+    attack: 41664
+    health: 13041
+    enemyattack: 41664
+    enemyhealth: 13041
+  - level: 505
+    attack: 41731
+    health: 13067
+    enemyattack: 41731
+    enemyhealth: 13067
+  - level: 506
+    attack: 41798
+    health: 13093
+    enemyattack: 41798
+    enemyhealth: 13093
+  - level: 507
+    attack: 41866
+    health: 13120
+    enemyattack: 41866
+    enemyhealth: 13120
+  - level: 508
+    attack: 41933
+    health: 13146
+    enemyattack: 41933
+    enemyhealth: 13146
+  - level: 509
+    attack: 42000
+    health: 13172
+    enemyattack: 42000
+    enemyhealth: 13172
+  - level: 510
+    attack: 42067
+    health: 13199
+    enemyattack: 42067
+    enemyhealth: 13199
+  - level: 511
+    attack: 42134
+    health: 13225
+    enemyattack: 42134
+    enemyhealth: 13225
+  - level: 512
+    attack: 42202
+    health: 13251
+    enemyattack: 42202
+    enemyhealth: 13251
+  - level: 513
+    attack: 42269
+    health: 13278
+    enemyattack: 42269
+    enemyhealth: 13278
+  - level: 514
+    attack: 42336
+    health: 13304
+    enemyattack: 42336
+    enemyhealth: 13304
+  - level: 515
+    attack: 42403
+    health: 13331
+    enemyattack: 42403
+    enemyhealth: 13331
+  - level: 516
+    attack: 42470
+    health: 13357
+    enemyattack: 42470
+    enemyhealth: 13357
+  - level: 517
+    attack: 42538
+    health: 13383
+    enemyattack: 42538
+    enemyhealth: 13383
+  - level: 518
+    attack: 42605
+    health: 13410
+    enemyattack: 42605
+    enemyhealth: 13410
+  - level: 519
+    attack: 42672
+    health: 13436
+    enemyattack: 42672
+    enemyhealth: 13436
+  - level: 520
+    attack: 42739
+    health: 13463
+    enemyattack: 42739
+    enemyhealth: 13463
+  - level: 521
+    attack: 42806
+    health: 13489
+    enemyattack: 42806
+    enemyhealth: 13489
+  - level: 522
+    attack: 42874
+    health: 13516
+    enemyattack: 42874
+    enemyhealth: 13516
+  - level: 523
+    attack: 42941
+    health: 13542
+    enemyattack: 42941
+    enemyhealth: 13542
+  - level: 524
+    attack: 43008
+    health: 13569
+    enemyattack: 43008
+    enemyhealth: 13569
+  - level: 525
+    attack: 43075
+    health: 13596
+    enemyattack: 43075
+    enemyhealth: 13596
+  - level: 526
+    attack: 43142
+    health: 13622
+    enemyattack: 43142
+    enemyhealth: 13622
+  - level: 527
+    attack: 43210
+    health: 13649
+    enemyattack: 43210
+    enemyhealth: 13649
+  - level: 528
+    attack: 43277
+    health: 13675
+    enemyattack: 43277
+    enemyhealth: 13675
+  - level: 529
+    attack: 43344
+    health: 13702
+    enemyattack: 43344
+    enemyhealth: 13702
+  - level: 530
+    attack: 43411
+    health: 13729
+    enemyattack: 43411
+    enemyhealth: 13729
+  - level: 531
+    attack: 43478
+    health: 13755
+    enemyattack: 43478
+    enemyhealth: 13755
+  - level: 532
+    attack: 43546
+    health: 13782
+    enemyattack: 43546
+    enemyhealth: 13782
+  - level: 533
+    attack: 43613
+    health: 13809
+    enemyattack: 43613
+    enemyhealth: 13809
+  - level: 534
+    attack: 43680
+    health: 13836
+    enemyattack: 43680
+    enemyhealth: 13836
+  - level: 535
+    attack: 43747
+    health: 13862
+    enemyattack: 43747
+    enemyhealth: 13862
+  - level: 536
+    attack: 43814
+    health: 13889
+    enemyattack: 43814
+    enemyhealth: 13889
+  - level: 537
+    attack: 43882
+    health: 13916
+    enemyattack: 43882
+    enemyhealth: 13916
+  - level: 538
+    attack: 43949
+    health: 13943
+    enemyattack: 43949
+    enemyhealth: 13943
+  - level: 539
+    attack: 44016
+    health: 13970
+    enemyattack: 44016
+    enemyhealth: 13970
+  - level: 540
+    attack: 44083
+    health: 13996
+    enemyattack: 44083
+    enemyhealth: 13996
+  - level: 541
+    attack: 44150
+    health: 14023
+    enemyattack: 44150
+    enemyhealth: 14023
+  - level: 542
+    attack: 44218
+    health: 14050
+    enemyattack: 44218
+    enemyhealth: 14050
+  - level: 543
+    attack: 44285
+    health: 14077
+    enemyattack: 44285
+    enemyhealth: 14077
+  - level: 544
+    attack: 44352
+    health: 14104
+    enemyattack: 44352
+    enemyhealth: 14104
+  - level: 545
+    attack: 44419
+    health: 14131
+    enemyattack: 44419
+    enemyhealth: 14131
+  - level: 546
+    attack: 44486
+    health: 14158
+    enemyattack: 44486
+    enemyhealth: 14158
+  - level: 547
+    attack: 44554
+    health: 14185
+    enemyattack: 44554
+    enemyhealth: 14185
+  - level: 548
+    attack: 44621
+    health: 14212
+    enemyattack: 44621
+    enemyhealth: 14212
+  - level: 549
+    attack: 44688
+    health: 14239
+    enemyattack: 44688
+    enemyhealth: 14239
+  - level: 550
+    attack: 44755
+    health: 14266
+    enemyattack: 44755
+    enemyhealth: 14266
+  - level: 551
+    attack: 44822
+    health: 14293
+    enemyattack: 44822
+    enemyhealth: 14293
+  - level: 552
+    attack: 44890
+    health: 14320
+    enemyattack: 44890
+    enemyhealth: 14320
+  - level: 553
+    attack: 44957
+    health: 14347
+    enemyattack: 44957
+    enemyhealth: 14347
+  - level: 554
+    attack: 45024
+    health: 14374
+    enemyattack: 45024
+    enemyhealth: 14374
+  - level: 555
+    attack: 45091
+    health: 14401
+    enemyattack: 45091
+    enemyhealth: 14401
+  - level: 556
+    attack: 45158
+    health: 14428
+    enemyattack: 45158
+    enemyhealth: 14428
+  - level: 557
+    attack: 45226
+    health: 14455
+    enemyattack: 45226
+    enemyhealth: 14455
+  - level: 558
+    attack: 45293
+    health: 14482
+    enemyattack: 45293
+    enemyhealth: 14482
+  - level: 559
+    attack: 45360
+    health: 14510
+    enemyattack: 45360
+    enemyhealth: 14510
+  - level: 560
+    attack: 45427
+    health: 14537
+    enemyattack: 45427
+    enemyhealth: 14537
+  - level: 561
+    attack: 45494
+    health: 14564
+    enemyattack: 45494
+    enemyhealth: 14564
+  - level: 562
+    attack: 45562
+    health: 14591
+    enemyattack: 45562
+    enemyhealth: 14591
+  - level: 563
+    attack: 45629
+    health: 14618
+    enemyattack: 45629
+    enemyhealth: 14618
+  - level: 564
+    attack: 45696
+    health: 14646
+    enemyattack: 45696
+    enemyhealth: 14646
+  - level: 565
+    attack: 45763
+    health: 14673
+    enemyattack: 45763
+    enemyhealth: 14673
+  - level: 566
+    attack: 45830
+    health: 14700
+    enemyattack: 45830
+    enemyhealth: 14700
+  - level: 567
+    attack: 45898
+    health: 14727
+    enemyattack: 45898
+    enemyhealth: 14727
+  - level: 568
+    attack: 45965
+    health: 14755
+    enemyattack: 45965
+    enemyhealth: 14755
+  - level: 569
+    attack: 46032
+    health: 14782
+    enemyattack: 46032
+    enemyhealth: 14782
+  - level: 570
+    attack: 46099
+    health: 14809
+    enemyattack: 46099
+    enemyhealth: 14809
+  - level: 571
+    attack: 46166
+    health: 14837
+    enemyattack: 46166
+    enemyhealth: 14837
+  - level: 572
+    attack: 46234
+    health: 14864
+    enemyattack: 46234
+    enemyhealth: 14864
+  - level: 573
+    attack: 46301
+    health: 14891
+    enemyattack: 46301
+    enemyhealth: 14891
+  - level: 574
+    attack: 46368
+    health: 14919
+    enemyattack: 46368
+    enemyhealth: 14919
+  - level: 575
+    attack: 46435
+    health: 14946
+    enemyattack: 46435
+    enemyhealth: 14946
+  - level: 576
+    attack: 46502
+    health: 14974
+    enemyattack: 46502
+    enemyhealth: 14974
+  - level: 577
+    attack: 46570
+    health: 15001
+    enemyattack: 46570
+    enemyhealth: 15001
+  - level: 578
+    attack: 46637
+    health: 15029
+    enemyattack: 46637
+    enemyhealth: 15029
+  - level: 579
+    attack: 46704
+    health: 15056
+    enemyattack: 46704
+    enemyhealth: 15056
+  - level: 580
+    attack: 46771
+    health: 15084
+    enemyattack: 46771
+    enemyhealth: 15084
+  - level: 581
+    attack: 46838
+    health: 15111
+    enemyattack: 46838
+    enemyhealth: 15111
+  - level: 582
+    attack: 46906
+    health: 15139
+    enemyattack: 46906
+    enemyhealth: 15139
+  - level: 583
+    attack: 46973
+    health: 15166
+    enemyattack: 46973
+    enemyhealth: 15166
+  - level: 584
+    attack: 47040
+    health: 15194
+    enemyattack: 47040
+    enemyhealth: 15194
+  - level: 585
+    attack: 47107
+    health: 15222
+    enemyattack: 47107
+    enemyhealth: 15222
+  - level: 586
+    attack: 47174
+    health: 15249
+    enemyattack: 47174
+    enemyhealth: 15249
+  - level: 587
+    attack: 47242
+    health: 15277
+    enemyattack: 47242
+    enemyhealth: 15277
+  - level: 588
+    attack: 47309
+    health: 15304
+    enemyattack: 47309
+    enemyhealth: 15304
+  - level: 589
+    attack: 47376
+    health: 15332
+    enemyattack: 47376
+    enemyhealth: 15332
+  - level: 590
+    attack: 47443
+    health: 15360
+    enemyattack: 47443
+    enemyhealth: 15360
+  - level: 591
+    attack: 47510
+    health: 15387
+    enemyattack: 47510
+    enemyhealth: 15387
+  - level: 592
+    attack: 47578
+    health: 15415
+    enemyattack: 47578
+    enemyhealth: 15415
+  - level: 593
+    attack: 47645
+    health: 15443
+    enemyattack: 47645
+    enemyhealth: 15443
+  - level: 594
+    attack: 47712
+    health: 15471
+    enemyattack: 47712
+    enemyhealth: 15471
+  - level: 595
+    attack: 47779
+    health: 15498
+    enemyattack: 47779
+    enemyhealth: 15498
+  - level: 596
+    attack: 47846
+    health: 15526
+    enemyattack: 47846
+    enemyhealth: 15526
+  - level: 597
+    attack: 47914
+    health: 15554
+    enemyattack: 47914
+    enemyhealth: 15554
+  - level: 598
+    attack: 47981
+    health: 15582
+    enemyattack: 47981
+    enemyhealth: 15582
+  - level: 599
+    attack: 48048
+    health: 15610
+    enemyattack: 48048
+    enemyhealth: 15610
+  - level: 600
+    attack: 60054
+    health: 19518
+    enemyattack: 60054
+    enemyhealth: 19518
+  - level: 601
+    attack: 60122
+    health: 19547
+    enemyattack: 60122
+    enemyhealth: 19547
+  - level: 602
+    attack: 60189
+    health: 19576
+    enemyattack: 60189
+    enemyhealth: 19576
+  - level: 603
+    attack: 60256
+    health: 19606
+    enemyattack: 60256
+    enemyhealth: 19606
+  - level: 604
+    attack: 60323
+    health: 19635
+    enemyattack: 60323
+    enemyhealth: 19635
+  - level: 605
+    attack: 60390
+    health: 19665
+    enemyattack: 60390
+    enemyhealth: 19665
+  - level: 606
+    attack: 60458
+    health: 19694
+    enemyattack: 60458
+    enemyhealth: 19694
+  - level: 607
+    attack: 60525
+    health: 19724
+    enemyattack: 60525
+    enemyhealth: 19724
+  - level: 608
+    attack: 60592
+    health: 19753
+    enemyattack: 60592
+    enemyhealth: 19753
+  - level: 609
+    attack: 60659
+    health: 19782
+    enemyattack: 60659
+    enemyhealth: 19782
+  - level: 610
+    attack: 60726
+    health: 19812
+    enemyattack: 60726
+    enemyhealth: 19812
+  - level: 611
+    attack: 60794
+    health: 19842
+    enemyattack: 60794
+    enemyhealth: 19842
+  - level: 612
+    attack: 60861
+    health: 19871
+    enemyattack: 60861
+    enemyhealth: 19871
+  - level: 613
+    attack: 60928
+    health: 19901
+    enemyattack: 60928
+    enemyhealth: 19901
+  - level: 614
+    attack: 60995
+    health: 19930
+    enemyattack: 60995
+    enemyhealth: 19930
+  - level: 615
+    attack: 61062
+    health: 19960
+    enemyattack: 61062
+    enemyhealth: 19960
+  - level: 616
+    attack: 61130
+    health: 19989
+    enemyattack: 61130
+    enemyhealth: 19989
+  - level: 617
+    attack: 61197
+    health: 20019
+    enemyattack: 61197
+    enemyhealth: 20019
+  - level: 618
+    attack: 61264
+    health: 20049
+    enemyattack: 61264
+    enemyhealth: 20049
+  - level: 619
+    attack: 61331
+    health: 20078
+    enemyattack: 61331
+    enemyhealth: 20078
+  - level: 620
+    attack: 61398
+    health: 20108
+    enemyattack: 61398
+    enemyhealth: 20108
+  - level: 621
+    attack: 61466
+    health: 20138
+    enemyattack: 61466
+    enemyhealth: 20138
+  - level: 622
+    attack: 61533
+    health: 20167
+    enemyattack: 61533
+    enemyhealth: 20167
+  - level: 623
+    attack: 61600
+    health: 20197
+    enemyattack: 61600
+    enemyhealth: 20197
+  - level: 624
+    attack: 61667
+    health: 20227
+    enemyattack: 61667
+    enemyhealth: 20227
+  - level: 625
+    attack: 61734
+    health: 20257
+    enemyattack: 61734
+    enemyhealth: 20257
+  - level: 626
+    attack: 61802
+    health: 20286
+    enemyattack: 61802
+    enemyhealth: 20286
+  - level: 627
+    attack: 61869
+    health: 20316
+    enemyattack: 61869
+    enemyhealth: 20316
+  - level: 628
+    attack: 61936
+    health: 20346
+    enemyattack: 61936
+    enemyhealth: 20346
+  - level: 629
+    attack: 62003
+    health: 20376
+    enemyattack: 62003
+    enemyhealth: 20376
+  - level: 630
+    attack: 62070
+    health: 20406
+    enemyattack: 62070
+    enemyhealth: 20406
+  - level: 631
+    attack: 62138
+    health: 20436
+    enemyattack: 62138
+    enemyhealth: 20436
+  - level: 632
+    attack: 62205
+    health: 20465
+    enemyattack: 62205
+    enemyhealth: 20465
+  - level: 633
+    attack: 62272
+    health: 20495
+    enemyattack: 62272
+    enemyhealth: 20495
+  - level: 634
+    attack: 62339
+    health: 20525
+    enemyattack: 62339
+    enemyhealth: 20525
+  - level: 635
+    attack: 62406
+    health: 20555
+    enemyattack: 62406
+    enemyhealth: 20555
+  - level: 636
+    attack: 62474
+    health: 20585
+    enemyattack: 62474
+    enemyhealth: 20585
+  - level: 637
+    attack: 62541
+    health: 20615
+    enemyattack: 62541
+    enemyhealth: 20615
+  - level: 638
+    attack: 62608
+    health: 20645
+    enemyattack: 62608
+    enemyhealth: 20645
+  - level: 639
+    attack: 62675
+    health: 20675
+    enemyattack: 62675
+    enemyhealth: 20675
+  - level: 640
+    attack: 62742
+    health: 20705
+    enemyattack: 62742
+    enemyhealth: 20705
+  - level: 641
+    attack: 62810
+    health: 20735
+    enemyattack: 62810
+    enemyhealth: 20735
+  - level: 642
+    attack: 62877
+    health: 20765
+    enemyattack: 62877
+    enemyhealth: 20765
+  - level: 643
+    attack: 62944
+    health: 20795
+    enemyattack: 62944
+    enemyhealth: 20795
+  - level: 644
+    attack: 63011
+    health: 20825
+    enemyattack: 63011
+    enemyhealth: 20825
+  - level: 645
+    attack: 63078
+    health: 20855
+    enemyattack: 63078
+    enemyhealth: 20855
+  - level: 646
+    attack: 63146
+    health: 20885
+    enemyattack: 63146
+    enemyhealth: 20885
+  - level: 647
+    attack: 63213
+    health: 20916
+    enemyattack: 63213
+    enemyhealth: 20916
+  - level: 648
+    attack: 63280
+    health: 20946
+    enemyattack: 63280
+    enemyhealth: 20946
+  - level: 649
+    attack: 63347
+    health: 20976
+    enemyattack: 63347
+    enemyhealth: 20976
+  - level: 650
+    attack: 63414
+    health: 21006
+    enemyattack: 63414
+    enemyhealth: 21006
+  - level: 651
+    attack: 63482
+    health: 21036
+    enemyattack: 63482
+    enemyhealth: 21036
+  - level: 652
+    attack: 63549
+    health: 21066
+    enemyattack: 63549
+    enemyhealth: 21066
+  - level: 653
+    attack: 63616
+    health: 21097
+    enemyattack: 63616
+    enemyhealth: 21097
+  - level: 654
+    attack: 63683
+    health: 21127
+    enemyattack: 63683
+    enemyhealth: 21127
+  - level: 655
+    attack: 63750
+    health: 21157
+    enemyattack: 63750
+    enemyhealth: 21157
+  - level: 656
+    attack: 63818
+    health: 21187
+    enemyattack: 63818
+    enemyhealth: 21187
+  - level: 657
+    attack: 63885
+    health: 21218
+    enemyattack: 63885
+    enemyhealth: 21218
+  - level: 658
+    attack: 63952
+    health: 21248
+    enemyattack: 63952
+    enemyhealth: 21248
+  - level: 659
+    attack: 64019
+    health: 21278
+    enemyattack: 64019
+    enemyhealth: 21278
+  - level: 660
+    attack: 64086
+    health: 21309
+    enemyattack: 64086
+    enemyhealth: 21309
+  - level: 661
+    attack: 64154
+    health: 21339
+    enemyattack: 64154
+    enemyhealth: 21339
+  - level: 662
+    attack: 64221
+    health: 21369
+    enemyattack: 64221
+    enemyhealth: 21369
+  - level: 663
+    attack: 64288
+    health: 21400
+    enemyattack: 64288
+    enemyhealth: 21400
+  - level: 664
+    attack: 64355
+    health: 21430
+    enemyattack: 64355
+    enemyhealth: 21430
+  - level: 665
+    attack: 64422
+    health: 21461
+    enemyattack: 64422
+    enemyhealth: 21461
+  - level: 666
+    attack: 64490
+    health: 21491
+    enemyattack: 64490
+    enemyhealth: 21491
+  - level: 667
+    attack: 64557
+    health: 21522
+    enemyattack: 64557
+    enemyhealth: 21522
+  - level: 668
+    attack: 64624
+    health: 21552
+    enemyattack: 64624
+    enemyhealth: 21552
+  - level: 669
+    attack: 64691
+    health: 21583
+    enemyattack: 64691
+    enemyhealth: 21583
+  - level: 670
+    attack: 64758
+    health: 21613
+    enemyattack: 64758
+    enemyhealth: 21613
+  - level: 671
+    attack: 64826
+    health: 21644
+    enemyattack: 64826
+    enemyhealth: 21644
+  - level: 672
+    attack: 64893
+    health: 21674
+    enemyattack: 64893
+    enemyhealth: 21674
+  - level: 673
+    attack: 64960
+    health: 21705
+    enemyattack: 64960
+    enemyhealth: 21705
+  - level: 674
+    attack: 65027
+    health: 21735
+    enemyattack: 65027
+    enemyhealth: 21735
+  - level: 675
+    attack: 65094
+    health: 21766
+    enemyattack: 65094
+    enemyhealth: 21766
+  - level: 676
+    attack: 65162
+    health: 21797
+    enemyattack: 65162
+    enemyhealth: 21797
+  - level: 677
+    attack: 65229
+    health: 21827
+    enemyattack: 65229
+    enemyhealth: 21827
+  - level: 678
+    attack: 65296
+    health: 21858
+    enemyattack: 65296
+    enemyhealth: 21858
+  - level: 679
+    attack: 65363
+    health: 21889
+    enemyattack: 65363
+    enemyhealth: 21889
+  - level: 680
+    attack: 65430
+    health: 21919
+    enemyattack: 65430
+    enemyhealth: 21919
+  - level: 681
+    attack: 65498
+    health: 21950
+    enemyattack: 65498
+    enemyhealth: 21950
+  - level: 682
+    attack: 65565
+    health: 21981
+    enemyattack: 65565
+    enemyhealth: 21981
+  - level: 683
+    attack: 65632
+    health: 22011
+    enemyattack: 65632
+    enemyhealth: 22011
+  - level: 684
+    attack: 65699
+    health: 22042
+    enemyattack: 65699
+    enemyhealth: 22042
+  - level: 685
+    attack: 65766
+    health: 22073
+    enemyattack: 65766
+    enemyhealth: 22073
+  - level: 686
+    attack: 65834
+    health: 22104
+    enemyattack: 65834
+    enemyhealth: 22104
+  - level: 687
+    attack: 65901
+    health: 22134
+    enemyattack: 65901
+    enemyhealth: 22134
+  - level: 688
+    attack: 65968
+    health: 22165
+    enemyattack: 65968
+    enemyhealth: 22165
+  - level: 689
+    attack: 66035
+    health: 22196
+    enemyattack: 66035
+    enemyhealth: 22196
+  - level: 690
+    attack: 66102
+    health: 22227
+    enemyattack: 66102
+    enemyhealth: 22227
+  - level: 691
+    attack: 66170
+    health: 22258
+    enemyattack: 66170
+    enemyhealth: 22258
+  - level: 692
+    attack: 66237
+    health: 22289
+    enemyattack: 66237
+    enemyhealth: 22289
+  - level: 693
+    attack: 66304
+    health: 22320
+    enemyattack: 66304
+    enemyhealth: 22320
+  - level: 694
+    attack: 66371
+    health: 22351
+    enemyattack: 66371
+    enemyhealth: 22351
+  - level: 695
+    attack: 66438
+    health: 22381
+    enemyattack: 66438
+    enemyhealth: 22381
+  - level: 696
+    attack: 66506
+    health: 22412
+    enemyattack: 66506
+    enemyhealth: 22412
+  - level: 697
+    attack: 66573
+    health: 22443
+    enemyattack: 66573
+    enemyhealth: 22443
+  - level: 698
+    attack: 66640
+    health: 22474
+    enemyattack: 66640
+    enemyhealth: 22474
+  - level: 699
+    attack: 66707
+    health: 22505
+    enemyattack: 66707
+    enemyhealth: 22505
+  - level: 700
+    attack: 71475
+    health: 24123
+    enemyattack: 71475
+    enemyhealth: 24123
+  - level: 701
+    attack: 71552
+    health: 24158
+    enemyattack: 71552
+    enemyhealth: 24158
+  - level: 702
+    attack: 71629
+    health: 24193
+    enemyattack: 71629
+    enemyhealth: 24193
+  - level: 703
+    attack: 71706
+    health: 24228
+    enemyattack: 71706
+    enemyhealth: 24228
+  - level: 704
+    attack: 71782
+    health: 24262
+    enemyattack: 71782
+    enemyhealth: 24262
+  - level: 705
+    attack: 71859
+    health: 24297
+    enemyattack: 71859
+    enemyhealth: 24297
+  - level: 706
+    attack: 71936
+    health: 24332
+    enemyattack: 71936
+    enemyhealth: 24332
+  - level: 707
+    attack: 72013
+    health: 24367
+    enemyattack: 72013
+    enemyhealth: 24367
+  - level: 708
+    attack: 72090
+    health: 24402
+    enemyattack: 72090
+    enemyhealth: 24402
+  - level: 709
+    attack: 72166
+    health: 24437
+    enemyattack: 72166
+    enemyhealth: 24437
+  - level: 710
+    attack: 72243
+    health: 24472
+    enemyattack: 72243
+    enemyhealth: 24472
+  - level: 711
+    attack: 72320
+    health: 24507
+    enemyattack: 72320
+    enemyhealth: 24507
+  - level: 712
+    attack: 72397
+    health: 24543
+    enemyattack: 72397
+    enemyhealth: 24543
+  - level: 713
+    attack: 72474
+    health: 24578
+    enemyattack: 72474
+    enemyhealth: 24578
+  - level: 714
+    attack: 72550
+    health: 24613
+    enemyattack: 72550
+    enemyhealth: 24613
+  - level: 715
+    attack: 72627
+    health: 24648
+    enemyattack: 72627
+    enemyhealth: 24648
+  - level: 716
+    attack: 72704
+    health: 24683
+    enemyattack: 72704
+    enemyhealth: 24683
+  - level: 717
+    attack: 72781
+    health: 24718
+    enemyattack: 72781
+    enemyhealth: 24718
+  - level: 718
+    attack: 72858
+    health: 24753
+    enemyattack: 72858
+    enemyhealth: 24753
+  - level: 719
+    attack: 72934
+    health: 24789
+    enemyattack: 72934
+    enemyhealth: 24789
+  - level: 720
+    attack: 73011
+    health: 24824
+    enemyattack: 73011
+    enemyhealth: 24824
+  - level: 721
+    attack: 73088
+    health: 24859
+    enemyattack: 73088
+    enemyhealth: 24859
+  - level: 722
+    attack: 73165
+    health: 24894
+    enemyattack: 73165
+    enemyhealth: 24894
+  - level: 723
+    attack: 73242
+    health: 24930
+    enemyattack: 73242
+    enemyhealth: 24930
+  - level: 724
+    attack: 73318
+    health: 24965
+    enemyattack: 73318
+    enemyhealth: 24965
+  - level: 725
+    attack: 73395
+    health: 25000
+    enemyattack: 73395
+    enemyhealth: 25000
+  - level: 726
+    attack: 73472
+    health: 25036
+    enemyattack: 73472
+    enemyhealth: 25036
+  - level: 727
+    attack: 73549
+    health: 25071
+    enemyattack: 73549
+    enemyhealth: 25071
+  - level: 728
+    attack: 73626
+    health: 25106
+    enemyattack: 73626
+    enemyhealth: 25106
+  - level: 729
+    attack: 73702
+    health: 25142
+    enemyattack: 73702
+    enemyhealth: 25142
+  - level: 730
+    attack: 73779
+    health: 25177
+    enemyattack: 73779
+    enemyhealth: 25177
+  - level: 731
+    attack: 73856
+    health: 25213
+    enemyattack: 73856
+    enemyhealth: 25213
+  - level: 732
+    attack: 73933
+    health: 25248
+    enemyattack: 73933
+    enemyhealth: 25248
+  - level: 733
+    attack: 74010
+    health: 25284
+    enemyattack: 74010
+    enemyhealth: 25284
+  - level: 734
+    attack: 74086
+    health: 25319
+    enemyattack: 74086
+    enemyhealth: 25319
+  - level: 735
+    attack: 74163
+    health: 25355
+    enemyattack: 74163
+    enemyhealth: 25355
+  - level: 736
+    attack: 74240
+    health: 25390
+    enemyattack: 74240
+    enemyhealth: 25390
+  - level: 737
+    attack: 74317
+    health: 25426
+    enemyattack: 74317
+    enemyhealth: 25426
+  - level: 738
+    attack: 74394
+    health: 25461
+    enemyattack: 74394
+    enemyhealth: 25461
+  - level: 739
+    attack: 74470
+    health: 25497
+    enemyattack: 74470
+    enemyhealth: 25497
+  - level: 740
+    attack: 74547
+    health: 25532
+    enemyattack: 74547
+    enemyhealth: 25532
+  - level: 741
+    attack: 74624
+    health: 25568
+    enemyattack: 74624
+    enemyhealth: 25568
+  - level: 742
+    attack: 74701
+    health: 25604
+    enemyattack: 74701
+    enemyhealth: 25604
+  - level: 743
+    attack: 74778
+    health: 25639
+    enemyattack: 74778
+    enemyhealth: 25639
+  - level: 744
+    attack: 74854
+    health: 25675
+    enemyattack: 74854
+    enemyhealth: 25675
+  - level: 745
+    attack: 74931
+    health: 25711
+    enemyattack: 74931
+    enemyhealth: 25711
+  - level: 746
+    attack: 75008
+    health: 25746
+    enemyattack: 75008
+    enemyhealth: 25746
+  - level: 747
+    attack: 75085
+    health: 25782
+    enemyattack: 75085
+    enemyhealth: 25782
+  - level: 748
+    attack: 75162
+    health: 25818
+    enemyattack: 75162
+    enemyhealth: 25818
+  - level: 749
+    attack: 75238
+    health: 25854
+    enemyattack: 75238
+    enemyhealth: 25854
+  - level: 750
+    attack: 75315
+    health: 25890
+    enemyattack: 75315
+    enemyhealth: 25890
+  - level: 751
+    attack: 75392
+    health: 25925
+    enemyattack: 75392
+    enemyhealth: 25925
+  - level: 752
+    attack: 75469
+    health: 25961
+    enemyattack: 75469
+    enemyhealth: 25961
+  - level: 753
+    attack: 75546
+    health: 25997
+    enemyattack: 75546
+    enemyhealth: 25997
+  - level: 754
+    attack: 75622
+    health: 26033
+    enemyattack: 75622
+    enemyhealth: 26033
+  - level: 755
+    attack: 75699
+    health: 26069
+    enemyattack: 75699
+    enemyhealth: 26069
+  - level: 756
+    attack: 75776
+    health: 26105
+    enemyattack: 75776
+    enemyhealth: 26105
+  - level: 757
+    attack: 75853
+    health: 26141
+    enemyattack: 75853
+    enemyhealth: 26141
+  - level: 758
+    attack: 75930
+    health: 26177
+    enemyattack: 75930
+    enemyhealth: 26177
+  - level: 759
+    attack: 76006
+    health: 26213
+    enemyattack: 76006
+    enemyhealth: 26213
+  - level: 760
+    attack: 76083
+    health: 26249
+    enemyattack: 76083
+    enemyhealth: 26249
+  - level: 761
+    attack: 76160
+    health: 26285
+    enemyattack: 76160
+    enemyhealth: 26285
+  - level: 762
+    attack: 76237
+    health: 26321
+    enemyattack: 76237
+    enemyhealth: 26321
+  - level: 763
+    attack: 76314
+    health: 26357
+    enemyattack: 76314
+    enemyhealth: 26357
+  - level: 764
+    attack: 76390
+    health: 26393
+    enemyattack: 76390
+    enemyhealth: 26393
+  - level: 765
+    attack: 76467
+    health: 26429
+    enemyattack: 76467
+    enemyhealth: 26429
+  - level: 766
+    attack: 76544
+    health: 26465
+    enemyattack: 76544
+    enemyhealth: 26465
+  - level: 767
+    attack: 76621
+    health: 26501
+    enemyattack: 76621
+    enemyhealth: 26501
+  - level: 768
+    attack: 76698
+    health: 26537
+    enemyattack: 76698
+    enemyhealth: 26537
+  - level: 769
+    attack: 76774
+    health: 26574
+    enemyattack: 76774
+    enemyhealth: 26574
+  - level: 770
+    attack: 76851
+    health: 26610
+    enemyattack: 76851
+    enemyhealth: 26610
+  - level: 771
+    attack: 76928
+    health: 26646
+    enemyattack: 76928
+    enemyhealth: 26646
+  - level: 772
+    attack: 77005
+    health: 26682
+    enemyattack: 77005
+    enemyhealth: 26682
+  - level: 773
+    attack: 77082
+    health: 26718
+    enemyattack: 77082
+    enemyhealth: 26718
+  - level: 774
+    attack: 77158
+    health: 26755
+    enemyattack: 77158
+    enemyhealth: 26755
+  - level: 775
+    attack: 77235
+    health: 26791
+    enemyattack: 77235
+    enemyhealth: 26791
+  - level: 776
+    attack: 77312
+    health: 26827
+    enemyattack: 77312
+    enemyhealth: 26827
+  - level: 777
+    attack: 77389
+    health: 26864
+    enemyattack: 77389
+    enemyhealth: 26864
+  - level: 778
+    attack: 77466
+    health: 26900
+    enemyattack: 77466
+    enemyhealth: 26900
+  - level: 779
+    attack: 77542
+    health: 26936
+    enemyattack: 77542
+    enemyhealth: 26936
+  - level: 780
+    attack: 77619
+    health: 26973
+    enemyattack: 77619
+    enemyhealth: 26973
+  - level: 781
+    attack: 77696
+    health: 27009
+    enemyattack: 77696
+    enemyhealth: 27009
+  - level: 782
+    attack: 77773
+    health: 27045
+    enemyattack: 77773
+    enemyhealth: 27045
+  - level: 783
+    attack: 77850
+    health: 27082
+    enemyattack: 77850
+    enemyhealth: 27082
+  - level: 784
+    attack: 77926
+    health: 27118
+    enemyattack: 77926
+    enemyhealth: 27118
+  - level: 785
+    attack: 78003
+    health: 27155
+    enemyattack: 78003
+    enemyhealth: 27155
+  - level: 786
+    attack: 78080
+    health: 27191
+    enemyattack: 78080
+    enemyhealth: 27191
+  - level: 787
+    attack: 78157
+    health: 27228
+    enemyattack: 78157
+    enemyhealth: 27228
+  - level: 788
+    attack: 78234
+    health: 27264
+    enemyattack: 78234
+    enemyhealth: 27264
+  - level: 789
+    attack: 78310
+    health: 27301
+    enemyattack: 78310
+    enemyhealth: 27301
+  - level: 790
+    attack: 78387
+    health: 27338
+    enemyattack: 78387
+    enemyhealth: 27338
+  - level: 791
+    attack: 78464
+    health: 27374
+    enemyattack: 78464
+    enemyhealth: 27374
+  - level: 792
+    attack: 78541
+    health: 27411
+    enemyattack: 78541
+    enemyhealth: 27411
+  - level: 793
+    attack: 78618
+    health: 27447
+    enemyattack: 78618
+    enemyhealth: 27447
+  - level: 794
+    attack: 78694
+    health: 27484
+    enemyattack: 78694
+    enemyhealth: 27484
+  - level: 795
+    attack: 78771
+    health: 27521
+    enemyattack: 78771
+    enemyhealth: 27521
+  - level: 796
+    attack: 78848
+    health: 27557
+    enemyattack: 78848
+    enemyhealth: 27557
+  - level: 797
+    attack: 78925
+    health: 27594
+    enemyattack: 78925
+    enemyhealth: 27594
+  - level: 798
+    attack: 79002
+    health: 27631
+    enemyattack: 79002
+    enemyhealth: 27631
+  - level: 799
+    attack: 79078
+    health: 27668
+    enemyattack: 79078
+    enemyhealth: 27668
+  - level: 800
+    attack: 94899
+    health: 33215
+    enemyattack: 94899
+    enemyhealth: 33215
+  - level: 801
+    attack: 94976
+    health: 33253
+    enemyattack: 94976
+    enemyhealth: 33253
+  - level: 802
+    attack: 95053
+    health: 33292
+    enemyattack: 95053
+    enemyhealth: 33292
+  - level: 803
+    attack: 95130
+    health: 33331
+    enemyattack: 95130
+    enemyhealth: 33331
+  - level: 804
+    attack: 95206
+    health: 33370
+    enemyattack: 95206
+    enemyhealth: 33370
+  - level: 805
+    attack: 95283
+    health: 33409
+    enemyattack: 95283
+    enemyhealth: 33409
+  - level: 806
+    attack: 95360
+    health: 33448
+    enemyattack: 95360
+    enemyhealth: 33448
+  - level: 807
+    attack: 95437
+    health: 33486
+    enemyattack: 95437
+    enemyhealth: 33486
+  - level: 808
+    attack: 95514
+    health: 33525
+    enemyattack: 95514
+    enemyhealth: 33525
+  - level: 809
+    attack: 95590
+    health: 33564
+    enemyattack: 95590
+    enemyhealth: 33564
+  - level: 810
+    attack: 95667
+    health: 33603
+    enemyattack: 95667
+    enemyhealth: 33603
+  - level: 811
+    attack: 95744
+    health: 33642
+    enemyattack: 95744
+    enemyhealth: 33642
+  - level: 812
+    attack: 95821
+    health: 33681
+    enemyattack: 95821
+    enemyhealth: 33681
+  - level: 813
+    attack: 95898
+    health: 33720
+    enemyattack: 95898
+    enemyhealth: 33720
+  - level: 814
+    attack: 95974
+    health: 33759
+    enemyattack: 95974
+    enemyhealth: 33759
+  - level: 815
+    attack: 96051
+    health: 33798
+    enemyattack: 96051
+    enemyhealth: 33798
+  - level: 816
+    attack: 96128
+    health: 33837
+    enemyattack: 96128
+    enemyhealth: 33837
+  - level: 817
+    attack: 96205
+    health: 33876
+    enemyattack: 96205
+    enemyhealth: 33876
+  - level: 818
+    attack: 96282
+    health: 33915
+    enemyattack: 96282
+    enemyhealth: 33915
+  - level: 819
+    attack: 96358
+    health: 33954
+    enemyattack: 96358
+    enemyhealth: 33954
+  - level: 820
+    attack: 96435
+    health: 33993
+    enemyattack: 96435
+    enemyhealth: 33993
+  - level: 821
+    attack: 96512
+    health: 34033
+    enemyattack: 96512
+    enemyhealth: 34033
+  - level: 822
+    attack: 96589
+    health: 34072
+    enemyattack: 96589
+    enemyhealth: 34072
+  - level: 823
+    attack: 96666
+    health: 34111
+    enemyattack: 96666
+    enemyhealth: 34111
+  - level: 824
+    attack: 96742
+    health: 34150
+    enemyattack: 96742
+    enemyhealth: 34150
+  - level: 825
+    attack: 96819
+    health: 34189
+    enemyattack: 96819
+    enemyhealth: 34189
+  - level: 826
+    attack: 96896
+    health: 34229
+    enemyattack: 96896
+    enemyhealth: 34229
+  - level: 827
+    attack: 96973
+    health: 34268
+    enemyattack: 96973
+    enemyhealth: 34268
+  - level: 828
+    attack: 97050
+    health: 34307
+    enemyattack: 97050
+    enemyhealth: 34307
+  - level: 829
+    attack: 97126
+    health: 34346
+    enemyattack: 97126
+    enemyhealth: 34346
+  - level: 830
+    attack: 97203
+    health: 34386
+    enemyattack: 97203
+    enemyhealth: 34386
+  - level: 831
+    attack: 97280
+    health: 34425
+    enemyattack: 97280
+    enemyhealth: 34425
+  - level: 832
+    attack: 97357
+    health: 34464
+    enemyattack: 97357
+    enemyhealth: 34464
+  - level: 833
+    attack: 97434
+    health: 34504
+    enemyattack: 97434
+    enemyhealth: 34504
+  - level: 834
+    attack: 97510
+    health: 34543
+    enemyattack: 97510
+    enemyhealth: 34543
+  - level: 835
+    attack: 97587
+    health: 34582
+    enemyattack: 97587
+    enemyhealth: 34582
+  - level: 836
+    attack: 97664
+    health: 34622
+    enemyattack: 97664
+    enemyhealth: 34622
+  - level: 837
+    attack: 97741
+    health: 34661
+    enemyattack: 97741
+    enemyhealth: 34661
+  - level: 838
+    attack: 97818
+    health: 34701
+    enemyattack: 97818
+    enemyhealth: 34701
+  - level: 839
+    attack: 97894
+    health: 34740
+    enemyattack: 97894
+    enemyhealth: 34740
+  - level: 840
+    attack: 97971
+    health: 34780
+    enemyattack: 97971
+    enemyhealth: 34780
+  - level: 841
+    attack: 98048
+    health: 34819
+    enemyattack: 98048
+    enemyhealth: 34819
+  - level: 842
+    attack: 98125
+    health: 34859
+    enemyattack: 98125
+    enemyhealth: 34859
+  - level: 843
+    attack: 98202
+    health: 34898
+    enemyattack: 98202
+    enemyhealth: 34898
+  - level: 844
+    attack: 98278
+    health: 34938
+    enemyattack: 98278
+    enemyhealth: 34938
+  - level: 845
+    attack: 98355
+    health: 34978
+    enemyattack: 98355
+    enemyhealth: 34978
+  - level: 846
+    attack: 98432
+    health: 35017
+    enemyattack: 98432
+    enemyhealth: 35017
+  - level: 847
+    attack: 98509
+    health: 35057
+    enemyattack: 98509
+    enemyhealth: 35057
+  - level: 848
+    attack: 98586
+    health: 35096
+    enemyattack: 98586
+    enemyhealth: 35096
+  - level: 849
+    attack: 98662
+    health: 35136
+    enemyattack: 98662
+    enemyhealth: 35136
+  - level: 850
+    attack: 98739
+    health: 35176
+    enemyattack: 98739
+    enemyhealth: 35176
+  - level: 851
+    attack: 98816
+    health: 35216
+    enemyattack: 98816
+    enemyhealth: 35216
+  - level: 852
+    attack: 98893
+    health: 35255
+    enemyattack: 98893
+    enemyhealth: 35255
+  - level: 853
+    attack: 98970
+    health: 35295
+    enemyattack: 98970
+    enemyhealth: 35295
+  - level: 854
+    attack: 99046
+    health: 35335
+    enemyattack: 99046
+    enemyhealth: 35335
+  - level: 855
+    attack: 99123
+    health: 35375
+    enemyattack: 99123
+    enemyhealth: 35375
+  - level: 856
+    attack: 99200
+    health: 35414
+    enemyattack: 99200
+    enemyhealth: 35414
+  - level: 857
+    attack: 99277
+    health: 35454
+    enemyattack: 99277
+    enemyhealth: 35454
+  - level: 858
+    attack: 99354
+    health: 35494
+    enemyattack: 99354
+    enemyhealth: 35494
+  - level: 859
+    attack: 99430
+    health: 35534
+    enemyattack: 99430
+    enemyhealth: 35534
+  - level: 860
+    attack: 99507
+    health: 35574
+    enemyattack: 99507
+    enemyhealth: 35574
+  - level: 861
+    attack: 99584
+    health: 35614
+    enemyattack: 99584
+    enemyhealth: 35614
+  - level: 862
+    attack: 99661
+    health: 35654
+    enemyattack: 99661
+    enemyhealth: 35654
+  - level: 863
+    attack: 99738
+    health: 35694
+    enemyattack: 99738
+    enemyhealth: 35694
+  - level: 864
+    attack: 99814
+    health: 35734
+    enemyattack: 99814
+    enemyhealth: 35734
+  - level: 865
+    attack: 99891
+    health: 35774
+    enemyattack: 99891
+    enemyhealth: 35774
+  - level: 866
+    attack: 99968
+    health: 35814
+    enemyattack: 99968
+    enemyhealth: 35814
+  - level: 867
+    attack: 100045
+    health: 35854
+    enemyattack: 100045
+    enemyhealth: 35854
+  - level: 868
+    attack: 100122
+    health: 35894
+    enemyattack: 100122
+    enemyhealth: 35894
+  - level: 869
+    attack: 100198
+    health: 35934
+    enemyattack: 100198
+    enemyhealth: 35934
+  - level: 870
+    attack: 100275
+    health: 35974
+    enemyattack: 100275
+    enemyhealth: 35974
+  - level: 871
+    attack: 100352
+    health: 36014
+    enemyattack: 100352
+    enemyhealth: 36014
+  - level: 872
+    attack: 100429
+    health: 36054
+    enemyattack: 100429
+    enemyhealth: 36054
+  - level: 873
+    attack: 100506
+    health: 36094
+    enemyattack: 100506
+    enemyhealth: 36094
+  - level: 874
+    attack: 100582
+    health: 36134
+    enemyattack: 100582
+    enemyhealth: 36134
+  - level: 875
+    attack: 100659
+    health: 36174
+    enemyattack: 100659
+    enemyhealth: 36174
+  - level: 876
+    attack: 100736
+    health: 36215
+    enemyattack: 100736
+    enemyhealth: 36215
+  - level: 877
+    attack: 100813
+    health: 36255
+    enemyattack: 100813
+    enemyhealth: 36255
+  - level: 878
+    attack: 100890
+    health: 36295
+    enemyattack: 100890
+    enemyhealth: 36295
+  - level: 879
+    attack: 100966
+    health: 36335
+    enemyattack: 100966
+    enemyhealth: 36335
+  - level: 880
+    attack: 101043
+    health: 36376
+    enemyattack: 101043
+    enemyhealth: 36376
+  - level: 881
+    attack: 101120
+    health: 36416
+    enemyattack: 101120
+    enemyhealth: 36416
+  - level: 882
+    attack: 101197
+    health: 36456
+    enemyattack: 101197
+    enemyhealth: 36456
+  - level: 883
+    attack: 101274
+    health: 36496
+    enemyattack: 101274
+    enemyhealth: 36496
+  - level: 884
+    attack: 101350
+    health: 36537
+    enemyattack: 101350
+    enemyhealth: 36537
+  - level: 885
+    attack: 101427
+    health: 36577
+    enemyattack: 101427
+    enemyhealth: 36577
+  - level: 886
+    attack: 101504
+    health: 36618
+    enemyattack: 101504
+    enemyhealth: 36618
+  - level: 887
+    attack: 101581
+    health: 36658
+    enemyattack: 101581
+    enemyhealth: 36658
+  - level: 888
+    attack: 101658
+    health: 36698
+    enemyattack: 101658
+    enemyhealth: 36698
+  - level: 889
+    attack: 101734
+    health: 36739
+    enemyattack: 101734
+    enemyhealth: 36739
+  - level: 890
+    attack: 101811
+    health: 36779
+    enemyattack: 101811
+    enemyhealth: 36779
+  - level: 891
+    attack: 101888
+    health: 36820
+    enemyattack: 101888
+    enemyhealth: 36820
+  - level: 892
+    attack: 101965
+    health: 36860
+    enemyattack: 101965
+    enemyhealth: 36860
+  - level: 893
+    attack: 102042
+    health: 36901
+    enemyattack: 102042
+    enemyhealth: 36901
+  - level: 894
+    attack: 102118
+    health: 36941
+    enemyattack: 102118
+    enemyhealth: 36941
+  - level: 895
+    attack: 102195
+    health: 36982
+    enemyattack: 102195
+    enemyhealth: 36982
+  - level: 896
+    attack: 102272
+    health: 37022
+    enemyattack: 102272
+    enemyhealth: 37022
+  - level: 897
+    attack: 102349
+    health: 37063
+    enemyattack: 102349
+    enemyhealth: 37063
+  - level: 898
+    attack: 102426
+    health: 37104
+    enemyattack: 102426
+    enemyhealth: 37104
+  - level: 899
+    attack: 102502
+    health: 37144
+    enemyattack: 102502
+    enemyhealth: 37144
+  - level: 900
+    attack: 102496
+    health: 37155
+    enemyattack: 102496
+    enemyhealth: 37155
+  - level: 901
+    attack: 102592
+    health: 37202
+    enemyattack: 102592
+    enemyhealth: 37202
+  - level: 902
+    attack: 102688
+    health: 37250
+    enemyattack: 102688
+    enemyhealth: 37250
+  - level: 903
+    attack: 102784
+    health: 37298
+    enemyattack: 102784
+    enemyhealth: 37298
+  - level: 904
+    attack: 102880
+    health: 37345
+    enemyattack: 102880
+    enemyhealth: 37345
+  - level: 905
+    attack: 102976
+    health: 37393
+    enemyattack: 102976
+    enemyhealth: 37393
+  - level: 906
+    attack: 103072
+    health: 37441
+    enemyattack: 103072
+    enemyhealth: 37441
+  - level: 907
+    attack: 103168
+    health: 37489
+    enemyattack: 103168
+    enemyhealth: 37489
+  - level: 908
+    attack: 103264
+    health: 37536
+    enemyattack: 103264
+    enemyhealth: 37536
+  - level: 909
+    attack: 103360
+    health: 37584
+    enemyattack: 103360
+    enemyhealth: 37584
+  - level: 910
+    attack: 103456
+    health: 37632
+    enemyattack: 103456
+    enemyhealth: 37632
+  - level: 911
+    attack: 103552
+    health: 37680
+    enemyattack: 103552
+    enemyhealth: 37680
+  - level: 912
+    attack: 103648
+    health: 37728
+    enemyattack: 103648
+    enemyhealth: 37728
+  - level: 913
+    attack: 103744
+    health: 37776
+    enemyattack: 103744
+    enemyhealth: 37776
+  - level: 914
+    attack: 103840
+    health: 37824
+    enemyattack: 103840
+    enemyhealth: 37824
+  - level: 915
+    attack: 103936
+    health: 37872
+    enemyattack: 103936
+    enemyhealth: 37872
+  - level: 916
+    attack: 104032
+    health: 37920
+    enemyattack: 104032
+    enemyhealth: 37920
+  - level: 917
+    attack: 104128
+    health: 37968
+    enemyattack: 104128
+    enemyhealth: 37968
+  - level: 918
+    attack: 104224
+    health: 38016
+    enemyattack: 104224
+    enemyhealth: 38016
+  - level: 919
+    attack: 104320
+    health: 38064
+    enemyattack: 104320
+    enemyhealth: 38064
+  - level: 920
+    attack: 104416
+    health: 38112
+    enemyattack: 104416
+    enemyhealth: 38112
+  - level: 921
+    attack: 104512
+    health: 38160
+    enemyattack: 104512
+    enemyhealth: 38160
+  - level: 922
+    attack: 104608
+    health: 38208
+    enemyattack: 104608
+    enemyhealth: 38208
+  - level: 923
+    attack: 104704
+    health: 38256
+    enemyattack: 104704
+    enemyhealth: 38256
+  - level: 924
+    attack: 104800
+    health: 38304
+    enemyattack: 104800
+    enemyhealth: 38304
+  - level: 925
+    attack: 104896
+    health: 38353
+    enemyattack: 104896
+    enemyhealth: 38353
+  - level: 926
+    attack: 104992
+    health: 38401
+    enemyattack: 104992
+    enemyhealth: 38401
+  - level: 927
+    attack: 105088
+    health: 38449
+    enemyattack: 105088
+    enemyhealth: 38449
+  - level: 928
+    attack: 105184
+    health: 38497
+    enemyattack: 105184
+    enemyhealth: 38497
+  - level: 929
+    attack: 105280
+    health: 38546
+    enemyattack: 105280
+    enemyhealth: 38546
+  - level: 930
+    attack: 105376
+    health: 38594
+    enemyattack: 105376
+    enemyhealth: 38594
+  - level: 931
+    attack: 105472
+    health: 38642
+    enemyattack: 105472
+    enemyhealth: 38642
+  - level: 932
+    attack: 105568
+    health: 38691
+    enemyattack: 105568
+    enemyhealth: 38691
+  - level: 933
+    attack: 105664
+    health: 38739
+    enemyattack: 105664
+    enemyhealth: 38739
+  - level: 934
+    attack: 105760
+    health: 38787
+    enemyattack: 105760
+    enemyhealth: 38787
+  - level: 935
+    attack: 105856
+    health: 38836
+    enemyattack: 105856
+    enemyhealth: 38836
+  - level: 936
+    attack: 105952
+    health: 38884
+    enemyattack: 105952
+    enemyhealth: 38884
+  - level: 937
+    attack: 106048
+    health: 38933
+    enemyattack: 106048
+    enemyhealth: 38933
+  - level: 938
+    attack: 106144
+    health: 38981
+    enemyattack: 106144
+    enemyhealth: 38981
+  - level: 939
+    attack: 106240
+    health: 39030
+    enemyattack: 106240
+    enemyhealth: 39030
+  - level: 940
+    attack: 106336
+    health: 39078
+    enemyattack: 106336
+    enemyhealth: 39078
+  - level: 941
+    attack: 106432
+    health: 39127
+    enemyattack: 106432
+    enemyhealth: 39127
+  - level: 942
+    attack: 106528
+    health: 39176
+    enemyattack: 106528
+    enemyhealth: 39176
+  - level: 943
+    attack: 106624
+    health: 39224
+    enemyattack: 106624
+    enemyhealth: 39224
+  - level: 944
+    attack: 106720
+    health: 39273
+    enemyattack: 106720
+    enemyhealth: 39273
+  - level: 945
+    attack: 106816
+    health: 39322
+    enemyattack: 106816
+    enemyhealth: 39322
+  - level: 946
+    attack: 106912
+    health: 39370
+    enemyattack: 106912
+    enemyhealth: 39370
+  - level: 947
+    attack: 107008
+    health: 39419
+    enemyattack: 107008
+    enemyhealth: 39419
+  - level: 948
+    attack: 107104
+    health: 39468
+    enemyattack: 107104
+    enemyhealth: 39468
+  - level: 949
+    attack: 107200
+    health: 39517
+    enemyattack: 107200
+    enemyhealth: 39517
+  - level: 950
+    attack: 107296
+    health: 39565
+    enemyattack: 107296
+    enemyhealth: 39565
+  - level: 951
+    attack: 107392
+    health: 39614
+    enemyattack: 107392
+    enemyhealth: 39614
+  - level: 952
+    attack: 107488
+    health: 39663
+    enemyattack: 107488
+    enemyhealth: 39663
+  - level: 953
+    attack: 107584
+    health: 39712
+    enemyattack: 107584
+    enemyhealth: 39712
+  - level: 954
+    attack: 107680
+    health: 39761
+    enemyattack: 107680
+    enemyhealth: 39761
+  - level: 955
+    attack: 107776
+    health: 39810
+    enemyattack: 107776
+    enemyhealth: 39810
+  - level: 956
+    attack: 107872
+    health: 39859
+    enemyattack: 107872
+    enemyhealth: 39859
+  - level: 957
+    attack: 107968
+    health: 39908
+    enemyattack: 107968
+    enemyhealth: 39908
+  - level: 958
+    attack: 108064
+    health: 39957
+    enemyattack: 108064
+    enemyhealth: 39957
+  - level: 959
+    attack: 108160
+    health: 40006
+    enemyattack: 108160
+    enemyhealth: 40006
+  - level: 960
+    attack: 108256
+    health: 40055
+    enemyattack: 108256
+    enemyhealth: 40055
+  - level: 961
+    attack: 108352
+    health: 40104
+    enemyattack: 108352
+    enemyhealth: 40104
+  - level: 962
+    attack: 108448
+    health: 40153
+    enemyattack: 108448
+    enemyhealth: 40153
+  - level: 963
+    attack: 108544
+    health: 40202
+    enemyattack: 108544
+    enemyhealth: 40202
+  - level: 964
+    attack: 108640
+    health: 40251
+    enemyattack: 108640
+    enemyhealth: 40251
+  - level: 965
+    attack: 108736
+    health: 40300
+    enemyattack: 108736
+    enemyhealth: 40300
+  - level: 966
+    attack: 108832
+    health: 40349
+    enemyattack: 108832
+    enemyhealth: 40349
+  - level: 967
+    attack: 108928
+    health: 40399
+    enemyattack: 108928
+    enemyhealth: 40399
+  - level: 968
+    attack: 109024
+    health: 40448
+    enemyattack: 109024
+    enemyhealth: 40448
+  - level: 969
+    attack: 109120
+    health: 40497
+    enemyattack: 109120
+    enemyhealth: 40497
+  - level: 970
+    attack: 109216
+    health: 40546
+    enemyattack: 109216
+    enemyhealth: 40546
+  - level: 971
+    attack: 109312
+    health: 40596
+    enemyattack: 109312
+    enemyhealth: 40596
+  - level: 972
+    attack: 109408
+    health: 40645
+    enemyattack: 109408
+    enemyhealth: 40645
+  - level: 973
+    attack: 109504
+    health: 40694
+    enemyattack: 109504
+    enemyhealth: 40694
+  - level: 974
+    attack: 109600
+    health: 40744
+    enemyattack: 109600
+    enemyhealth: 40744
+  - level: 975
+    attack: 109696
+    health: 40793
+    enemyattack: 109696
+    enemyhealth: 40793
+  - level: 976
+    attack: 109792
+    health: 40843
+    enemyattack: 109792
+    enemyhealth: 40843
+  - level: 977
+    attack: 109888
+    health: 40892
+    enemyattack: 109888
+    enemyhealth: 40892
+  - level: 978
+    attack: 109984
+    health: 40942
+    enemyattack: 109984
+    enemyhealth: 40942
+  - level: 979
+    attack: 110080
+    health: 40991
+    enemyattack: 110080
+    enemyhealth: 40991
+  - level: 980
+    attack: 110176
+    health: 41041
+    enemyattack: 110176
+    enemyhealth: 41041
+  - level: 981
+    attack: 110272
+    health: 41090
+    enemyattack: 110272
+    enemyhealth: 41090
+  - level: 982
+    attack: 110368
+    health: 41140
+    enemyattack: 110368
+    enemyhealth: 41140
+  - level: 983
+    attack: 110464
+    health: 41189
+    enemyattack: 110464
+    enemyhealth: 41189
+  - level: 984
+    attack: 110560
+    health: 41239
+    enemyattack: 110560
+    enemyhealth: 41239
+  - level: 985
+    attack: 110656
+    health: 41289
+    enemyattack: 110656
+    enemyhealth: 41289
+  - level: 986
+    attack: 110752
+    health: 41338
+    enemyattack: 110752
+    enemyhealth: 41338
+  - level: 987
+    attack: 110848
+    health: 41388
+    enemyattack: 110848
+    enemyhealth: 41388
+  - level: 988
+    attack: 110944
+    health: 41438
+    enemyattack: 110944
+    enemyhealth: 41438
+  - level: 989
+    attack: 111040
+    health: 41487
+    enemyattack: 111040
+    enemyhealth: 41487
+  - level: 990
+    attack: 111136
+    health: 41537
+    enemyattack: 111136
+    enemyhealth: 41537
+  - level: 991
+    attack: 111232
+    health: 41587
+    enemyattack: 111232
+    enemyhealth: 41587
+  - level: 992
+    attack: 111328
+    health: 41637
+    enemyattack: 111328
+    enemyhealth: 41637
+  - level: 993
+    attack: 111424
+    health: 41687
+    enemyattack: 111424
+    enemyhealth: 41687
+  - level: 994
+    attack: 111520
+    health: 41736
+    enemyattack: 111520
+    enemyhealth: 41736
+  - level: 995
+    attack: 111616
+    health: 41786
+    enemyattack: 111616
+    enemyhealth: 41786
+  - level: 996
+    attack: 111712
+    health: 41836
+    enemyattack: 111712
+    enemyhealth: 41836
+  - level: 997
+    attack: 111808
+    health: 41886
+    enemyattack: 111808
+    enemyhealth: 41886
+  - level: 998
+    attack: 111904
+    health: 41936
+    enemyattack: 111904
+    enemyhealth: 41936
+  - level: 999
+    attack: 112000
+    health: 41986
+    enemyattack: 112000
+    enemyhealth: 41986
+  - level: 1000
+    attack: 112096
+    health: 42036
+    enemyattack: 112096
+    enemyhealth: 42036

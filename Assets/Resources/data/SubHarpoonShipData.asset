@@ -1,0 +1,3017 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f94d2a5104e0d4952ec537bd6eb224f, type: 3}
+  m_Name: SubHarpoonShipData
+  m_EditorClassIdentifier:
+  SheetName: 아직은 제목은 없지만 쩔어줄 프로젝트
+  WorksheetName: SubHarpoonShipData
+  dataArray:
+  - level: 1
+    attack: 0
+    health: 1529
+  - level: 2
+    attack: 0
+    health: 1560
+  - level: 3
+    attack: 0
+    health: 1592
+  - level: 4
+    attack: 0
+    health: 1623
+  - level: 5
+    attack: 0
+    health: 1655
+  - level: 6
+    attack: 0
+    health: 1686
+  - level: 7
+    attack: 0
+    health: 1718
+  - level: 8
+    attack: 0
+    health: 1749
+  - level: 9
+    attack: 0
+    health: 1781
+  - level: 10
+    attack: 0
+    health: 1812
+  - level: 11
+    attack: 0
+    health: 1844
+  - level: 12
+    attack: 0
+    health: 1875
+  - level: 13
+    attack: 0
+    health: 1907
+  - level: 14
+    attack: 0
+    health: 1939
+  - level: 15
+    attack: 0
+    health: 1970
+  - level: 16
+    attack: 0
+    health: 2002
+  - level: 17
+    attack: 0
+    health: 2033
+  - level: 18
+    attack: 0
+    health: 2065
+  - level: 19
+    attack: 0
+    health: 2097
+  - level: 20
+    attack: 0
+    health: 2128
+  - level: 21
+    attack: 0
+    health: 2160
+  - level: 22
+    attack: 0
+    health: 2191
+  - level: 23
+    attack: 0
+    health: 2223
+  - level: 24
+    attack: 0
+    health: 2255
+  - level: 25
+    attack: 0
+    health: 2286
+  - level: 26
+    attack: 0
+    health: 2318
+  - level: 27
+    attack: 0
+    health: 2350
+  - level: 28
+    attack: 0
+    health: 2381
+  - level: 29
+    attack: 0
+    health: 2413
+  - level: 30
+    attack: 0
+    health: 2445
+  - level: 31
+    attack: 0
+    health: 2477
+  - level: 32
+    attack: 0
+    health: 2508
+  - level: 33
+    attack: 0
+    health: 2540
+  - level: 34
+    attack: 0
+    health: 2572
+  - level: 35
+    attack: 0
+    health: 2604
+  - level: 36
+    attack: 0
+    health: 2635
+  - level: 37
+    attack: 0
+    health: 2667
+  - level: 38
+    attack: 0
+    health: 2699
+  - level: 39
+    attack: 0
+    health: 2731
+  - level: 40
+    attack: 0
+    health: 2762
+  - level: 41
+    attack: 0
+    health: 2794
+  - level: 42
+    attack: 0
+    health: 2826
+  - level: 43
+    attack: 0
+    health: 2858
+  - level: 44
+    attack: 0
+    health: 2890
+  - level: 45
+    attack: 0
+    health: 2922
+  - level: 46
+    attack: 0
+    health: 2954
+  - level: 47
+    attack: 0
+    health: 2985
+  - level: 48
+    attack: 0
+    health: 3017
+  - level: 49
+    attack: 0
+    health: 3049
+  - level: 50
+    attack: 0
+    health: 3081
+  - level: 51
+    attack: 0
+    health: 3113
+  - level: 52
+    attack: 0
+    health: 3145
+  - level: 53
+    attack: 0
+    health: 3177
+  - level: 54
+    attack: 0
+    health: 3209
+  - level: 55
+    attack: 0
+    health: 3241
+  - level: 56
+    attack: 0
+    health: 3273
+  - level: 57
+    attack: 0
+    health: 3305
+  - level: 58
+    attack: 0
+    health: 3337
+  - level: 59
+    attack: 0
+    health: 3369
+  - level: 60
+    attack: 0
+    health: 3401
+  - level: 61
+    attack: 0
+    health: 3433
+  - level: 62
+    attack: 0
+    health: 3465
+  - level: 63
+    attack: 0
+    health: 3497
+  - level: 64
+    attack: 0
+    health: 3529
+  - level: 65
+    attack: 0
+    health: 3561
+  - level: 66
+    attack: 0
+    health: 3593
+  - level: 67
+    attack: 0
+    health: 3625
+  - level: 68
+    attack: 0
+    health: 3657
+  - level: 69
+    attack: 0
+    health: 3689
+  - level: 70
+    attack: 0
+    health: 3721
+  - level: 71
+    attack: 0
+    health: 3753
+  - level: 72
+    attack: 0
+    health: 3785
+  - level: 73
+    attack: 0
+    health: 3818
+  - level: 74
+    attack: 0
+    health: 3850
+  - level: 75
+    attack: 0
+    health: 3882
+  - level: 76
+    attack: 0
+    health: 3914
+  - level: 77
+    attack: 0
+    health: 3946
+  - level: 78
+    attack: 0
+    health: 3978
+  - level: 79
+    attack: 0
+    health: 4011
+  - level: 80
+    attack: 0
+    health: 4043
+  - level: 81
+    attack: 0
+    health: 4075
+  - level: 82
+    attack: 0
+    health: 4107
+  - level: 83
+    attack: 0
+    health: 4139
+  - level: 84
+    attack: 0
+    health: 4172
+  - level: 85
+    attack: 0
+    health: 4204
+  - level: 86
+    attack: 0
+    health: 4236
+  - level: 87
+    attack: 0
+    health: 4268
+  - level: 88
+    attack: 0
+    health: 4301
+  - level: 89
+    attack: 0
+    health: 4333
+  - level: 90
+    attack: 0
+    health: 4365
+  - level: 91
+    attack: 0
+    health: 4398
+  - level: 92
+    attack: 0
+    health: 4430
+  - level: 93
+    attack: 0
+    health: 4462
+  - level: 94
+    attack: 0
+    health: 4494
+  - level: 95
+    attack: 0
+    health: 4527
+  - level: 96
+    attack: 0
+    health: 4559
+  - level: 97
+    attack: 0
+    health: 4592
+  - level: 98
+    attack: 0
+    health: 4624
+  - level: 99
+    attack: 0
+    health: 4656
+  - level: 100
+    attack: 0
+    health: 4475
+  - level: 101
+    attack: 0
+    health: 4515
+  - level: 102
+    attack: 0
+    health: 4555
+  - level: 103
+    attack: 0
+    health: 4596
+  - level: 104
+    attack: 0
+    health: 4636
+  - level: 105
+    attack: 0
+    health: 4676
+  - level: 106
+    attack: 0
+    health: 4717
+  - level: 107
+    attack: 0
+    health: 4757
+  - level: 108
+    attack: 0
+    health: 4797
+  - level: 109
+    attack: 0
+    health: 4838
+  - level: 110
+    attack: 0
+    health: 4878
+  - level: 111
+    attack: 0
+    health: 4919
+  - level: 112
+    attack: 0
+    health: 4959
+  - level: 113
+    attack: 0
+    health: 4999
+  - level: 114
+    attack: 0
+    health: 5040
+  - level: 115
+    attack: 0
+    health: 5080
+  - level: 116
+    attack: 0
+    health: 5121
+  - level: 117
+    attack: 0
+    health: 5161
+  - level: 118
+    attack: 0
+    health: 5202
+  - level: 119
+    attack: 0
+    health: 5242
+  - level: 120
+    attack: 0
+    health: 5283
+  - level: 121
+    attack: 0
+    health: 5323
+  - level: 122
+    attack: 0
+    health: 5364
+  - level: 123
+    attack: 0
+    health: 5404
+  - level: 124
+    attack: 0
+    health: 5445
+  - level: 125
+    attack: 0
+    health: 5486
+  - level: 126
+    attack: 0
+    health: 5526
+  - level: 127
+    attack: 0
+    health: 5567
+  - level: 128
+    attack: 0
+    health: 5607
+  - level: 129
+    attack: 0
+    health: 5648
+  - level: 130
+    attack: 0
+    health: 5689
+  - level: 131
+    attack: 0
+    health: 5729
+  - level: 132
+    attack: 0
+    health: 5770
+  - level: 133
+    attack: 0
+    health: 5811
+  - level: 134
+    attack: 0
+    health: 5851
+  - level: 135
+    attack: 0
+    health: 5892
+  - level: 136
+    attack: 0
+    health: 5933
+  - level: 137
+    attack: 0
+    health: 5973
+  - level: 138
+    attack: 0
+    health: 6014
+  - level: 139
+    attack: 0
+    health: 6055
+  - level: 140
+    attack: 0
+    health: 6096
+  - level: 141
+    attack: 0
+    health: 6136
+  - level: 142
+    attack: 0
+    health: 6177
+  - level: 143
+    attack: 0
+    health: 6218
+  - level: 144
+    attack: 0
+    health: 6259
+  - level: 145
+    attack: 0
+    health: 6299
+  - level: 146
+    attack: 0
+    health: 6340
+  - level: 147
+    attack: 0
+    health: 6381
+  - level: 148
+    attack: 0
+    health: 6422
+  - level: 149
+    attack: 0
+    health: 6463
+  - level: 150
+    attack: 0
+    health: 6504
+  - level: 151
+    attack: 0
+    health: 6545
+  - level: 152
+    attack: 0
+    health: 6585
+  - level: 153
+    attack: 0
+    health: 6626
+  - level: 154
+    attack: 0
+    health: 6667
+  - level: 155
+    attack: 0
+    health: 6708
+  - level: 156
+    attack: 0
+    health: 6749
+  - level: 157
+    attack: 0
+    health: 6790
+  - level: 158
+    attack: 0
+    health: 6831
+  - level: 159
+    attack: 0
+    health: 6872
+  - level: 160
+    attack: 0
+    health: 6913
+  - level: 161
+    attack: 0
+    health: 6954
+  - level: 162
+    attack: 0
+    health: 6995
+  - level: 163
+    attack: 0
+    health: 7036
+  - level: 164
+    attack: 0
+    health: 7077
+  - level: 165
+    attack: 0
+    health: 7118
+  - level: 166
+    attack: 0
+    health: 7159
+  - level: 167
+    attack: 0
+    health: 7200
+  - level: 168
+    attack: 0
+    health: 7241
+  - level: 169
+    attack: 0
+    health: 7283
+  - level: 170
+    attack: 0
+    health: 7324
+  - level: 171
+    attack: 0
+    health: 7365
+  - level: 172
+    attack: 0
+    health: 7406
+  - level: 173
+    attack: 0
+    health: 7447
+  - level: 174
+    attack: 0
+    health: 7488
+  - level: 175
+    attack: 0
+    health: 7529
+  - level: 176
+    attack: 0
+    health: 7571
+  - level: 177
+    attack: 0
+    health: 7612
+  - level: 178
+    attack: 0
+    health: 7653
+  - level: 179
+    attack: 0
+    health: 7694
+  - level: 180
+    attack: 0
+    health: 7735
+  - level: 181
+    attack: 0
+    health: 7777
+  - level: 182
+    attack: 0
+    health: 7818
+  - level: 183
+    attack: 0
+    health: 7859
+  - level: 184
+    attack: 0
+    health: 7900
+  - level: 185
+    attack: 0
+    health: 7942
+  - level: 186
+    attack: 0
+    health: 7983
+  - level: 187
+    attack: 0
+    health: 8024
+  - level: 188
+    attack: 0
+    health: 8066
+  - level: 189
+    attack: 0
+    health: 8107
+  - level: 190
+    attack: 0
+    health: 8148
+  - level: 191
+    attack: 0
+    health: 8190
+  - level: 192
+    attack: 0
+    health: 8231
+  - level: 193
+    attack: 0
+    health: 8273
+  - level: 194
+    attack: 0
+    health: 8314
+  - level: 195
+    attack: 0
+    health: 8355
+  - level: 196
+    attack: 0
+    health: 8397
+  - level: 197
+    attack: 0
+    health: 8438
+  - level: 198
+    attack: 0
+    health: 8480
+  - level: 199
+    attack: 0
+    health: 8521
+  - level: 200
+    attack: 0
+    health: 8522
+  - level: 201
+    attack: 0
+    health: 8572
+  - level: 202
+    attack: 0
+    health: 8621
+  - level: 203
+    attack: 0
+    health: 8671
+  - level: 204
+    attack: 0
+    health: 8721
+  - level: 205
+    attack: 0
+    health: 8770
+  - level: 206
+    attack: 0
+    health: 8820
+  - level: 207
+    attack: 0
+    health: 8869
+  - level: 208
+    attack: 0
+    health: 8919
+  - level: 209
+    attack: 0
+    health: 8969
+  - level: 210
+    attack: 0
+    health: 9018
+  - level: 211
+    attack: 0
+    health: 9068
+  - level: 212
+    attack: 0
+    health: 9118
+  - level: 213
+    attack: 0
+    health: 9167
+  - level: 214
+    attack: 0
+    health: 9217
+  - level: 215
+    attack: 0
+    health: 9267
+  - level: 216
+    attack: 0
+    health: 9316
+  - level: 217
+    attack: 0
+    health: 9366
+  - level: 218
+    attack: 0
+    health: 9416
+  - level: 219
+    attack: 0
+    health: 9466
+  - level: 220
+    attack: 0
+    health: 9516
+  - level: 221
+    attack: 0
+    health: 9565
+  - level: 222
+    attack: 0
+    health: 9615
+  - level: 223
+    attack: 0
+    health: 9665
+  - level: 224
+    attack: 0
+    health: 9715
+  - level: 225
+    attack: 0
+    health: 9765
+  - level: 226
+    attack: 0
+    health: 9815
+  - level: 227
+    attack: 0
+    health: 9864
+  - level: 228
+    attack: 0
+    health: 9914
+  - level: 229
+    attack: 0
+    health: 9964
+  - level: 230
+    attack: 0
+    health: 10014
+  - level: 231
+    attack: 0
+    health: 10064
+  - level: 232
+    attack: 0
+    health: 10114
+  - level: 233
+    attack: 0
+    health: 10164
+  - level: 234
+    attack: 0
+    health: 10214
+  - level: 235
+    attack: 0
+    health: 10264
+  - level: 236
+    attack: 0
+    health: 10314
+  - level: 237
+    attack: 0
+    health: 10364
+  - level: 238
+    attack: 0
+    health: 10414
+  - level: 239
+    attack: 0
+    health: 10464
+  - level: 240
+    attack: 0
+    health: 10514
+  - level: 241
+    attack: 0
+    health: 10564
+  - level: 242
+    attack: 0
+    health: 10615
+  - level: 243
+    attack: 0
+    health: 10665
+  - level: 244
+    attack: 0
+    health: 10715
+  - level: 245
+    attack: 0
+    health: 10765
+  - level: 246
+    attack: 0
+    health: 10815
+  - level: 247
+    attack: 0
+    health: 10865
+  - level: 248
+    attack: 0
+    health: 10916
+  - level: 249
+    attack: 0
+    health: 10966
+  - level: 250
+    attack: 0
+    health: 11016
+  - level: 251
+    attack: 0
+    health: 11066
+  - level: 252
+    attack: 0
+    health: 11116
+  - level: 253
+    attack: 0
+    health: 11167
+  - level: 254
+    attack: 0
+    health: 11217
+  - level: 255
+    attack: 0
+    health: 11267
+  - level: 256
+    attack: 0
+    health: 11318
+  - level: 257
+    attack: 0
+    health: 11368
+  - level: 258
+    attack: 0
+    health: 11418
+  - level: 259
+    attack: 0
+    health: 11469
+  - level: 260
+    attack: 0
+    health: 11519
+  - level: 261
+    attack: 0
+    health: 11569
+  - level: 262
+    attack: 0
+    health: 11620
+  - level: 263
+    attack: 0
+    health: 11670
+  - level: 264
+    attack: 0
+    health: 11721
+  - level: 265
+    attack: 0
+    health: 11771
+  - level: 266
+    attack: 0
+    health: 11822
+  - level: 267
+    attack: 0
+    health: 11872
+  - level: 268
+    attack: 0
+    health: 11923
+  - level: 269
+    attack: 0
+    health: 11973
+  - level: 270
+    attack: 0
+    health: 12024
+  - level: 271
+    attack: 0
+    health: 12074
+  - level: 272
+    attack: 0
+    health: 12125
+  - level: 273
+    attack: 0
+    health: 12175
+  - level: 274
+    attack: 0
+    health: 12226
+  - level: 275
+    attack: 0
+    health: 12276
+  - level: 276
+    attack: 0
+    health: 12327
+  - level: 277
+    attack: 0
+    health: 12378
+  - level: 278
+    attack: 0
+    health: 12428
+  - level: 279
+    attack: 0
+    health: 12479
+  - level: 280
+    attack: 0
+    health: 12529
+  - level: 281
+    attack: 0
+    health: 12580
+  - level: 282
+    attack: 0
+    health: 12631
+  - level: 283
+    attack: 0
+    health: 12681
+  - level: 284
+    attack: 0
+    health: 12732
+  - level: 285
+    attack: 0
+    health: 12783
+  - level: 286
+    attack: 0
+    health: 12834
+  - level: 287
+    attack: 0
+    health: 12884
+  - level: 288
+    attack: 0
+    health: 12935
+  - level: 289
+    attack: 0
+    health: 12986
+  - level: 290
+    attack: 0
+    health: 13037
+  - level: 291
+    attack: 0
+    health: 13088
+  - level: 292
+    attack: 0
+    health: 13138
+  - level: 293
+    attack: 0
+    health: 13189
+  - level: 294
+    attack: 0
+    health: 13240
+  - level: 295
+    attack: 0
+    health: 13291
+  - level: 296
+    attack: 0
+    health: 13342
+  - level: 297
+    attack: 0
+    health: 13393
+  - level: 298
+    attack: 0
+    health: 13444
+  - level: 299
+    attack: 0
+    health: 13495
+  - level: 300
+    attack: 0
+    health: 16353
+  - level: 301
+    attack: 0
+    health: 16404
+  - level: 302
+    attack: 0
+    health: 16455
+  - level: 303
+    attack: 0
+    health: 16507
+  - level: 304
+    attack: 0
+    health: 16558
+  - level: 305
+    attack: 0
+    health: 16610
+  - level: 306
+    attack: 0
+    health: 16661
+  - level: 307
+    attack: 0
+    health: 16713
+  - level: 308
+    attack: 0
+    health: 16764
+  - level: 309
+    attack: 0
+    health: 16816
+  - level: 310
+    attack: 0
+    health: 16867
+  - level: 311
+    attack: 0
+    health: 16919
+  - level: 312
+    attack: 0
+    health: 16970
+  - level: 313
+    attack: 0
+    health: 17022
+  - level: 314
+    attack: 0
+    health: 17073
+  - level: 315
+    attack: 0
+    health: 17125
+  - level: 316
+    attack: 0
+    health: 17176
+  - level: 317
+    attack: 0
+    health: 17228
+  - level: 318
+    attack: 0
+    health: 17280
+  - level: 319
+    attack: 0
+    health: 17331
+  - level: 320
+    attack: 0
+    health: 17383
+  - level: 321
+    attack: 0
+    health: 17434
+  - level: 322
+    attack: 0
+    health: 17486
+  - level: 323
+    attack: 0
+    health: 17538
+  - level: 324
+    attack: 0
+    health: 17590
+  - level: 325
+    attack: 0
+    health: 17641
+  - level: 326
+    attack: 0
+    health: 17693
+  - level: 327
+    attack: 0
+    health: 17745
+  - level: 328
+    attack: 0
+    health: 17796
+  - level: 329
+    attack: 0
+    health: 17848
+  - level: 330
+    attack: 0
+    health: 17900
+  - level: 331
+    attack: 0
+    health: 17952
+  - level: 332
+    attack: 0
+    health: 18004
+  - level: 333
+    attack: 0
+    health: 18056
+  - level: 334
+    attack: 0
+    health: 18107
+  - level: 335
+    attack: 0
+    health: 18159
+  - level: 336
+    attack: 0
+    health: 18211
+  - level: 337
+    attack: 0
+    health: 18263
+  - level: 338
+    attack: 0
+    health: 18315
+  - level: 339
+    attack: 0
+    health: 18367
+  - level: 340
+    attack: 0
+    health: 18419
+  - level: 341
+    attack: 0
+    health: 18471
+  - level: 342
+    attack: 0
+    health: 18523
+  - level: 343
+    attack: 0
+    health: 18575
+  - level: 344
+    attack: 0
+    health: 18627
+  - level: 345
+    attack: 0
+    health: 18679
+  - level: 346
+    attack: 0
+    health: 18731
+  - level: 347
+    attack: 0
+    health: 18783
+  - level: 348
+    attack: 0
+    health: 18835
+  - level: 349
+    attack: 0
+    health: 18887
+  - level: 350
+    attack: 0
+    health: 18939
+  - level: 351
+    attack: 0
+    health: 18991
+  - level: 352
+    attack: 0
+    health: 19043
+  - level: 353
+    attack: 0
+    health: 19095
+  - level: 354
+    attack: 0
+    health: 19147
+  - level: 355
+    attack: 0
+    health: 19199
+  - level: 356
+    attack: 0
+    health: 19252
+  - level: 357
+    attack: 0
+    health: 19304
+  - level: 358
+    attack: 0
+    health: 19356
+  - level: 359
+    attack: 0
+    health: 19408
+  - level: 360
+    attack: 0
+    health: 19460
+  - level: 361
+    attack: 0
+    health: 19513
+  - level: 362
+    attack: 0
+    health: 19565
+  - level: 363
+    attack: 0
+    health: 19617
+  - level: 364
+    attack: 0
+    health: 19669
+  - level: 365
+    attack: 0
+    health: 19722
+  - level: 366
+    attack: 0
+    health: 19774
+  - level: 367
+    attack: 0
+    health: 19826
+  - level: 368
+    attack: 0
+    health: 19879
+  - level: 369
+    attack: 0
+    health: 19931
+  - level: 370
+    attack: 0
+    health: 19983
+  - level: 371
+    attack: 0
+    health: 20036
+  - level: 372
+    attack: 0
+    health: 20088
+  - level: 373
+    attack: 0
+    health: 20141
+  - level: 374
+    attack: 0
+    health: 20193
+  - level: 375
+    attack: 0
+    health: 20246
+  - level: 376
+    attack: 0
+    health: 20298
+  - level: 377
+    attack: 0
+    health: 20350
+  - level: 378
+    attack: 0
+    health: 20403
+  - level: 379
+    attack: 0
+    health: 20455
+  - level: 380
+    attack: 0
+    health: 20508
+  - level: 381
+    attack: 0
+    health: 20560
+  - level: 382
+    attack: 0
+    health: 20613
+  - level: 383
+    attack: 0
+    health: 20666
+  - level: 384
+    attack: 0
+    health: 20718
+  - level: 385
+    attack: 0
+    health: 20771
+  - level: 386
+    attack: 0
+    health: 20823
+  - level: 387
+    attack: 0
+    health: 20876
+  - level: 388
+    attack: 0
+    health: 20928
+  - level: 389
+    attack: 0
+    health: 20981
+  - level: 390
+    attack: 0
+    health: 21034
+  - level: 391
+    attack: 0
+    health: 21086
+  - level: 392
+    attack: 0
+    health: 21139
+  - level: 393
+    attack: 0
+    health: 21192
+  - level: 394
+    attack: 0
+    health: 21245
+  - level: 395
+    attack: 0
+    health: 21297
+  - level: 396
+    attack: 0
+    health: 21350
+  - level: 397
+    attack: 0
+    health: 21403
+  - level: 398
+    attack: 0
+    health: 21456
+  - level: 399
+    attack: 0
+    health: 21508
+  - level: 400
+    attack: 0
+    health: 22817
+  - level: 401
+    attack: 0
+    health: 22878
+  - level: 402
+    attack: 0
+    health: 22939
+  - level: 403
+    attack: 0
+    health: 23001
+  - level: 404
+    attack: 0
+    health: 23062
+  - level: 405
+    attack: 0
+    health: 23123
+  - level: 406
+    attack: 0
+    health: 23185
+  - level: 407
+    attack: 0
+    health: 23246
+  - level: 408
+    attack: 0
+    health: 23308
+  - level: 409
+    attack: 0
+    health: 23369
+  - level: 410
+    attack: 0
+    health: 23430
+  - level: 411
+    attack: 0
+    health: 23492
+  - level: 412
+    attack: 0
+    health: 23553
+  - level: 413
+    attack: 0
+    health: 23615
+  - level: 414
+    attack: 0
+    health: 23676
+  - level: 415
+    attack: 0
+    health: 23738
+  - level: 416
+    attack: 0
+    health: 23799
+  - level: 417
+    attack: 0
+    health: 23861
+  - level: 418
+    attack: 0
+    health: 23922
+  - level: 419
+    attack: 0
+    health: 23984
+  - level: 420
+    attack: 0
+    health: 24046
+  - level: 421
+    attack: 0
+    health: 24107
+  - level: 422
+    attack: 0
+    health: 24169
+  - level: 423
+    attack: 0
+    health: 24231
+  - level: 424
+    attack: 0
+    health: 24292
+  - level: 425
+    attack: 0
+    health: 24354
+  - level: 426
+    attack: 0
+    health: 24416
+  - level: 427
+    attack: 0
+    health: 24477
+  - level: 428
+    attack: 0
+    health: 24539
+  - level: 429
+    attack: 0
+    health: 24601
+  - level: 430
+    attack: 0
+    health: 24662
+  - level: 431
+    attack: 0
+    health: 24724
+  - level: 432
+    attack: 0
+    health: 24786
+  - level: 433
+    attack: 0
+    health: 24848
+  - level: 434
+    attack: 0
+    health: 24910
+  - level: 435
+    attack: 0
+    health: 24972
+  - level: 436
+    attack: 0
+    health: 25033
+  - level: 437
+    attack: 0
+    health: 25095
+  - level: 438
+    attack: 0
+    health: 25157
+  - level: 439
+    attack: 0
+    health: 25219
+  - level: 440
+    attack: 0
+    health: 25281
+  - level: 441
+    attack: 0
+    health: 25343
+  - level: 442
+    attack: 0
+    health: 25405
+  - level: 443
+    attack: 0
+    health: 25467
+  - level: 444
+    attack: 0
+    health: 25529
+  - level: 445
+    attack: 0
+    health: 25591
+  - level: 446
+    attack: 0
+    health: 25653
+  - level: 447
+    attack: 0
+    health: 25715
+  - level: 448
+    attack: 0
+    health: 25777
+  - level: 449
+    attack: 0
+    health: 25839
+  - level: 450
+    attack: 0
+    health: 25901
+  - level: 451
+    attack: 0
+    health: 25963
+  - level: 452
+    attack: 0
+    health: 26026
+  - level: 453
+    attack: 0
+    health: 26088
+  - level: 454
+    attack: 0
+    health: 26150
+  - level: 455
+    attack: 0
+    health: 26212
+  - level: 456
+    attack: 0
+    health: 26274
+  - level: 457
+    attack: 0
+    health: 26336
+  - level: 458
+    attack: 0
+    health: 26399
+  - level: 459
+    attack: 0
+    health: 26461
+  - level: 460
+    attack: 0
+    health: 26523
+  - level: 461
+    attack: 0
+    health: 26585
+  - level: 462
+    attack: 0
+    health: 26648
+  - level: 463
+    attack: 0
+    health: 26710
+  - level: 464
+    attack: 0
+    health: 26772
+  - level: 465
+    attack: 0
+    health: 26835
+  - level: 466
+    attack: 0
+    health: 26897
+  - level: 467
+    attack: 0
+    health: 26960
+  - level: 468
+    attack: 0
+    health: 27022
+  - level: 469
+    attack: 0
+    health: 27084
+  - level: 470
+    attack: 0
+    health: 27147
+  - level: 471
+    attack: 0
+    health: 27209
+  - level: 472
+    attack: 0
+    health: 27272
+  - level: 473
+    attack: 0
+    health: 27334
+  - level: 474
+    attack: 0
+    health: 27397
+  - level: 475
+    attack: 0
+    health: 27459
+  - level: 476
+    attack: 0
+    health: 27522
+  - level: 477
+    attack: 0
+    health: 27584
+  - level: 478
+    attack: 0
+    health: 27647
+  - level: 479
+    attack: 0
+    health: 27709
+  - level: 480
+    attack: 0
+    health: 27772
+  - level: 481
+    attack: 0
+    health: 27835
+  - level: 482
+    attack: 0
+    health: 27897
+  - level: 483
+    attack: 0
+    health: 27960
+  - level: 484
+    attack: 0
+    health: 28023
+  - level: 485
+    attack: 0
+    health: 28085
+  - level: 486
+    attack: 0
+    health: 28148
+  - level: 487
+    attack: 0
+    health: 28211
+  - level: 488
+    attack: 0
+    health: 28273
+  - level: 489
+    attack: 0
+    health: 28336
+  - level: 490
+    attack: 0
+    health: 28399
+  - level: 491
+    attack: 0
+    health: 28462
+  - level: 492
+    attack: 0
+    health: 28525
+  - level: 493
+    attack: 0
+    health: 28587
+  - level: 494
+    attack: 0
+    health: 28650
+  - level: 495
+    attack: 0
+    health: 28713
+  - level: 496
+    attack: 0
+    health: 28776
+  - level: 497
+    attack: 0
+    health: 28839
+  - level: 498
+    attack: 0
+    health: 28902
+  - level: 499
+    attack: 0
+    health: 28965
+  - level: 500
+    attack: 0
+    health: 36221
+  - level: 501
+    attack: 0
+    health: 36285
+  - level: 502
+    attack: 0
+    health: 36349
+  - level: 503
+    attack: 0
+    health: 36413
+  - level: 504
+    attack: 0
+    health: 36477
+  - level: 505
+    attack: 0
+    health: 36541
+  - level: 506
+    attack: 0
+    health: 36605
+  - level: 507
+    attack: 0
+    health: 36669
+  - level: 508
+    attack: 0
+    health: 36733
+  - level: 509
+    attack: 0
+    health: 36797
+  - level: 510
+    attack: 0
+    health: 36861
+  - level: 511
+    attack: 0
+    health: 36926
+  - level: 512
+    attack: 0
+    health: 36990
+  - level: 513
+    attack: 0
+    health: 37054
+  - level: 514
+    attack: 0
+    health: 37118
+  - level: 515
+    attack: 0
+    health: 37182
+  - level: 516
+    attack: 0
+    health: 37247
+  - level: 517
+    attack: 0
+    health: 37311
+  - level: 518
+    attack: 0
+    health: 37375
+  - level: 519
+    attack: 0
+    health: 37439
+  - level: 520
+    attack: 0
+    health: 37504
+  - level: 521
+    attack: 0
+    health: 37568
+  - level: 522
+    attack: 0
+    health: 37632
+  - level: 523
+    attack: 0
+    health: 37697
+  - level: 524
+    attack: 0
+    health: 37761
+  - level: 525
+    attack: 0
+    health: 37825
+  - level: 526
+    attack: 0
+    health: 37890
+  - level: 527
+    attack: 0
+    health: 37954
+  - level: 528
+    attack: 0
+    health: 38019
+  - level: 529
+    attack: 0
+    health: 38083
+  - level: 530
+    attack: 0
+    health: 38148
+  - level: 531
+    attack: 0
+    health: 38212
+  - level: 532
+    attack: 0
+    health: 38277
+  - level: 533
+    attack: 0
+    health: 38341
+  - level: 534
+    attack: 0
+    health: 38406
+  - level: 535
+    attack: 0
+    health: 38470
+  - level: 536
+    attack: 0
+    health: 38535
+  - level: 537
+    attack: 0
+    health: 38599
+  - level: 538
+    attack: 0
+    health: 38664
+  - level: 539
+    attack: 0
+    health: 38729
+  - level: 540
+    attack: 0
+    health: 38793
+  - level: 541
+    attack: 0
+    health: 38858
+  - level: 542
+    attack: 0
+    health: 38923
+  - level: 543
+    attack: 0
+    health: 38987
+  - level: 544
+    attack: 0
+    health: 39052
+  - level: 545
+    attack: 0
+    health: 39117
+  - level: 546
+    attack: 0
+    health: 39181
+  - level: 547
+    attack: 0
+    health: 39246
+  - level: 548
+    attack: 0
+    health: 39311
+  - level: 549
+    attack: 0
+    health: 39376
+  - level: 550
+    attack: 0
+    health: 39441
+  - level: 551
+    attack: 0
+    health: 39505
+  - level: 552
+    attack: 0
+    health: 39570
+  - level: 553
+    attack: 0
+    health: 39635
+  - level: 554
+    attack: 0
+    health: 39700
+  - level: 555
+    attack: 0
+    health: 39765
+  - level: 556
+    attack: 0
+    health: 39830
+  - level: 557
+    attack: 0
+    health: 39895
+  - level: 558
+    attack: 0
+    health: 39960
+  - level: 559
+    attack: 0
+    health: 40025
+  - level: 560
+    attack: 0
+    health: 40090
+  - level: 561
+    attack: 0
+    health: 40154
+  - level: 562
+    attack: 0
+    health: 40220
+  - level: 563
+    attack: 0
+    health: 40285
+  - level: 564
+    attack: 0
+    health: 40350
+  - level: 565
+    attack: 0
+    health: 40415
+  - level: 566
+    attack: 0
+    health: 40480
+  - level: 567
+    attack: 0
+    health: 40545
+  - level: 568
+    attack: 0
+    health: 40610
+  - level: 569
+    attack: 0
+    health: 40675
+  - level: 570
+    attack: 0
+    health: 40740
+  - level: 571
+    attack: 0
+    health: 40805
+  - level: 572
+    attack: 0
+    health: 40871
+  - level: 573
+    attack: 0
+    health: 40936
+  - level: 574
+    attack: 0
+    health: 41001
+  - level: 575
+    attack: 0
+    health: 41066
+  - level: 576
+    attack: 0
+    health: 41131
+  - level: 577
+    attack: 0
+    health: 41197
+  - level: 578
+    attack: 0
+    health: 41262
+  - level: 579
+    attack: 0
+    health: 41327
+  - level: 580
+    attack: 0
+    health: 41393
+  - level: 581
+    attack: 0
+    health: 41458
+  - level: 582
+    attack: 0
+    health: 41523
+  - level: 583
+    attack: 0
+    health: 41589
+  - level: 584
+    attack: 0
+    health: 41654
+  - level: 585
+    attack: 0
+    health: 41719
+  - level: 586
+    attack: 0
+    health: 41785
+  - level: 587
+    attack: 0
+    health: 41850
+  - level: 588
+    attack: 0
+    health: 41916
+  - level: 589
+    attack: 0
+    health: 41981
+  - level: 590
+    attack: 0
+    health: 42047
+  - level: 591
+    attack: 0
+    health: 42112
+  - level: 592
+    attack: 0
+    health: 42178
+  - level: 593
+    attack: 0
+    health: 42243
+  - level: 594
+    attack: 0
+    health: 42309
+  - level: 595
+    attack: 0
+    health: 42374
+  - level: 596
+    attack: 0
+    health: 42440
+  - level: 597
+    attack: 0
+    health: 42505
+  - level: 598
+    attack: 0
+    health: 42571
+  - level: 599
+    attack: 0
+    health: 42637
+  - level: 600
+    attack: 0
+    health: 53298
+  - level: 601
+    attack: 0
+    health: 53365
+  - level: 602
+    attack: 0
+    health: 53433
+  - level: 603
+    attack: 0
+    health: 53500
+  - level: 604
+    attack: 0
+    health: 53567
+  - level: 605
+    attack: 0
+    health: 53634
+  - level: 606
+    attack: 0
+    health: 53701
+  - level: 607
+    attack: 0
+    health: 53769
+  - level: 608
+    attack: 0
+    health: 53836
+  - level: 609
+    attack: 0
+    health: 53903
+  - level: 610
+    attack: 0
+    health: 53971
+  - level: 611
+    attack: 0
+    health: 54038
+  - level: 612
+    attack: 0
+    health: 54105
+  - level: 613
+    attack: 0
+    health: 54173
+  - level: 614
+    attack: 0
+    health: 54240
+  - level: 615
+    attack: 0
+    health: 54307
+  - level: 616
+    attack: 0
+    health: 54375
+  - level: 617
+    attack: 0
+    health: 54442
+  - level: 618
+    attack: 0
+    health: 54510
+  - level: 619
+    attack: 0
+    health: 54577
+  - level: 620
+    attack: 0
+    health: 54645
+  - level: 621
+    attack: 0
+    health: 54712
+  - level: 622
+    attack: 0
+    health: 54780
+  - level: 623
+    attack: 0
+    health: 54847
+  - level: 624
+    attack: 0
+    health: 54915
+  - level: 625
+    attack: 0
+    health: 54982
+  - level: 626
+    attack: 0
+    health: 55050
+  - level: 627
+    attack: 0
+    health: 55117
+  - level: 628
+    attack: 0
+    health: 55185
+  - level: 629
+    attack: 0
+    health: 55253
+  - level: 630
+    attack: 0
+    health: 55320
+  - level: 631
+    attack: 0
+    health: 55388
+  - level: 632
+    attack: 0
+    health: 55456
+  - level: 633
+    attack: 0
+    health: 55523
+  - level: 634
+    attack: 0
+    health: 55591
+  - level: 635
+    attack: 0
+    health: 55659
+  - level: 636
+    attack: 0
+    health: 55726
+  - level: 637
+    attack: 0
+    health: 55794
+  - level: 638
+    attack: 0
+    health: 55862
+  - level: 639
+    attack: 0
+    health: 55930
+  - level: 640
+    attack: 0
+    health: 55998
+  - level: 641
+    attack: 0
+    health: 56065
+  - level: 642
+    attack: 0
+    health: 56133
+  - level: 643
+    attack: 0
+    health: 56201
+  - level: 644
+    attack: 0
+    health: 56269
+  - level: 645
+    attack: 0
+    health: 56337
+  - level: 646
+    attack: 0
+    health: 56405
+  - level: 647
+    attack: 0
+    health: 56473
+  - level: 648
+    attack: 0
+    health: 56541
+  - level: 649
+    attack: 0
+    health: 56609
+  - level: 650
+    attack: 0
+    health: 56677
+  - level: 651
+    attack: 0
+    health: 56745
+  - level: 652
+    attack: 0
+    health: 56813
+  - level: 653
+    attack: 0
+    health: 56881
+  - level: 654
+    attack: 0
+    health: 56949
+  - level: 655
+    attack: 0
+    health: 57017
+  - level: 656
+    attack: 0
+    health: 57085
+  - level: 657
+    attack: 0
+    health: 57153
+  - level: 658
+    attack: 0
+    health: 57221
+  - level: 659
+    attack: 0
+    health: 57289
+  - level: 660
+    attack: 0
+    health: 57357
+  - level: 661
+    attack: 0
+    health: 57425
+  - level: 662
+    attack: 0
+    health: 57494
+  - level: 663
+    attack: 0
+    health: 57562
+  - level: 664
+    attack: 0
+    health: 57630
+  - level: 665
+    attack: 0
+    health: 57698
+  - level: 666
+    attack: 0
+    health: 57767
+  - level: 667
+    attack: 0
+    health: 57835
+  - level: 668
+    attack: 0
+    health: 57903
+  - level: 669
+    attack: 0
+    health: 57971
+  - level: 670
+    attack: 0
+    health: 58040
+  - level: 671
+    attack: 0
+    health: 58108
+  - level: 672
+    attack: 0
+    health: 58176
+  - level: 673
+    attack: 0
+    health: 58245
+  - level: 674
+    attack: 0
+    health: 58313
+  - level: 675
+    attack: 0
+    health: 58382
+  - level: 676
+    attack: 0
+    health: 58450
+  - level: 677
+    attack: 0
+    health: 58518
+  - level: 678
+    attack: 0
+    health: 58587
+  - level: 679
+    attack: 0
+    health: 58655
+  - level: 680
+    attack: 0
+    health: 58724
+  - level: 681
+    attack: 0
+    health: 58792
+  - level: 682
+    attack: 0
+    health: 58861
+  - level: 683
+    attack: 0
+    health: 58929
+  - level: 684
+    attack: 0
+    health: 58998
+  - level: 685
+    attack: 0
+    health: 59066
+  - level: 686
+    attack: 0
+    health: 59135
+  - level: 687
+    attack: 0
+    health: 59204
+  - level: 688
+    attack: 0
+    health: 59272
+  - level: 689
+    attack: 0
+    health: 59341
+  - level: 690
+    attack: 0
+    health: 59410
+  - level: 691
+    attack: 0
+    health: 59478
+  - level: 692
+    attack: 0
+    health: 59547
+  - level: 693
+    attack: 0
+    health: 59616
+  - level: 694
+    attack: 0
+    health: 59684
+  - level: 695
+    attack: 0
+    health: 59753
+  - level: 696
+    attack: 0
+    health: 59822
+  - level: 697
+    attack: 0
+    health: 59891
+  - level: 698
+    attack: 0
+    health: 59959
+  - level: 699
+    attack: 0
+    health: 60028
+  - level: 700
+    attack: 0
+    health: 64328
+  - level: 701
+    attack: 0
+    health: 64406
+  - level: 702
+    attack: 0
+    health: 64484
+  - level: 703
+    attack: 0
+    health: 64562
+  - level: 704
+    attack: 0
+    health: 64640
+  - level: 705
+    attack: 0
+    health: 64718
+  - level: 706
+    attack: 0
+    health: 64796
+  - level: 707
+    attack: 0
+    health: 64875
+  - level: 708
+    attack: 0
+    health: 64953
+  - level: 709
+    attack: 0
+    health: 65031
+  - level: 710
+    attack: 0
+    health: 65109
+  - level: 711
+    attack: 0
+    health: 65187
+  - level: 712
+    attack: 0
+    health: 65266
+  - level: 713
+    attack: 0
+    health: 65344
+  - level: 714
+    attack: 0
+    health: 65422
+  - level: 715
+    attack: 0
+    health: 65501
+  - level: 716
+    attack: 0
+    health: 65579
+  - level: 717
+    attack: 0
+    health: 65657
+  - level: 718
+    attack: 0
+    health: 65736
+  - level: 719
+    attack: 0
+    health: 65814
+  - level: 720
+    attack: 0
+    health: 65893
+  - level: 721
+    attack: 0
+    health: 65971
+  - level: 722
+    attack: 0
+    health: 66050
+  - level: 723
+    attack: 0
+    health: 66128
+  - level: 724
+    attack: 0
+    health: 66207
+  - level: 725
+    attack: 0
+    health: 66285
+  - level: 726
+    attack: 0
+    health: 66364
+  - level: 727
+    attack: 0
+    health: 66442
+  - level: 728
+    attack: 0
+    health: 66521
+  - level: 729
+    attack: 0
+    health: 66599
+  - level: 730
+    attack: 0
+    health: 66678
+  - level: 731
+    attack: 0
+    health: 66757
+  - level: 732
+    attack: 0
+    health: 66835
+  - level: 733
+    attack: 0
+    health: 66914
+  - level: 734
+    attack: 0
+    health: 66993
+  - level: 735
+    attack: 0
+    health: 67071
+  - level: 736
+    attack: 0
+    health: 67150
+  - level: 737
+    attack: 0
+    health: 67229
+  - level: 738
+    attack: 0
+    health: 67308
+  - level: 739
+    attack: 0
+    health: 67386
+  - level: 740
+    attack: 0
+    health: 67465
+  - level: 741
+    attack: 0
+    health: 67544
+  - level: 742
+    attack: 0
+    health: 67623
+  - level: 743
+    attack: 0
+    health: 67702
+  - level: 744
+    attack: 0
+    health: 67781
+  - level: 745
+    attack: 0
+    health: 67860
+  - level: 746
+    attack: 0
+    health: 67938
+  - level: 747
+    attack: 0
+    health: 68017
+  - level: 748
+    attack: 0
+    health: 68096
+  - level: 749
+    attack: 0
+    health: 68175
+  - level: 750
+    attack: 0
+    health: 68254
+  - level: 751
+    attack: 0
+    health: 68333
+  - level: 752
+    attack: 0
+    health: 68412
+  - level: 753
+    attack: 0
+    health: 68492
+  - level: 754
+    attack: 0
+    health: 68571
+  - level: 755
+    attack: 0
+    health: 68650
+  - level: 756
+    attack: 0
+    health: 68729
+  - level: 757
+    attack: 0
+    health: 68808
+  - level: 758
+    attack: 0
+    health: 68887
+  - level: 759
+    attack: 0
+    health: 68966
+  - level: 760
+    attack: 0
+    health: 69046
+  - level: 761
+    attack: 0
+    health: 69125
+  - level: 762
+    attack: 0
+    health: 69204
+  - level: 763
+    attack: 0
+    health: 69283
+  - level: 764
+    attack: 0
+    health: 69362
+  - level: 765
+    attack: 0
+    health: 69442
+  - level: 766
+    attack: 0
+    health: 69521
+  - level: 767
+    attack: 0
+    health: 69600
+  - level: 768
+    attack: 0
+    health: 69680
+  - level: 769
+    attack: 0
+    health: 69759
+  - level: 770
+    attack: 0
+    health: 69839
+  - level: 771
+    attack: 0
+    health: 69918
+  - level: 772
+    attack: 0
+    health: 69997
+  - level: 773
+    attack: 0
+    health: 70077
+  - level: 774
+    attack: 0
+    health: 70156
+  - level: 775
+    attack: 0
+    health: 70236
+  - level: 776
+    attack: 0
+    health: 70315
+  - level: 777
+    attack: 0
+    health: 70395
+  - level: 778
+    attack: 0
+    health: 70474
+  - level: 779
+    attack: 0
+    health: 70554
+  - level: 780
+    attack: 0
+    health: 70633
+  - level: 781
+    attack: 0
+    health: 70713
+  - level: 782
+    attack: 0
+    health: 70793
+  - level: 783
+    attack: 0
+    health: 70872
+  - level: 784
+    attack: 0
+    health: 70952
+  - level: 785
+    attack: 0
+    health: 71032
+  - level: 786
+    attack: 0
+    health: 71111
+  - level: 787
+    attack: 0
+    health: 71191
+  - level: 788
+    attack: 0
+    health: 71271
+  - level: 789
+    attack: 0
+    health: 71351
+  - level: 790
+    attack: 0
+    health: 71430
+  - level: 791
+    attack: 0
+    health: 71510
+  - level: 792
+    attack: 0
+    health: 71590
+  - level: 793
+    attack: 0
+    health: 71670
+  - level: 794
+    attack: 0
+    health: 71750
+  - level: 795
+    attack: 0
+    health: 71829
+  - level: 796
+    attack: 0
+    health: 71909
+  - level: 797
+    attack: 0
+    health: 71989
+  - level: 798
+    attack: 0
+    health: 72069
+  - level: 799
+    attack: 0
+    health: 72149
+  - level: 800
+    attack: 0
+    health: 86596
+  - level: 801
+    attack: 0
+    health: 86677
+  - level: 802
+    attack: 0
+    health: 86759
+  - level: 803
+    attack: 0
+    health: 86841
+  - level: 804
+    attack: 0
+    health: 86923
+  - level: 805
+    attack: 0
+    health: 87005
+  - level: 806
+    attack: 0
+    health: 87088
+  - level: 807
+    attack: 0
+    health: 87170
+  - level: 808
+    attack: 0
+    health: 87252
+  - level: 809
+    attack: 0
+    health: 87334
+  - level: 810
+    attack: 0
+    health: 87416
+  - level: 811
+    attack: 0
+    health: 87498
+  - level: 812
+    attack: 0
+    health: 87580
+  - level: 813
+    attack: 0
+    health: 87662
+  - level: 814
+    attack: 0
+    health: 87745
+  - level: 815
+    attack: 0
+    health: 87827
+  - level: 816
+    attack: 0
+    health: 87909
+  - level: 817
+    attack: 0
+    health: 87991
+  - level: 818
+    attack: 0
+    health: 88074
+  - level: 819
+    attack: 0
+    health: 88156
+  - level: 820
+    attack: 0
+    health: 88238
+  - level: 821
+    attack: 0
+    health: 88321
+  - level: 822
+    attack: 0
+    health: 88403
+  - level: 823
+    attack: 0
+    health: 88485
+  - level: 824
+    attack: 0
+    health: 88568
+  - level: 825
+    attack: 0
+    health: 88650
+  - level: 826
+    attack: 0
+    health: 88733
+  - level: 827
+    attack: 0
+    health: 88815
+  - level: 828
+    attack: 0
+    health: 88897
+  - level: 829
+    attack: 0
+    health: 88980
+  - level: 830
+    attack: 0
+    health: 89062
+  - level: 831
+    attack: 0
+    health: 89145
+  - level: 832
+    attack: 0
+    health: 89228
+  - level: 833
+    attack: 0
+    health: 89310
+  - level: 834
+    attack: 0
+    health: 89393
+  - level: 835
+    attack: 0
+    health: 89475
+  - level: 836
+    attack: 0
+    health: 89558
+  - level: 837
+    attack: 0
+    health: 89641
+  - level: 838
+    attack: 0
+    health: 89723
+  - level: 839
+    attack: 0
+    health: 89806
+  - level: 840
+    attack: 0
+    health: 89889
+  - level: 841
+    attack: 0
+    health: 89971
+  - level: 842
+    attack: 0
+    health: 90054
+  - level: 843
+    attack: 0
+    health: 90137
+  - level: 844
+    attack: 0
+    health: 90220
+  - level: 845
+    attack: 0
+    health: 90302
+  - level: 846
+    attack: 0
+    health: 90385
+  - level: 847
+    attack: 0
+    health: 90468
+  - level: 848
+    attack: 0
+    health: 90551
+  - level: 849
+    attack: 0
+    health: 90634
+  - level: 850
+    attack: 0
+    health: 90717
+  - level: 851
+    attack: 0
+    health: 90800
+  - level: 852
+    attack: 0
+    health: 90882
+  - level: 853
+    attack: 0
+    health: 90965
+  - level: 854
+    attack: 0
+    health: 91048
+  - level: 855
+    attack: 0
+    health: 91131
+  - level: 856
+    attack: 0
+    health: 91214
+  - level: 857
+    attack: 0
+    health: 91297
+  - level: 858
+    attack: 0
+    health: 91380
+  - level: 859
+    attack: 0
+    health: 91464
+  - level: 860
+    attack: 0
+    health: 91547
+  - level: 861
+    attack: 0
+    health: 91630
+  - level: 862
+    attack: 0
+    health: 91713
+  - level: 863
+    attack: 0
+    health: 91796
+  - level: 864
+    attack: 0
+    health: 91879
+  - level: 865
+    attack: 0
+    health: 91962
+  - level: 866
+    attack: 0
+    health: 92046
+  - level: 867
+    attack: 0
+    health: 92129
+  - level: 868
+    attack: 0
+    health: 92212
+  - level: 869
+    attack: 0
+    health: 92295
+  - level: 870
+    attack: 0
+    health: 92379
+  - level: 871
+    attack: 0
+    health: 92462
+  - level: 872
+    attack: 0
+    health: 92545
+  - level: 873
+    attack: 0
+    health: 92628
+  - level: 874
+    attack: 0
+    health: 92712
+  - level: 875
+    attack: 0
+    health: 92795
+  - level: 876
+    attack: 0
+    health: 92879
+  - level: 877
+    attack: 0
+    health: 92962
+  - level: 878
+    attack: 0
+    health: 93045
+  - level: 879
+    attack: 0
+    health: 93129
+  - level: 880
+    attack: 0
+    health: 93212
+  - level: 881
+    attack: 0
+    health: 93296
+  - level: 882
+    attack: 0
+    health: 93379
+  - level: 883
+    attack: 0
+    health: 93463
+  - level: 884
+    attack: 0
+    health: 93546
+  - level: 885
+    attack: 0
+    health: 93630
+  - level: 886
+    attack: 0
+    health: 93714
+  - level: 887
+    attack: 0
+    health: 93797
+  - level: 888
+    attack: 0
+    health: 93881
+  - level: 889
+    attack: 0
+    health: 93964
+  - level: 890
+    attack: 0
+    health: 94048
+  - level: 891
+    attack: 0
+    health: 94132
+  - level: 892
+    attack: 0
+    health: 94215
+  - level: 893
+    attack: 0
+    health: 94299
+  - level: 894
+    attack: 0
+    health: 94383
+  - level: 895
+    attack: 0
+    health: 94467
+  - level: 896
+    attack: 0
+    health: 94550
+  - level: 897
+    attack: 0
+    health: 94634
+  - level: 898
+    attack: 0
+    health: 94718
+  - level: 899
+    attack: 0
+    health: 94802
+  - level: 900
+    attack: 0
+    health: 94809
+  - level: 901
+    attack: 0
+    health: 94910
+  - level: 902
+    attack: 0
+    health: 95012
+  - level: 903
+    attack: 0
+    health: 95114
+  - level: 904
+    attack: 0
+    health: 95215
+  - level: 905
+    attack: 0
+    health: 95317
+  - level: 906
+    attack: 0
+    health: 95419
+  - level: 907
+    attack: 0
+    health: 95521
+  - level: 908
+    attack: 0
+    health: 95622
+  - level: 909
+    attack: 0
+    health: 95724
+  - level: 910
+    attack: 0
+    health: 95826
+  - level: 911
+    attack: 0
+    health: 95928
+  - level: 912
+    attack: 0
+    health: 96030
+  - level: 913
+    attack: 0
+    health: 96132
+  - level: 914
+    attack: 0
+    health: 96234
+  - level: 915
+    attack: 0
+    health: 96336
+  - level: 916
+    attack: 0
+    health: 96438
+  - level: 917
+    attack: 0
+    health: 96540
+  - level: 918
+    attack: 0
+    health: 96642
+  - level: 919
+    attack: 0
+    health: 96744
+  - level: 920
+    attack: 0
+    health: 96846
+  - level: 921
+    attack: 0
+    health: 96948
+  - level: 922
+    attack: 0
+    health: 97050
+  - level: 923
+    attack: 0
+    health: 97152
+  - level: 924
+    attack: 0
+    health: 97254
+  - level: 925
+    attack: 0
+    health: 97357
+  - level: 926
+    attack: 0
+    health: 97459
+  - level: 927
+    attack: 0
+    health: 97561
+  - level: 928
+    attack: 0
+    health: 97663
+  - level: 929
+    attack: 0
+    health: 97766
+  - level: 930
+    attack: 0
+    health: 97868
+  - level: 931
+    attack: 0
+    health: 97970
+  - level: 932
+    attack: 0
+    health: 98073
+  - level: 933
+    attack: 0
+    health: 98175
+  - level: 934
+    attack: 0
+    health: 98277
+  - level: 935
+    attack: 0
+    health: 98380
+  - level: 936
+    attack: 0
+    health: 98482
+  - level: 937
+    attack: 0
+    health: 98585
+  - level: 938
+    attack: 0
+    health: 98687
+  - level: 939
+    attack: 0
+    health: 98790
+  - level: 940
+    attack: 0
+    health: 98892
+  - level: 941
+    attack: 0
+    health: 98995
+  - level: 942
+    attack: 0
+    health: 99098
+  - level: 943
+    attack: 0
+    health: 99200
+  - level: 944
+    attack: 0
+    health: 99303
+  - level: 945
+    attack: 0
+    health: 99406
+  - level: 946
+    attack: 0
+    health: 99508
+  - level: 947
+    attack: 0
+    health: 99611
+  - level: 948
+    attack: 0
+    health: 99714
+  - level: 949
+    attack: 0
+    health: 99817
+  - level: 950
+    attack: 0
+    health: 99919
+  - level: 951
+    attack: 0
+    health: 100022
+  - level: 952
+    attack: 0
+    health: 100125
+  - level: 953
+    attack: 0
+    health: 100228
+  - level: 954
+    attack: 0
+    health: 100331
+  - level: 955
+    attack: 0
+    health: 100434
+  - level: 956
+    attack: 0
+    health: 100537
+  - level: 957
+    attack: 0
+    health: 100640
+  - level: 958
+    attack: 0
+    health: 100743
+  - level: 959
+    attack: 0
+    health: 100846
+  - level: 960
+    attack: 0
+    health: 100949
+  - level: 961
+    attack: 0
+    health: 101052
+  - level: 962
+    attack: 0
+    health: 101155
+  - level: 963
+    attack: 0
+    health: 101258
+  - level: 964
+    attack: 0
+    health: 101361
+  - level: 965
+    attack: 0
+    health: 101464
+  - level: 966
+    attack: 0
+    health: 101567
+  - level: 967
+    attack: 0
+    health: 101671
+  - level: 968
+    attack: 0
+    health: 101774
+  - level: 969
+    attack: 0
+    health: 101877
+  - level: 970
+    attack: 0
+    health: 101980
+  - level: 971
+    attack: 0
+    health: 102084
+  - level: 972
+    attack: 0
+    health: 102187
+  - level: 973
+    attack: 0
+    health: 102290
+  - level: 974
+    attack: 0
+    health: 102394
+  - level: 975
+    attack: 0
+    health: 102497
+  - level: 976
+    attack: 0
+    health: 102601
+  - level: 977
+    attack: 0
+    health: 102704
+  - level: 978
+    attack: 0
+    health: 102808
+  - level: 979
+    attack: 0
+    health: 102911
+  - level: 980
+    attack: 0
+    health: 103015
+  - level: 981
+    attack: 0
+    health: 103118
+  - level: 982
+    attack: 0
+    health: 103222
+  - level: 983
+    attack: 0
+    health: 103325
+  - level: 984
+    attack: 0
+    health: 103429
+  - level: 985
+    attack: 0
+    health: 103533
+  - level: 986
+    attack: 0
+    health: 103636
+  - level: 987
+    attack: 0
+    health: 103740
+  - level: 988
+    attack: 0
+    health: 103844
+  - level: 989
+    attack: 0
+    health: 103947
+  - level: 990
+    attack: 0
+    health: 104051
+  - level: 991
+    attack: 0
+    health: 104155
+  - level: 992
+    attack: 0
+    health: 104259
+  - level: 993
+    attack: 0
+    health: 104363
+  - level: 994
+    attack: 0
+    health: 104466
+  - level: 995
+    attack: 0
+    health: 104570
+  - level: 996
+    attack: 0
+    health: 104674
+  - level: 997
+    attack: 0
+    health: 104778
+  - level: 998
+    attack: 0
+    health: 104882
+  - level: 999
+    attack: 0
+    health: 104986
+  - level: 1000
+    attack: 0
+    health: 105090

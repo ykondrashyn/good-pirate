@@ -1,0 +1,4021 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48807b9649852e854ed32b545871a04e, type: 3}
+  m_Name: SubShipUpgradePrice
+  m_EditorClassIdentifier:
+  SheetName: 아직은 제목은 없지만 쩔어줄 프로젝트
+  WorksheetName: SubShipUpgradePrice
+  dataArray:
+  - level: 1
+    gold: 200
+    wood: 0
+    iron: 0
+  - level: 2
+    gold: 220
+    wood: 0
+    iron: 0
+  - level: 3
+    gold: 250
+    wood: 0
+    iron: 0
+  - level: 4
+    gold: 290
+    wood: 0
+    iron: 0
+  - level: 5
+    gold: 340
+    wood: 0
+    iron: 0
+  - level: 6
+    gold: 400
+    wood: 0
+    iron: 0
+  - level: 7
+    gold: 470
+    wood: 0
+    iron: 0
+  - level: 8
+    gold: 550
+    wood: 0
+    iron: 0
+  - level: 9
+    gold: 640
+    wood: 0
+    iron: 0
+  - level: 10
+    gold: 740
+    wood: 0
+    iron: 0
+  - level: 11
+    gold: 850
+    wood: 0
+    iron: 0
+  - level: 12
+    gold: 970
+    wood: 0
+    iron: 0
+  - level: 13
+    gold: 1100
+    wood: 0
+    iron: 0
+  - level: 14
+    gold: 1240
+    wood: 0
+    iron: 0
+  - level: 15
+    gold: 1390
+    wood: 0
+    iron: 0
+  - level: 16
+    gold: 1550
+    wood: 0
+    iron: 0
+  - level: 17
+    gold: 1720
+    wood: 0
+    iron: 0
+  - level: 18
+    gold: 1900
+    wood: 0
+    iron: 0
+  - level: 19
+    gold: 2090
+    wood: 0
+    iron: 0
+  - level: 20
+    gold: 2290
+    wood: 0
+    iron: 0
+  - level: 21
+    gold: 2500
+    wood: 0
+    iron: 0
+  - level: 22
+    gold: 2720
+    wood: 0
+    iron: 0
+  - level: 23
+    gold: 2950
+    wood: 0
+    iron: 0
+  - level: 24
+    gold: 3190
+    wood: 0
+    iron: 0
+  - level: 25
+    gold: 3440
+    wood: 0
+    iron: 0
+  - level: 26
+    gold: 3700
+    wood: 0
+    iron: 0
+  - level: 27
+    gold: 3970
+    wood: 0
+    iron: 0
+  - level: 28
+    gold: 4250
+    wood: 0
+    iron: 0
+  - level: 29
+    gold: 4540
+    wood: 0
+    iron: 0
+  - level: 30
+    gold: 4840
+    wood: 0
+    iron: 0
+  - level: 31
+    gold: 5150
+    wood: 0
+    iron: 0
+  - level: 32
+    gold: 5470
+    wood: 0
+    iron: 0
+  - level: 33
+    gold: 5800
+    wood: 0
+    iron: 0
+  - level: 34
+    gold: 6140
+    wood: 0
+    iron: 0
+  - level: 35
+    gold: 6490
+    wood: 0
+    iron: 0
+  - level: 36
+    gold: 6850
+    wood: 0
+    iron: 0
+  - level: 37
+    gold: 7220
+    wood: 0
+    iron: 0
+  - level: 38
+    gold: 7600
+    wood: 0
+    iron: 0
+  - level: 39
+    gold: 7990
+    wood: 0
+    iron: 0
+  - level: 40
+    gold: 8390
+    wood: 0
+    iron: 0
+  - level: 41
+    gold: 8800
+    wood: 0
+    iron: 0
+  - level: 42
+    gold: 9220
+    wood: 0
+    iron: 0
+  - level: 43
+    gold: 9650
+    wood: 0
+    iron: 0
+  - level: 44
+    gold: 10090
+    wood: 0
+    iron: 0
+  - level: 45
+    gold: 10540
+    wood: 0
+    iron: 0
+  - level: 46
+    gold: 11000
+    wood: 0
+    iron: 0
+  - level: 47
+    gold: 11470
+    wood: 0
+    iron: 0
+  - level: 48
+    gold: 11950
+    wood: 0
+    iron: 0
+  - level: 49
+    gold: 12440
+    wood: 0
+    iron: 0
+  - level: 50
+    gold: 12940
+    wood: 0
+    iron: 0
+  - level: 51
+    gold: 13450
+    wood: 0
+    iron: 0
+  - level: 52
+    gold: 13970
+    wood: 0
+    iron: 0
+  - level: 53
+    gold: 14500
+    wood: 0
+    iron: 0
+  - level: 54
+    gold: 15040
+    wood: 0
+    iron: 0
+  - level: 55
+    gold: 15590
+    wood: 0
+    iron: 0
+  - level: 56
+    gold: 16150
+    wood: 0
+    iron: 0
+  - level: 57
+    gold: 16720
+    wood: 0
+    iron: 0
+  - level: 58
+    gold: 17300
+    wood: 0
+    iron: 0
+  - level: 59
+    gold: 17890
+    wood: 0
+    iron: 0
+  - level: 60
+    gold: 18490
+    wood: 0
+    iron: 0
+  - level: 61
+    gold: 19100
+    wood: 0
+    iron: 0
+  - level: 62
+    gold: 19720
+    wood: 0
+    iron: 0
+  - level: 63
+    gold: 20350
+    wood: 0
+    iron: 0
+  - level: 64
+    gold: 20990
+    wood: 0
+    iron: 0
+  - level: 65
+    gold: 21640
+    wood: 0
+    iron: 0
+  - level: 66
+    gold: 22300
+    wood: 0
+    iron: 0
+  - level: 67
+    gold: 22970
+    wood: 0
+    iron: 0
+  - level: 68
+    gold: 23650
+    wood: 0
+    iron: 0
+  - level: 69
+    gold: 24340
+    wood: 0
+    iron: 0
+  - level: 70
+    gold: 25040
+    wood: 0
+    iron: 0
+  - level: 71
+    gold: 25750
+    wood: 0
+    iron: 0
+  - level: 72
+    gold: 26470
+    wood: 0
+    iron: 0
+  - level: 73
+    gold: 27200
+    wood: 0
+    iron: 0
+  - level: 74
+    gold: 27940
+    wood: 0
+    iron: 0
+  - level: 75
+    gold: 28690
+    wood: 0
+    iron: 0
+  - level: 76
+    gold: 29450
+    wood: 0
+    iron: 0
+  - level: 77
+    gold: 30220
+    wood: 0
+    iron: 0
+  - level: 78
+    gold: 31000
+    wood: 0
+    iron: 0
+  - level: 79
+    gold: 31790
+    wood: 0
+    iron: 0
+  - level: 80
+    gold: 32590
+    wood: 0
+    iron: 0
+  - level: 81
+    gold: 33400
+    wood: 0
+    iron: 0
+  - level: 82
+    gold: 34220
+    wood: 0
+    iron: 0
+  - level: 83
+    gold: 35050
+    wood: 0
+    iron: 0
+  - level: 84
+    gold: 35890
+    wood: 0
+    iron: 0
+  - level: 85
+    gold: 36740
+    wood: 0
+    iron: 0
+  - level: 86
+    gold: 37600
+    wood: 0
+    iron: 0
+  - level: 87
+    gold: 38470
+    wood: 0
+    iron: 0
+  - level: 88
+    gold: 39350
+    wood: 0
+    iron: 0
+  - level: 89
+    gold: 40240
+    wood: 0
+    iron: 0
+  - level: 90
+    gold: 41140
+    wood: 0
+    iron: 0
+  - level: 91
+    gold: 42050
+    wood: 0
+    iron: 0
+  - level: 92
+    gold: 42970
+    wood: 0
+    iron: 0
+  - level: 93
+    gold: 43900
+    wood: 0
+    iron: 0
+  - level: 94
+    gold: 44840
+    wood: 0
+    iron: 0
+  - level: 95
+    gold: 45790
+    wood: 0
+    iron: 0
+  - level: 96
+    gold: 46750
+    wood: 0
+    iron: 0
+  - level: 97
+    gold: 47720
+    wood: 0
+    iron: 0
+  - level: 98
+    gold: 48700
+    wood: 0
+    iron: 0
+  - level: 99
+    gold: 49690
+    wood: 0
+    iron: 0
+  - level: 100
+    gold: 50690
+    wood: 0
+    iron: 0
+  - level: 101
+    gold: 51700
+    wood: 0
+    iron: 0
+  - level: 102
+    gold: 52720
+    wood: 0
+    iron: 0
+  - level: 103
+    gold: 53750
+    wood: 0
+    iron: 0
+  - level: 104
+    gold: 54790
+    wood: 0
+    iron: 0
+  - level: 105
+    gold: 55840
+    wood: 0
+    iron: 0
+  - level: 106
+    gold: 56900
+    wood: 0
+    iron: 0
+  - level: 107
+    gold: 57970
+    wood: 0
+    iron: 0
+  - level: 108
+    gold: 59050
+    wood: 0
+    iron: 0
+  - level: 109
+    gold: 60140
+    wood: 0
+    iron: 0
+  - level: 110
+    gold: 61240
+    wood: 0
+    iron: 0
+  - level: 111
+    gold: 62350
+    wood: 0
+    iron: 0
+  - level: 112
+    gold: 63470
+    wood: 0
+    iron: 0
+  - level: 113
+    gold: 64600
+    wood: 0
+    iron: 0
+  - level: 114
+    gold: 65740
+    wood: 0
+    iron: 0
+  - level: 115
+    gold: 66890
+    wood: 0
+    iron: 0
+  - level: 116
+    gold: 68050
+    wood: 0
+    iron: 0
+  - level: 117
+    gold: 69220
+    wood: 0
+    iron: 0
+  - level: 118
+    gold: 70400
+    wood: 0
+    iron: 0
+  - level: 119
+    gold: 71590
+    wood: 0
+    iron: 0
+  - level: 120
+    gold: 72790
+    wood: 0
+    iron: 0
+  - level: 121
+    gold: 74000
+    wood: 0
+    iron: 0
+  - level: 122
+    gold: 75220
+    wood: 0
+    iron: 0
+  - level: 123
+    gold: 76450
+    wood: 0
+    iron: 0
+  - level: 124
+    gold: 77690
+    wood: 0
+    iron: 0
+  - level: 125
+    gold: 78940
+    wood: 0
+    iron: 0
+  - level: 126
+    gold: 80200
+    wood: 0
+    iron: 0
+  - level: 127
+    gold: 81470
+    wood: 0
+    iron: 0
+  - level: 128
+    gold: 82750
+    wood: 0
+    iron: 0
+  - level: 129
+    gold: 84040
+    wood: 0
+    iron: 0
+  - level: 130
+    gold: 85340
+    wood: 0
+    iron: 0
+  - level: 131
+    gold: 86650
+    wood: 0
+    iron: 0
+  - level: 132
+    gold: 87970
+    wood: 0
+    iron: 0
+  - level: 133
+    gold: 89300
+    wood: 0
+    iron: 0
+  - level: 134
+    gold: 90640
+    wood: 0
+    iron: 0
+  - level: 135
+    gold: 91990
+    wood: 0
+    iron: 0
+  - level: 136
+    gold: 93350
+    wood: 0
+    iron: 0
+  - level: 137
+    gold: 94720
+    wood: 0
+    iron: 0
+  - level: 138
+    gold: 96100
+    wood: 0
+    iron: 0
+  - level: 139
+    gold: 97490
+    wood: 0
+    iron: 0
+  - level: 140
+    gold: 98890
+    wood: 0
+    iron: 0
+  - level: 141
+    gold: 100300
+    wood: 0
+    iron: 0
+  - level: 142
+    gold: 101720
+    wood: 0
+    iron: 0
+  - level: 143
+    gold: 103150
+    wood: 0
+    iron: 0
+  - level: 144
+    gold: 104590
+    wood: 0
+    iron: 0
+  - level: 145
+    gold: 106040
+    wood: 0
+    iron: 0
+  - level: 146
+    gold: 107500
+    wood: 0
+    iron: 0
+  - level: 147
+    gold: 108970
+    wood: 0
+    iron: 0
+  - level: 148
+    gold: 110450
+    wood: 0
+    iron: 0
+  - level: 149
+    gold: 111940
+    wood: 0
+    iron: 0
+  - level: 150
+    gold: 113440
+    wood: 0
+    iron: 0
+  - level: 151
+    gold: 114950
+    wood: 0
+    iron: 0
+  - level: 152
+    gold: 116470
+    wood: 0
+    iron: 0
+  - level: 153
+    gold: 118000
+    wood: 0
+    iron: 0
+  - level: 154
+    gold: 119540
+    wood: 0
+    iron: 0
+  - level: 155
+    gold: 121090
+    wood: 0
+    iron: 0
+  - level: 156
+    gold: 122650
+    wood: 0
+    iron: 0
+  - level: 157
+    gold: 124220
+    wood: 0
+    iron: 0
+  - level: 158
+    gold: 125800
+    wood: 0
+    iron: 0
+  - level: 159
+    gold: 127390
+    wood: 0
+    iron: 0
+  - level: 160
+    gold: 128990
+    wood: 0
+    iron: 0
+  - level: 161
+    gold: 130600
+    wood: 0
+    iron: 0
+  - level: 162
+    gold: 132220
+    wood: 0
+    iron: 0
+  - level: 163
+    gold: 133850
+    wood: 0
+    iron: 0
+  - level: 164
+    gold: 135490
+    wood: 0
+    iron: 0
+  - level: 165
+    gold: 137140
+    wood: 0
+    iron: 0
+  - level: 166
+    gold: 138800
+    wood: 0
+    iron: 0
+  - level: 167
+    gold: 140470
+    wood: 0
+    iron: 0
+  - level: 168
+    gold: 142150
+    wood: 0
+    iron: 0
+  - level: 169
+    gold: 143840
+    wood: 0
+    iron: 0
+  - level: 170
+    gold: 145540
+    wood: 0
+    iron: 0
+  - level: 171
+    gold: 147250
+    wood: 0
+    iron: 0
+  - level: 172
+    gold: 148970
+    wood: 0
+    iron: 0
+  - level: 173
+    gold: 150700
+    wood: 0
+    iron: 0
+  - level: 174
+    gold: 152440
+    wood: 0
+    iron: 0
+  - level: 175
+    gold: 154190
+    wood: 0
+    iron: 0
+  - level: 176
+    gold: 155950
+    wood: 0
+    iron: 0
+  - level: 177
+    gold: 157720
+    wood: 0
+    iron: 0
+  - level: 178
+    gold: 159500
+    wood: 0
+    iron: 0
+  - level: 179
+    gold: 161290
+    wood: 0
+    iron: 0
+  - level: 180
+    gold: 163090
+    wood: 0
+    iron: 0
+  - level: 181
+    gold: 164900
+    wood: 0
+    iron: 0
+  - level: 182
+    gold: 166720
+    wood: 0
+    iron: 0
+  - level: 183
+    gold: 168550
+    wood: 0
+    iron: 0
+  - level: 184
+    gold: 170390
+    wood: 0
+    iron: 0
+  - level: 185
+    gold: 172240
+    wood: 0
+    iron: 0
+  - level: 186
+    gold: 174100
+    wood: 0
+    iron: 0
+  - level: 187
+    gold: 175970
+    wood: 0
+    iron: 0
+  - level: 188
+    gold: 177850
+    wood: 0
+    iron: 0
+  - level: 189
+    gold: 179740
+    wood: 0
+    iron: 0
+  - level: 190
+    gold: 181640
+    wood: 0
+    iron: 0
+  - level: 191
+    gold: 183550
+    wood: 0
+    iron: 0
+  - level: 192
+    gold: 185470
+    wood: 0
+    iron: 0
+  - level: 193
+    gold: 187400
+    wood: 0
+    iron: 0
+  - level: 194
+    gold: 189340
+    wood: 0
+    iron: 0
+  - level: 195
+    gold: 191290
+    wood: 0
+    iron: 0
+  - level: 196
+    gold: 193250
+    wood: 0
+    iron: 0
+  - level: 197
+    gold: 195220
+    wood: 0
+    iron: 0
+  - level: 198
+    gold: 197200
+    wood: 0
+    iron: 0
+  - level: 199
+    gold: 199190
+    wood: 0
+    iron: 0
+  - level: 200
+    gold: 201190
+    wood: 0
+    iron: 0
+  - level: 201
+    gold: 203200
+    wood: 0
+    iron: 0
+  - level: 202
+    gold: 205220
+    wood: 0
+    iron: 0
+  - level: 203
+    gold: 207250
+    wood: 0
+    iron: 0
+  - level: 204
+    gold: 209290
+    wood: 0
+    iron: 0
+  - level: 205
+    gold: 211340
+    wood: 0
+    iron: 0
+  - level: 206
+    gold: 213400
+    wood: 0
+    iron: 0
+  - level: 207
+    gold: 215470
+    wood: 0
+    iron: 0
+  - level: 208
+    gold: 217550
+    wood: 0
+    iron: 0
+  - level: 209
+    gold: 219640
+    wood: 0
+    iron: 0
+  - level: 210
+    gold: 221740
+    wood: 0
+    iron: 0
+  - level: 211
+    gold: 223850
+    wood: 0
+    iron: 0
+  - level: 212
+    gold: 225970
+    wood: 0
+    iron: 0
+  - level: 213
+    gold: 228100
+    wood: 0
+    iron: 0
+  - level: 214
+    gold: 230240
+    wood: 0
+    iron: 0
+  - level: 215
+    gold: 232390
+    wood: 0
+    iron: 0
+  - level: 216
+    gold: 234550
+    wood: 0
+    iron: 0
+  - level: 217
+    gold: 236720
+    wood: 0
+    iron: 0
+  - level: 218
+    gold: 238900
+    wood: 0
+    iron: 0
+  - level: 219
+    gold: 241090
+    wood: 0
+    iron: 0
+  - level: 220
+    gold: 243290
+    wood: 0
+    iron: 0
+  - level: 221
+    gold: 245500
+    wood: 0
+    iron: 0
+  - level: 222
+    gold: 247720
+    wood: 0
+    iron: 0
+  - level: 223
+    gold: 249950
+    wood: 0
+    iron: 0
+  - level: 224
+    gold: 252190
+    wood: 0
+    iron: 0
+  - level: 225
+    gold: 254440
+    wood: 0
+    iron: 0
+  - level: 226
+    gold: 256700
+    wood: 0
+    iron: 0
+  - level: 227
+    gold: 258970
+    wood: 0
+    iron: 0
+  - level: 228
+    gold: 261250
+    wood: 0
+    iron: 0
+  - level: 229
+    gold: 263540
+    wood: 0
+    iron: 0
+  - level: 230
+    gold: 265840
+    wood: 0
+    iron: 0
+  - level: 231
+    gold: 268150
+    wood: 0
+    iron: 0
+  - level: 232
+    gold: 270470
+    wood: 0
+    iron: 0
+  - level: 233
+    gold: 272800
+    wood: 0
+    iron: 0
+  - level: 234
+    gold: 275140
+    wood: 0
+    iron: 0
+  - level: 235
+    gold: 277490
+    wood: 0
+    iron: 0
+  - level: 236
+    gold: 279850
+    wood: 0
+    iron: 0
+  - level: 237
+    gold: 282220
+    wood: 0
+    iron: 0
+  - level: 238
+    gold: 284600
+    wood: 0
+    iron: 0
+  - level: 239
+    gold: 286990
+    wood: 0
+    iron: 0
+  - level: 240
+    gold: 289390
+    wood: 0
+    iron: 0
+  - level: 241
+    gold: 291800
+    wood: 0
+    iron: 0
+  - level: 242
+    gold: 294220
+    wood: 0
+    iron: 0
+  - level: 243
+    gold: 296650
+    wood: 0
+    iron: 0
+  - level: 244
+    gold: 299090
+    wood: 0
+    iron: 0
+  - level: 245
+    gold: 301540
+    wood: 0
+    iron: 0
+  - level: 246
+    gold: 304000
+    wood: 0
+    iron: 0
+  - level: 247
+    gold: 306470
+    wood: 0
+    iron: 0
+  - level: 248
+    gold: 308950
+    wood: 0
+    iron: 0
+  - level: 249
+    gold: 311440
+    wood: 0
+    iron: 0
+  - level: 250
+    gold: 313940
+    wood: 0
+    iron: 0
+  - level: 251
+    gold: 316450
+    wood: 0
+    iron: 0
+  - level: 252
+    gold: 318970
+    wood: 0
+    iron: 0
+  - level: 253
+    gold: 321500
+    wood: 0
+    iron: 0
+  - level: 254
+    gold: 324040
+    wood: 0
+    iron: 0
+  - level: 255
+    gold: 326590
+    wood: 0
+    iron: 0
+  - level: 256
+    gold: 329150
+    wood: 0
+    iron: 0
+  - level: 257
+    gold: 331720
+    wood: 0
+    iron: 0
+  - level: 258
+    gold: 334300
+    wood: 0
+    iron: 0
+  - level: 259
+    gold: 336890
+    wood: 0
+    iron: 0
+  - level: 260
+    gold: 339490
+    wood: 0
+    iron: 0
+  - level: 261
+    gold: 342100
+    wood: 0
+    iron: 0
+  - level: 262
+    gold: 344720
+    wood: 0
+    iron: 0
+  - level: 263
+    gold: 347350
+    wood: 0
+    iron: 0
+  - level: 264
+    gold: 349990
+    wood: 0
+    iron: 0
+  - level: 265
+    gold: 352640
+    wood: 0
+    iron: 0
+  - level: 266
+    gold: 355300
+    wood: 0
+    iron: 0
+  - level: 267
+    gold: 357970
+    wood: 0
+    iron: 0
+  - level: 268
+    gold: 360650
+    wood: 0
+    iron: 0
+  - level: 269
+    gold: 363340
+    wood: 0
+    iron: 0
+  - level: 270
+    gold: 366040
+    wood: 0
+    iron: 0
+  - level: 271
+    gold: 368750
+    wood: 0
+    iron: 0
+  - level: 272
+    gold: 371470
+    wood: 0
+    iron: 0
+  - level: 273
+    gold: 374200
+    wood: 0
+    iron: 0
+  - level: 274
+    gold: 376940
+    wood: 0
+    iron: 0
+  - level: 275
+    gold: 379690
+    wood: 0
+    iron: 0
+  - level: 276
+    gold: 382450
+    wood: 0
+    iron: 0
+  - level: 277
+    gold: 385220
+    wood: 0
+    iron: 0
+  - level: 278
+    gold: 388000
+    wood: 0
+    iron: 0
+  - level: 279
+    gold: 390790
+    wood: 0
+    iron: 0
+  - level: 280
+    gold: 393590
+    wood: 0
+    iron: 0
+  - level: 281
+    gold: 396400
+    wood: 0
+    iron: 0
+  - level: 282
+    gold: 399220
+    wood: 0
+    iron: 0
+  - level: 283
+    gold: 402050
+    wood: 0
+    iron: 0
+  - level: 284
+    gold: 404890
+    wood: 0
+    iron: 0
+  - level: 285
+    gold: 407740
+    wood: 0
+    iron: 0
+  - level: 286
+    gold: 410600
+    wood: 0
+    iron: 0
+  - level: 287
+    gold: 413470
+    wood: 0
+    iron: 0
+  - level: 288
+    gold: 416350
+    wood: 0
+    iron: 0
+  - level: 289
+    gold: 419240
+    wood: 0
+    iron: 0
+  - level: 290
+    gold: 422140
+    wood: 0
+    iron: 0
+  - level: 291
+    gold: 425050
+    wood: 0
+    iron: 0
+  - level: 292
+    gold: 427970
+    wood: 0
+    iron: 0
+  - level: 293
+    gold: 430900
+    wood: 0
+    iron: 0
+  - level: 294
+    gold: 433840
+    wood: 0
+    iron: 0
+  - level: 295
+    gold: 436790
+    wood: 0
+    iron: 0
+  - level: 296
+    gold: 439750
+    wood: 0
+    iron: 0
+  - level: 297
+    gold: 442720
+    wood: 0
+    iron: 0
+  - level: 298
+    gold: 445700
+    wood: 0
+    iron: 0
+  - level: 299
+    gold: 448690
+    wood: 0
+    iron: 0
+  - level: 300
+    gold: 451690
+    wood: 0
+    iron: 0
+  - level: 301
+    gold: 454700
+    wood: 0
+    iron: 0
+  - level: 302
+    gold: 457720
+    wood: 0
+    iron: 0
+  - level: 303
+    gold: 460750
+    wood: 0
+    iron: 0
+  - level: 304
+    gold: 463790
+    wood: 0
+    iron: 0
+  - level: 305
+    gold: 466840
+    wood: 0
+    iron: 0
+  - level: 306
+    gold: 469900
+    wood: 0
+    iron: 0
+  - level: 307
+    gold: 472970
+    wood: 0
+    iron: 0
+  - level: 308
+    gold: 476050
+    wood: 0
+    iron: 0
+  - level: 309
+    gold: 479140
+    wood: 0
+    iron: 0
+  - level: 310
+    gold: 482240
+    wood: 0
+    iron: 0
+  - level: 311
+    gold: 485350
+    wood: 0
+    iron: 0
+  - level: 312
+    gold: 488470
+    wood: 0
+    iron: 0
+  - level: 313
+    gold: 491600
+    wood: 0
+    iron: 0
+  - level: 314
+    gold: 494740
+    wood: 0
+    iron: 0
+  - level: 315
+    gold: 497890
+    wood: 0
+    iron: 0
+  - level: 316
+    gold: 501050
+    wood: 0
+    iron: 0
+  - level: 317
+    gold: 504220
+    wood: 0
+    iron: 0
+  - level: 318
+    gold: 507400
+    wood: 0
+    iron: 0
+  - level: 319
+    gold: 510590
+    wood: 0
+    iron: 0
+  - level: 320
+    gold: 513790
+    wood: 0
+    iron: 0
+  - level: 321
+    gold: 517000
+    wood: 0
+    iron: 0
+  - level: 322
+    gold: 520220
+    wood: 0
+    iron: 0
+  - level: 323
+    gold: 523450
+    wood: 0
+    iron: 0
+  - level: 324
+    gold: 526690
+    wood: 0
+    iron: 0
+  - level: 325
+    gold: 529940
+    wood: 0
+    iron: 0
+  - level: 326
+    gold: 533200
+    wood: 0
+    iron: 0
+  - level: 327
+    gold: 536470
+    wood: 0
+    iron: 0
+  - level: 328
+    gold: 539750
+    wood: 0
+    iron: 0
+  - level: 329
+    gold: 543040
+    wood: 0
+    iron: 0
+  - level: 330
+    gold: 546340
+    wood: 0
+    iron: 0
+  - level: 331
+    gold: 549650
+    wood: 0
+    iron: 0
+  - level: 332
+    gold: 552970
+    wood: 0
+    iron: 0
+  - level: 333
+    gold: 556300
+    wood: 0
+    iron: 0
+  - level: 334
+    gold: 559640
+    wood: 0
+    iron: 0
+  - level: 335
+    gold: 562990
+    wood: 0
+    iron: 0
+  - level: 336
+    gold: 566350
+    wood: 0
+    iron: 0
+  - level: 337
+    gold: 569720
+    wood: 0
+    iron: 0
+  - level: 338
+    gold: 573100
+    wood: 0
+    iron: 0
+  - level: 339
+    gold: 576490
+    wood: 0
+    iron: 0
+  - level: 340
+    gold: 579890
+    wood: 0
+    iron: 0
+  - level: 341
+    gold: 583300
+    wood: 0
+    iron: 0
+  - level: 342
+    gold: 586720
+    wood: 0
+    iron: 0
+  - level: 343
+    gold: 590150
+    wood: 0
+    iron: 0
+  - level: 344
+    gold: 593590
+    wood: 0
+    iron: 0
+  - level: 345
+    gold: 597040
+    wood: 0
+    iron: 0
+  - level: 346
+    gold: 600500
+    wood: 0
+    iron: 0
+  - level: 347
+    gold: 603970
+    wood: 0
+    iron: 0
+  - level: 348
+    gold: 607450
+    wood: 0
+    iron: 0
+  - level: 349
+    gold: 610940
+    wood: 0
+    iron: 0
+  - level: 350
+    gold: 614440
+    wood: 0
+    iron: 0
+  - level: 351
+    gold: 617950
+    wood: 0
+    iron: 0
+  - level: 352
+    gold: 621470
+    wood: 0
+    iron: 0
+  - level: 353
+    gold: 625000
+    wood: 0
+    iron: 0
+  - level: 354
+    gold: 628540
+    wood: 0
+    iron: 0
+  - level: 355
+    gold: 632090
+    wood: 0
+    iron: 0
+  - level: 356
+    gold: 635650
+    wood: 0
+    iron: 0
+  - level: 357
+    gold: 639220
+    wood: 0
+    iron: 0
+  - level: 358
+    gold: 642800
+    wood: 0
+    iron: 0
+  - level: 359
+    gold: 646390
+    wood: 0
+    iron: 0
+  - level: 360
+    gold: 649990
+    wood: 0
+    iron: 0
+  - level: 361
+    gold: 653600
+    wood: 0
+    iron: 0
+  - level: 362
+    gold: 657220
+    wood: 0
+    iron: 0
+  - level: 363
+    gold: 660850
+    wood: 0
+    iron: 0
+  - level: 364
+    gold: 664490
+    wood: 0
+    iron: 0
+  - level: 365
+    gold: 668140
+    wood: 0
+    iron: 0
+  - level: 366
+    gold: 671800
+    wood: 0
+    iron: 0
+  - level: 367
+    gold: 675470
+    wood: 0
+    iron: 0
+  - level: 368
+    gold: 679150
+    wood: 0
+    iron: 0
+  - level: 369
+    gold: 682840
+    wood: 0
+    iron: 0
+  - level: 370
+    gold: 686540
+    wood: 0
+    iron: 0
+  - level: 371
+    gold: 690250
+    wood: 0
+    iron: 0
+  - level: 372
+    gold: 693970
+    wood: 0
+    iron: 0
+  - level: 373
+    gold: 697700
+    wood: 0
+    iron: 0
+  - level: 374
+    gold: 701440
+    wood: 0
+    iron: 0
+  - level: 375
+    gold: 705190
+    wood: 0
+    iron: 0
+  - level: 376
+    gold: 708950
+    wood: 0
+    iron: 0
+  - level: 377
+    gold: 712720
+    wood: 0
+    iron: 0
+  - level: 378
+    gold: 716500
+    wood: 0
+    iron: 0
+  - level: 379
+    gold: 720290
+    wood: 0
+    iron: 0
+  - level: 380
+    gold: 724090
+    wood: 0
+    iron: 0
+  - level: 381
+    gold: 727900
+    wood: 0
+    iron: 0
+  - level: 382
+    gold: 731720
+    wood: 0
+    iron: 0
+  - level: 383
+    gold: 735550
+    wood: 0
+    iron: 0
+  - level: 384
+    gold: 739390
+    wood: 0
+    iron: 0
+  - level: 385
+    gold: 743240
+    wood: 0
+    iron: 0
+  - level: 386
+    gold: 747100
+    wood: 0
+    iron: 0
+  - level: 387
+    gold: 750970
+    wood: 0
+    iron: 0
+  - level: 388
+    gold: 754850
+    wood: 0
+    iron: 0
+  - level: 389
+    gold: 758740
+    wood: 0
+    iron: 0
+  - level: 390
+    gold: 762640
+    wood: 0
+    iron: 0
+  - level: 391
+    gold: 766550
+    wood: 0
+    iron: 0
+  - level: 392
+    gold: 770470
+    wood: 0
+    iron: 0
+  - level: 393
+    gold: 774400
+    wood: 0
+    iron: 0
+  - level: 394
+    gold: 778340
+    wood: 0
+    iron: 0
+  - level: 395
+    gold: 782290
+    wood: 0
+    iron: 0
+  - level: 396
+    gold: 786250
+    wood: 0
+    iron: 0
+  - level: 397
+    gold: 790220
+    wood: 0
+    iron: 0
+  - level: 398
+    gold: 794200
+    wood: 0
+    iron: 0
+  - level: 399
+    gold: 798190
+    wood: 0
+    iron: 0
+  - level: 400
+    gold: 802190
+    wood: 0
+    iron: 0
+  - level: 401
+    gold: 806200
+    wood: 0
+    iron: 0
+  - level: 402
+    gold: 810220
+    wood: 0
+    iron: 0
+  - level: 403
+    gold: 814250
+    wood: 0
+    iron: 0
+  - level: 404
+    gold: 818290
+    wood: 0
+    iron: 0
+  - level: 405
+    gold: 822340
+    wood: 0
+    iron: 0
+  - level: 406
+    gold: 826400
+    wood: 0
+    iron: 0
+  - level: 407
+    gold: 830470
+    wood: 0
+    iron: 0
+  - level: 408
+    gold: 834550
+    wood: 0
+    iron: 0
+  - level: 409
+    gold: 838640
+    wood: 0
+    iron: 0
+  - level: 410
+    gold: 842740
+    wood: 0
+    iron: 0
+  - level: 411
+    gold: 846850
+    wood: 0
+    iron: 0
+  - level: 412
+    gold: 850970
+    wood: 0
+    iron: 0
+  - level: 413
+    gold: 855100
+    wood: 0
+    iron: 0
+  - level: 414
+    gold: 859240
+    wood: 0
+    iron: 0
+  - level: 415
+    gold: 863390
+    wood: 0
+    iron: 0
+  - level: 416
+    gold: 867550
+    wood: 0
+    iron: 0
+  - level: 417
+    gold: 871720
+    wood: 0
+    iron: 0
+  - level: 418
+    gold: 875900
+    wood: 0
+    iron: 0
+  - level: 419
+    gold: 880090
+    wood: 0
+    iron: 0
+  - level: 420
+    gold: 884290
+    wood: 0
+    iron: 0
+  - level: 421
+    gold: 888500
+    wood: 0
+    iron: 0
+  - level: 422
+    gold: 892720
+    wood: 0
+    iron: 0
+  - level: 423
+    gold: 896950
+    wood: 0
+    iron: 0
+  - level: 424
+    gold: 901190
+    wood: 0
+    iron: 0
+  - level: 425
+    gold: 905440
+    wood: 0
+    iron: 0
+  - level: 426
+    gold: 909700
+    wood: 0
+    iron: 0
+  - level: 427
+    gold: 913970
+    wood: 0
+    iron: 0
+  - level: 428
+    gold: 918250
+    wood: 0
+    iron: 0
+  - level: 429
+    gold: 922540
+    wood: 0
+    iron: 0
+  - level: 430
+    gold: 926840
+    wood: 0
+    iron: 0
+  - level: 431
+    gold: 931150
+    wood: 0
+    iron: 0
+  - level: 432
+    gold: 935470
+    wood: 0
+    iron: 0
+  - level: 433
+    gold: 939800
+    wood: 0
+    iron: 0
+  - level: 434
+    gold: 944140
+    wood: 0
+    iron: 0
+  - level: 435
+    gold: 948490
+    wood: 0
+    iron: 0
+  - level: 436
+    gold: 952850
+    wood: 0
+    iron: 0
+  - level: 437
+    gold: 957220
+    wood: 0
+    iron: 0
+  - level: 438
+    gold: 961600
+    wood: 0
+    iron: 0
+  - level: 439
+    gold: 965990
+    wood: 0
+    iron: 0
+  - level: 440
+    gold: 970390
+    wood: 0
+    iron: 0
+  - level: 441
+    gold: 974800
+    wood: 0
+    iron: 0
+  - level: 442
+    gold: 979220
+    wood: 0
+    iron: 0
+  - level: 443
+    gold: 983650
+    wood: 0
+    iron: 0
+  - level: 444
+    gold: 988090
+    wood: 0
+    iron: 0
+  - level: 445
+    gold: 992540
+    wood: 0
+    iron: 0
+  - level: 446
+    gold: 997000
+    wood: 0
+    iron: 0
+  - level: 447
+    gold: 1001470
+    wood: 0
+    iron: 0
+  - level: 448
+    gold: 1005950
+    wood: 0
+    iron: 0
+  - level: 449
+    gold: 1010440
+    wood: 0
+    iron: 0
+  - level: 450
+    gold: 1014940
+    wood: 0
+    iron: 0
+  - level: 451
+    gold: 1019450
+    wood: 0
+    iron: 0
+  - level: 452
+    gold: 1023970
+    wood: 0
+    iron: 0
+  - level: 453
+    gold: 1028500
+    wood: 0
+    iron: 0
+  - level: 454
+    gold: 1033040
+    wood: 0
+    iron: 0
+  - level: 455
+    gold: 1037590
+    wood: 0
+    iron: 0
+  - level: 456
+    gold: 1042150
+    wood: 0
+    iron: 0
+  - level: 457
+    gold: 1046720
+    wood: 0
+    iron: 0
+  - level: 458
+    gold: 1051300
+    wood: 0
+    iron: 0
+  - level: 459
+    gold: 1055890
+    wood: 0
+    iron: 0
+  - level: 460
+    gold: 1060490
+    wood: 0
+    iron: 0
+  - level: 461
+    gold: 1065100
+    wood: 0
+    iron: 0
+  - level: 462
+    gold: 1069720
+    wood: 0
+    iron: 0
+  - level: 463
+    gold: 1074350
+    wood: 0
+    iron: 0
+  - level: 464
+    gold: 1078990
+    wood: 0
+    iron: 0
+  - level: 465
+    gold: 1083640
+    wood: 0
+    iron: 0
+  - level: 466
+    gold: 1088300
+    wood: 0
+    iron: 0
+  - level: 467
+    gold: 1092970
+    wood: 0
+    iron: 0
+  - level: 468
+    gold: 1097650
+    wood: 0
+    iron: 0
+  - level: 469
+    gold: 1102340
+    wood: 0
+    iron: 0
+  - level: 470
+    gold: 1107040
+    wood: 0
+    iron: 0
+  - level: 471
+    gold: 1111750
+    wood: 0
+    iron: 0
+  - level: 472
+    gold: 1116470
+    wood: 0
+    iron: 0
+  - level: 473
+    gold: 1121200
+    wood: 0
+    iron: 0
+  - level: 474
+    gold: 1125940
+    wood: 0
+    iron: 0
+  - level: 475
+    gold: 1130690
+    wood: 0
+    iron: 0
+  - level: 476
+    gold: 1135450
+    wood: 0
+    iron: 0
+  - level: 477
+    gold: 1140220
+    wood: 0
+    iron: 0
+  - level: 478
+    gold: 1145000
+    wood: 0
+    iron: 0
+  - level: 479
+    gold: 1149790
+    wood: 0
+    iron: 0
+  - level: 480
+    gold: 1154590
+    wood: 0
+    iron: 0
+  - level: 481
+    gold: 1159400
+    wood: 0
+    iron: 0
+  - level: 482
+    gold: 1164220
+    wood: 0
+    iron: 0
+  - level: 483
+    gold: 1169050
+    wood: 0
+    iron: 0
+  - level: 484
+    gold: 1173890
+    wood: 0
+    iron: 0
+  - level: 485
+    gold: 1178740
+    wood: 0
+    iron: 0
+  - level: 486
+    gold: 1183600
+    wood: 0
+    iron: 0
+  - level: 487
+    gold: 1188470
+    wood: 0
+    iron: 0
+  - level: 488
+    gold: 1193350
+    wood: 0
+    iron: 0
+  - level: 489
+    gold: 1198240
+    wood: 0
+    iron: 0
+  - level: 490
+    gold: 1203140
+    wood: 0
+    iron: 0
+  - level: 491
+    gold: 1208050
+    wood: 0
+    iron: 0
+  - level: 492
+    gold: 1212970
+    wood: 0
+    iron: 0
+  - level: 493
+    gold: 1217900
+    wood: 0
+    iron: 0
+  - level: 494
+    gold: 1222840
+    wood: 0
+    iron: 0
+  - level: 495
+    gold: 1227790
+    wood: 0
+    iron: 0
+  - level: 496
+    gold: 1232750
+    wood: 0
+    iron: 0
+  - level: 497
+    gold: 1237720
+    wood: 0
+    iron: 0
+  - level: 498
+    gold: 1242700
+    wood: 0
+    iron: 0
+  - level: 499
+    gold: 1247690
+    wood: 0
+    iron: 0
+  - level: 500
+    gold: 1252690
+    wood: 0
+    iron: 0
+  - level: 501
+    gold: 1257700
+    wood: 0
+    iron: 0
+  - level: 502
+    gold: 1262720
+    wood: 0
+    iron: 0
+  - level: 503
+    gold: 1267750
+    wood: 0
+    iron: 0
+  - level: 504
+    gold: 1272790
+    wood: 0
+    iron: 0
+  - level: 505
+    gold: 1277840
+    wood: 0
+    iron: 0
+  - level: 506
+    gold: 1282900
+    wood: 0
+    iron: 0
+  - level: 507
+    gold: 1287970
+    wood: 0
+    iron: 0
+  - level: 508
+    gold: 1293050
+    wood: 0
+    iron: 0
+  - level: 509
+    gold: 1298140
+    wood: 0
+    iron: 0
+  - level: 510
+    gold: 1303240
+    wood: 0
+    iron: 0
+  - level: 511
+    gold: 1308350
+    wood: 0
+    iron: 0
+  - level: 512
+    gold: 1313470
+    wood: 0
+    iron: 0
+  - level: 513
+    gold: 1318600
+    wood: 0
+    iron: 0
+  - level: 514
+    gold: 1323740
+    wood: 0
+    iron: 0
+  - level: 515
+    gold: 1328890
+    wood: 0
+    iron: 0
+  - level: 516
+    gold: 1334050
+    wood: 0
+    iron: 0
+  - level: 517
+    gold: 1339220
+    wood: 0
+    iron: 0
+  - level: 518
+    gold: 1344400
+    wood: 0
+    iron: 0
+  - level: 519
+    gold: 1349590
+    wood: 0
+    iron: 0
+  - level: 520
+    gold: 1354790
+    wood: 0
+    iron: 0
+  - level: 521
+    gold: 1360000
+    wood: 0
+    iron: 0
+  - level: 522
+    gold: 1365220
+    wood: 0
+    iron: 0
+  - level: 523
+    gold: 1370450
+    wood: 0
+    iron: 0
+  - level: 524
+    gold: 1375690
+    wood: 0
+    iron: 0
+  - level: 525
+    gold: 1380940
+    wood: 0
+    iron: 0
+  - level: 526
+    gold: 1386200
+    wood: 0
+    iron: 0
+  - level: 527
+    gold: 1391470
+    wood: 0
+    iron: 0
+  - level: 528
+    gold: 1396750
+    wood: 0
+    iron: 0
+  - level: 529
+    gold: 1402040
+    wood: 0
+    iron: 0
+  - level: 530
+    gold: 1407340
+    wood: 0
+    iron: 0
+  - level: 531
+    gold: 1412650
+    wood: 0
+    iron: 0
+  - level: 532
+    gold: 1417970
+    wood: 0
+    iron: 0
+  - level: 533
+    gold: 1423300
+    wood: 0
+    iron: 0
+  - level: 534
+    gold: 1428640
+    wood: 0
+    iron: 0
+  - level: 535
+    gold: 1433990
+    wood: 0
+    iron: 0
+  - level: 536
+    gold: 1439350
+    wood: 0
+    iron: 0
+  - level: 537
+    gold: 1444720
+    wood: 0
+    iron: 0
+  - level: 538
+    gold: 1450100
+    wood: 0
+    iron: 0
+  - level: 539
+    gold: 1455490
+    wood: 0
+    iron: 0
+  - level: 540
+    gold: 1460890
+    wood: 0
+    iron: 0
+  - level: 541
+    gold: 1466300
+    wood: 0
+    iron: 0
+  - level: 542
+    gold: 1471720
+    wood: 0
+    iron: 0
+  - level: 543
+    gold: 1477150
+    wood: 0
+    iron: 0
+  - level: 544
+    gold: 1482590
+    wood: 0
+    iron: 0
+  - level: 545
+    gold: 1488040
+    wood: 0
+    iron: 0
+  - level: 546
+    gold: 1493500
+    wood: 0
+    iron: 0
+  - level: 547
+    gold: 1498970
+    wood: 0
+    iron: 0
+  - level: 548
+    gold: 1504450
+    wood: 0
+    iron: 0
+  - level: 549
+    gold: 1509940
+    wood: 0
+    iron: 0
+  - level: 550
+    gold: 1515440
+    wood: 0
+    iron: 0
+  - level: 551
+    gold: 1520950
+    wood: 0
+    iron: 0
+  - level: 552
+    gold: 1526470
+    wood: 0
+    iron: 0
+  - level: 553
+    gold: 1532000
+    wood: 0
+    iron: 0
+  - level: 554
+    gold: 1537540
+    wood: 0
+    iron: 0
+  - level: 555
+    gold: 1543090
+    wood: 0
+    iron: 0
+  - level: 556
+    gold: 1548650
+    wood: 0
+    iron: 0
+  - level: 557
+    gold: 1554220
+    wood: 0
+    iron: 0
+  - level: 558
+    gold: 1559800
+    wood: 0
+    iron: 0
+  - level: 559
+    gold: 1565390
+    wood: 0
+    iron: 0
+  - level: 560
+    gold: 1570990
+    wood: 0
+    iron: 0
+  - level: 561
+    gold: 1576600
+    wood: 0
+    iron: 0
+  - level: 562
+    gold: 1582220
+    wood: 0
+    iron: 0
+  - level: 563
+    gold: 1587850
+    wood: 0
+    iron: 0
+  - level: 564
+    gold: 1593490
+    wood: 0
+    iron: 0
+  - level: 565
+    gold: 1599140
+    wood: 0
+    iron: 0
+  - level: 566
+    gold: 1604800
+    wood: 0
+    iron: 0
+  - level: 567
+    gold: 1610470
+    wood: 0
+    iron: 0
+  - level: 568
+    gold: 1616150
+    wood: 0
+    iron: 0
+  - level: 569
+    gold: 1621840
+    wood: 0
+    iron: 0
+  - level: 570
+    gold: 1627540
+    wood: 0
+    iron: 0
+  - level: 571
+    gold: 1633250
+    wood: 0
+    iron: 0
+  - level: 572
+    gold: 1638970
+    wood: 0
+    iron: 0
+  - level: 573
+    gold: 1644700
+    wood: 0
+    iron: 0
+  - level: 574
+    gold: 1650440
+    wood: 0
+    iron: 0
+  - level: 575
+    gold: 1656190
+    wood: 0
+    iron: 0
+  - level: 576
+    gold: 1661950
+    wood: 0
+    iron: 0
+  - level: 577
+    gold: 1667720
+    wood: 0
+    iron: 0
+  - level: 578
+    gold: 1673500
+    wood: 0
+    iron: 0
+  - level: 579
+    gold: 1679290
+    wood: 0
+    iron: 0
+  - level: 580
+    gold: 1685090
+    wood: 0
+    iron: 0
+  - level: 581
+    gold: 1690900
+    wood: 0
+    iron: 0
+  - level: 582
+    gold: 1696720
+    wood: 0
+    iron: 0
+  - level: 583
+    gold: 1702550
+    wood: 0
+    iron: 0
+  - level: 584
+    gold: 1708390
+    wood: 0
+    iron: 0
+  - level: 585
+    gold: 1714240
+    wood: 0
+    iron: 0
+  - level: 586
+    gold: 1720100
+    wood: 0
+    iron: 0
+  - level: 587
+    gold: 1725970
+    wood: 0
+    iron: 0
+  - level: 588
+    gold: 1731850
+    wood: 0
+    iron: 0
+  - level: 589
+    gold: 1737740
+    wood: 0
+    iron: 0
+  - level: 590
+    gold: 1743640
+    wood: 0
+    iron: 0
+  - level: 591
+    gold: 1749550
+    wood: 0
+    iron: 0
+  - level: 592
+    gold: 1755470
+    wood: 0
+    iron: 0
+  - level: 593
+    gold: 1761400
+    wood: 0
+    iron: 0
+  - level: 594
+    gold: 1767340
+    wood: 0
+    iron: 0
+  - level: 595
+    gold: 1773290
+    wood: 0
+    iron: 0
+  - level: 596
+    gold: 1779250
+    wood: 0
+    iron: 0
+  - level: 597
+    gold: 1785220
+    wood: 0
+    iron: 0
+  - level: 598
+    gold: 1791200
+    wood: 0
+    iron: 0
+  - level: 599
+    gold: 1797190
+    wood: 0
+    iron: 0
+  - level: 600
+    gold: 1803190
+    wood: 0
+    iron: 0
+  - level: 601
+    gold: 1809200
+    wood: 0
+    iron: 0
+  - level: 602
+    gold: 1815220
+    wood: 0
+    iron: 0
+  - level: 603
+    gold: 1821250
+    wood: 0
+    iron: 0
+  - level: 604
+    gold: 1827290
+    wood: 0
+    iron: 0
+  - level: 605
+    gold: 1833340
+    wood: 0
+    iron: 0
+  - level: 606
+    gold: 1839400
+    wood: 0
+    iron: 0
+  - level: 607
+    gold: 1845470
+    wood: 0
+    iron: 0
+  - level: 608
+    gold: 1851550
+    wood: 0
+    iron: 0
+  - level: 609
+    gold: 1857640
+    wood: 0
+    iron: 0
+  - level: 610
+    gold: 1863740
+    wood: 0
+    iron: 0
+  - level: 611
+    gold: 1869850
+    wood: 0
+    iron: 0
+  - level: 612
+    gold: 1875970
+    wood: 0
+    iron: 0
+  - level: 613
+    gold: 1882100
+    wood: 0
+    iron: 0
+  - level: 614
+    gold: 1888240
+    wood: 0
+    iron: 0
+  - level: 615
+    gold: 1894390
+    wood: 0
+    iron: 0
+  - level: 616
+    gold: 1900550
+    wood: 0
+    iron: 0
+  - level: 617
+    gold: 1906720
+    wood: 0
+    iron: 0
+  - level: 618
+    gold: 1912900
+    wood: 0
+    iron: 0
+  - level: 619
+    gold: 1919090
+    wood: 0
+    iron: 0
+  - level: 620
+    gold: 1925290
+    wood: 0
+    iron: 0
+  - level: 621
+    gold: 1931500
+    wood: 0
+    iron: 0
+  - level: 622
+    gold: 1937720
+    wood: 0
+    iron: 0
+  - level: 623
+    gold: 1943950
+    wood: 0
+    iron: 0
+  - level: 624
+    gold: 1950190
+    wood: 0
+    iron: 0
+  - level: 625
+    gold: 1956440
+    wood: 0
+    iron: 0
+  - level: 626
+    gold: 1962700
+    wood: 0
+    iron: 0
+  - level: 627
+    gold: 1968970
+    wood: 0
+    iron: 0
+  - level: 628
+    gold: 1975250
+    wood: 0
+    iron: 0
+  - level: 629
+    gold: 1981540
+    wood: 0
+    iron: 0
+  - level: 630
+    gold: 1987840
+    wood: 0
+    iron: 0
+  - level: 631
+    gold: 1994150
+    wood: 0
+    iron: 0
+  - level: 632
+    gold: 2000470
+    wood: 0
+    iron: 0
+  - level: 633
+    gold: 2006800
+    wood: 0
+    iron: 0
+  - level: 634
+    gold: 2013140
+    wood: 0
+    iron: 0
+  - level: 635
+    gold: 2019490
+    wood: 0
+    iron: 0
+  - level: 636
+    gold: 2025850
+    wood: 0
+    iron: 0
+  - level: 637
+    gold: 2032220
+    wood: 0
+    iron: 0
+  - level: 638
+    gold: 2038600
+    wood: 0
+    iron: 0
+  - level: 639
+    gold: 2044990
+    wood: 0
+    iron: 0
+  - level: 640
+    gold: 2051390
+    wood: 0
+    iron: 0
+  - level: 641
+    gold: 2057800
+    wood: 0
+    iron: 0
+  - level: 642
+    gold: 2064220
+    wood: 0
+    iron: 0
+  - level: 643
+    gold: 2070650
+    wood: 0
+    iron: 0
+  - level: 644
+    gold: 2077090
+    wood: 0
+    iron: 0
+  - level: 645
+    gold: 2083540
+    wood: 0
+    iron: 0
+  - level: 646
+    gold: 2090000
+    wood: 0
+    iron: 0
+  - level: 647
+    gold: 2096470
+    wood: 0
+    iron: 0
+  - level: 648
+    gold: 2102950
+    wood: 0
+    iron: 0
+  - level: 649
+    gold: 2109440
+    wood: 0
+    iron: 0
+  - level: 650
+    gold: 2115940
+    wood: 0
+    iron: 0
+  - level: 651
+    gold: 2122450
+    wood: 0
+    iron: 0
+  - level: 652
+    gold: 2128970
+    wood: 0
+    iron: 0
+  - level: 653
+    gold: 2135500
+    wood: 0
+    iron: 0
+  - level: 654
+    gold: 2142040
+    wood: 0
+    iron: 0
+  - level: 655
+    gold: 2148590
+    wood: 0
+    iron: 0
+  - level: 656
+    gold: 2155150
+    wood: 0
+    iron: 0
+  - level: 657
+    gold: 2161720
+    wood: 0
+    iron: 0
+  - level: 658
+    gold: 2168300
+    wood: 0
+    iron: 0
+  - level: 659
+    gold: 2174890
+    wood: 0
+    iron: 0
+  - level: 660
+    gold: 2181490
+    wood: 0
+    iron: 0
+  - level: 661
+    gold: 2188100
+    wood: 0
+    iron: 0
+  - level: 662
+    gold: 2194720
+    wood: 0
+    iron: 0
+  - level: 663
+    gold: 2201350
+    wood: 0
+    iron: 0
+  - level: 664
+    gold: 2207990
+    wood: 0
+    iron: 0
+  - level: 665
+    gold: 2214640
+    wood: 0
+    iron: 0
+  - level: 666
+    gold: 2221300
+    wood: 0
+    iron: 0
+  - level: 667
+    gold: 2227970
+    wood: 0
+    iron: 0
+  - level: 668
+    gold: 2234650
+    wood: 0
+    iron: 0
+  - level: 669
+    gold: 2241340
+    wood: 0
+    iron: 0
+  - level: 670
+    gold: 2248040
+    wood: 0
+    iron: 0
+  - level: 671
+    gold: 2254750
+    wood: 0
+    iron: 0
+  - level: 672
+    gold: 2261470
+    wood: 0
+    iron: 0
+  - level: 673
+    gold: 2268200
+    wood: 0
+    iron: 0
+  - level: 674
+    gold: 2274940
+    wood: 0
+    iron: 0
+  - level: 675
+    gold: 2281690
+    wood: 0
+    iron: 0
+  - level: 676
+    gold: 2288450
+    wood: 0
+    iron: 0
+  - level: 677
+    gold: 2295220
+    wood: 0
+    iron: 0
+  - level: 678
+    gold: 2302000
+    wood: 0
+    iron: 0
+  - level: 679
+    gold: 2308790
+    wood: 0
+    iron: 0
+  - level: 680
+    gold: 2315590
+    wood: 0
+    iron: 0
+  - level: 681
+    gold: 2322400
+    wood: 0
+    iron: 0
+  - level: 682
+    gold: 2329220
+    wood: 0
+    iron: 0
+  - level: 683
+    gold: 2336050
+    wood: 0
+    iron: 0
+  - level: 684
+    gold: 2342890
+    wood: 0
+    iron: 0
+  - level: 685
+    gold: 2349740
+    wood: 0
+    iron: 0
+  - level: 686
+    gold: 2356600
+    wood: 0
+    iron: 0
+  - level: 687
+    gold: 2363470
+    wood: 0
+    iron: 0
+  - level: 688
+    gold: 2370350
+    wood: 0
+    iron: 0
+  - level: 689
+    gold: 2377240
+    wood: 0
+    iron: 0
+  - level: 690
+    gold: 2384140
+    wood: 0
+    iron: 0
+  - level: 691
+    gold: 2391050
+    wood: 0
+    iron: 0
+  - level: 692
+    gold: 2397970
+    wood: 0
+    iron: 0
+  - level: 693
+    gold: 2404900
+    wood: 0
+    iron: 0
+  - level: 694
+    gold: 2411840
+    wood: 0
+    iron: 0
+  - level: 695
+    gold: 2418790
+    wood: 0
+    iron: 0
+  - level: 696
+    gold: 2425750
+    wood: 0
+    iron: 0
+  - level: 697
+    gold: 2432720
+    wood: 0
+    iron: 0
+  - level: 698
+    gold: 2439700
+    wood: 0
+    iron: 0
+  - level: 699
+    gold: 2446690
+    wood: 0
+    iron: 0
+  - level: 700
+    gold: 2453690
+    wood: 0
+    iron: 0
+  - level: 701
+    gold: 2460700
+    wood: 0
+    iron: 0
+  - level: 702
+    gold: 2467720
+    wood: 0
+    iron: 0
+  - level: 703
+    gold: 2474750
+    wood: 0
+    iron: 0
+  - level: 704
+    gold: 2481790
+    wood: 0
+    iron: 0
+  - level: 705
+    gold: 2488840
+    wood: 0
+    iron: 0
+  - level: 706
+    gold: 2495900
+    wood: 0
+    iron: 0
+  - level: 707
+    gold: 2502970
+    wood: 0
+    iron: 0
+  - level: 708
+    gold: 2510050
+    wood: 0
+    iron: 0
+  - level: 709
+    gold: 2517140
+    wood: 0
+    iron: 0
+  - level: 710
+    gold: 2524240
+    wood: 0
+    iron: 0
+  - level: 711
+    gold: 2531350
+    wood: 0
+    iron: 0
+  - level: 712
+    gold: 2538470
+    wood: 0
+    iron: 0
+  - level: 713
+    gold: 2545600
+    wood: 0
+    iron: 0
+  - level: 714
+    gold: 2552740
+    wood: 0
+    iron: 0
+  - level: 715
+    gold: 2559890
+    wood: 0
+    iron: 0
+  - level: 716
+    gold: 2567050
+    wood: 0
+    iron: 0
+  - level: 717
+    gold: 2574220
+    wood: 0
+    iron: 0
+  - level: 718
+    gold: 2581400
+    wood: 0
+    iron: 0
+  - level: 719
+    gold: 2588590
+    wood: 0
+    iron: 0
+  - level: 720
+    gold: 2595790
+    wood: 0
+    iron: 0
+  - level: 721
+    gold: 2603000
+    wood: 0
+    iron: 0
+  - level: 722
+    gold: 2610220
+    wood: 0
+    iron: 0
+  - level: 723
+    gold: 2617450
+    wood: 0
+    iron: 0
+  - level: 724
+    gold: 2624690
+    wood: 0
+    iron: 0
+  - level: 725
+    gold: 2631940
+    wood: 0
+    iron: 0
+  - level: 726
+    gold: 2639200
+    wood: 0
+    iron: 0
+  - level: 727
+    gold: 2646470
+    wood: 0
+    iron: 0
+  - level: 728
+    gold: 2653750
+    wood: 0
+    iron: 0
+  - level: 729
+    gold: 2661040
+    wood: 0
+    iron: 0
+  - level: 730
+    gold: 2668340
+    wood: 0
+    iron: 0
+  - level: 731
+    gold: 2675650
+    wood: 0
+    iron: 0
+  - level: 732
+    gold: 2682970
+    wood: 0
+    iron: 0
+  - level: 733
+    gold: 2690300
+    wood: 0
+    iron: 0
+  - level: 734
+    gold: 2697640
+    wood: 0
+    iron: 0
+  - level: 735
+    gold: 2704990
+    wood: 0
+    iron: 0
+  - level: 736
+    gold: 2712350
+    wood: 0
+    iron: 0
+  - level: 737
+    gold: 2719720
+    wood: 0
+    iron: 0
+  - level: 738
+    gold: 2727100
+    wood: 0
+    iron: 0
+  - level: 739
+    gold: 2734490
+    wood: 0
+    iron: 0
+  - level: 740
+    gold: 2741890
+    wood: 0
+    iron: 0
+  - level: 741
+    gold: 2749300
+    wood: 0
+    iron: 0
+  - level: 742
+    gold: 2756720
+    wood: 0
+    iron: 0
+  - level: 743
+    gold: 2764150
+    wood: 0
+    iron: 0
+  - level: 744
+    gold: 2771590
+    wood: 0
+    iron: 0
+  - level: 745
+    gold: 2779040
+    wood: 0
+    iron: 0
+  - level: 746
+    gold: 2786500
+    wood: 0
+    iron: 0
+  - level: 747
+    gold: 2793970
+    wood: 0
+    iron: 0
+  - level: 748
+    gold: 2801450
+    wood: 0
+    iron: 0
+  - level: 749
+    gold: 2808940
+    wood: 0
+    iron: 0
+  - level: 750
+    gold: 2816440
+    wood: 0
+    iron: 0
+  - level: 751
+    gold: 2823950
+    wood: 0
+    iron: 0
+  - level: 752
+    gold: 2831470
+    wood: 0
+    iron: 0
+  - level: 753
+    gold: 2839000
+    wood: 0
+    iron: 0
+  - level: 754
+    gold: 2846540
+    wood: 0
+    iron: 0
+  - level: 755
+    gold: 2854090
+    wood: 0
+    iron: 0
+  - level: 756
+    gold: 2861650
+    wood: 0
+    iron: 0
+  - level: 757
+    gold: 2869220
+    wood: 0
+    iron: 0
+  - level: 758
+    gold: 2876800
+    wood: 0
+    iron: 0
+  - level: 759
+    gold: 2884390
+    wood: 0
+    iron: 0
+  - level: 760
+    gold: 2891990
+    wood: 0
+    iron: 0
+  - level: 761
+    gold: 2899600
+    wood: 0
+    iron: 0
+  - level: 762
+    gold: 2907220
+    wood: 0
+    iron: 0
+  - level: 763
+    gold: 2914850
+    wood: 0
+    iron: 0
+  - level: 764
+    gold: 2922490
+    wood: 0
+    iron: 0
+  - level: 765
+    gold: 2930140
+    wood: 0
+    iron: 0
+  - level: 766
+    gold: 2937800
+    wood: 0
+    iron: 0
+  - level: 767
+    gold: 2945470
+    wood: 0
+    iron: 0
+  - level: 768
+    gold: 2953150
+    wood: 0
+    iron: 0
+  - level: 769
+    gold: 2960840
+    wood: 0
+    iron: 0
+  - level: 770
+    gold: 2968540
+    wood: 0
+    iron: 0
+  - level: 771
+    gold: 2976250
+    wood: 0
+    iron: 0
+  - level: 772
+    gold: 2983970
+    wood: 0
+    iron: 0
+  - level: 773
+    gold: 2991700
+    wood: 0
+    iron: 0
+  - level: 774
+    gold: 2999440
+    wood: 0
+    iron: 0
+  - level: 775
+    gold: 3007190
+    wood: 0
+    iron: 0
+  - level: 776
+    gold: 3014950
+    wood: 0
+    iron: 0
+  - level: 777
+    gold: 3022720
+    wood: 0
+    iron: 0
+  - level: 778
+    gold: 3030500
+    wood: 0
+    iron: 0
+  - level: 779
+    gold: 3038290
+    wood: 0
+    iron: 0
+  - level: 780
+    gold: 3046090
+    wood: 0
+    iron: 0
+  - level: 781
+    gold: 3053900
+    wood: 0
+    iron: 0
+  - level: 782
+    gold: 3061720
+    wood: 0
+    iron: 0
+  - level: 783
+    gold: 3069550
+    wood: 0
+    iron: 0
+  - level: 784
+    gold: 3077390
+    wood: 0
+    iron: 0
+  - level: 785
+    gold: 3085240
+    wood: 0
+    iron: 0
+  - level: 786
+    gold: 3093100
+    wood: 0
+    iron: 0
+  - level: 787
+    gold: 3100970
+    wood: 0
+    iron: 0
+  - level: 788
+    gold: 3108850
+    wood: 0
+    iron: 0
+  - level: 789
+    gold: 3116740
+    wood: 0
+    iron: 0
+  - level: 790
+    gold: 3124640
+    wood: 0
+    iron: 0
+  - level: 791
+    gold: 3132550
+    wood: 0
+    iron: 0
+  - level: 792
+    gold: 3140470
+    wood: 0
+    iron: 0
+  - level: 793
+    gold: 3148400
+    wood: 0
+    iron: 0
+  - level: 794
+    gold: 3156340
+    wood: 0
+    iron: 0
+  - level: 795
+    gold: 3164290
+    wood: 0
+    iron: 0
+  - level: 796
+    gold: 3172250
+    wood: 0
+    iron: 0
+  - level: 797
+    gold: 3180220
+    wood: 0
+    iron: 0
+  - level: 798
+    gold: 3188200
+    wood: 0
+    iron: 0
+  - level: 799
+    gold: 3196190
+    wood: 0
+    iron: 0
+  - level: 800
+    gold: 3204190
+    wood: 0
+    iron: 0
+  - level: 801
+    gold: 3212200
+    wood: 0
+    iron: 0
+  - level: 802
+    gold: 3220220
+    wood: 0
+    iron: 0
+  - level: 803
+    gold: 3228250
+    wood: 0
+    iron: 0
+  - level: 804
+    gold: 3236290
+    wood: 0
+    iron: 0
+  - level: 805
+    gold: 3244340
+    wood: 0
+    iron: 0
+  - level: 806
+    gold: 3252400
+    wood: 0
+    iron: 0
+  - level: 807
+    gold: 3260470
+    wood: 0
+    iron: 0
+  - level: 808
+    gold: 3268550
+    wood: 0
+    iron: 0
+  - level: 809
+    gold: 3276640
+    wood: 0
+    iron: 0
+  - level: 810
+    gold: 3284740
+    wood: 0
+    iron: 0
+  - level: 811
+    gold: 3292850
+    wood: 0
+    iron: 0
+  - level: 812
+    gold: 3300970
+    wood: 0
+    iron: 0
+  - level: 813
+    gold: 3309100
+    wood: 0
+    iron: 0
+  - level: 814
+    gold: 3317240
+    wood: 0
+    iron: 0
+  - level: 815
+    gold: 3325390
+    wood: 0
+    iron: 0
+  - level: 816
+    gold: 3333550
+    wood: 0
+    iron: 0
+  - level: 817
+    gold: 3341720
+    wood: 0
+    iron: 0
+  - level: 818
+    gold: 3349900
+    wood: 0
+    iron: 0
+  - level: 819
+    gold: 3358090
+    wood: 0
+    iron: 0
+  - level: 820
+    gold: 3366290
+    wood: 0
+    iron: 0
+  - level: 821
+    gold: 3374500
+    wood: 0
+    iron: 0
+  - level: 822
+    gold: 3382720
+    wood: 0
+    iron: 0
+  - level: 823
+    gold: 3390950
+    wood: 0
+    iron: 0
+  - level: 824
+    gold: 3399190
+    wood: 0
+    iron: 0
+  - level: 825
+    gold: 3407440
+    wood: 0
+    iron: 0
+  - level: 826
+    gold: 3415700
+    wood: 0
+    iron: 0
+  - level: 827
+    gold: 3423970
+    wood: 0
+    iron: 0
+  - level: 828
+    gold: 3432250
+    wood: 0
+    iron: 0
+  - level: 829
+    gold: 3440540
+    wood: 0
+    iron: 0
+  - level: 830
+    gold: 3448840
+    wood: 0
+    iron: 0
+  - level: 831
+    gold: 3457150
+    wood: 0
+    iron: 0
+  - level: 832
+    gold: 3465470
+    wood: 0
+    iron: 0
+  - level: 833
+    gold: 3473800
+    wood: 0
+    iron: 0
+  - level: 834
+    gold: 3482140
+    wood: 0
+    iron: 0
+  - level: 835
+    gold: 3490490
+    wood: 0
+    iron: 0
+  - level: 836
+    gold: 3498850
+    wood: 0
+    iron: 0
+  - level: 837
+    gold: 3507220
+    wood: 0
+    iron: 0
+  - level: 838
+    gold: 3515600
+    wood: 0
+    iron: 0
+  - level: 839
+    gold: 3523990
+    wood: 0
+    iron: 0
+  - level: 840
+    gold: 3532390
+    wood: 0
+    iron: 0
+  - level: 841
+    gold: 3540800
+    wood: 0
+    iron: 0
+  - level: 842
+    gold: 3549220
+    wood: 0
+    iron: 0
+  - level: 843
+    gold: 3557650
+    wood: 0
+    iron: 0
+  - level: 844
+    gold: 3566090
+    wood: 0
+    iron: 0
+  - level: 845
+    gold: 3574540
+    wood: 0
+    iron: 0
+  - level: 846
+    gold: 3583000
+    wood: 0
+    iron: 0
+  - level: 847
+    gold: 3591470
+    wood: 0
+    iron: 0
+  - level: 848
+    gold: 3599950
+    wood: 0
+    iron: 0
+  - level: 849
+    gold: 3608440
+    wood: 0
+    iron: 0
+  - level: 850
+    gold: 3616940
+    wood: 0
+    iron: 0
+  - level: 851
+    gold: 3625450
+    wood: 0
+    iron: 0
+  - level: 852
+    gold: 3633970
+    wood: 0
+    iron: 0
+  - level: 853
+    gold: 3642500
+    wood: 0
+    iron: 0
+  - level: 854
+    gold: 3651040
+    wood: 0
+    iron: 0
+  - level: 855
+    gold: 3659590
+    wood: 0
+    iron: 0
+  - level: 856
+    gold: 3668150
+    wood: 0
+    iron: 0
+  - level: 857
+    gold: 3676720
+    wood: 0
+    iron: 0
+  - level: 858
+    gold: 3685300
+    wood: 0
+    iron: 0
+  - level: 859
+    gold: 3693890
+    wood: 0
+    iron: 0
+  - level: 860
+    gold: 3702490
+    wood: 0
+    iron: 0
+  - level: 861
+    gold: 3711100
+    wood: 0
+    iron: 0
+  - level: 862
+    gold: 3719720
+    wood: 0
+    iron: 0
+  - level: 863
+    gold: 3728350
+    wood: 0
+    iron: 0
+  - level: 864
+    gold: 3736990
+    wood: 0
+    iron: 0
+  - level: 865
+    gold: 3745640
+    wood: 0
+    iron: 0
+  - level: 866
+    gold: 3754300
+    wood: 0
+    iron: 0
+  - level: 867
+    gold: 3762970
+    wood: 0
+    iron: 0
+  - level: 868
+    gold: 3771650
+    wood: 0
+    iron: 0
+  - level: 869
+    gold: 3780340
+    wood: 0
+    iron: 0
+  - level: 870
+    gold: 3789040
+    wood: 0
+    iron: 0
+  - level: 871
+    gold: 3797750
+    wood: 0
+    iron: 0
+  - level: 872
+    gold: 3806470
+    wood: 0
+    iron: 0
+  - level: 873
+    gold: 3815200
+    wood: 0
+    iron: 0
+  - level: 874
+    gold: 3823940
+    wood: 0
+    iron: 0
+  - level: 875
+    gold: 3832690
+    wood: 0
+    iron: 0
+  - level: 876
+    gold: 3841450
+    wood: 0
+    iron: 0
+  - level: 877
+    gold: 3850220
+    wood: 0
+    iron: 0
+  - level: 878
+    gold: 3859000
+    wood: 0
+    iron: 0
+  - level: 879
+    gold: 3867790
+    wood: 0
+    iron: 0
+  - level: 880
+    gold: 3876590
+    wood: 0
+    iron: 0
+  - level: 881
+    gold: 3885400
+    wood: 0
+    iron: 0
+  - level: 882
+    gold: 3894220
+    wood: 0
+    iron: 0
+  - level: 883
+    gold: 3903050
+    wood: 0
+    iron: 0
+  - level: 884
+    gold: 3911890
+    wood: 0
+    iron: 0
+  - level: 885
+    gold: 3920740
+    wood: 0
+    iron: 0
+  - level: 886
+    gold: 3929600
+    wood: 0
+    iron: 0
+  - level: 887
+    gold: 3938470
+    wood: 0
+    iron: 0
+  - level: 888
+    gold: 3947350
+    wood: 0
+    iron: 0
+  - level: 889
+    gold: 3956240
+    wood: 0
+    iron: 0
+  - level: 890
+    gold: 3965140
+    wood: 0
+    iron: 0
+  - level: 891
+    gold: 3974050
+    wood: 0
+    iron: 0
+  - level: 892
+    gold: 3982970
+    wood: 0
+    iron: 0
+  - level: 893
+    gold: 3991900
+    wood: 0
+    iron: 0
+  - level: 894
+    gold: 4000840
+    wood: 0
+    iron: 0
+  - level: 895
+    gold: 4009790
+    wood: 0
+    iron: 0
+  - level: 896
+    gold: 4018750
+    wood: 0
+    iron: 0
+  - level: 897
+    gold: 4027720
+    wood: 0
+    iron: 0
+  - level: 898
+    gold: 4036700
+    wood: 0
+    iron: 0
+  - level: 899
+    gold: 4045690
+    wood: 0
+    iron: 0
+  - level: 900
+    gold: 4054690
+    wood: 0
+    iron: 0
+  - level: 901
+    gold: 4063700
+    wood: 0
+    iron: 0
+  - level: 902
+    gold: 4072720
+    wood: 0
+    iron: 0
+  - level: 903
+    gold: 4081750
+    wood: 0
+    iron: 0
+  - level: 904
+    gold: 4090790
+    wood: 0
+    iron: 0
+  - level: 905
+    gold: 4099840
+    wood: 0
+    iron: 0
+  - level: 906
+    gold: 4108900
+    wood: 0
+    iron: 0
+  - level: 907
+    gold: 4117970
+    wood: 0
+    iron: 0
+  - level: 908
+    gold: 4127050
+    wood: 0
+    iron: 0
+  - level: 909
+    gold: 4136140
+    wood: 0
+    iron: 0
+  - level: 910
+    gold: 4145240
+    wood: 0
+    iron: 0
+  - level: 911
+    gold: 4154350
+    wood: 0
+    iron: 0
+  - level: 912
+    gold: 4163470
+    wood: 0
+    iron: 0
+  - level: 913
+    gold: 4172600
+    wood: 0
+    iron: 0
+  - level: 914
+    gold: 4181740
+    wood: 0
+    iron: 0
+  - level: 915
+    gold: 4190890
+    wood: 0
+    iron: 0
+  - level: 916
+    gold: 4200050
+    wood: 0
+    iron: 0
+  - level: 917
+    gold: 4209220
+    wood: 0
+    iron: 0
+  - level: 918
+    gold: 4218400
+    wood: 0
+    iron: 0
+  - level: 919
+    gold: 4227590
+    wood: 0
+    iron: 0
+  - level: 920
+    gold: 4236790
+    wood: 0
+    iron: 0
+  - level: 921
+    gold: 4246000
+    wood: 0
+    iron: 0
+  - level: 922
+    gold: 4255220
+    wood: 0
+    iron: 0
+  - level: 923
+    gold: 4264450
+    wood: 0
+    iron: 0
+  - level: 924
+    gold: 4273690
+    wood: 0
+    iron: 0
+  - level: 925
+    gold: 4282940
+    wood: 0
+    iron: 0
+  - level: 926
+    gold: 4292200
+    wood: 0
+    iron: 0
+  - level: 927
+    gold: 4301470
+    wood: 0
+    iron: 0
+  - level: 928
+    gold: 4310750
+    wood: 0
+    iron: 0
+  - level: 929
+    gold: 4320040
+    wood: 0
+    iron: 0
+  - level: 930
+    gold: 4329340
+    wood: 0
+    iron: 0
+  - level: 931
+    gold: 4338650
+    wood: 0
+    iron: 0
+  - level: 932
+    gold: 4347970
+    wood: 0
+    iron: 0
+  - level: 933
+    gold: 4357300
+    wood: 0
+    iron: 0
+  - level: 934
+    gold: 4366640
+    wood: 0
+    iron: 0
+  - level: 935
+    gold: 4375990
+    wood: 0
+    iron: 0
+  - level: 936
+    gold: 4385350
+    wood: 0
+    iron: 0
+  - level: 937
+    gold: 4394720
+    wood: 0
+    iron: 0
+  - level: 938
+    gold: 4404100
+    wood: 0
+    iron: 0
+  - level: 939
+    gold: 4413490
+    wood: 0
+    iron: 0
+  - level: 940
+    gold: 4422890
+    wood: 0
+    iron: 0
+  - level: 941
+    gold: 4432300
+    wood: 0
+    iron: 0
+  - level: 942
+    gold: 4441720
+    wood: 0
+    iron: 0
+  - level: 943
+    gold: 4451150
+    wood: 0
+    iron: 0
+  - level: 944
+    gold: 4460590
+    wood: 0
+    iron: 0
+  - level: 945
+    gold: 4470040
+    wood: 0
+    iron: 0
+  - level: 946
+    gold: 4479500
+    wood: 0
+    iron: 0
+  - level: 947
+    gold: 4488970
+    wood: 0
+    iron: 0
+  - level: 948
+    gold: 4498450
+    wood: 0
+    iron: 0
+  - level: 949
+    gold: 4507940
+    wood: 0
+    iron: 0
+  - level: 950
+    gold: 4517440
+    wood: 0
+    iron: 0
+  - level: 951
+    gold: 4526950
+    wood: 0
+    iron: 0
+  - level: 952
+    gold: 4536470
+    wood: 0
+    iron: 0
+  - level: 953
+    gold: 4546000
+    wood: 0
+    iron: 0
+  - level: 954
+    gold: 4555540
+    wood: 0
+    iron: 0
+  - level: 955
+    gold: 4565090
+    wood: 0
+    iron: 0
+  - level: 956
+    gold: 4574650
+    wood: 0
+    iron: 0
+  - level: 957
+    gold: 4584220
+    wood: 0
+    iron: 0
+  - level: 958
+    gold: 4593800
+    wood: 0
+    iron: 0
+  - level: 959
+    gold: 4603390
+    wood: 0
+    iron: 0
+  - level: 960
+    gold: 4612990
+    wood: 0
+    iron: 0
+  - level: 961
+    gold: 4622600
+    wood: 0
+    iron: 0
+  - level: 962
+    gold: 4632220
+    wood: 0
+    iron: 0
+  - level: 963
+    gold: 4641850
+    wood: 0
+    iron: 0
+  - level: 964
+    gold: 4651490
+    wood: 0
+    iron: 0
+  - level: 965
+    gold: 4661140
+    wood: 0
+    iron: 0
+  - level: 966
+    gold: 4670800
+    wood: 0
+    iron: 0
+  - level: 967
+    gold: 4680470
+    wood: 0
+    iron: 0
+  - level: 968
+    gold: 4690150
+    wood: 0
+    iron: 0
+  - level: 969
+    gold: 4699840
+    wood: 0
+    iron: 0
+  - level: 970
+    gold: 4709540
+    wood: 0
+    iron: 0
+  - level: 971
+    gold: 4719250
+    wood: 0
+    iron: 0
+  - level: 972
+    gold: 4728970
+    wood: 0
+    iron: 0
+  - level: 973
+    gold: 4738700
+    wood: 0
+    iron: 0
+  - level: 974
+    gold: 4748440
+    wood: 0
+    iron: 0
+  - level: 975
+    gold: 4758190
+    wood: 0
+    iron: 0
+  - level: 976
+    gold: 4767950
+    wood: 0
+    iron: 0
+  - level: 977
+    gold: 4777720
+    wood: 0
+    iron: 0
+  - level: 978
+    gold: 4787500
+    wood: 0
+    iron: 0
+  - level: 979
+    gold: 4797290
+    wood: 0
+    iron: 0
+  - level: 980
+    gold: 4807090
+    wood: 0
+    iron: 0
+  - level: 981
+    gold: 4816900
+    wood: 0
+    iron: 0
+  - level: 982
+    gold: 4826720
+    wood: 0
+    iron: 0
+  - level: 983
+    gold: 4836550
+    wood: 0
+    iron: 0
+  - level: 984
+    gold: 4846390
+    wood: 0
+    iron: 0
+  - level: 985
+    gold: 4856240
+    wood: 0
+    iron: 0
+  - level: 986
+    gold: 4866100
+    wood: 0
+    iron: 0
+  - level: 987
+    gold: 4875970
+    wood: 0
+    iron: 0
+  - level: 988
+    gold: 4885850
+    wood: 0
+    iron: 0
+  - level: 989
+    gold: 4895740
+    wood: 0
+    iron: 0
+  - level: 990
+    gold: 4905640
+    wood: 0
+    iron: 0
+  - level: 991
+    gold: 4915550
+    wood: 0
+    iron: 0
+  - level: 992
+    gold: 4925470
+    wood: 0
+    iron: 0
+  - level: 993
+    gold: 4935400
+    wood: 0
+    iron: 0
+  - level: 994
+    gold: 4945340
+    wood: 0
+    iron: 0
+  - level: 995
+    gold: 4955290
+    wood: 0
+    iron: 0
+  - level: 996
+    gold: 4965250
+    wood: 0
+    iron: 0
+  - level: 997
+    gold: 4975220
+    wood: 0
+    iron: 0
+  - level: 998
+    gold: 4985200
+    wood: 0
+    iron: 0
+  - level: 999
+    gold: 4995190
+    wood: 0
+    iron: 0
+  - level: 1000
+    gold: 4995190
+    wood: 0
+    iron: 0
+  - level: 0
+    gold: 0
+    wood: 0
+    iron: 0

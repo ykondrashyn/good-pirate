@@ -1,0 +1,8017 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a7e7da3ab6ebdc8d92d0548a68b2788, type: 3}
+  m_Name: MainShipData
+  m_EditorClassIdentifier:
+  SheetName: 아직은 제목은 없지만 쩔어줄 프로젝트
+  WorksheetName: MainShipData
+  dataArray:
+  - level: 1
+    attack: 147
+    firecooltime: 6
+    rotatepersec: 40
+    acceleration: 7
+    health: 5880
+    levelfactor: 1.0400039
+    enemyhealth: 1529
+  - level: 2
+    attack: 150
+    firecooltime: 5.99
+    rotatepersec: 40.15306
+    acceleration: 7.005102
+    health: 6010
+    levelfactor: 1.1015426
+    enemyhealth: 1561
+  - level: 3
+    attack: 153
+    firecooltime: 5.98
+    rotatepersec: 40.30612
+    acceleration: 7.0102043
+    health: 6141
+    levelfactor: 1.1571206
+    enemyhealth: 1593
+  - level: 4
+    attack: 156
+    firecooltime: 5.97
+    rotatepersec: 40.459183
+    acceleration: 7.015306
+    health: 6272
+    levelfactor: 1.2078882
+    enemyhealth: 1625
+  - level: 5
+    attack: 159
+    firecooltime: 5.96
+    rotatepersec: 40.612244
+    acceleration: 7.020408
+    health: 6404
+    levelfactor: 1.254694
+    enemyhealth: 1657
+  - level: 6
+    attack: 162
+    firecooltime: 5.95
+    rotatepersec: 40.765305
+    acceleration: 7.0255103
+    health: 6536
+    levelfactor: 1.298181
+    enemyhealth: 1689
+  - level: 7
+    attack: 165
+    firecooltime: 5.94
+    rotatepersec: 40.918365
+    acceleration: 7.0306125
+    health: 6668
+    levelfactor: 1.338849
+    enemyhealth: 1721
+  - level: 8
+    attack: 168
+    firecooltime: 5.93
+    rotatepersec: 41.07143
+    acceleration: 7.035714
+    health: 6801
+    levelfactor: 1.3770932
+    enemyhealth: 1753
+  - level: 9
+    attack: 171
+    firecooltime: 5.92
+    rotatepersec: 41.22449
+    acceleration: 7.0408163
+    health: 6934
+    levelfactor: 1.4132323
+    enemyhealth: 1785
+  - level: 10
+    attack: 174
+    firecooltime: 5.91
+    rotatepersec: 41.377552
+    acceleration: 7.0459185
+    health: 7068
+    levelfactor: 1.4475262
+    enemyhealth: 1817
+  - level: 11
+    attack: 177
+    firecooltime: 5.9
+    rotatepersec: 41.530613
+    acceleration: 7.0510206
+    health: 7202
+    levelfactor: 1.4801903
+    enemyhealth: 1849
+  - level: 12
+    attack: 180
+    firecooltime: 5.89
+    rotatepersec: 41.683674
+    acceleration: 7.0561223
+    health: 7337
+    levelfactor: 1.5114045
+    enemyhealth: 1881
+  - level: 13
+    attack: 183
+    firecooltime: 5.88
+    rotatepersec: 41.836735
+    acceleration: 7.0612245
+    health: 7473
+    levelfactor: 1.541321
+    enemyhealth: 1913
+  - level: 14
+    attack: 186
+    firecooltime: 5.87
+    rotatepersec: 41.989796
+    acceleration: 7.0663266
+    health: 7608
+    levelfactor: 1.5700696
+    enemyhealth: 1945
+  - level: 15
+    attack: 189
+    firecooltime: 5.86
+    rotatepersec: 42.142857
+    acceleration: 7.071429
+    health: 7744
+    levelfactor: 1.5977615
+    enemyhealth: 1977
+  - level: 16
+    attack: 192
+    firecooltime: 5.85
+    rotatepersec: 42.295918
+    acceleration: 7.0765305
+    health: 7881
+    levelfactor: 1.6244932
+    enemyhealth: 2009
+  - level: 17
+    attack: 195
+    firecooltime: 5.84
+    rotatepersec: 42.44898
+    acceleration: 7.0816326
+    health: 8018
+    levelfactor: 1.6503488
+    enemyhealth: 2041
+  - level: 18
+    attack: 198
+    firecooltime: 5.83
+    rotatepersec: 42.60204
+    acceleration: 7.086735
+    health: 8156
+    levelfactor: 1.6754019
+    enemyhealth: 2073
+  - level: 19
+    attack: 201
+    firecooltime: 5.82
+    rotatepersec: 42.7551
+    acceleration: 7.091837
+    health: 8294
+    levelfactor: 1.6997175
+    enemyhealth: 2106
+  - level: 20
+    attack: 204
+    firecooltime: 5.81
+    rotatepersec: 42.908165
+    acceleration: 7.0969386
+    health: 8432
+    levelfactor: 1.7233528
+    enemyhealth: 2138
+  - level: 21
+    attack: 207
+    firecooltime: 5.8
+    rotatepersec: 43.061226
+    acceleration: 7.102041
+    health: 8572
+    levelfactor: 1.7463592
+    enemyhealth: 2170
+  - level: 22
+    attack: 210
+    firecooltime: 5.79
+    rotatepersec: 43.214287
+    acceleration: 7.107143
+    health: 8711
+    levelfactor: 1.7687823
+    enemyhealth: 2202
+  - level: 23
+    attack: 213
+    firecooltime: 5.78
+    rotatepersec: 43.367348
+    acceleration: 7.112245
+    health: 8851
+    levelfactor: 1.7906629
+    enemyhealth: 2235
+  - level: 24
+    attack: 216
+    firecooltime: 5.77
+    rotatepersec: 43.52041
+    acceleration: 7.117347
+    health: 8992
+    levelfactor: 1.8120381
+    enemyhealth: 2267
+  - level: 25
+    attack: 219
+    firecooltime: 5.76
+    rotatepersec: 43.67347
+    acceleration: 7.122449
+    health: 9133
+    levelfactor: 1.8329413
+    enemyhealth: 2300
+  - level: 26
+    attack: 222
+    firecooltime: 5.74
+    rotatepersec: 43.82653
+    acceleration: 7.127551
+    health: 9274
+    levelfactor: 1.8534025
+    enemyhealth: 2332
+  - level: 27
+    attack: 225
+    firecooltime: 5.73
+    rotatepersec: 43.97959
+    acceleration: 7.132653
+    health: 9416
+    levelfactor: 1.8734494
+    enemyhealth: 2364
+  - level: 28
+    attack: 228
+    firecooltime: 5.72
+    rotatepersec: 44.132652
+    acceleration: 7.137755
+    health: 9559
+    levelfactor: 1.8931069
+    enemyhealth: 2397
+  - level: 29
+    attack: 231
+    firecooltime: 5.71
+    rotatepersec: 44.285713
+    acceleration: 7.142857
+    health: 9702
+    levelfactor: 1.9123981
+    enemyhealth: 2429
+  - level: 30
+    attack: 234
+    firecooltime: 5.7
+    rotatepersec: 44.438774
+    acceleration: 7.147959
+    health: 9846
+    levelfactor: 1.9313439
+    enemyhealth: 2462
+  - level: 31
+    attack: 237
+    firecooltime: 5.69
+    rotatepersec: 44.591835
+    acceleration: 7.1530614
+    health: 9990
+    levelfactor: 1.9499636
+    enemyhealth: 2494
+  - level: 32
+    attack: 240
+    firecooltime: 5.68
+    rotatepersec: 44.7449
+    acceleration: 7.158163
+    health: 10134
+    levelfactor: 1.968275
+    enemyhealth: 2527
+  - level: 33
+    attack: 243
+    firecooltime: 5.67
+    rotatepersec: 44.89796
+    acceleration: 7.163265
+    health: 10279
+    levelfactor: 1.9862944
+    enemyhealth: 2559
+  - level: 34
+    attack: 246
+    firecooltime: 5.66
+    rotatepersec: 45.05102
+    acceleration: 7.1683674
+    health: 10425
+    levelfactor: 2.0040371
+    enemyhealth: 2592
+  - level: 35
+    attack: 249
+    firecooltime: 5.65
+    rotatepersec: 45.204082
+    acceleration: 7.1734695
+    health: 10571
+    levelfactor: 2.021517
+    enemyhealth: 2624
+  - level: 36
+    attack: 252
+    firecooltime: 5.64
+    rotatepersec: 45.357143
+    acceleration: 7.178571
+    health: 10718
+    levelfactor: 2.0387473
+    enemyhealth: 2657
+  - level: 37
+    attack: 255
+    firecooltime: 5.63
+    rotatepersec: 45.510204
+    acceleration: 7.1836734
+    health: 10865
+    levelfactor: 2.05574
+    enemyhealth: 2690
+  - level: 38
+    attack: 258
+    firecooltime: 5.62
+    rotatepersec: 45.663265
+    acceleration: 7.1887755
+    health: 11013
+    levelfactor: 2.0725067
+    enemyhealth: 2722
+  - level: 39
+    attack: 261
+    firecooltime: 5.61
+    rotatepersec: 45.816326
+    acceleration: 7.1938777
+    health: 11161
+    levelfactor: 2.0890577
+    enemyhealth: 2755
+  - level: 40
+    attack: 264
+    firecooltime: 5.6
+    rotatepersec: 45.969387
+    acceleration: 7.1989794
+    health: 11310
+    levelfactor: 2.1054025
+    enemyhealth: 2788
+  - level: 41
+    attack: 267
+    firecooltime: 5.59
+    rotatepersec: 46.122448
+    acceleration: 7.2040815
+    health: 11460
+    levelfactor: 2.121551
+    enemyhealth: 2821
+  - level: 42
+    attack: 270
+    firecooltime: 5.58
+    rotatepersec: 46.27551
+    acceleration: 7.2091837
+    health: 11610
+    levelfactor: 2.1375113
+    enemyhealth: 2853
+  - level: 43
+    attack: 273
+    firecooltime: 5.57
+    rotatepersec: 46.42857
+    acceleration: 7.214286
+    health: 11760
+    levelfactor: 2.1532917
+    enemyhealth: 2886
+  - level: 44
+    attack: 276
+    firecooltime: 5.56
+    rotatepersec: 46.581635
+    acceleration: 7.2193875
+    health: 11911
+    levelfactor: 2.1688998
+    enemyhealth: 2919
+  - level: 45
+    attack: 279
+    firecooltime: 5.55
+    rotatepersec: 46.734695
+    acceleration: 7.2244897
+    health: 12063
+    levelfactor: 2.1843429
+    enemyhealth: 2952
+  - level: 46
+    attack: 282
+    firecooltime: 5.54
+    rotatepersec: 46.887756
+    acceleration: 7.229592
+    health: 12215
+    levelfactor: 2.1996274
+    enemyhealth: 2985
+  - level: 47
+    attack: 285
+    firecooltime: 5.53
+    rotatepersec: 47.040817
+    acceleration: 7.234694
+    health: 12368
+    levelfactor: 2.2147598
+    enemyhealth: 3018
+  - level: 48
+    attack: 288
+    firecooltime: 5.52
+    rotatepersec: 47.19388
+    acceleration: 7.2397957
+    health: 12521
+    levelfactor: 2.229746
+    enemyhealth: 3050
+  - level: 49
+    attack: 291
+    firecooltime: 5.51
+    rotatepersec: 47.34694
+    acceleration: 7.244898
+    health: 12675
+    levelfactor: 2.2445922
+    enemyhealth: 3083
+  - level: 50
+    attack: 294
+    firecooltime: 5.5
+    rotatepersec: 47.5
+    acceleration: 7.25
+    health: 12829
+    levelfactor: 2.259303
+    enemyhealth: 3116
+  - level: 51
+    attack: 297
+    firecooltime: 5.49
+    rotatepersec: 47.65306
+    acceleration: 7.255102
+    health: 12984
+    levelfactor: 2.2738838
+    enemyhealth: 3149
+  - level: 52
+    attack: 300
+    firecooltime: 5.48
+    rotatepersec: 47.80612
+    acceleration: 7.2602043
+    health: 13140
+    levelfactor: 2.2883396
+    enemyhealth: 3182
+  - level: 53
+    attack: 303
+    firecooltime: 5.47
+    rotatepersec: 47.959183
+    acceleration: 7.265306
+    health: 13296
+    levelfactor: 2.3026748
+    enemyhealth: 3215
+  - level: 54
+    attack: 306
+    firecooltime: 5.46
+    rotatepersec: 48.112244
+    acceleration: 7.270408
+    health: 13453
+    levelfactor: 2.3168933
+    enemyhealth: 3248
+  - level: 55
+    attack: 309
+    firecooltime: 5.45
+    rotatepersec: 48.265305
+    acceleration: 7.2755103
+    health: 13610
+    levelfactor: 2.3309999
+    enemyhealth: 3282
+  - level: 56
+    attack: 312
+    firecooltime: 5.44
+    rotatepersec: 48.418365
+    acceleration: 7.2806125
+    health: 13768
+    levelfactor: 2.3449981
+    enemyhealth: 3315
+  - level: 57
+    attack: 315
+    firecooltime: 5.43
+    rotatepersec: 48.57143
+    acceleration: 7.285714
+    health: 13926
+    levelfactor: 2.3588917
+    enemyhealth: 3348
+  - level: 58
+    attack: 318
+    firecooltime: 5.42
+    rotatepersec: 48.72449
+    acceleration: 7.2908163
+    health: 14085
+    levelfactor: 2.3726842
+    enemyhealth: 3381
+  - level: 59
+    attack: 321
+    firecooltime: 5.41
+    rotatepersec: 48.877552
+    acceleration: 7.2959185
+    health: 14245
+    levelfactor: 2.386379
+    enemyhealth: 3414
+  - level: 60
+    attack: 324
+    firecooltime: 5.4
+    rotatepersec: 49.030613
+    acceleration: 7.3010206
+    health: 14405
+    levelfactor: 2.3999794
+    enemyhealth: 3447
+  - level: 61
+    attack: 327
+    firecooltime: 5.39
+    rotatepersec: 49.183674
+    acceleration: 7.3061223
+    health: 14566
+    levelfactor: 2.4134881
+    enemyhealth: 3481
+  - level: 62
+    attack: 330
+    firecooltime: 5.38
+    rotatepersec: 49.336735
+    acceleration: 7.3112245
+    health: 14728
+    levelfactor: 2.4269085
+    enemyhealth: 3514
+  - level: 63
+    attack: 333
+    firecooltime: 5.37
+    rotatepersec: 49.489796
+    acceleration: 7.3163266
+    health: 14890
+    levelfactor: 2.4402432
+    enemyhealth: 3547
+  - level: 64
+    attack: 336
+    firecooltime: 5.36
+    rotatepersec: 49.642857
+    acceleration: 7.321429
+    health: 15053
+    levelfactor: 2.453495
+    enemyhealth: 3580
+  - level: 65
+    attack: 339
+    firecooltime: 5.35
+    rotatepersec: 49.795918
+    acceleration: 7.3265305
+    health: 15216
+    levelfactor: 2.4666662
+    enemyhealth: 3614
+  - level: 66
+    attack: 342
+    firecooltime: 5.34
+    rotatepersec: 49.94898
+    acceleration: 7.3316326
+    health: 15380
+    levelfactor: 2.4797595
+    enemyhealth: 3647
+  - level: 67
+    attack: 345
+    firecooltime: 5.33
+    rotatepersec: 50.10204
+    acceleration: 7.336735
+    health: 15545
+    levelfactor: 2.492777
+    enemyhealth: 3680
+  - level: 68
+    attack: 348
+    firecooltime: 5.32
+    rotatepersec: 50.2551
+    acceleration: 7.341837
+    health: 15710
+    levelfactor: 2.5057213
+    enemyhealth: 3714
+  - level: 69
+    attack: 351
+    firecooltime: 5.31
+    rotatepersec: 50.408165
+    acceleration: 7.3469386
+    health: 15876
+    levelfactor: 2.5185943
+    enemyhealth: 3747
+  - level: 70
+    attack: 354
+    firecooltime: 5.3
+    rotatepersec: 50.561226
+    acceleration: 7.352041
+    health: 16043
+    levelfactor: 2.5313978
+    enemyhealth: 3781
+  - level: 71
+    attack: 357
+    firecooltime: 5.29
+    rotatepersec: 50.714287
+    acceleration: 7.357143
+    health: 16210
+    levelfactor: 2.5441344
+    enemyhealth: 3814
+  - level: 72
+    attack: 360
+    firecooltime: 5.28
+    rotatepersec: 50.867348
+    acceleration: 7.362245
+    health: 16378
+    levelfactor: 2.5568058
+    enemyhealth: 3848
+  - level: 73
+    attack: 363
+    firecooltime: 5.27
+    rotatepersec: 51.02041
+    acceleration: 7.367347
+    health: 16546
+    levelfactor: 2.5694137
+    enemyhealth: 3881
+  - level: 74
+    attack: 366
+    firecooltime: 5.26
+    rotatepersec: 51.17347
+    acceleration: 7.372449
+    health: 16715
+    levelfactor: 2.5819597
+    enemyhealth: 3915
+  - level: 75
+    attack: 369
+    firecooltime: 5.24
+    rotatepersec: 51.32653
+    acceleration: 7.377551
+    health: 16885
+    levelfactor: 2.5944457
+    enemyhealth: 3948
+  - level: 76
+    attack: 372
+    firecooltime: 5.23
+    rotatepersec: 51.47959
+    acceleration: 7.382653
+    health: 17055
+    levelfactor: 2.6068735
+    enemyhealth: 3982
+  - level: 77
+    attack: 375
+    firecooltime: 5.22
+    rotatepersec: 51.632652
+    acceleration: 7.387755
+    health: 17227
+    levelfactor: 2.6192446
+    enemyhealth: 4016
+  - level: 78
+    attack: 378
+    firecooltime: 5.21
+    rotatepersec: 51.785713
+    acceleration: 7.392857
+    health: 17398
+    levelfactor: 2.6315603
+    enemyhealth: 4049
+  - level: 79
+    attack: 381
+    firecooltime: 5.2
+    rotatepersec: 51.938774
+    acceleration: 7.397959
+    health: 17571
+    levelfactor: 2.6438222
+    enemyhealth: 4083
+  - level: 80
+    attack: 384
+    firecooltime: 5.19
+    rotatepersec: 52.091835
+    acceleration: 7.4030614
+    health: 17744
+    levelfactor: 2.6560316
+    enemyhealth: 4116
+  - level: 81
+    attack: 387
+    firecooltime: 5.18
+    rotatepersec: 52.2449
+    acceleration: 7.408163
+    health: 17918
+    levelfactor: 2.6681902
+    enemyhealth: 4150
+  - level: 82
+    attack: 390
+    firecooltime: 5.17
+    rotatepersec: 52.39796
+    acceleration: 7.413265
+    health: 18092
+    levelfactor: 2.6802988
+    enemyhealth: 4184
+  - level: 83
+    attack: 393
+    firecooltime: 5.16
+    rotatepersec: 52.55102
+    acceleration: 7.4183674
+    health: 18268
+    levelfactor: 2.692359
+    enemyhealth: 4218
+  - level: 84
+    attack: 396
+    firecooltime: 5.15
+    rotatepersec: 52.704082
+    acceleration: 7.4234695
+    health: 18443
+    levelfactor: 2.704372
+    enemyhealth: 4251
+  - level: 85
+    attack: 399
+    firecooltime: 5.14
+    rotatepersec: 52.857143
+    acceleration: 7.428571
+    health: 18620
+    levelfactor: 2.7163389
+    enemyhealth: 4285
+  - level: 86
+    attack: 402
+    firecooltime: 5.13
+    rotatepersec: 53.010204
+    acceleration: 7.4336734
+    health: 18797
+    levelfactor: 2.7282608
+    enemyhealth: 4319
+  - level: 87
+    attack: 405
+    firecooltime: 5.12
+    rotatepersec: 53.163265
+    acceleration: 7.4387755
+    health: 18975
+    levelfactor: 2.740139
+    enemyhealth: 4353
+  - level: 88
+    attack: 408
+    firecooltime: 5.11
+    rotatepersec: 53.316326
+    acceleration: 7.4438777
+    health: 19154
+    levelfactor: 2.7519743
+    enemyhealth: 4387
+  - level: 89
+    attack: 411
+    firecooltime: 5.1
+    rotatepersec: 53.469387
+    acceleration: 7.4489794
+    health: 19333
+    levelfactor: 2.7637677
+    enemyhealth: 4421
+  - level: 90
+    attack: 414
+    firecooltime: 5.09
+    rotatepersec: 53.622448
+    acceleration: 7.4540815
+    health: 19514
+    levelfactor: 2.7755206
+    enemyhealth: 4455
+  - level: 91
+    attack: 417
+    firecooltime: 5.08
+    rotatepersec: 53.77551
+    acceleration: 7.4591837
+    health: 19694
+    levelfactor: 2.7872336
+    enemyhealth: 4489
+  - level: 92
+    attack: 420
+    firecooltime: 5.07
+    rotatepersec: 53.92857
+    acceleration: 7.464286
+    health: 19876
+    levelfactor: 2.7989078
+    enemyhealth: 4523
+  - level: 93
+    attack: 423
+    firecooltime: 5.06
+    rotatepersec: 54.081635
+    acceleration: 7.4693875
+    health: 20058
+    levelfactor: 2.8105438
+    enemyhealth: 4557
+  - level: 94
+    attack: 426
+    firecooltime: 5.05
+    rotatepersec: 54.234695
+    acceleration: 7.4744897
+    health: 20241
+    levelfactor: 2.822143
+    enemyhealth: 4591
+  - level: 95
+    attack: 429
+    firecooltime: 5.04
+    rotatepersec: 54.387756
+    acceleration: 7.479592
+    health: 20425
+    levelfactor: 2.833706
+    enemyhealth: 4625
+  - level: 96
+    attack: 432
+    firecooltime: 5.03
+    rotatepersec: 54.540817
+    acceleration: 7.484694
+    health: 20610
+    levelfactor: 2.8452332
+    enemyhealth: 4659
+  - level: 97
+    attack: 435
+    firecooltime: 5.02
+    rotatepersec: 54.69388
+    acceleration: 7.4897957
+    health: 20795
+    levelfactor: 2.8567262
+    enemyhealth: 4693
+  - level: 98
+    attack: 438
+    firecooltime: 5.01
+    rotatepersec: 54.84694
+    acceleration: 7.494898
+    health: 20981
+    levelfactor: 2.868185
+    enemyhealth: 4727
+  - level: 99
+    attack: 441
+    firecooltime: 5
+    rotatepersec: 55
+    acceleration: 7.5
+    health: 21168
+    levelfactor: 2.879611
+    enemyhealth: 4761
+  - level: 100
+    attack: 339
+    firecooltime: 4.8
+    rotatepersec: 50
+    acceleration: 7
+    health: 21188
+    levelfactor: 2.8910046
+    enemyhealth: 4577
+  - level: 101
+    attack: 342
+    firecooltime: 4.79
+    rotatepersec: 50.060608
+    acceleration: 7.0050507
+    health: 21411
+    levelfactor: 2.9023664
+    enemyhealth: 4619
+  - level: 102
+    attack: 345
+    firecooltime: 4.78
+    rotatepersec: 50.121212
+    acceleration: 7.010101
+    health: 21635
+    levelfactor: 2.9136972
+    enemyhealth: 4661
+  - level: 103
+    attack: 348
+    firecooltime: 4.78
+    rotatepersec: 50.18182
+    acceleration: 7.0151515
+    health: 21860
+    levelfactor: 2.9249978
+    enemyhealth: 4703
+  - level: 104
+    attack: 351
+    firecooltime: 4.77
+    rotatepersec: 50.242424
+    acceleration: 7.020202
+    health: 22086
+    levelfactor: 2.9362688
+    enemyhealth: 4746
+  - level: 105
+    attack: 354
+    firecooltime: 4.76
+    rotatepersec: 50.303032
+    acceleration: 7.0252523
+    health: 22313
+    levelfactor: 2.9475107
+    enemyhealth: 4788
+  - level: 106
+    attack: 357
+    firecooltime: 4.75
+    rotatepersec: 50.363636
+    acceleration: 7.030303
+    health: 22540
+    levelfactor: 2.9587243
+    enemyhealth: 4830
+  - level: 107
+    attack: 360
+    firecooltime: 4.74
+    rotatepersec: 50.424244
+    acceleration: 7.0353537
+    health: 22768
+    levelfactor: 2.96991
+    enemyhealth: 4873
+  - level: 108
+    attack: 363
+    firecooltime: 4.74
+    rotatepersec: 50.484848
+    acceleration: 7.040404
+    health: 22997
+    levelfactor: 2.9810684
+    enemyhealth: 4915
+  - level: 109
+    attack: 366
+    firecooltime: 4.73
+    rotatepersec: 50.545456
+    acceleration: 7.0454545
+    health: 23227
+    levelfactor: 2.9922001
+    enemyhealth: 4957
+  - level: 110
+    attack: 369
+    firecooltime: 4.72
+    rotatepersec: 50.60606
+    acceleration: 7.050505
+    health: 23457
+    levelfactor: 3.0033057
+    enemyhealth: 5000
+  - level: 111
+    attack: 372
+    firecooltime: 4.71
+    rotatepersec: 50.666668
+    acceleration: 7.0555553
+    health: 23689
+    levelfactor: 3.0143857
+    enemyhealth: 5042
+  - level: 112
+    attack: 375
+    firecooltime: 4.7
+    rotatepersec: 50.727272
+    acceleration: 7.060606
+    health: 23921
+    levelfactor: 3.0254407
+    enemyhealth: 5085
+  - level: 113
+    attack: 378
+    firecooltime: 4.69
+    rotatepersec: 50.78788
+    acceleration: 7.0656567
+    health: 24154
+    levelfactor: 3.036471
+    enemyhealth: 5128
+  - level: 114
+    attack: 381
+    firecooltime: 4.69
+    rotatepersec: 50.848484
+    acceleration: 7.070707
+    health: 24387
+    levelfactor: 3.0474772
+    enemyhealth: 5170
+  - level: 115
+    attack: 384
+    firecooltime: 4.68
+    rotatepersec: 50.909092
+    acceleration: 7.0757575
+    health: 24622
+    levelfactor: 3.05846
+    enemyhealth: 5213
+  - level: 116
+    attack: 387
+    firecooltime: 4.67
+    rotatepersec: 50.969696
+    acceleration: 7.080808
+    health: 24857
+    levelfactor: 3.0694194
+    enemyhealth: 5255
+  - level: 117
+    attack: 390
+    firecooltime: 4.66
+    rotatepersec: 51.030304
+    acceleration: 7.085859
+    health: 25093
+    levelfactor: 3.0803561
+    enemyhealth: 5298
+  - level: 118
+    attack: 393
+    firecooltime: 4.65
+    rotatepersec: 51.090908
+    acceleration: 7.090909
+    health: 25330
+    levelfactor: 3.0912707
+    enemyhealth: 5341
+  - level: 119
+    attack: 396
+    firecooltime: 4.65
+    rotatepersec: 51.151516
+    acceleration: 7.0959597
+    health: 25568
+    levelfactor: 3.1021636
+    enemyhealth: 5384
+  - level: 120
+    attack: 399
+    firecooltime: 4.64
+    rotatepersec: 51.21212
+    acceleration: 7.1010103
+    health: 25806
+    levelfactor: 3.113035
+    enemyhealth: 5426
+  - level: 121
+    attack: 402
+    firecooltime: 4.63
+    rotatepersec: 51.272728
+    acceleration: 7.1060605
+    health: 26046
+    levelfactor: 3.1238852
+    enemyhealth: 5469
+  - level: 122
+    attack: 405
+    firecooltime: 4.62
+    rotatepersec: 51.333332
+    acceleration: 7.111111
+    health: 26286
+    levelfactor: 3.134715
+    enemyhealth: 5512
+  - level: 123
+    attack: 408
+    firecooltime: 4.61
+    rotatepersec: 51.39394
+    acceleration: 7.116162
+    health: 26527
+    levelfactor: 3.1455245
+    enemyhealth: 5555
+  - level: 124
+    attack: 411
+    firecooltime: 4.61
+    rotatepersec: 51.454544
+    acceleration: 7.121212
+    health: 26769
+    levelfactor: 3.1563144
+    enemyhealth: 5598
+  - level: 125
+    attack: 414
+    firecooltime: 4.6
+    rotatepersec: 51.515152
+    acceleration: 7.1262627
+    health: 27012
+    levelfactor: 3.1670847
+    enemyhealth: 5641
+  - level: 126
+    attack: 417
+    firecooltime: 4.59
+    rotatepersec: 51.575756
+    acceleration: 7.1313133
+    health: 27256
+    levelfactor: 3.177836
+    enemyhealth: 5684
+  - level: 127
+    attack: 420
+    firecooltime: 4.58
+    rotatepersec: 51.636364
+    acceleration: 7.1363635
+    health: 27500
+    levelfactor: 3.1885684
+    enemyhealth: 5727
+  - level: 128
+    attack: 423
+    firecooltime: 4.57
+    rotatepersec: 51.696968
+    acceleration: 7.141414
+    health: 27745
+    levelfactor: 3.1992826
+    enemyhealth: 5770
+  - level: 129
+    attack: 426
+    firecooltime: 4.57
+    rotatepersec: 51.757576
+    acceleration: 7.146465
+    health: 27992
+    levelfactor: 3.2099786
+    enemyhealth: 5813
+  - level: 130
+    attack: 429
+    firecooltime: 4.56
+    rotatepersec: 51.81818
+    acceleration: 7.151515
+    health: 28239
+    levelfactor: 3.2206569
+    enemyhealth: 5856
+  - level: 131
+    attack: 432
+    firecooltime: 4.55
+    rotatepersec: 51.878788
+    acceleration: 7.1565657
+    health: 28487
+    levelfactor: 3.231318
+    enemyhealth: 5899
+  - level: 132
+    attack: 435
+    firecooltime: 4.54
+    rotatepersec: 51.939392
+    acceleration: 7.1616163
+    health: 28736
+    levelfactor: 3.2419617
+    enemyhealth: 5942
+  - level: 133
+    attack: 438
+    firecooltime: 4.53
+    rotatepersec: 52
+    acceleration: 7.1666665
+    health: 28985
+    levelfactor: 3.252589
+    enemyhealth: 5985
+  - level: 134
+    attack: 441
+    firecooltime: 4.53
+    rotatepersec: 52.060608
+    acceleration: 7.171717
+    health: 29236
+    levelfactor: 3.2631996
+    enemyhealth: 6028
+  - level: 135
+    attack: 444
+    firecooltime: 4.52
+    rotatepersec: 52.121212
+    acceleration: 7.176768
+    health: 29487
+    levelfactor: 3.273794
+    enemyhealth: 6072
+  - level: 136
+    attack: 447
+    firecooltime: 4.51
+    rotatepersec: 52.18182
+    acceleration: 7.181818
+    health: 29740
+    levelfactor: 3.2843726
+    enemyhealth: 6115
+  - level: 137
+    attack: 450
+    firecooltime: 4.5
+    rotatepersec: 52.242424
+    acceleration: 7.1868687
+    health: 29993
+    levelfactor: 3.2949355
+    enemyhealth: 6158
+  - level: 138
+    attack: 453
+    firecooltime: 4.49
+    rotatepersec: 52.303032
+    acceleration: 7.1919193
+    health: 30248
+    levelfactor: 3.305483
+    enemyhealth: 6202
+  - level: 139
+    attack: 456
+    firecooltime: 4.48
+    rotatepersec: 52.363636
+    acceleration: 7.1969695
+    health: 30503
+    levelfactor: 3.3160155
+    enemyhealth: 6245
+  - level: 140
+    attack: 459
+    firecooltime: 4.48
+    rotatepersec: 52.424244
+    acceleration: 7.20202
+    health: 30759
+    levelfactor: 3.3265333
+    enemyhealth: 6288
+  - level: 141
+    attack: 462
+    firecooltime: 4.47
+    rotatepersec: 52.484848
+    acceleration: 7.207071
+    health: 31016
+    levelfactor: 3.3370364
+    enemyhealth: 6332
+  - level: 142
+    attack: 465
+    firecooltime: 4.46
+    rotatepersec: 52.545456
+    acceleration: 7.212121
+    health: 31274
+    levelfactor: 3.3475251
+    enemyhealth: 6375
+  - level: 143
+    attack: 468
+    firecooltime: 4.45
+    rotatepersec: 52.60606
+    acceleration: 7.2171717
+    health: 31533
+    levelfactor: 3.358
+    enemyhealth: 6419
+  - level: 144
+    attack: 471
+    firecooltime: 4.44
+    rotatepersec: 52.666668
+    acceleration: 7.2222223
+    health: 31793
+    levelfactor: 3.364
+    enemyhealth: 6462
+  - level: 145
+    attack: 474
+    firecooltime: 4.44
+    rotatepersec: 52.727272
+    acceleration: 7.2272725
+    health: 32053
+    levelfactor: 3.37
+    enemyhealth: 6506
+  - level: 146
+    attack: 477
+    firecooltime: 4.43
+    rotatepersec: 52.78788
+    acceleration: 7.232323
+    health: 32315
+    levelfactor: 3.376
+    enemyhealth: 6549
+  - level: 147
+    attack: 480
+    firecooltime: 4.42
+    rotatepersec: 52.848484
+    acceleration: 7.237374
+    health: 32578
+    levelfactor: 3.382
+    enemyhealth: 6593
+  - level: 148
+    attack: 483
+    firecooltime: 4.41
+    rotatepersec: 52.909092
+    acceleration: 7.242424
+    health: 32841
+    levelfactor: 3.388
+    enemyhealth: 6636
+  - level: 149
+    attack: 486
+    firecooltime: 4.4
+    rotatepersec: 52.969696
+    acceleration: 7.2474747
+    health: 33106
+    levelfactor: 3.394
+    enemyhealth: 6680
+  - level: 150
+    attack: 489
+    firecooltime: 4.4
+    rotatepersec: 53.030304
+    acceleration: 7.2525253
+    health: 33372
+    levelfactor: 3.4
+    enemyhealth: 6724
+  - level: 151
+    attack: 492
+    firecooltime: 4.39
+    rotatepersec: 53.090908
+    acceleration: 7.257576
+    health: 33638
+    levelfactor: 3.406
+    enemyhealth: 6767
+  - level: 152
+    attack: 495
+    firecooltime: 4.38
+    rotatepersec: 53.151516
+    acceleration: 7.262626
+    health: 33906
+    levelfactor: 3.412
+    enemyhealth: 6811
+  - level: 153
+    attack: 498
+    firecooltime: 4.37
+    rotatepersec: 53.21212
+    acceleration: 7.267677
+    health: 34174
+    levelfactor: 3.418
+    enemyhealth: 6855
+  - level: 154
+    attack: 501
+    firecooltime: 4.36
+    rotatepersec: 53.272728
+    acceleration: 7.2727275
+    health: 34444
+    levelfactor: 3.424
+    enemyhealth: 6899
+  - level: 155
+    attack: 504
+    firecooltime: 4.36
+    rotatepersec: 53.333332
+    acceleration: 7.2777777
+    health: 34714
+    levelfactor: 3.43
+    enemyhealth: 6943
+  - level: 156
+    attack: 507
+    firecooltime: 4.35
+    rotatepersec: 53.39394
+    acceleration: 7.2828283
+    health: 34986
+    levelfactor: 3.436
+    enemyhealth: 6986
+  - level: 157
+    attack: 510
+    firecooltime: 4.34
+    rotatepersec: 53.454544
+    acceleration: 7.287879
+    health: 35258
+    levelfactor: 3.442
+    enemyhealth: 7030
+  - level: 158
+    attack: 513
+    firecooltime: 4.33
+    rotatepersec: 53.515152
+    acceleration: 7.292929
+    health: 35532
+    levelfactor: 3.448
+    enemyhealth: 7074
+  - level: 159
+    attack: 516
+    firecooltime: 4.32
+    rotatepersec: 53.575756
+    acceleration: 7.29798
+    health: 35807
+    levelfactor: 3.454
+    enemyhealth: 7118
+  - level: 160
+    attack: 519
+    firecooltime: 4.32
+    rotatepersec: 53.636364
+    acceleration: 7.3030305
+    health: 36082
+    levelfactor: 3.46
+    enemyhealth: 7162
+  - level: 161
+    attack: 522
+    firecooltime: 4.31
+    rotatepersec: 53.696968
+    acceleration: 7.3080807
+    health: 36359
+    levelfactor: 3.466
+    enemyhealth: 7206
+  - level: 162
+    attack: 525
+    firecooltime: 4.3
+    rotatepersec: 53.757576
+    acceleration: 7.3131313
+    health: 36637
+    levelfactor: 3.472
+    enemyhealth: 7250
+  - level: 163
+    attack: 528
+    firecooltime: 4.29
+    rotatepersec: 53.81818
+    acceleration: 7.318182
+    health: 36915
+    levelfactor: 3.478
+    enemyhealth: 7294
+  - level: 164
+    attack: 531
+    firecooltime: 4.28
+    rotatepersec: 53.878788
+    acceleration: 7.323232
+    health: 37195
+    levelfactor: 3.484
+    enemyhealth: 7338
+  - level: 165
+    attack: 534
+    firecooltime: 4.27
+    rotatepersec: 53.939392
+    acceleration: 7.328283
+    health: 37476
+    levelfactor: 3.49
+    enemyhealth: 7383
+  - level: 166
+    attack: 537
+    firecooltime: 4.27
+    rotatepersec: 54
+    acceleration: 7.3333335
+    health: 37758
+    levelfactor: 3.496
+    enemyhealth: 7427
+  - level: 167
+    attack: 540
+    firecooltime: 4.26
+    rotatepersec: 54.060608
+    acceleration: 7.3383837
+    health: 38041
+    levelfactor: 3.502
+    enemyhealth: 7471
+  - level: 168
+    attack: 543
+    firecooltime: 4.25
+    rotatepersec: 54.121212
+    acceleration: 7.3434343
+    health: 38325
+    levelfactor: 3.508
+    enemyhealth: 7515
+  - level: 169
+    attack: 546
+    firecooltime: 4.24
+    rotatepersec: 54.18182
+    acceleration: 7.348485
+    health: 38610
+    levelfactor: 3.514
+    enemyhealth: 7559
+  - level: 170
+    attack: 549
+    firecooltime: 4.23
+    rotatepersec: 54.242424
+    acceleration: 7.353535
+    health: 38896
+    levelfactor: 3.52
+    enemyhealth: 7604
+  - level: 171
+    attack: 552
+    firecooltime: 4.23
+    rotatepersec: 54.303032
+    acceleration: 7.358586
+    health: 39184
+    levelfactor: 3.526
+    enemyhealth: 7648
+  - level: 172
+    attack: 555
+    firecooltime: 4.22
+    rotatepersec: 54.363636
+    acceleration: 7.3636365
+    health: 39472
+    levelfactor: 3.532
+    enemyhealth: 7692
+  - level: 173
+    attack: 558
+    firecooltime: 4.21
+    rotatepersec: 54.424244
+    acceleration: 7.3686867
+    health: 39762
+    levelfactor: 3.538
+    enemyhealth: 7737
+  - level: 174
+    attack: 561
+    firecooltime: 4.2
+    rotatepersec: 54.484848
+    acceleration: 7.3737373
+    health: 40052
+    levelfactor: 3.544
+    enemyhealth: 7781
+  - level: 175
+    attack: 564
+    firecooltime: 4.19
+    rotatepersec: 54.545456
+    acceleration: 7.378788
+    health: 40344
+    levelfactor: 3.55
+    enemyhealth: 7826
+  - level: 176
+    attack: 567
+    firecooltime: 4.19
+    rotatepersec: 54.60606
+    acceleration: 7.383838
+    health: 40637
+    levelfactor: 3.556
+    enemyhealth: 7870
+  - level: 177
+    attack: 570
+    firecooltime: 4.18
+    rotatepersec: 54.666668
+    acceleration: 7.388889
+    health: 40931
+    levelfactor: 3.562
+    enemyhealth: 7914
+  - level: 178
+    attack: 573
+    firecooltime: 4.17
+    rotatepersec: 54.727272
+    acceleration: 7.3939395
+    health: 41226
+    levelfactor: 3.568
+    enemyhealth: 7959
+  - level: 179
+    attack: 576
+    firecooltime: 4.16
+    rotatepersec: 54.78788
+    acceleration: 7.3989897
+    health: 41522
+    levelfactor: 3.574
+    enemyhealth: 8004
+  - level: 180
+    attack: 579
+    firecooltime: 4.15
+    rotatepersec: 54.848484
+    acceleration: 7.4040403
+    health: 41820
+    levelfactor: 3.58
+    enemyhealth: 8048
+  - level: 181
+    attack: 582
+    firecooltime: 4.15
+    rotatepersec: 54.909092
+    acceleration: 7.409091
+    health: 42118
+    levelfactor: 3.586
+    enemyhealth: 8093
+  - level: 182
+    attack: 585
+    firecooltime: 4.14
+    rotatepersec: 54.969696
+    acceleration: 7.414141
+    health: 42418
+    levelfactor: 3.592
+    enemyhealth: 8137
+  - level: 183
+    attack: 588
+    firecooltime: 4.13
+    rotatepersec: 55.030304
+    acceleration: 7.419192
+    health: 42719
+    levelfactor: 3.598
+    enemyhealth: 8182
+  - level: 184
+    attack: 591
+    firecooltime: 4.12
+    rotatepersec: 55.090908
+    acceleration: 7.4242425
+    health: 43021
+    levelfactor: 3.604
+    enemyhealth: 8227
+  - level: 185
+    attack: 594
+    firecooltime: 4.11
+    rotatepersec: 55.151516
+    acceleration: 7.429293
+    health: 43325
+    levelfactor: 3.61
+    enemyhealth: 8271
+  - level: 186
+    attack: 597
+    firecooltime: 4.11
+    rotatepersec: 55.21212
+    acceleration: 7.4343433
+    health: 43629
+    levelfactor: 3.616
+    enemyhealth: 8316
+  - level: 187
+    attack: 600
+    firecooltime: 4.1
+    rotatepersec: 55.272728
+    acceleration: 7.439394
+    health: 43935
+    levelfactor: 3.622
+    enemyhealth: 8361
+  - level: 188
+    attack: 603
+    firecooltime: 4.09
+    rotatepersec: 55.333332
+    acceleration: 7.4444447
+    health: 44242
+    levelfactor: 3.628
+    enemyhealth: 8406
+  - level: 189
+    attack: 606
+    firecooltime: 4.08
+    rotatepersec: 55.39394
+    acceleration: 7.449495
+    health: 44550
+    levelfactor: 3.634
+    enemyhealth: 8451
+  - level: 190
+    attack: 609
+    firecooltime: 4.07
+    rotatepersec: 55.454544
+    acceleration: 7.4545455
+    health: 44859
+    levelfactor: 3.64
+    enemyhealth: 8496
+  - level: 191
+    attack: 612
+    firecooltime: 4.06
+    rotatepersec: 55.515152
+    acceleration: 7.459596
+    health: 45170
+    levelfactor: 3.646
+    enemyhealth: 8540
+  - level: 192
+    attack: 615
+    firecooltime: 4.06
+    rotatepersec: 55.575756
+    acceleration: 7.4646463
+    health: 45482
+    levelfactor: 3.652
+    enemyhealth: 8585
+  - level: 193
+    attack: 618
+    firecooltime: 4.05
+    rotatepersec: 55.636364
+    acceleration: 7.469697
+    health: 45795
+    levelfactor: 3.658
+    enemyhealth: 8630
+  - level: 194
+    attack: 621
+    firecooltime: 4.04
+    rotatepersec: 55.696968
+    acceleration: 7.4747477
+    health: 46109
+    levelfactor: 3.664
+    enemyhealth: 8675
+  - level: 195
+    attack: 624
+    firecooltime: 4.03
+    rotatepersec: 55.757576
+    acceleration: 7.479798
+    health: 46425
+    levelfactor: 3.67
+    enemyhealth: 8720
+  - level: 196
+    attack: 627
+    firecooltime: 4.02
+    rotatepersec: 55.81818
+    acceleration: 7.4848485
+    health: 46742
+    levelfactor: 3.676
+    enemyhealth: 8765
+  - level: 197
+    attack: 630
+    firecooltime: 4.02
+    rotatepersec: 55.878788
+    acceleration: 7.489899
+    health: 47060
+    levelfactor: 3.682
+    enemyhealth: 8811
+  - level: 198
+    attack: 633
+    firecooltime: 4.01
+    rotatepersec: 55.939392
+    acceleration: 7.4949493
+    health: 47379
+    levelfactor: 3.688
+    enemyhealth: 8856
+  - level: 199
+    attack: 636
+    firecooltime: 4
+    rotatepersec: 56
+    acceleration: 7.5
+    health: 47700
+    levelfactor: 3.694
+    enemyhealth: 8901
+  - level: 200
+    attack: 530
+    firecooltime: 4
+    rotatepersec: 51
+    acceleration: 8
+    health: 47700
+    levelfactor: 3.7
+    enemyhealth: 8904
+  - level: 201
+    attack: 533
+    firecooltime: 3.99
+    rotatepersec: 51.060608
+    acceleration: 8.005051
+    health: 48055
+    levelfactor: 3.706
+    enemyhealth: 8958
+  - level: 202
+    attack: 536
+    firecooltime: 3.99
+    rotatepersec: 51.121212
+    acceleration: 8.010101
+    health: 48411
+    levelfactor: 3.712
+    enemyhealth: 9011
+  - level: 203
+    attack: 539
+    firecooltime: 3.98
+    rotatepersec: 51.18182
+    acceleration: 8.015152
+    health: 48769
+    levelfactor: 3.718
+    enemyhealth: 9065
+  - level: 204
+    attack: 542
+    firecooltime: 3.97
+    rotatepersec: 51.242424
+    acceleration: 8.020202
+    health: 49127
+    levelfactor: 3.724
+    enemyhealth: 9119
+  - level: 205
+    attack: 545
+    firecooltime: 3.96
+    rotatepersec: 51.303032
+    acceleration: 8.025252
+    health: 49487
+    levelfactor: 3.73
+    enemyhealth: 9172
+  - level: 206
+    attack: 548
+    firecooltime: 3.96
+    rotatepersec: 51.363636
+    acceleration: 8.030303
+    health: 49849
+    levelfactor: 3.736
+    enemyhealth: 9226
+  - level: 207
+    attack: 551
+    firecooltime: 3.95
+    rotatepersec: 51.424244
+    acceleration: 8.035354
+    health: 50211
+    levelfactor: 3.742
+    enemyhealth: 9280
+  - level: 208
+    attack: 554
+    firecooltime: 3.94
+    rotatepersec: 51.484848
+    acceleration: 8.040404
+    health: 50575
+    levelfactor: 3.748
+    enemyhealth: 9334
+  - level: 209
+    attack: 557
+    firecooltime: 3.94
+    rotatepersec: 51.545456
+    acceleration: 8.045455
+    health: 50940
+    levelfactor: 3.754
+    enemyhealth: 9388
+  - level: 210
+    attack: 560
+    firecooltime: 3.93
+    rotatepersec: 51.60606
+    acceleration: 8.050505
+    health: 51307
+    levelfactor: 3.76
+    enemyhealth: 9442
+  - level: 211
+    attack: 563
+    firecooltime: 3.92
+    rotatepersec: 51.666668
+    acceleration: 8.055555
+    health: 51675
+    levelfactor: 3.766
+    enemyhealth: 9496
+  - level: 212
+    attack: 566
+    firecooltime: 3.92
+    rotatepersec: 51.727272
+    acceleration: 8.060606
+    health: 52044
+    levelfactor: 3.772
+    enemyhealth: 9550
+  - level: 213
+    attack: 569
+    firecooltime: 3.91
+    rotatepersec: 51.78788
+    acceleration: 8.065657
+    health: 52414
+    levelfactor: 3.778
+    enemyhealth: 9604
+  - level: 214
+    attack: 572
+    firecooltime: 3.9
+    rotatepersec: 51.848484
+    acceleration: 8.070707
+    health: 52786
+    levelfactor: 3.784
+    enemyhealth: 9658
+  - level: 215
+    attack: 575
+    firecooltime: 3.89
+    rotatepersec: 51.909092
+    acceleration: 8.075758
+    health: 53160
+    levelfactor: 3.79
+    enemyhealth: 9712
+  - level: 216
+    attack: 578
+    firecooltime: 3.89
+    rotatepersec: 51.969696
+    acceleration: 8.080808
+    health: 53534
+    levelfactor: 3.796
+    enemyhealth: 9766
+  - level: 217
+    attack: 581
+    firecooltime: 3.88
+    rotatepersec: 52.030304
+    acceleration: 8.085858
+    health: 53910
+    levelfactor: 3.802
+    enemyhealth: 9820
+  - level: 218
+    attack: 584
+    firecooltime: 3.87
+    rotatepersec: 52.090908
+    acceleration: 8.090909
+    health: 54287
+    levelfactor: 3.808
+    enemyhealth: 9874
+  - level: 219
+    attack: 587
+    firecooltime: 3.87
+    rotatepersec: 52.151516
+    acceleration: 8.09596
+    health: 54666
+    levelfactor: 3.814
+    enemyhealth: 9929
+  - level: 220
+    attack: 590
+    firecooltime: 3.86
+    rotatepersec: 52.21212
+    acceleration: 8.10101
+    health: 55046
+    levelfactor: 3.82
+    enemyhealth: 9983
+  - level: 221
+    attack: 593
+    firecooltime: 3.85
+    rotatepersec: 52.272728
+    acceleration: 8.106061
+    health: 55428
+    levelfactor: 3.826
+    enemyhealth: 10037
+  - level: 222
+    attack: 596
+    firecooltime: 3.84
+    rotatepersec: 52.333332
+    acceleration: 8.111111
+    health: 55810
+    levelfactor: 3.832
+    enemyhealth: 10091
+  - level: 223
+    attack: 599
+    firecooltime: 3.84
+    rotatepersec: 52.39394
+    acceleration: 8.116161
+    health: 56195
+    levelfactor: 3.838
+    enemyhealth: 10146
+  - level: 224
+    attack: 602
+    firecooltime: 3.83
+    rotatepersec: 52.454544
+    acceleration: 8.121212
+    health: 56580
+    levelfactor: 3.844
+    enemyhealth: 10200
+  - level: 225
+    attack: 605
+    firecooltime: 3.82
+    rotatepersec: 52.515152
+    acceleration: 8.126263
+    health: 56968
+    levelfactor: 3.85
+    enemyhealth: 10255
+  - level: 226
+    attack: 608
+    firecooltime: 3.82
+    rotatepersec: 52.575756
+    acceleration: 8.131313
+    health: 57356
+    levelfactor: 3.856
+    enemyhealth: 10309
+  - level: 227
+    attack: 611
+    firecooltime: 3.81
+    rotatepersec: 52.636364
+    acceleration: 8.136364
+    health: 57746
+    levelfactor: 3.862
+    enemyhealth: 10364
+  - level: 228
+    attack: 614
+    firecooltime: 3.8
+    rotatepersec: 52.696968
+    acceleration: 8.141414
+    health: 58138
+    levelfactor: 3.868
+    enemyhealth: 10418
+  - level: 229
+    attack: 617
+    firecooltime: 3.79
+    rotatepersec: 52.757576
+    acceleration: 8.146464
+    health: 58530
+    levelfactor: 3.874
+    enemyhealth: 10473
+  - level: 230
+    attack: 620
+    firecooltime: 3.79
+    rotatepersec: 52.81818
+    acceleration: 8.151515
+    health: 58925
+    levelfactor: 3.88
+    enemyhealth: 10528
+  - level: 231
+    attack: 623
+    firecooltime: 3.78
+    rotatepersec: 52.878788
+    acceleration: 8.156566
+    health: 59321
+    levelfactor: 3.886
+    enemyhealth: 10582
+  - level: 232
+    attack: 626
+    firecooltime: 3.77
+    rotatepersec: 52.939392
+    acceleration: 8.161616
+    health: 59718
+    levelfactor: 3.892
+    enemyhealth: 10637
+  - level: 233
+    attack: 629
+    firecooltime: 3.77
+    rotatepersec: 53
+    acceleration: 8.166667
+    health: 60117
+    levelfactor: 3.898
+    enemyhealth: 10692
+  - level: 234
+    attack: 632
+    firecooltime: 3.76
+    rotatepersec: 53.060608
+    acceleration: 8.171718
+    health: 60517
+    levelfactor: 3.904
+    enemyhealth: 10747
+  - level: 235
+    attack: 635
+    firecooltime: 3.75
+    rotatepersec: 53.121212
+    acceleration: 8.176767
+    health: 60919
+    levelfactor: 3.91
+    enemyhealth: 10801
+  - level: 236
+    attack: 638
+    firecooltime: 3.75
+    rotatepersec: 53.18182
+    acceleration: 8.181818
+    health: 61322
+    levelfactor: 3.916
+    enemyhealth: 10856
+  - level: 237
+    attack: 641
+    firecooltime: 3.74
+    rotatepersec: 53.242424
+    acceleration: 8.186869
+    health: 61727
+    levelfactor: 3.922
+    enemyhealth: 10911
+  - level: 238
+    attack: 644
+    firecooltime: 3.73
+    rotatepersec: 53.303032
+    acceleration: 8.191919
+    health: 62134
+    levelfactor: 3.928
+    enemyhealth: 10966
+  - level: 239
+    attack: 647
+    firecooltime: 3.72
+    rotatepersec: 53.363636
+    acceleration: 8.19697
+    health: 62542
+    levelfactor: 3.934
+    enemyhealth: 11021
+  - level: 240
+    attack: 650
+    firecooltime: 3.72
+    rotatepersec: 53.424244
+    acceleration: 8.202021
+    health: 62951
+    levelfactor: 3.94
+    enemyhealth: 11076
+  - level: 241
+    attack: 653
+    firecooltime: 3.71
+    rotatepersec: 53.484848
+    acceleration: 8.20707
+    health: 63362
+    levelfactor: 3.946
+    enemyhealth: 11131
+  - level: 242
+    attack: 656
+    firecooltime: 3.7
+    rotatepersec: 53.545456
+    acceleration: 8.212121
+    health: 63775
+    levelfactor: 3.952
+    enemyhealth: 11186
+  - level: 243
+    attack: 659
+    firecooltime: 3.7
+    rotatepersec: 53.60606
+    acceleration: 8.217172
+    health: 64189
+    levelfactor: 3.958
+    enemyhealth: 11241
+  - level: 244
+    attack: 662
+    firecooltime: 3.69
+    rotatepersec: 53.666668
+    acceleration: 8.222222
+    health: 64605
+    levelfactor: 3.964
+    enemyhealth: 11296
+  - level: 245
+    attack: 665
+    firecooltime: 3.68
+    rotatepersec: 53.727272
+    acceleration: 8.227273
+    health: 65022
+    levelfactor: 3.97
+    enemyhealth: 11352
+  - level: 246
+    attack: 668
+    firecooltime: 3.67
+    rotatepersec: 53.78788
+    acceleration: 8.232324
+    health: 65441
+    levelfactor: 3.976
+    enemyhealth: 11407
+  - level: 247
+    attack: 671
+    firecooltime: 3.67
+    rotatepersec: 53.848484
+    acceleration: 8.237373
+    health: 65862
+    levelfactor: 3.982
+    enemyhealth: 11462
+  - level: 248
+    attack: 674
+    firecooltime: 3.66
+    rotatepersec: 53.909092
+    acceleration: 8.242424
+    health: 66284
+    levelfactor: 3.988
+    enemyhealth: 11517
+  - level: 249
+    attack: 677
+    firecooltime: 3.65
+    rotatepersec: 53.969696
+    acceleration: 8.247475
+    health: 66708
+    levelfactor: 3.994
+    enemyhealth: 11573
+  - level: 250
+    attack: 680
+    firecooltime: 3.65
+    rotatepersec: 54.030304
+    acceleration: 8.252525
+    health: 67134
+    levelfactor: 4
+    enemyhealth: 11628
+  - level: 251
+    attack: 683
+    firecooltime: 3.64
+    rotatepersec: 54.090908
+    acceleration: 8.257576
+    health: 67561
+    levelfactor: 4.006
+    enemyhealth: 11683
+  - level: 252
+    attack: 686
+    firecooltime: 3.63
+    rotatepersec: 54.151516
+    acceleration: 8.262627
+    health: 67990
+    levelfactor: 4.012
+    enemyhealth: 11739
+  - level: 253
+    attack: 689
+    firecooltime: 3.63
+    rotatepersec: 54.21212
+    acceleration: 8.267676
+    health: 68420
+    levelfactor: 4.018
+    enemyhealth: 11794
+  - level: 254
+    attack: 692
+    firecooltime: 3.62
+    rotatepersec: 54.272728
+    acceleration: 8.272727
+    health: 68852
+    levelfactor: 4.024
+    enemyhealth: 11850
+  - level: 255
+    attack: 695
+    firecooltime: 3.61
+    rotatepersec: 54.333332
+    acceleration: 8.277778
+    health: 69286
+    levelfactor: 4.03
+    enemyhealth: 11905
+  - level: 256
+    attack: 698
+    firecooltime: 3.6
+    rotatepersec: 54.39394
+    acceleration: 8.282828
+    health: 69722
+    levelfactor: 4.036
+    enemyhealth: 11961
+  - level: 257
+    attack: 701
+    firecooltime: 3.6
+    rotatepersec: 54.454544
+    acceleration: 8.287879
+    health: 70159
+    levelfactor: 4.042
+    enemyhealth: 12017
+  - level: 258
+    attack: 704
+    firecooltime: 3.59
+    rotatepersec: 54.515152
+    acceleration: 8.29293
+    health: 70598
+    levelfactor: 4.048
+    enemyhealth: 12072
+  - level: 259
+    attack: 707
+    firecooltime: 3.58
+    rotatepersec: 54.575756
+    acceleration: 8.297979
+    health: 71039
+    levelfactor: 4.054
+    enemyhealth: 12128
+  - level: 260
+    attack: 710
+    firecooltime: 3.58
+    rotatepersec: 54.636364
+    acceleration: 8.30303
+    health: 71481
+    levelfactor: 4.06
+    enemyhealth: 12184
+  - level: 261
+    attack: 713
+    firecooltime: 3.57
+    rotatepersec: 54.696968
+    acceleration: 8.308081
+    health: 71926
+    levelfactor: 4.066
+    enemyhealth: 12239
+  - level: 262
+    attack: 716
+    firecooltime: 3.56
+    rotatepersec: 54.757576
+    acceleration: 8.313131
+    health: 72372
+    levelfactor: 4.072
+    enemyhealth: 12295
+  - level: 263
+    attack: 719
+    firecooltime: 3.55
+    rotatepersec: 54.81818
+    acceleration: 8.318182
+    health: 72819
+    levelfactor: 4.078
+    enemyhealth: 12351
+  - level: 264
+    attack: 722
+    firecooltime: 3.55
+    rotatepersec: 54.878788
+    acceleration: 8.323233
+    health: 73269
+    levelfactor: 4.084
+    enemyhealth: 12407
+  - level: 265
+    attack: 725
+    firecooltime: 3.54
+    rotatepersec: 54.939392
+    acceleration: 8.328282
+    health: 73720
+    levelfactor: 4.09
+    enemyhealth: 12463
+  - level: 266
+    attack: 728
+    firecooltime: 3.53
+    rotatepersec: 55
+    acceleration: 8.333333
+    health: 74174
+    levelfactor: 4.096
+    enemyhealth: 12519
+  - level: 267
+    attack: 731
+    firecooltime: 3.53
+    rotatepersec: 55.060608
+    acceleration: 8.338384
+    health: 74629
+    levelfactor: 4.102
+    enemyhealth: 12575
+  - level: 268
+    attack: 734
+    firecooltime: 3.52
+    rotatepersec: 55.121212
+    acceleration: 8.343434
+    health: 75085
+    levelfactor: 4.108
+    enemyhealth: 12631
+  - level: 269
+    attack: 737
+    firecooltime: 3.51
+    rotatepersec: 55.18182
+    acceleration: 8.348485
+    health: 75544
+    levelfactor: 4.114
+    enemyhealth: 12687
+  - level: 270
+    attack: 740
+    firecooltime: 3.51
+    rotatepersec: 55.242424
+    acceleration: 8.353536
+    health: 76005
+    levelfactor: 4.12
+    enemyhealth: 12743
+  - level: 271
+    attack: 743
+    firecooltime: 3.5
+    rotatepersec: 55.303032
+    acceleration: 8.358586
+    health: 76467
+    levelfactor: 4.126
+    enemyhealth: 12799
+  - level: 272
+    attack: 746
+    firecooltime: 3.49
+    rotatepersec: 55.363636
+    acceleration: 8.363636
+    health: 76931
+    levelfactor: 4.132
+    enemyhealth: 12855
+  - level: 273
+    attack: 749
+    firecooltime: 3.48
+    rotatepersec: 55.424244
+    acceleration: 8.368687
+    health: 77397
+    levelfactor: 4.138
+    enemyhealth: 12911
+  - level: 274
+    attack: 752
+    firecooltime: 3.48
+    rotatepersec: 55.484848
+    acceleration: 8.373737
+    health: 77865
+    levelfactor: 4.144
+    enemyhealth: 12967
+  - level: 275
+    attack: 755
+    firecooltime: 3.47
+    rotatepersec: 55.545456
+    acceleration: 8.378788
+    health: 78335
+    levelfactor: 4.15
+    enemyhealth: 13024
+  - level: 276
+    attack: 758
+    firecooltime: 3.46
+    rotatepersec: 55.60606
+    acceleration: 8.383839
+    health: 78807
+    levelfactor: 4.156
+    enemyhealth: 13080
+  - level: 277
+    attack: 761
+    firecooltime: 3.46
+    rotatepersec: 55.666668
+    acceleration: 8.388889
+    health: 79281
+    levelfactor: 4.162
+    enemyhealth: 13136
+  - level: 278
+    attack: 764
+    firecooltime: 3.45
+    rotatepersec: 55.727272
+    acceleration: 8.393939
+    health: 79757
+    levelfactor: 4.168
+    enemyhealth: 13193
+  - level: 279
+    attack: 767
+    firecooltime: 3.44
+    rotatepersec: 55.78788
+    acceleration: 8.39899
+    health: 80234
+    levelfactor: 4.174
+    enemyhealth: 13249
+  - level: 280
+    attack: 770
+    firecooltime: 3.43
+    rotatepersec: 55.848484
+    acceleration: 8.40404
+    health: 80714
+    levelfactor: 4.18
+    enemyhealth: 13306
+  - level: 281
+    attack: 773
+    firecooltime: 3.43
+    rotatepersec: 55.909092
+    acceleration: 8.409091
+    health: 81196
+    levelfactor: 4.186
+    enemyhealth: 13362
+  - level: 282
+    attack: 776
+    firecooltime: 3.42
+    rotatepersec: 55.969696
+    acceleration: 8.414142
+    health: 81679
+    levelfactor: 4.192
+    enemyhealth: 13419
+  - level: 283
+    attack: 779
+    firecooltime: 3.41
+    rotatepersec: 56.030304
+    acceleration: 8.419192
+    health: 82165
+    levelfactor: 4.198
+    enemyhealth: 13475
+  - level: 284
+    attack: 782
+    firecooltime: 3.41
+    rotatepersec: 56.090908
+    acceleration: 8.424242
+    health: 82653
+    levelfactor: 4.204
+    enemyhealth: 13532
+  - level: 285
+    attack: 785
+    firecooltime: 3.4
+    rotatepersec: 56.151516
+    acceleration: 8.429293
+    health: 83142
+    levelfactor: 4.21
+    enemyhealth: 13588
+  - level: 286
+    attack: 788
+    firecooltime: 3.39
+    rotatepersec: 56.21212
+    acceleration: 8.434343
+    health: 83634
+    levelfactor: 4.216
+    enemyhealth: 13645
+  - level: 287
+    attack: 791
+    firecooltime: 3.38
+    rotatepersec: 56.272728
+    acceleration: 8.439394
+    health: 84128
+    levelfactor: 4.222
+    enemyhealth: 13702
+  - level: 288
+    attack: 794
+    firecooltime: 3.38
+    rotatepersec: 56.333332
+    acceleration: 8.444445
+    health: 84624
+    levelfactor: 4.228
+    enemyhealth: 13758
+  - level: 289
+    attack: 797
+    firecooltime: 3.37
+    rotatepersec: 56.39394
+    acceleration: 8.449495
+    health: 85122
+    levelfactor: 4.234
+    enemyhealth: 13815
+  - level: 290
+    attack: 800
+    firecooltime: 3.36
+    rotatepersec: 56.454544
+    acceleration: 8.454545
+    health: 85622
+    levelfactor: 4.24
+    enemyhealth: 13872
+  - level: 291
+    attack: 803
+    firecooltime: 3.36
+    rotatepersec: 56.515152
+    acceleration: 8.459596
+    health: 86124
+    levelfactor: 4.246
+    enemyhealth: 13929
+  - level: 292
+    attack: 806
+    firecooltime: 3.35
+    rotatepersec: 56.575756
+    acceleration: 8.464646
+    health: 86628
+    levelfactor: 4.252
+    enemyhealth: 13986
+  - level: 293
+    attack: 809
+    firecooltime: 3.34
+    rotatepersec: 56.636364
+    acceleration: 8.469697
+    health: 87134
+    levelfactor: 4.258
+    enemyhealth: 14043
+  - level: 294
+    attack: 812
+    firecooltime: 3.34
+    rotatepersec: 56.696968
+    acceleration: 8.474748
+    health: 87643
+    levelfactor: 4.264
+    enemyhealth: 14100
+  - level: 295
+    attack: 815
+    firecooltime: 3.33
+    rotatepersec: 56.757576
+    acceleration: 8.479798
+    health: 88154
+    levelfactor: 4.27
+    enemyhealth: 14157
+  - level: 296
+    attack: 818
+    firecooltime: 3.32
+    rotatepersec: 56.81818
+    acceleration: 8.484848
+    health: 88666
+    levelfactor: 4.276
+    enemyhealth: 14214
+  - level: 297
+    attack: 821
+    firecooltime: 3.31
+    rotatepersec: 56.878788
+    acceleration: 8.489899
+    health: 89181
+    levelfactor: 4.282
+    enemyhealth: 14271
+  - level: 298
+    attack: 824
+    firecooltime: 3.31
+    rotatepersec: 56.939392
+    acceleration: 8.494949
+    health: 89699
+    levelfactor: 4.288
+    enemyhealth: 14328
+  - level: 299
+    attack: 827
+    firecooltime: 3.3
+    rotatepersec: 57
+    acceleration: 8.5
+    health: 90218
+    levelfactor: 4.294
+    enemyhealth: 14385
+  - level: 300
+    attack: 1002
+    firecooltime: 4
+    rotatepersec: 52
+    acceleration: 8
+    health: 90180
+    levelfactor: 4.3
+    enemyhealth: 17435
+  - level: 301
+    attack: 1005
+    firecooltime: 3.99
+    rotatepersec: 52.060608
+    acceleration: 8.005051
+    health: 90610
+    levelfactor: 4.306
+    enemyhealth: 17493
+  - level: 302
+    attack: 1008
+    firecooltime: 3.99
+    rotatepersec: 52.121212
+    acceleration: 8.010101
+    health: 91042
+    levelfactor: 4.312
+    enemyhealth: 17551
+  - level: 303
+    attack: 1011
+    firecooltime: 3.98
+    rotatepersec: 52.18182
+    acceleration: 8.015152
+    health: 91475
+    levelfactor: 4.318
+    enemyhealth: 17610
+  - level: 304
+    attack: 1014
+    firecooltime: 3.97
+    rotatepersec: 52.242424
+    acceleration: 8.020202
+    health: 91910
+    levelfactor: 4.324
+    enemyhealth: 17668
+  - level: 305
+    attack: 1017
+    firecooltime: 3.96
+    rotatepersec: 52.303032
+    acceleration: 8.025252
+    health: 92346
+    levelfactor: 4.33
+    enemyhealth: 17726
+  - level: 306
+    attack: 1020
+    firecooltime: 3.96
+    rotatepersec: 52.363636
+    acceleration: 8.030303
+    health: 92784
+    levelfactor: 4.336
+    enemyhealth: 17785
+  - level: 307
+    attack: 1023
+    firecooltime: 3.95
+    rotatepersec: 52.424244
+    acceleration: 8.035354
+    health: 93224
+    levelfactor: 4.342
+    enemyhealth: 17843
+  - level: 308
+    attack: 1026
+    firecooltime: 3.94
+    rotatepersec: 52.484848
+    acceleration: 8.040404
+    health: 93665
+    levelfactor: 4.348
+    enemyhealth: 17902
+  - level: 309
+    attack: 1029
+    firecooltime: 3.94
+    rotatepersec: 52.545456
+    acceleration: 8.045455
+    health: 94107
+    levelfactor: 4.354
+    enemyhealth: 17960
+  - level: 310
+    attack: 1032
+    firecooltime: 3.93
+    rotatepersec: 52.60606
+    acceleration: 8.050505
+    health: 94551
+    levelfactor: 4.36
+    enemyhealth: 18019
+  - level: 311
+    attack: 1035
+    firecooltime: 3.92
+    rotatepersec: 52.666668
+    acceleration: 8.055555
+    health: 94997
+    levelfactor: 4.366
+    enemyhealth: 18077
+  - level: 312
+    attack: 1038
+    firecooltime: 3.92
+    rotatepersec: 52.727272
+    acceleration: 8.060606
+    health: 95445
+    levelfactor: 4.372
+    enemyhealth: 18136
+  - level: 313
+    attack: 1041
+    firecooltime: 3.91
+    rotatepersec: 52.78788
+    acceleration: 8.065657
+    health: 95894
+    levelfactor: 4.378
+    enemyhealth: 18195
+  - level: 314
+    attack: 1044
+    firecooltime: 3.9
+    rotatepersec: 52.848484
+    acceleration: 8.070707
+    health: 96344
+    levelfactor: 4.384
+    enemyhealth: 18253
+  - level: 315
+    attack: 1047
+    firecooltime: 3.89
+    rotatepersec: 52.909092
+    acceleration: 8.075758
+    health: 96797
+    levelfactor: 4.39
+    enemyhealth: 18312
+  - level: 316
+    attack: 1050
+    firecooltime: 3.89
+    rotatepersec: 52.969696
+    acceleration: 8.080808
+    health: 97251
+    levelfactor: 4.396
+    enemyhealth: 18371
+  - level: 317
+    attack: 1053
+    firecooltime: 3.88
+    rotatepersec: 53.030304
+    acceleration: 8.085858
+    health: 97706
+    levelfactor: 4.402
+    enemyhealth: 18430
+  - level: 318
+    attack: 1056
+    firecooltime: 3.87
+    rotatepersec: 53.090908
+    acceleration: 8.090909
+    health: 98163
+    levelfactor: 4.408
+    enemyhealth: 18488
+  - level: 319
+    attack: 1059
+    firecooltime: 3.87
+    rotatepersec: 53.151516
+    acceleration: 8.09596
+    health: 98622
+    levelfactor: 4.414
+    enemyhealth: 18547
+  - level: 320
+    attack: 1062
+    firecooltime: 3.86
+    rotatepersec: 53.21212
+    acceleration: 8.10101
+    health: 99083
+    levelfactor: 4.42
+    enemyhealth: 18606
+  - level: 321
+    attack: 1065
+    firecooltime: 3.85
+    rotatepersec: 53.272728
+    acceleration: 8.106061
+    health: 99545
+    levelfactor: 4.426
+    enemyhealth: 18665
+  - level: 322
+    attack: 1068
+    firecooltime: 3.84
+    rotatepersec: 53.333332
+    acceleration: 8.111111
+    health: 100009
+    levelfactor: 4.432
+    enemyhealth: 18724
+  - level: 323
+    attack: 1071
+    firecooltime: 3.84
+    rotatepersec: 53.39394
+    acceleration: 8.116161
+    health: 100475
+    levelfactor: 4.438
+    enemyhealth: 18783
+  - level: 324
+    attack: 1074
+    firecooltime: 3.83
+    rotatepersec: 53.454544
+    acceleration: 8.121212
+    health: 100942
+    levelfactor: 4.444
+    enemyhealth: 18842
+  - level: 325
+    attack: 1077
+    firecooltime: 3.82
+    rotatepersec: 53.515152
+    acceleration: 8.126263
+    health: 101412
+    levelfactor: 4.45
+    enemyhealth: 18901
+  - level: 326
+    attack: 1080
+    firecooltime: 3.82
+    rotatepersec: 53.575756
+    acceleration: 8.131313
+    health: 101882
+    levelfactor: 4.456
+    enemyhealth: 18960
+  - level: 327
+    attack: 1083
+    firecooltime: 3.81
+    rotatepersec: 53.636364
+    acceleration: 8.136364
+    health: 102355
+    levelfactor: 4.462
+    enemyhealth: 19020
+  - level: 328
+    attack: 1086
+    firecooltime: 3.8
+    rotatepersec: 53.696968
+    acceleration: 8.141414
+    health: 102830
+    levelfactor: 4.468
+    enemyhealth: 19079
+  - level: 329
+    attack: 1089
+    firecooltime: 3.79
+    rotatepersec: 53.757576
+    acceleration: 8.146464
+    health: 103306
+    levelfactor: 4.474
+    enemyhealth: 19138
+  - level: 330
+    attack: 1092
+    firecooltime: 3.79
+    rotatepersec: 53.81818
+    acceleration: 8.151515
+    health: 103784
+    levelfactor: 4.48
+    enemyhealth: 19197
+  - level: 331
+    attack: 1095
+    firecooltime: 3.78
+    rotatepersec: 53.878788
+    acceleration: 8.156566
+    health: 104263
+    levelfactor: 4.486
+    enemyhealth: 19257
+  - level: 332
+    attack: 1098
+    firecooltime: 3.77
+    rotatepersec: 53.939392
+    acceleration: 8.161616
+    health: 104745
+    levelfactor: 4.492
+    enemyhealth: 19316
+  - level: 333
+    attack: 1101
+    firecooltime: 3.77
+    rotatepersec: 54
+    acceleration: 8.166667
+    health: 105228
+    levelfactor: 4.498
+    enemyhealth: 19375
+  - level: 334
+    attack: 1104
+    firecooltime: 3.76
+    rotatepersec: 54.060608
+    acceleration: 8.171718
+    health: 105713
+    levelfactor: 4.504
+    enemyhealth: 19435
+  - level: 335
+    attack: 1107
+    firecooltime: 3.75
+    rotatepersec: 54.121212
+    acceleration: 8.176767
+    health: 106200
+    levelfactor: 4.51
+    enemyhealth: 19494
+  - level: 336
+    attack: 1110
+    firecooltime: 3.75
+    rotatepersec: 54.18182
+    acceleration: 8.181818
+    health: 106689
+    levelfactor: 4.516
+    enemyhealth: 19554
+  - level: 337
+    attack: 1113
+    firecooltime: 3.74
+    rotatepersec: 54.242424
+    acceleration: 8.186869
+    health: 107180
+    levelfactor: 4.522
+    enemyhealth: 19613
+  - level: 338
+    attack: 1116
+    firecooltime: 3.73
+    rotatepersec: 54.303032
+    acceleration: 8.191919
+    health: 107673
+    levelfactor: 4.528
+    enemyhealth: 19673
+  - level: 339
+    attack: 1119
+    firecooltime: 3.72
+    rotatepersec: 54.363636
+    acceleration: 8.19697
+    health: 108167
+    levelfactor: 4.534
+    enemyhealth: 19732
+  - level: 340
+    attack: 1122
+    firecooltime: 3.72
+    rotatepersec: 54.424244
+    acceleration: 8.202021
+    health: 108663
+    levelfactor: 4.54
+    enemyhealth: 19792
+  - level: 341
+    attack: 1125
+    firecooltime: 3.71
+    rotatepersec: 54.484848
+    acceleration: 8.20707
+    health: 109161
+    levelfactor: 4.546
+    enemyhealth: 19852
+  - level: 342
+    attack: 1128
+    firecooltime: 3.7
+    rotatepersec: 54.545456
+    acceleration: 8.212121
+    health: 109662
+    levelfactor: 4.552
+    enemyhealth: 19911
+  - level: 343
+    attack: 1131
+    firecooltime: 3.7
+    rotatepersec: 54.60606
+    acceleration: 8.217172
+    health: 110164
+    levelfactor: 4.558
+    enemyhealth: 19971
+  - level: 344
+    attack: 1134
+    firecooltime: 3.69
+    rotatepersec: 54.666668
+    acceleration: 8.222222
+    health: 110667
+    levelfactor: 4.564
+    enemyhealth: 20031
+  - level: 345
+    attack: 1137
+    firecooltime: 3.68
+    rotatepersec: 54.727272
+    acceleration: 8.227273
+    health: 111173
+    levelfactor: 4.57
+    enemyhealth: 20091
+  - level: 346
+    attack: 1140
+    firecooltime: 3.67
+    rotatepersec: 54.78788
+    acceleration: 8.232324
+    health: 111681
+    levelfactor: 4.576
+    enemyhealth: 20151
+  - level: 347
+    attack: 1143
+    firecooltime: 3.67
+    rotatepersec: 54.848484
+    acceleration: 8.237373
+    health: 112191
+    levelfactor: 4.582
+    enemyhealth: 20211
+  - level: 348
+    attack: 1146
+    firecooltime: 3.66
+    rotatepersec: 54.909092
+    acceleration: 8.242424
+    health: 112703
+    levelfactor: 4.588
+    enemyhealth: 20270
+  - level: 349
+    attack: 1149
+    firecooltime: 3.65
+    rotatepersec: 54.969696
+    acceleration: 8.247475
+    health: 113216
+    levelfactor: 4.594
+    enemyhealth: 20330
+  - level: 350
+    attack: 1152
+    firecooltime: 3.65
+    rotatepersec: 55.030304
+    acceleration: 8.252525
+    health: 113732
+    levelfactor: 4.6
+    enemyhealth: 20390
+  - level: 351
+    attack: 1155
+    firecooltime: 3.64
+    rotatepersec: 55.090908
+    acceleration: 8.257576
+    health: 114250
+    levelfactor: 4.606
+    enemyhealth: 20450
+  - level: 352
+    attack: 1158
+    firecooltime: 3.63
+    rotatepersec: 55.151516
+    acceleration: 8.262627
+    health: 114770
+    levelfactor: 4.612
+    enemyhealth: 20510
+  - level: 353
+    attack: 1161
+    firecooltime: 3.63
+    rotatepersec: 55.21212
+    acceleration: 8.267676
+    health: 115291
+    levelfactor: 4.618
+    enemyhealth: 20571
+  - level: 354
+    attack: 1164
+    firecooltime: 3.62
+    rotatepersec: 55.272728
+    acceleration: 8.272727
+    health: 115815
+    levelfactor: 4.624
+    enemyhealth: 20631
+  - level: 355
+    attack: 1167
+    firecooltime: 3.61
+    rotatepersec: 55.333332
+    acceleration: 8.277778
+    health: 116341
+    levelfactor: 4.63
+    enemyhealth: 20691
+  - level: 356
+    attack: 1170
+    firecooltime: 3.6
+    rotatepersec: 55.39394
+    acceleration: 8.282828
+    health: 116869
+    levelfactor: 4.636
+    enemyhealth: 20751
+  - level: 357
+    attack: 1173
+    firecooltime: 3.6
+    rotatepersec: 55.454544
+    acceleration: 8.287879
+    health: 117399
+    levelfactor: 4.642
+    enemyhealth: 20811
+  - level: 358
+    attack: 1176
+    firecooltime: 3.59
+    rotatepersec: 55.515152
+    acceleration: 8.29293
+    health: 117931
+    levelfactor: 4.648
+    enemyhealth: 20872
+  - level: 359
+    attack: 1179
+    firecooltime: 3.58
+    rotatepersec: 55.575756
+    acceleration: 8.297979
+    health: 118465
+    levelfactor: 4.654
+    enemyhealth: 20932
+  - level: 360
+    attack: 1182
+    firecooltime: 3.58
+    rotatepersec: 55.636364
+    acceleration: 8.30303
+    health: 119001
+    levelfactor: 4.66
+    enemyhealth: 20992
+  - level: 361
+    attack: 1185
+    firecooltime: 3.57
+    rotatepersec: 55.696968
+    acceleration: 8.308081
+    health: 119540
+    levelfactor: 4.666
+    enemyhealth: 21053
+  - level: 362
+    attack: 1188
+    firecooltime: 3.56
+    rotatepersec: 55.757576
+    acceleration: 8.313131
+    health: 120080
+    levelfactor: 4.672
+    enemyhealth: 21113
+  - level: 363
+    attack: 1191
+    firecooltime: 3.55
+    rotatepersec: 55.81818
+    acceleration: 8.318182
+    health: 120623
+    levelfactor: 4.678
+    enemyhealth: 21174
+  - level: 364
+    attack: 1194
+    firecooltime: 3.55
+    rotatepersec: 55.878788
+    acceleration: 8.323233
+    health: 121168
+    levelfactor: 4.684
+    enemyhealth: 21234
+  - level: 365
+    attack: 1197
+    firecooltime: 3.54
+    rotatepersec: 55.939392
+    acceleration: 8.328282
+    health: 121715
+    levelfactor: 4.69
+    enemyhealth: 21295
+  - level: 366
+    attack: 1200
+    firecooltime: 3.53
+    rotatepersec: 56
+    acceleration: 8.333333
+    health: 122264
+    levelfactor: 4.696
+    enemyhealth: 21355
+  - level: 367
+    attack: 1203
+    firecooltime: 3.53
+    rotatepersec: 56.060608
+    acceleration: 8.338384
+    health: 122816
+    levelfactor: 4.702
+    enemyhealth: 21416
+  - level: 368
+    attack: 1206
+    firecooltime: 3.52
+    rotatepersec: 56.121212
+    acceleration: 8.343434
+    health: 123369
+    levelfactor: 4.708
+    enemyhealth: 21476
+  - level: 369
+    attack: 1209
+    firecooltime: 3.51
+    rotatepersec: 56.18182
+    acceleration: 8.348485
+    health: 123925
+    levelfactor: 4.714
+    enemyhealth: 21537
+  - level: 370
+    attack: 1212
+    firecooltime: 3.51
+    rotatepersec: 56.242424
+    acceleration: 8.353536
+    health: 124483
+    levelfactor: 4.72
+    enemyhealth: 21598
+  - level: 371
+    attack: 1215
+    firecooltime: 3.5
+    rotatepersec: 56.303032
+    acceleration: 8.358586
+    health: 125044
+    levelfactor: 4.726
+    enemyhealth: 21659
+  - level: 372
+    attack: 1218
+    firecooltime: 3.49
+    rotatepersec: 56.363636
+    acceleration: 8.363636
+    health: 125606
+    levelfactor: 4.732
+    enemyhealth: 21719
+  - level: 373
+    attack: 1221
+    firecooltime: 3.48
+    rotatepersec: 56.424244
+    acceleration: 8.368687
+    health: 126171
+    levelfactor: 4.738
+    enemyhealth: 21780
+  - level: 374
+    attack: 1224
+    firecooltime: 3.48
+    rotatepersec: 56.484848
+    acceleration: 8.373737
+    health: 126738
+    levelfactor: 4.744
+    enemyhealth: 21841
+  - level: 375
+    attack: 1227
+    firecooltime: 3.47
+    rotatepersec: 56.545456
+    acceleration: 8.378788
+    health: 127308
+    levelfactor: 4.75
+    enemyhealth: 21902
+  - level: 376
+    attack: 1230
+    firecooltime: 3.46
+    rotatepersec: 56.60606
+    acceleration: 8.383839
+    health: 127880
+    levelfactor: 4.756
+    enemyhealth: 21963
+  - level: 377
+    attack: 1233
+    firecooltime: 3.46
+    rotatepersec: 56.666668
+    acceleration: 8.388889
+    health: 128454
+    levelfactor: 4.762
+    enemyhealth: 22024
+  - level: 378
+    attack: 1236
+    firecooltime: 3.45
+    rotatepersec: 56.727272
+    acceleration: 8.393939
+    health: 129031
+    levelfactor: 4.768
+    enemyhealth: 22085
+  - level: 379
+    attack: 1239
+    firecooltime: 3.44
+    rotatepersec: 56.78788
+    acceleration: 8.39899
+    health: 129610
+    levelfactor: 4.774
+    enemyhealth: 22146
+  - level: 380
+    attack: 1242
+    firecooltime: 3.43
+    rotatepersec: 56.848484
+    acceleration: 8.40404
+    health: 130191
+    levelfactor: 4.78
+    enemyhealth: 22207
+  - level: 381
+    attack: 1245
+    firecooltime: 3.43
+    rotatepersec: 56.909092
+    acceleration: 8.409091
+    health: 130775
+    levelfactor: 4.786
+    enemyhealth: 22268
+  - level: 382
+    attack: 1248
+    firecooltime: 3.42
+    rotatepersec: 56.969696
+    acceleration: 8.414142
+    health: 131361
+    levelfactor: 4.792
+    enemyhealth: 22329
+  - level: 383
+    attack: 1251
+    firecooltime: 3.41
+    rotatepersec: 57.030304
+    acceleration: 8.419192
+    health: 131949
+    levelfactor: 4.798
+    enemyhealth: 22390
+  - level: 384
+    attack: 1254
+    firecooltime: 3.41
+    rotatepersec: 57.090908
+    acceleration: 8.424242
+    health: 132540
+    levelfactor: 4.804
+    enemyhealth: 22452
+  - level: 385
+    attack: 1257
+    firecooltime: 3.4
+    rotatepersec: 57.151516
+    acceleration: 8.429293
+    health: 133134
+    levelfactor: 4.81
+    enemyhealth: 22513
+  - level: 386
+    attack: 1260
+    firecooltime: 3.39
+    rotatepersec: 57.21212
+    acceleration: 8.434343
+    health: 133730
+    levelfactor: 4.816
+    enemyhealth: 22574
+  - level: 387
+    attack: 1263
+    firecooltime: 3.38
+    rotatepersec: 57.272728
+    acceleration: 8.439394
+    health: 134328
+    levelfactor: 4.822
+    enemyhealth: 22635
+  - level: 388
+    attack: 1266
+    firecooltime: 3.38
+    rotatepersec: 57.333332
+    acceleration: 8.444445
+    health: 134929
+    levelfactor: 4.828
+    enemyhealth: 22697
+  - level: 389
+    attack: 1269
+    firecooltime: 3.37
+    rotatepersec: 57.39394
+    acceleration: 8.449495
+    health: 135532
+    levelfactor: 4.834
+    enemyhealth: 22758
+  - level: 390
+    attack: 1272
+    firecooltime: 3.36
+    rotatepersec: 57.454544
+    acceleration: 8.454545
+    health: 136138
+    levelfactor: 4.84
+    enemyhealth: 22820
+  - level: 391
+    attack: 1275
+    firecooltime: 3.36
+    rotatepersec: 57.515152
+    acceleration: 8.459596
+    health: 136747
+    levelfactor: 4.846
+    enemyhealth: 22881
+  - level: 392
+    attack: 1278
+    firecooltime: 3.35
+    rotatepersec: 57.575756
+    acceleration: 8.464646
+    health: 137358
+    levelfactor: 4.852
+    enemyhealth: 22943
+  - level: 393
+    attack: 1281
+    firecooltime: 3.34
+    rotatepersec: 57.636364
+    acceleration: 8.469697
+    health: 137972
+    levelfactor: 4.858
+    enemyhealth: 23004
+  - level: 394
+    attack: 1284
+    firecooltime: 3.34
+    rotatepersec: 57.696968
+    acceleration: 8.474748
+    health: 138588
+    levelfactor: 4.864
+    enemyhealth: 23066
+  - level: 395
+    attack: 1287
+    firecooltime: 3.33
+    rotatepersec: 57.757576
+    acceleration: 8.479798
+    health: 139207
+    levelfactor: 4.87
+    enemyhealth: 23127
+  - level: 396
+    attack: 1290
+    firecooltime: 3.32
+    rotatepersec: 57.81818
+    acceleration: 8.484848
+    health: 139828
+    levelfactor: 4.876
+    enemyhealth: 23189
+  - level: 397
+    attack: 1293
+    firecooltime: 3.31
+    rotatepersec: 57.878788
+    acceleration: 8.489899
+    health: 140453
+    levelfactor: 4.882
+    enemyhealth: 23251
+  - level: 398
+    attack: 1296
+    firecooltime: 3.31
+    rotatepersec: 57.939392
+    acceleration: 8.494949
+    health: 141080
+    levelfactor: 4.888
+    enemyhealth: 23312
+  - level: 399
+    attack: 1299
+    firecooltime: 3.3
+    rotatepersec: 58
+    acceleration: 8.5
+    health: 141709
+    levelfactor: 4.894
+    enemyhealth: 23374
+  - level: 400
+    attack: 1181
+    firecooltime: 3.5
+    rotatepersec: 53
+    acceleration: 9
+    health: 141720
+    levelfactor: 4.9
+    enemyhealth: 24801
+  - level: 401
+    attack: 1184
+    firecooltime: 3.49
+    rotatepersec: 53.060608
+    acceleration: 9.005051
+    health: 142368
+    levelfactor: 4.906
+    enemyhealth: 24872
+  - level: 402
+    attack: 1187
+    firecooltime: 3.49
+    rotatepersec: 53.121212
+    acceleration: 9.010101
+    health: 143018
+    levelfactor: 4.912
+    enemyhealth: 24944
+  - level: 403
+    attack: 1190
+    firecooltime: 3.48
+    rotatepersec: 53.18182
+    acceleration: 9.015152
+    health: 143671
+    levelfactor: 4.918
+    enemyhealth: 25015
+  - level: 404
+    attack: 1193
+    firecooltime: 3.47
+    rotatepersec: 53.242424
+    acceleration: 9.020202
+    health: 144326
+    levelfactor: 4.924
+    enemyhealth: 25086
+  - level: 405
+    attack: 1196
+    firecooltime: 3.46
+    rotatepersec: 53.303032
+    acceleration: 9.025252
+    health: 144984
+    levelfactor: 4.93
+    enemyhealth: 25158
+  - level: 406
+    attack: 1199
+    firecooltime: 3.46
+    rotatepersec: 53.363636
+    acceleration: 9.030303
+    health: 145645
+    levelfactor: 4.936
+    enemyhealth: 25229
+  - level: 407
+    attack: 1202
+    firecooltime: 3.45
+    rotatepersec: 53.424244
+    acceleration: 9.035354
+    health: 146309
+    levelfactor: 4.942
+    enemyhealth: 25301
+  - level: 408
+    attack: 1205
+    firecooltime: 3.44
+    rotatepersec: 53.484848
+    acceleration: 9.040404
+    health: 146975
+    levelfactor: 4.948
+    enemyhealth: 25372
+  - level: 409
+    attack: 1208
+    firecooltime: 3.44
+    rotatepersec: 53.545456
+    acceleration: 9.045455
+    health: 147644
+    levelfactor: 4.954
+    enemyhealth: 25444
+  - level: 410
+    attack: 1211
+    firecooltime: 3.43
+    rotatepersec: 53.60606
+    acceleration: 9.050505
+    health: 148316
+    levelfactor: 4.96
+    enemyhealth: 25516
+  - level: 411
+    attack: 1214
+    firecooltime: 3.42
+    rotatepersec: 53.666668
+    acceleration: 9.055555
+    health: 148991
+    levelfactor: 4.966
+    enemyhealth: 25587
+  - level: 412
+    attack: 1217
+    firecooltime: 3.42
+    rotatepersec: 53.727272
+    acceleration: 9.060606
+    health: 149668
+    levelfactor: 4.972
+    enemyhealth: 25659
+  - level: 413
+    attack: 1220
+    firecooltime: 3.41
+    rotatepersec: 53.78788
+    acceleration: 9.065657
+    health: 150349
+    levelfactor: 4.978
+    enemyhealth: 25731
+  - level: 414
+    attack: 1223
+    firecooltime: 3.4
+    rotatepersec: 53.848484
+    acceleration: 9.070707
+    health: 151032
+    levelfactor: 4.984
+    enemyhealth: 25803
+  - level: 415
+    attack: 1226
+    firecooltime: 3.39
+    rotatepersec: 53.909092
+    acceleration: 9.075758
+    health: 151718
+    levelfactor: 4.99
+    enemyhealth: 25875
+  - level: 416
+    attack: 1229
+    firecooltime: 3.39
+    rotatepersec: 53.969696
+    acceleration: 9.080808
+    health: 152406
+    levelfactor: 4.996
+    enemyhealth: 25947
+  - level: 417
+    attack: 1232
+    firecooltime: 3.38
+    rotatepersec: 54.030304
+    acceleration: 9.085858
+    health: 153098
+    levelfactor: 5.002
+    enemyhealth: 26019
+  - level: 418
+    attack: 1235
+    firecooltime: 3.37
+    rotatepersec: 54.090908
+    acceleration: 9.090909
+    health: 153792
+    levelfactor: 5.008
+    enemyhealth: 26091
+  - level: 419
+    attack: 1238
+    firecooltime: 3.37
+    rotatepersec: 54.151516
+    acceleration: 9.09596
+    health: 154490
+    levelfactor: 5.014
+    enemyhealth: 26163
+  - level: 420
+    attack: 1241
+    firecooltime: 3.36
+    rotatepersec: 54.21212
+    acceleration: 9.10101
+    health: 155190
+    levelfactor: 5.02
+    enemyhealth: 26235
+  - level: 421
+    attack: 1244
+    firecooltime: 3.35
+    rotatepersec: 54.272728
+    acceleration: 9.106061
+    health: 155894
+    levelfactor: 5.026
+    enemyhealth: 26307
+  - level: 422
+    attack: 1247
+    firecooltime: 3.34
+    rotatepersec: 54.333332
+    acceleration: 9.111111
+    health: 156600
+    levelfactor: 5.032
+    enemyhealth: 26379
+  - level: 423
+    attack: 1250
+    firecooltime: 3.34
+    rotatepersec: 54.39394
+    acceleration: 9.116161
+    health: 157309
+    levelfactor: 5.038
+    enemyhealth: 26451
+  - level: 424
+    attack: 1253
+    firecooltime: 3.33
+    rotatepersec: 54.454544
+    acceleration: 9.121212
+    health: 158022
+    levelfactor: 5.044
+    enemyhealth: 26524
+  - level: 425
+    attack: 1256
+    firecooltime: 3.32
+    rotatepersec: 54.515152
+    acceleration: 9.126263
+    health: 158737
+    levelfactor: 5.05
+    enemyhealth: 26596
+  - level: 426
+    attack: 1259
+    firecooltime: 3.32
+    rotatepersec: 54.575756
+    acceleration: 9.131313
+    health: 159455
+    levelfactor: 5.056
+    enemyhealth: 26668
+  - level: 427
+    attack: 1262
+    firecooltime: 3.31
+    rotatepersec: 54.636364
+    acceleration: 9.136364
+    health: 160177
+    levelfactor: 5.062
+    enemyhealth: 26741
+  - level: 428
+    attack: 1265
+    firecooltime: 3.3
+    rotatepersec: 54.696968
+    acceleration: 9.141414
+    health: 160901
+    levelfactor: 5.068
+    enemyhealth: 26813
+  - level: 429
+    attack: 1268
+    firecooltime: 3.29
+    rotatepersec: 54.757576
+    acceleration: 9.146464
+    health: 161629
+    levelfactor: 5.074
+    enemyhealth: 26885
+  - level: 430
+    attack: 1271
+    firecooltime: 3.29
+    rotatepersec: 54.81818
+    acceleration: 9.151515
+    health: 162360
+    levelfactor: 5.08
+    enemyhealth: 26958
+  - level: 431
+    attack: 1274
+    firecooltime: 3.28
+    rotatepersec: 54.878788
+    acceleration: 9.156566
+    health: 163094
+    levelfactor: 5.086
+    enemyhealth: 27030
+  - level: 432
+    attack: 1277
+    firecooltime: 3.27
+    rotatepersec: 54.939392
+    acceleration: 9.161616
+    health: 163831
+    levelfactor: 5.092
+    enemyhealth: 27103
+  - level: 433
+    attack: 1280
+    firecooltime: 3.27
+    rotatepersec: 55
+    acceleration: 9.166667
+    health: 164571
+    levelfactor: 5.098
+    enemyhealth: 27176
+  - level: 434
+    attack: 1283
+    firecooltime: 3.26
+    rotatepersec: 55.060608
+    acceleration: 9.171718
+    health: 165315
+    levelfactor: 5.104
+    enemyhealth: 27248
+  - level: 435
+    attack: 1286
+    firecooltime: 3.25
+    rotatepersec: 55.121212
+    acceleration: 9.176767
+    health: 166062
+    levelfactor: 5.11
+    enemyhealth: 27321
+  - level: 436
+    attack: 1289
+    firecooltime: 3.25
+    rotatepersec: 55.18182
+    acceleration: 9.181818
+    health: 166812
+    levelfactor: 5.116
+    enemyhealth: 27394
+  - level: 437
+    attack: 1292
+    firecooltime: 3.24
+    rotatepersec: 55.242424
+    acceleration: 9.186869
+    health: 167565
+    levelfactor: 5.122
+    enemyhealth: 27467
+  - level: 438
+    attack: 1295
+    firecooltime: 3.23
+    rotatepersec: 55.303032
+    acceleration: 9.191919
+    health: 168322
+    levelfactor: 5.128
+    enemyhealth: 27539
+  - level: 439
+    attack: 1298
+    firecooltime: 3.22
+    rotatepersec: 55.363636
+    acceleration: 9.19697
+    health: 169082
+    levelfactor: 5.134
+    enemyhealth: 27612
+  - level: 440
+    attack: 1301
+    firecooltime: 3.22
+    rotatepersec: 55.424244
+    acceleration: 9.202021
+    health: 169845
+    levelfactor: 5.14
+    enemyhealth: 27685
+  - level: 441
+    attack: 1304
+    firecooltime: 3.21
+    rotatepersec: 55.484848
+    acceleration: 9.20707
+    health: 170611
+    levelfactor: 5.146
+    enemyhealth: 27758
+  - level: 442
+    attack: 1307
+    firecooltime: 3.2
+    rotatepersec: 55.545456
+    acceleration: 9.212121
+    health: 171381
+    levelfactor: 5.152
+    enemyhealth: 27831
+  - level: 443
+    attack: 1310
+    firecooltime: 3.2
+    rotatepersec: 55.60606
+    acceleration: 9.217172
+    health: 172155
+    levelfactor: 5.158
+    enemyhealth: 27904
+  - level: 444
+    attack: 1313
+    firecooltime: 3.19
+    rotatepersec: 55.666668
+    acceleration: 9.222222
+    health: 172932
+    levelfactor: 5.164
+    enemyhealth: 27977
+  - level: 445
+    attack: 1316
+    firecooltime: 3.18
+    rotatepersec: 55.727272
+    acceleration: 9.227273
+    health: 173712
+    levelfactor: 5.17
+    enemyhealth: 28051
+  - level: 446
+    attack: 1319
+    firecooltime: 3.17
+    rotatepersec: 55.78788
+    acceleration: 9.232324
+    health: 174496
+    levelfactor: 5.176
+    enemyhealth: 28124
+  - level: 447
+    attack: 1322
+    firecooltime: 3.17
+    rotatepersec: 55.848484
+    acceleration: 9.237373
+    health: 175283
+    levelfactor: 5.182
+    enemyhealth: 28197
+  - level: 448
+    attack: 1325
+    firecooltime: 3.16
+    rotatepersec: 55.909092
+    acceleration: 9.242424
+    health: 176074
+    levelfactor: 5.188
+    enemyhealth: 28270
+  - level: 449
+    attack: 1328
+    firecooltime: 3.15
+    rotatepersec: 55.969696
+    acceleration: 9.247475
+    health: 176868
+    levelfactor: 5.194
+    enemyhealth: 28344
+  - level: 450
+    attack: 1331
+    firecooltime: 3.15
+    rotatepersec: 56.030304
+    acceleration: 9.252525
+    health: 177666
+    levelfactor: 5.2
+    enemyhealth: 28417
+  - level: 451
+    attack: 1334
+    firecooltime: 3.14
+    rotatepersec: 56.090908
+    acceleration: 9.257576
+    health: 178468
+    levelfactor: 5.206
+    enemyhealth: 28490
+  - level: 452
+    attack: 1337
+    firecooltime: 3.13
+    rotatepersec: 56.151516
+    acceleration: 9.262627
+    health: 179273
+    levelfactor: 5.212
+    enemyhealth: 28564
+  - level: 453
+    attack: 1340
+    firecooltime: 3.13
+    rotatepersec: 56.21212
+    acceleration: 9.267676
+    health: 180081
+    levelfactor: 5.218
+    enemyhealth: 28637
+  - level: 454
+    attack: 1343
+    firecooltime: 3.12
+    rotatepersec: 56.272728
+    acceleration: 9.272727
+    health: 180894
+    levelfactor: 5.224
+    enemyhealth: 28711
+  - level: 455
+    attack: 1346
+    firecooltime: 3.11
+    rotatepersec: 56.333332
+    acceleration: 9.277778
+    health: 181710
+    levelfactor: 5.23
+    enemyhealth: 28784
+  - level: 456
+    attack: 1349
+    firecooltime: 3.1
+    rotatepersec: 56.39394
+    acceleration: 9.282828
+    health: 182530
+    levelfactor: 5.236
+    enemyhealth: 28858
+  - level: 457
+    attack: 1352
+    firecooltime: 3.1
+    rotatepersec: 56.454544
+    acceleration: 9.287879
+    health: 183353
+    levelfactor: 5.242
+    enemyhealth: 28931
+  - level: 458
+    attack: 1355
+    firecooltime: 3.09
+    rotatepersec: 56.515152
+    acceleration: 9.29293
+    health: 184181
+    levelfactor: 5.248
+    enemyhealth: 29005
+  - level: 459
+    attack: 1358
+    firecooltime: 3.08
+    rotatepersec: 56.575756
+    acceleration: 9.297979
+    health: 185012
+    levelfactor: 5.254
+    enemyhealth: 29079
+  - level: 460
+    attack: 1361
+    firecooltime: 3.08
+    rotatepersec: 56.636364
+    acceleration: 9.30303
+    health: 185847
+    levelfactor: 5.26
+    enemyhealth: 29153
+  - level: 461
+    attack: 1364
+    firecooltime: 3.07
+    rotatepersec: 56.696968
+    acceleration: 9.308081
+    health: 186686
+    levelfactor: 5.266
+    enemyhealth: 29226
+  - level: 462
+    attack: 1367
+    firecooltime: 3.06
+    rotatepersec: 56.757576
+    acceleration: 9.313131
+    health: 187528
+    levelfactor: 5.272
+    enemyhealth: 29300
+  - level: 463
+    attack: 1370
+    firecooltime: 3.05
+    rotatepersec: 56.81818
+    acceleration: 9.318182
+    health: 188375
+    levelfactor: 5.278
+    enemyhealth: 29374
+  - level: 464
+    attack: 1373
+    firecooltime: 3.05
+    rotatepersec: 56.878788
+    acceleration: 9.323233
+    health: 189226
+    levelfactor: 5.284
+    enemyhealth: 29448
+  - level: 465
+    attack: 1376
+    firecooltime: 3.04
+    rotatepersec: 56.939392
+    acceleration: 9.328282
+    health: 190080
+    levelfactor: 5.29
+    enemyhealth: 29522
+  - level: 466
+    attack: 1379
+    firecooltime: 3.03
+    rotatepersec: 57
+    acceleration: 9.333333
+    health: 190938
+    levelfactor: 5.296
+    enemyhealth: 29596
+  - level: 467
+    attack: 1382
+    firecooltime: 3.03
+    rotatepersec: 57.060608
+    acceleration: 9.338384
+    health: 191801
+    levelfactor: 5.302
+    enemyhealth: 29670
+  - level: 468
+    attack: 1385
+    firecooltime: 3.02
+    rotatepersec: 57.121212
+    acceleration: 9.343434
+    health: 192667
+    levelfactor: 5.308
+    enemyhealth: 29744
+  - level: 469
+    attack: 1388
+    firecooltime: 3.01
+    rotatepersec: 57.18182
+    acceleration: 9.348485
+    health: 193538
+    levelfactor: 5.314
+    enemyhealth: 29818
+  - level: 470
+    attack: 1391
+    firecooltime: 3.01
+    rotatepersec: 57.242424
+    acceleration: 9.353536
+    health: 194413
+    levelfactor: 5.32
+    enemyhealth: 29893
+  - level: 471
+    attack: 1394
+    firecooltime: 3
+    rotatepersec: 57.303032
+    acceleration: 9.358586
+    health: 195292
+    levelfactor: 5.326
+    enemyhealth: 29967
+  - level: 472
+    attack: 1397
+    firecooltime: 2.99
+    rotatepersec: 57.363636
+    acceleration: 9.363636
+    health: 196174
+    levelfactor: 5.332
+    enemyhealth: 30041
+  - level: 473
+    attack: 1400
+    firecooltime: 2.98
+    rotatepersec: 57.424244
+    acceleration: 9.368687
+    health: 197062
+    levelfactor: 5.338
+    enemyhealth: 30115
+  - level: 474
+    attack: 1403
+    firecooltime: 2.98
+    rotatepersec: 57.484848
+    acceleration: 9.373737
+    health: 197953
+    levelfactor: 5.344
+    enemyhealth: 30190
+  - level: 475
+    attack: 1406
+    firecooltime: 2.97
+    rotatepersec: 57.545456
+    acceleration: 9.378788
+    health: 198849
+    levelfactor: 5.35
+    enemyhealth: 30264
+  - level: 476
+    attack: 1409
+    firecooltime: 2.96
+    rotatepersec: 57.60606
+    acceleration: 9.383839
+    health: 199748
+    levelfactor: 5.356
+    enemyhealth: 30339
+  - level: 477
+    attack: 1412
+    firecooltime: 2.96
+    rotatepersec: 57.666668
+    acceleration: 9.388889
+    health: 200653
+    levelfactor: 5.362
+    enemyhealth: 30413
+  - level: 478
+    attack: 1415
+    firecooltime: 2.95
+    rotatepersec: 57.727272
+    acceleration: 9.393939
+    health: 201561
+    levelfactor: 5.368
+    enemyhealth: 30488
+  - level: 479
+    attack: 1418
+    firecooltime: 2.94
+    rotatepersec: 57.78788
+    acceleration: 9.39899
+    health: 202474
+    levelfactor: 5.374
+    enemyhealth: 30562
+  - level: 480
+    attack: 1421
+    firecooltime: 2.93
+    rotatepersec: 57.848484
+    acceleration: 9.40404
+    health: 203391
+    levelfactor: 5.38
+    enemyhealth: 30637
+  - level: 481
+    attack: 1424
+    firecooltime: 2.93
+    rotatepersec: 57.909092
+    acceleration: 9.409091
+    health: 204313
+    levelfactor: 5.386
+    enemyhealth: 30711
+  - level: 482
+    attack: 1427
+    firecooltime: 2.92
+    rotatepersec: 57.969696
+    acceleration: 9.414142
+    health: 205239
+    levelfactor: 5.392
+    enemyhealth: 30786
+  - level: 483
+    attack: 1430
+    firecooltime: 2.91
+    rotatepersec: 58.030304
+    acceleration: 9.419192
+    health: 206170
+    levelfactor: 5.398
+    enemyhealth: 30861
+  - level: 484
+    attack: 1433
+    firecooltime: 2.91
+    rotatepersec: 58.090908
+    acceleration: 9.424242
+    health: 207105
+    levelfactor: 5.404
+    enemyhealth: 30936
+  - level: 485
+    attack: 1436
+    firecooltime: 2.9
+    rotatepersec: 58.151516
+    acceleration: 9.429293
+    health: 208045
+    levelfactor: 5.41
+    enemyhealth: 31010
+  - level: 486
+    attack: 1439
+    firecooltime: 2.89
+    rotatepersec: 58.21212
+    acceleration: 9.434343
+    health: 208989
+    levelfactor: 5.416
+    enemyhealth: 31085
+  - level: 487
+    attack: 1442
+    firecooltime: 2.88
+    rotatepersec: 58.272728
+    acceleration: 9.439394
+    health: 209938
+    levelfactor: 5.422
+    enemyhealth: 31160
+  - level: 488
+    attack: 1445
+    firecooltime: 2.88
+    rotatepersec: 58.333332
+    acceleration: 9.444445
+    health: 210892
+    levelfactor: 5.428
+    enemyhealth: 31235
+  - level: 489
+    attack: 1448
+    firecooltime: 2.87
+    rotatepersec: 58.39394
+    acceleration: 9.449495
+    health: 211850
+    levelfactor: 5.434
+    enemyhealth: 31310
+  - level: 490
+    attack: 1451
+    firecooltime: 2.86
+    rotatepersec: 58.454544
+    acceleration: 9.454545
+    health: 212813
+    levelfactor: 5.44
+    enemyhealth: 31385
+  - level: 491
+    attack: 1454
+    firecooltime: 2.86
+    rotatepersec: 58.515152
+    acceleration: 9.459596
+    health: 213781
+    levelfactor: 5.446
+    enemyhealth: 31460
+  - level: 492
+    attack: 1457
+    firecooltime: 2.85
+    rotatepersec: 58.575756
+    acceleration: 9.464646
+    health: 214754
+    levelfactor: 5.452
+    enemyhealth: 31535
+  - level: 493
+    attack: 1460
+    firecooltime: 2.84
+    rotatepersec: 58.636364
+    acceleration: 9.469697
+    health: 215731
+    levelfactor: 5.458
+    enemyhealth: 31610
+  - level: 494
+    attack: 1463
+    firecooltime: 2.84
+    rotatepersec: 58.696968
+    acceleration: 9.474748
+    health: 216714
+    levelfactor: 5.464
+    enemyhealth: 31686
+  - level: 495
+    attack: 1466
+    firecooltime: 2.83
+    rotatepersec: 58.757576
+    acceleration: 9.479798
+    health: 217701
+    levelfactor: 5.47
+    enemyhealth: 31761
+  - level: 496
+    attack: 1469
+    firecooltime: 2.82
+    rotatepersec: 58.81818
+    acceleration: 9.484848
+    health: 218693
+    levelfactor: 5.476
+    enemyhealth: 31836
+  - level: 497
+    attack: 1472
+    firecooltime: 2.81
+    rotatepersec: 58.878788
+    acceleration: 9.489899
+    health: 219690
+    levelfactor: 5.482
+    enemyhealth: 31911
+  - level: 498
+    attack: 1475
+    firecooltime: 2.81
+    rotatepersec: 58.939392
+    acceleration: 9.494949
+    health: 220693
+    levelfactor: 5.488
+    enemyhealth: 31987
+  - level: 499
+    attack: 1478
+    firecooltime: 2.8
+    rotatepersec: 59
+    acceleration: 9.5
+    health: 221700
+    levelfactor: 5.494
+    enemyhealth: 32062
+  - level: 500
+    attack: 1848
+    firecooltime: 3.5
+    rotatepersec: 54
+    acceleration: 9
+    health: 221760
+    levelfactor: 5.5
+    enemyhealth: 40102
+  - level: 501
+    attack: 1851
+    firecooltime: 3.49
+    rotatepersec: 54.060608
+    acceleration: 9.005051
+    health: 222570
+    levelfactor: 5.506
+    enemyhealth: 40180
+  - level: 502
+    attack: 1854
+    firecooltime: 3.49
+    rotatepersec: 54.121212
+    acceleration: 9.010101
+    health: 223383
+    levelfactor: 5.512
+    enemyhealth: 40258
+  - level: 503
+    attack: 1857
+    firecooltime: 3.48
+    rotatepersec: 54.18182
+    acceleration: 9.015152
+    health: 224199
+    levelfactor: 5.518
+    enemyhealth: 40336
+  - level: 504
+    attack: 1860
+    firecooltime: 3.47
+    rotatepersec: 54.242424
+    acceleration: 9.020202
+    health: 225018
+    levelfactor: 5.524
+    enemyhealth: 40414
+  - level: 505
+    attack: 1863
+    firecooltime: 3.46
+    rotatepersec: 54.303032
+    acceleration: 9.025252
+    health: 225841
+    levelfactor: 5.53
+    enemyhealth: 40492
+  - level: 506
+    attack: 1866
+    firecooltime: 3.46
+    rotatepersec: 54.363636
+    acceleration: 9.030303
+    health: 226667
+    levelfactor: 5.536
+    enemyhealth: 40571
+  - level: 507
+    attack: 1869
+    firecooltime: 3.45
+    rotatepersec: 54.424244
+    acceleration: 9.035354
+    health: 227497
+    levelfactor: 5.542
+    enemyhealth: 40649
+  - level: 508
+    attack: 1872
+    firecooltime: 3.44
+    rotatepersec: 54.484848
+    acceleration: 9.040404
+    health: 228330
+    levelfactor: 5.548
+    enemyhealth: 40727
+  - level: 509
+    attack: 1875
+    firecooltime: 3.44
+    rotatepersec: 54.545456
+    acceleration: 9.045455
+    health: 229167
+    levelfactor: 5.554
+    enemyhealth: 40806
+  - level: 510
+    attack: 1878
+    firecooltime: 3.43
+    rotatepersec: 54.60606
+    acceleration: 9.050505
+    health: 230007
+    levelfactor: 5.56
+    enemyhealth: 40884
+  - level: 511
+    attack: 1881
+    firecooltime: 3.42
+    rotatepersec: 54.666668
+    acceleration: 9.055555
+    health: 230850
+    levelfactor: 5.566
+    enemyhealth: 40963
+  - level: 512
+    attack: 1884
+    firecooltime: 3.42
+    rotatepersec: 54.727272
+    acceleration: 9.060606
+    health: 231697
+    levelfactor: 5.572
+    enemyhealth: 41041
+  - level: 513
+    attack: 1887
+    firecooltime: 3.41
+    rotatepersec: 54.78788
+    acceleration: 9.065657
+    health: 232547
+    levelfactor: 5.578
+    enemyhealth: 41120
+  - level: 514
+    attack: 1890
+    firecooltime: 3.4
+    rotatepersec: 54.848484
+    acceleration: 9.070707
+    health: 233401
+    levelfactor: 5.584
+    enemyhealth: 41198
+  - level: 515
+    attack: 1893
+    firecooltime: 3.39
+    rotatepersec: 54.909092
+    acceleration: 9.075758
+    health: 234259
+    levelfactor: 5.59
+    enemyhealth: 41277
+  - level: 516
+    attack: 1896
+    firecooltime: 3.39
+    rotatepersec: 54.969696
+    acceleration: 9.080808
+    health: 235120
+    levelfactor: 5.596
+    enemyhealth: 41356
+  - level: 517
+    attack: 1899
+    firecooltime: 3.38
+    rotatepersec: 55.030304
+    acceleration: 9.085858
+    health: 235985
+    levelfactor: 5.602
+    enemyhealth: 41434
+  - level: 518
+    attack: 1902
+    firecooltime: 3.37
+    rotatepersec: 55.090908
+    acceleration: 9.090909
+    health: 236853
+    levelfactor: 5.608
+    enemyhealth: 41513
+  - level: 519
+    attack: 1905
+    firecooltime: 3.37
+    rotatepersec: 55.151516
+    acceleration: 9.09596
+    health: 237725
+    levelfactor: 5.614
+    enemyhealth: 41592
+  - level: 520
+    attack: 1908
+    firecooltime: 3.36
+    rotatepersec: 55.21212
+    acceleration: 9.10101
+    health: 238600
+    levelfactor: 5.62
+    enemyhealth: 41671
+  - level: 521
+    attack: 1911
+    firecooltime: 3.35
+    rotatepersec: 55.272728
+    acceleration: 9.106061
+    health: 239480
+    levelfactor: 5.626
+    enemyhealth: 41750
+  - level: 522
+    attack: 1914
+    firecooltime: 3.34
+    rotatepersec: 55.333332
+    acceleration: 9.111111
+    health: 240363
+    levelfactor: 5.632
+    enemyhealth: 41829
+  - level: 523
+    attack: 1917
+    firecooltime: 3.34
+    rotatepersec: 55.39394
+    acceleration: 9.116161
+    health: 241250
+    levelfactor: 5.638
+    enemyhealth: 41908
+  - level: 524
+    attack: 1920
+    firecooltime: 3.33
+    rotatepersec: 55.454544
+    acceleration: 9.121212
+    health: 242140
+    levelfactor: 5.644
+    enemyhealth: 41987
+  - level: 525
+    attack: 1923
+    firecooltime: 3.32
+    rotatepersec: 55.515152
+    acceleration: 9.126263
+    health: 243034
+    levelfactor: 5.65
+    enemyhealth: 42066
+  - level: 526
+    attack: 1926
+    firecooltime: 3.32
+    rotatepersec: 55.575756
+    acceleration: 9.131313
+    health: 243933
+    levelfactor: 5.656
+    enemyhealth: 42145
+  - level: 527
+    attack: 1929
+    firecooltime: 3.31
+    rotatepersec: 55.636364
+    acceleration: 9.136364
+    health: 244835
+    levelfactor: 5.662
+    enemyhealth: 42224
+  - level: 528
+    attack: 1932
+    firecooltime: 3.3
+    rotatepersec: 55.696968
+    acceleration: 9.141414
+    health: 245740
+    levelfactor: 5.668
+    enemyhealth: 42303
+  - level: 529
+    attack: 1935
+    firecooltime: 3.29
+    rotatepersec: 55.757576
+    acceleration: 9.146464
+    health: 246650
+    levelfactor: 5.674
+    enemyhealth: 42382
+  - level: 530
+    attack: 1938
+    firecooltime: 3.29
+    rotatepersec: 55.81818
+    acceleration: 9.151515
+    health: 247564
+    levelfactor: 5.68
+    enemyhealth: 42462
+  - level: 531
+    attack: 1941
+    firecooltime: 3.28
+    rotatepersec: 55.878788
+    acceleration: 9.156566
+    health: 248481
+    levelfactor: 5.686
+    enemyhealth: 42541
+  - level: 532
+    attack: 1944
+    firecooltime: 3.27
+    rotatepersec: 55.939392
+    acceleration: 9.161616
+    health: 249403
+    levelfactor: 5.692
+    enemyhealth: 42620
+  - level: 533
+    attack: 1947
+    firecooltime: 3.27
+    rotatepersec: 56
+    acceleration: 9.166667
+    health: 250329
+    levelfactor: 5.698
+    enemyhealth: 42700
+  - level: 534
+    attack: 1950
+    firecooltime: 3.26
+    rotatepersec: 56.060608
+    acceleration: 9.171718
+    health: 251258
+    levelfactor: 5.704
+    enemyhealth: 42779
+  - level: 535
+    attack: 1953
+    firecooltime: 3.25
+    rotatepersec: 56.121212
+    acceleration: 9.176767
+    health: 252192
+    levelfactor: 5.71
+    enemyhealth: 42859
+  - level: 536
+    attack: 1956
+    firecooltime: 3.25
+    rotatepersec: 56.18182
+    acceleration: 9.181818
+    health: 253129
+    levelfactor: 5.716
+    enemyhealth: 42938
+  - level: 537
+    attack: 1959
+    firecooltime: 3.24
+    rotatepersec: 56.242424
+    acceleration: 9.186869
+    health: 254071
+    levelfactor: 5.722
+    enemyhealth: 43018
+  - level: 538
+    attack: 1962
+    firecooltime: 3.23
+    rotatepersec: 56.303032
+    acceleration: 9.191919
+    health: 255017
+    levelfactor: 5.728
+    enemyhealth: 43097
+  - level: 539
+    attack: 1965
+    firecooltime: 3.22
+    rotatepersec: 56.363636
+    acceleration: 9.19697
+    health: 255967
+    levelfactor: 5.734
+    enemyhealth: 43177
+  - level: 540
+    attack: 1968
+    firecooltime: 3.22
+    rotatepersec: 56.424244
+    acceleration: 9.202021
+    health: 256921
+    levelfactor: 5.74
+    enemyhealth: 43257
+  - level: 541
+    attack: 1971
+    firecooltime: 3.21
+    rotatepersec: 56.484848
+    acceleration: 9.20707
+    health: 257880
+    levelfactor: 5.746
+    enemyhealth: 43336
+  - level: 542
+    attack: 1974
+    firecooltime: 3.2
+    rotatepersec: 56.545456
+    acceleration: 9.212121
+    health: 258842
+    levelfactor: 5.752
+    enemyhealth: 43416
+  - level: 543
+    attack: 1977
+    firecooltime: 3.2
+    rotatepersec: 56.60606
+    acceleration: 9.217172
+    health: 259809
+    levelfactor: 5.758
+    enemyhealth: 43496
+  - level: 544
+    attack: 1980
+    firecooltime: 3.19
+    rotatepersec: 56.666668
+    acceleration: 9.222222
+    health: 260780
+    levelfactor: 5.764
+    enemyhealth: 43576
+  - level: 545
+    attack: 1983
+    firecooltime: 3.18
+    rotatepersec: 56.727272
+    acceleration: 9.227273
+    health: 261756
+    levelfactor: 5.77
+    enemyhealth: 43656
+  - level: 546
+    attack: 1986
+    firecooltime: 3.17
+    rotatepersec: 56.78788
+    acceleration: 9.232324
+    health: 262736
+    levelfactor: 5.776
+    enemyhealth: 43736
+  - level: 547
+    attack: 1989
+    firecooltime: 3.17
+    rotatepersec: 56.848484
+    acceleration: 9.237373
+    health: 263720
+    levelfactor: 5.782
+    enemyhealth: 43816
+  - level: 548
+    attack: 1992
+    firecooltime: 3.16
+    rotatepersec: 56.909092
+    acceleration: 9.242424
+    health: 264709
+    levelfactor: 5.788
+    enemyhealth: 43896
+  - level: 549
+    attack: 1995
+    firecooltime: 3.15
+    rotatepersec: 56.969696
+    acceleration: 9.247475
+    health: 265702
+    levelfactor: 5.794
+    enemyhealth: 43976
+  - level: 550
+    attack: 1998
+    firecooltime: 3.15
+    rotatepersec: 57.030304
+    acceleration: 9.252525
+    health: 266699
+    levelfactor: 5.8
+    enemyhealth: 44056
+  - level: 551
+    attack: 2001
+    firecooltime: 3.14
+    rotatepersec: 57.090908
+    acceleration: 9.257576
+    health: 267701
+    levelfactor: 5.806
+    enemyhealth: 44136
+  - level: 552
+    attack: 2004
+    firecooltime: 3.13
+    rotatepersec: 57.151516
+    acceleration: 9.262627
+    health: 268708
+    levelfactor: 5.812
+    enemyhealth: 44216
+  - level: 553
+    attack: 2007
+    firecooltime: 3.13
+    rotatepersec: 57.21212
+    acceleration: 9.267676
+    health: 269719
+    levelfactor: 5.818
+    enemyhealth: 44296
+  - level: 554
+    attack: 2010
+    firecooltime: 3.12
+    rotatepersec: 57.272728
+    acceleration: 9.272727
+    health: 270735
+    levelfactor: 5.824
+    enemyhealth: 44377
+  - level: 555
+    attack: 2013
+    firecooltime: 3.11
+    rotatepersec: 57.333332
+    acceleration: 9.277778
+    health: 271755
+    levelfactor: 5.83
+    enemyhealth: 44457
+  - level: 556
+    attack: 2016
+    firecooltime: 3.1
+    rotatepersec: 57.39394
+    acceleration: 9.282828
+    health: 272780
+    levelfactor: 5.836
+    enemyhealth: 44537
+  - level: 557
+    attack: 2019
+    firecooltime: 3.1
+    rotatepersec: 57.454544
+    acceleration: 9.287879
+    health: 273810
+    levelfactor: 5.842
+    enemyhealth: 44618
+  - level: 558
+    attack: 2022
+    firecooltime: 3.09
+    rotatepersec: 57.515152
+    acceleration: 9.29293
+    health: 274844
+    levelfactor: 5.848
+    enemyhealth: 44698
+  - level: 559
+    attack: 2025
+    firecooltime: 3.08
+    rotatepersec: 57.575756
+    acceleration: 9.297979
+    health: 275883
+    levelfactor: 5.854
+    enemyhealth: 44779
+  - level: 560
+    attack: 2028
+    firecooltime: 3.08
+    rotatepersec: 57.636364
+    acceleration: 9.30303
+    health: 276927
+    levelfactor: 5.86
+    enemyhealth: 44859
+  - level: 561
+    attack: 2031
+    firecooltime: 3.07
+    rotatepersec: 57.696968
+    acceleration: 9.308081
+    health: 277976
+    levelfactor: 5.866
+    enemyhealth: 44940
+  - level: 562
+    attack: 2034
+    firecooltime: 3.06
+    rotatepersec: 57.757576
+    acceleration: 9.313131
+    health: 279029
+    levelfactor: 5.872
+    enemyhealth: 45021
+  - level: 563
+    attack: 2037
+    firecooltime: 3.05
+    rotatepersec: 57.81818
+    acceleration: 9.318182
+    health: 280088
+    levelfactor: 5.878
+    enemyhealth: 45101
+  - level: 564
+    attack: 2040
+    firecooltime: 3.05
+    rotatepersec: 57.878788
+    acceleration: 9.323233
+    health: 281151
+    levelfactor: 5.884
+    enemyhealth: 45182
+  - level: 565
+    attack: 2043
+    firecooltime: 3.04
+    rotatepersec: 57.939392
+    acceleration: 9.328282
+    health: 282219
+    levelfactor: 5.89
+    enemyhealth: 45263
+  - level: 566
+    attack: 2046
+    firecooltime: 3.03
+    rotatepersec: 58
+    acceleration: 9.333333
+    health: 283292
+    levelfactor: 5.896
+    enemyhealth: 45343
+  - level: 567
+    attack: 2049
+    firecooltime: 3.03
+    rotatepersec: 58.060608
+    acceleration: 9.338384
+    health: 284371
+    levelfactor: 5.902
+    enemyhealth: 45424
+  - level: 568
+    attack: 2052
+    firecooltime: 3.02
+    rotatepersec: 58.121212
+    acceleration: 9.343434
+    health: 285454
+    levelfactor: 5.908
+    enemyhealth: 45505
+  - level: 569
+    attack: 2055
+    firecooltime: 3.01
+    rotatepersec: 58.18182
+    acceleration: 9.348485
+    health: 286542
+    levelfactor: 5.914
+    enemyhealth: 45586
+  - level: 570
+    attack: 2058
+    firecooltime: 3.01
+    rotatepersec: 58.242424
+    acceleration: 9.353536
+    health: 287636
+    levelfactor: 5.92
+    enemyhealth: 45667
+  - level: 571
+    attack: 2061
+    firecooltime: 3
+    rotatepersec: 58.303032
+    acceleration: 9.358586
+    health: 288734
+    levelfactor: 5.926
+    enemyhealth: 45748
+  - level: 572
+    attack: 2064
+    firecooltime: 2.99
+    rotatepersec: 58.363636
+    acceleration: 9.363636
+    health: 289838
+    levelfactor: 5.932
+    enemyhealth: 45829
+  - level: 573
+    attack: 2067
+    firecooltime: 2.98
+    rotatepersec: 58.424244
+    acceleration: 9.368687
+    health: 290947
+    levelfactor: 5.938
+    enemyhealth: 45910
+  - level: 574
+    attack: 2070
+    firecooltime: 2.98
+    rotatepersec: 58.484848
+    acceleration: 9.373737
+    health: 292062
+    levelfactor: 5.944
+    enemyhealth: 45991
+  - level: 575
+    attack: 2073
+    firecooltime: 2.97
+    rotatepersec: 58.545456
+    acceleration: 9.378788
+    health: 293181
+    levelfactor: 5.95
+    enemyhealth: 46072
+  - level: 576
+    attack: 2076
+    firecooltime: 2.96
+    rotatepersec: 58.60606
+    acceleration: 9.383839
+    health: 294306
+    levelfactor: 5.956
+    enemyhealth: 46154
+  - level: 577
+    attack: 2079
+    firecooltime: 2.96
+    rotatepersec: 58.666668
+    acceleration: 9.388889
+    health: 295437
+    levelfactor: 5.962
+    enemyhealth: 46235
+  - level: 578
+    attack: 2082
+    firecooltime: 2.95
+    rotatepersec: 58.727272
+    acceleration: 9.393939
+    health: 296573
+    levelfactor: 5.968
+    enemyhealth: 46316
+  - level: 579
+    attack: 2085
+    firecooltime: 2.94
+    rotatepersec: 58.78788
+    acceleration: 9.39899
+    health: 297714
+    levelfactor: 5.974
+    enemyhealth: 46398
+  - level: 580
+    attack: 2088
+    firecooltime: 2.93
+    rotatepersec: 58.848484
+    acceleration: 9.40404
+    health: 298861
+    levelfactor: 5.98
+    enemyhealth: 46479
+  - level: 581
+    attack: 2091
+    firecooltime: 2.93
+    rotatepersec: 58.909092
+    acceleration: 9.409091
+    health: 300013
+    levelfactor: 5.986
+    enemyhealth: 46560
+  - level: 582
+    attack: 2094
+    firecooltime: 2.92
+    rotatepersec: 58.969696
+    acceleration: 9.414142
+    health: 301171
+    levelfactor: 5.992
+    enemyhealth: 46642
+  - level: 583
+    attack: 2097
+    firecooltime: 2.91
+    rotatepersec: 59.030304
+    acceleration: 9.419192
+    health: 302334
+    levelfactor: 5.998
+    enemyhealth: 46723
+  - level: 584
+    attack: 2100
+    firecooltime: 2.91
+    rotatepersec: 59.090908
+    acceleration: 9.424242
+    health: 303504
+    levelfactor: 6.004
+    enemyhealth: 46805
+  - level: 585
+    attack: 2103
+    firecooltime: 2.9
+    rotatepersec: 59.151516
+    acceleration: 9.429293
+    health: 304679
+    levelfactor: 6.01
+    enemyhealth: 46886
+  - level: 586
+    attack: 2106
+    firecooltime: 2.89
+    rotatepersec: 59.21212
+    acceleration: 9.434343
+    health: 305859
+    levelfactor: 6.016
+    enemyhealth: 46968
+  - level: 587
+    attack: 2109
+    firecooltime: 2.88
+    rotatepersec: 59.272728
+    acceleration: 9.439394
+    health: 307046
+    levelfactor: 6.022
+    enemyhealth: 47050
+  - level: 588
+    attack: 2112
+    firecooltime: 2.88
+    rotatepersec: 59.333332
+    acceleration: 9.444445
+    health: 308238
+    levelfactor: 6.028
+    enemyhealth: 47131
+  - level: 589
+    attack: 2115
+    firecooltime: 2.87
+    rotatepersec: 59.39394
+    acceleration: 9.449495
+    health: 309436
+    levelfactor: 6.034
+    enemyhealth: 47213
+  - level: 590
+    attack: 2118
+    firecooltime: 2.86
+    rotatepersec: 59.454544
+    acceleration: 9.454545
+    health: 310640
+    levelfactor: 6.04
+    enemyhealth: 47295
+  - level: 591
+    attack: 2121
+    firecooltime: 2.86
+    rotatepersec: 59.515152
+    acceleration: 9.459596
+    health: 311850
+    levelfactor: 6.046
+    enemyhealth: 47377
+  - level: 592
+    attack: 2124
+    firecooltime: 2.85
+    rotatepersec: 59.575756
+    acceleration: 9.464646
+    health: 313066
+    levelfactor: 6.052
+    enemyhealth: 47459
+  - level: 593
+    attack: 2127
+    firecooltime: 2.84
+    rotatepersec: 59.636364
+    acceleration: 9.469697
+    health: 314288
+    levelfactor: 6.058
+    enemyhealth: 47541
+  - level: 594
+    attack: 2130
+    firecooltime: 2.84
+    rotatepersec: 59.696968
+    acceleration: 9.474748
+    health: 315516
+    levelfactor: 6.064
+    enemyhealth: 47623
+  - level: 595
+    attack: 2133
+    firecooltime: 2.83
+    rotatepersec: 59.757576
+    acceleration: 9.479798
+    health: 316750
+    levelfactor: 6.07
+    enemyhealth: 47705
+  - level: 596
+    attack: 2136
+    firecooltime: 2.82
+    rotatepersec: 59.81818
+    acceleration: 9.484848
+    health: 317991
+    levelfactor: 6.076
+    enemyhealth: 47787
+  - level: 597
+    attack: 2139
+    firecooltime: 2.81
+    rotatepersec: 59.878788
+    acceleration: 9.489899
+    health: 319238
+    levelfactor: 6.082
+    enemyhealth: 47869
+  - level: 598
+    attack: 2142
+    firecooltime: 2.81
+    rotatepersec: 59.939392
+    acceleration: 9.494949
+    health: 320491
+    levelfactor: 6.088
+    enemyhealth: 47951
+  - level: 599
+    attack: 2145
+    firecooltime: 2.8
+    rotatepersec: 60
+    acceleration: 9.5
+    health: 321750
+    levelfactor: 6.094
+    enemyhealth: 48033
+  - level: 600
+    attack: 2681
+    firecooltime: 3.5
+    rotatepersec: 55
+    acceleration: 9.5
+    health: 321720
+    levelfactor: 6.1
+    enemyhealth: 60054
+  - level: 601
+    attack: 2684
+    firecooltime: 3.49
+    rotatepersec: 55.060608
+    acceleration: 9.505051
+    health: 322732
+    levelfactor: 6.106
+    enemyhealth: 60140
+  - level: 602
+    attack: 2687
+    firecooltime: 3.49
+    rotatepersec: 55.121212
+    acceleration: 9.510101
+    health: 323748
+    levelfactor: 6.112
+    enemyhealth: 60226
+  - level: 603
+    attack: 2690
+    firecooltime: 3.48
+    rotatepersec: 55.18182
+    acceleration: 9.515152
+    health: 324768
+    levelfactor: 6.118
+    enemyhealth: 60312
+  - level: 604
+    attack: 2693
+    firecooltime: 3.47
+    rotatepersec: 55.242424
+    acceleration: 9.520202
+    health: 325793
+    levelfactor: 6.124
+    enemyhealth: 60399
+  - level: 605
+    attack: 2696
+    firecooltime: 3.46
+    rotatepersec: 55.303032
+    acceleration: 9.525252
+    health: 326821
+    levelfactor: 6.13
+    enemyhealth: 60485
+  - level: 606
+    attack: 2699
+    firecooltime: 3.46
+    rotatepersec: 55.363636
+    acceleration: 9.530303
+    health: 327854
+    levelfactor: 6.136
+    enemyhealth: 60571
+  - level: 607
+    attack: 2702
+    firecooltime: 3.45
+    rotatepersec: 55.424244
+    acceleration: 9.535354
+    health: 328891
+    levelfactor: 6.142
+    enemyhealth: 60657
+  - level: 608
+    attack: 2705
+    firecooltime: 3.44
+    rotatepersec: 55.484848
+    acceleration: 9.540404
+    health: 329932
+    levelfactor: 6.148
+    enemyhealth: 60743
+  - level: 609
+    attack: 2708
+    firecooltime: 3.44
+    rotatepersec: 55.545456
+    acceleration: 9.545455
+    health: 330978
+    levelfactor: 6.154
+    enemyhealth: 60830
+  - level: 610
+    attack: 2711
+    firecooltime: 3.43
+    rotatepersec: 55.60606
+    acceleration: 9.550505
+    health: 332028
+    levelfactor: 6.16
+    enemyhealth: 60916
+  - level: 611
+    attack: 2714
+    firecooltime: 3.42
+    rotatepersec: 55.666668
+    acceleration: 9.555555
+    health: 333082
+    levelfactor: 6.166
+    enemyhealth: 61003
+  - level: 612
+    attack: 2717
+    firecooltime: 3.42
+    rotatepersec: 55.727272
+    acceleration: 9.560606
+    health: 334140
+    levelfactor: 6.172
+    enemyhealth: 61089
+  - level: 613
+    attack: 2720
+    firecooltime: 3.41
+    rotatepersec: 55.78788
+    acceleration: 9.565657
+    health: 335203
+    levelfactor: 6.178
+    enemyhealth: 61176
+  - level: 614
+    attack: 2723
+    firecooltime: 3.4
+    rotatepersec: 55.848484
+    acceleration: 9.570707
+    health: 336271
+    levelfactor: 6.184
+    enemyhealth: 61262
+  - level: 615
+    attack: 2726
+    firecooltime: 3.39
+    rotatepersec: 55.909092
+    acceleration: 9.575758
+    health: 337343
+    levelfactor: 6.19
+    enemyhealth: 61349
+  - level: 616
+    attack: 2729
+    firecooltime: 3.39
+    rotatepersec: 55.969696
+    acceleration: 9.580808
+    health: 338419
+    levelfactor: 6.196
+    enemyhealth: 61435
+  - level: 617
+    attack: 2732
+    firecooltime: 3.38
+    rotatepersec: 56.030304
+    acceleration: 9.585858
+    health: 339500
+    levelfactor: 6.202
+    enemyhealth: 61522
+  - level: 618
+    attack: 2735
+    firecooltime: 3.37
+    rotatepersec: 56.090908
+    acceleration: 9.590909
+    health: 340585
+    levelfactor: 6.208
+    enemyhealth: 61609
+  - level: 619
+    attack: 2738
+    firecooltime: 3.37
+    rotatepersec: 56.151516
+    acceleration: 9.59596
+    health: 341675
+    levelfactor: 6.214
+    enemyhealth: 61695
+  - level: 620
+    attack: 2741
+    firecooltime: 3.36
+    rotatepersec: 56.21212
+    acceleration: 9.60101
+    health: 342769
+    levelfactor: 6.22
+    enemyhealth: 61782
+  - level: 621
+    attack: 2744
+    firecooltime: 3.35
+    rotatepersec: 56.272728
+    acceleration: 9.606061
+    health: 343868
+    levelfactor: 6.226
+    enemyhealth: 61869
+  - level: 622
+    attack: 2747
+    firecooltime: 3.34
+    rotatepersec: 56.333332
+    acceleration: 9.611111
+    health: 344972
+    levelfactor: 6.232
+    enemyhealth: 61956
+  - level: 623
+    attack: 2750
+    firecooltime: 3.34
+    rotatepersec: 56.39394
+    acceleration: 9.616161
+    health: 346081
+    levelfactor: 6.238
+    enemyhealth: 62043
+  - level: 624
+    attack: 2753
+    firecooltime: 3.33
+    rotatepersec: 56.454544
+    acceleration: 9.621212
+    health: 347194
+    levelfactor: 6.244
+    enemyhealth: 62130
+  - level: 625
+    attack: 2756
+    firecooltime: 3.32
+    rotatepersec: 56.515152
+    acceleration: 9.626263
+    health: 348311
+    levelfactor: 6.25
+    enemyhealth: 62217
+  - level: 626
+    attack: 2759
+    firecooltime: 3.32
+    rotatepersec: 56.575756
+    acceleration: 9.631313
+    health: 349434
+    levelfactor: 6.256
+    enemyhealth: 62304
+  - level: 627
+    attack: 2762
+    firecooltime: 3.31
+    rotatepersec: 56.636364
+    acceleration: 9.636364
+    health: 350562
+    levelfactor: 6.262
+    enemyhealth: 62391
+  - level: 628
+    attack: 2765
+    firecooltime: 3.3
+    rotatepersec: 56.696968
+    acceleration: 9.641414
+    health: 351694
+    levelfactor: 6.268
+    enemyhealth: 62478
+  - level: 629
+    attack: 2768
+    firecooltime: 3.29
+    rotatepersec: 56.757576
+    acceleration: 9.646464
+    health: 352831
+    levelfactor: 6.274
+    enemyhealth: 62565
+  - level: 630
+    attack: 2771
+    firecooltime: 3.29
+    rotatepersec: 56.81818
+    acceleration: 9.651515
+    health: 353973
+    levelfactor: 6.28
+    enemyhealth: 62652
+  - level: 631
+    attack: 2774
+    firecooltime: 3.28
+    rotatepersec: 56.878788
+    acceleration: 9.656566
+    health: 355120
+    levelfactor: 6.286
+    enemyhealth: 62740
+  - level: 632
+    attack: 2777
+    firecooltime: 3.27
+    rotatepersec: 56.939392
+    acceleration: 9.661616
+    health: 356272
+    levelfactor: 6.292
+    enemyhealth: 62827
+  - level: 633
+    attack: 2780
+    firecooltime: 3.27
+    rotatepersec: 57
+    acceleration: 9.666667
+    health: 357429
+    levelfactor: 6.298
+    enemyhealth: 62914
+  - level: 634
+    attack: 2783
+    firecooltime: 3.26
+    rotatepersec: 57.060608
+    acceleration: 9.671718
+    health: 358590
+    levelfactor: 6.304
+    enemyhealth: 63002
+  - level: 635
+    attack: 2786
+    firecooltime: 3.25
+    rotatepersec: 57.121212
+    acceleration: 9.676767
+    health: 359757
+    levelfactor: 6.31
+    enemyhealth: 63089
+  - level: 636
+    attack: 2789
+    firecooltime: 3.25
+    rotatepersec: 57.18182
+    acceleration: 9.681818
+    health: 360929
+    levelfactor: 6.316
+    enemyhealth: 63176
+  - level: 637
+    attack: 2792
+    firecooltime: 3.24
+    rotatepersec: 57.242424
+    acceleration: 9.686869
+    health: 362107
+    levelfactor: 6.322
+    enemyhealth: 63264
+  - level: 638
+    attack: 2795
+    firecooltime: 3.23
+    rotatepersec: 57.303032
+    acceleration: 9.691919
+    health: 363289
+    levelfactor: 6.328
+    enemyhealth: 63351
+  - level: 639
+    attack: 2798
+    firecooltime: 3.22
+    rotatepersec: 57.363636
+    acceleration: 9.69697
+    health: 364476
+    levelfactor: 6.334
+    enemyhealth: 63439
+  - level: 640
+    attack: 2801
+    firecooltime: 3.22
+    rotatepersec: 57.424244
+    acceleration: 9.702021
+    health: 365669
+    levelfactor: 6.34
+    enemyhealth: 63527
+  - level: 641
+    attack: 2804
+    firecooltime: 3.21
+    rotatepersec: 57.484848
+    acceleration: 9.70707
+    health: 366867
+    levelfactor: 6.346
+    enemyhealth: 63614
+  - level: 642
+    attack: 2807
+    firecooltime: 3.2
+    rotatepersec: 57.545456
+    acceleration: 9.712121
+    health: 368070
+    levelfactor: 6.352
+    enemyhealth: 63702
+  - level: 643
+    attack: 2810
+    firecooltime: 3.2
+    rotatepersec: 57.60606
+    acceleration: 9.717172
+    health: 369279
+    levelfactor: 6.358
+    enemyhealth: 63790
+  - level: 644
+    attack: 2813
+    firecooltime: 3.19
+    rotatepersec: 57.666668
+    acceleration: 9.722222
+    health: 370493
+    levelfactor: 6.364
+    enemyhealth: 63878
+  - level: 645
+    attack: 2816
+    firecooltime: 3.18
+    rotatepersec: 57.727272
+    acceleration: 9.727273
+    health: 371712
+    levelfactor: 6.37
+    enemyhealth: 63965
+  - level: 646
+    attack: 2819
+    firecooltime: 3.17
+    rotatepersec: 57.78788
+    acceleration: 9.732324
+    health: 372937
+    levelfactor: 6.376
+    enemyhealth: 64053
+  - level: 647
+    attack: 2822
+    firecooltime: 3.17
+    rotatepersec: 57.848484
+    acceleration: 9.737373
+    health: 374167
+    levelfactor: 6.382
+    enemyhealth: 64141
+  - level: 648
+    attack: 2825
+    firecooltime: 3.16
+    rotatepersec: 57.909092
+    acceleration: 9.742424
+    health: 375403
+    levelfactor: 6.388
+    enemyhealth: 64229
+  - level: 649
+    attack: 2828
+    firecooltime: 3.15
+    rotatepersec: 57.969696
+    acceleration: 9.747475
+    health: 376644
+    levelfactor: 6.394
+    enemyhealth: 64317
+  - level: 650
+    attack: 2831
+    firecooltime: 3.15
+    rotatepersec: 58.030304
+    acceleration: 9.752525
+    health: 377891
+    levelfactor: 6.4
+    enemyhealth: 64405
+  - level: 651
+    attack: 2834
+    firecooltime: 3.14
+    rotatepersec: 58.090908
+    acceleration: 9.757576
+    health: 379143
+    levelfactor: 6.406
+    enemyhealth: 64493
+  - level: 652
+    attack: 2837
+    firecooltime: 3.13
+    rotatepersec: 58.151516
+    acceleration: 9.762627
+    health: 380401
+    levelfactor: 6.412
+    enemyhealth: 64581
+  - level: 653
+    attack: 2840
+    firecooltime: 3.13
+    rotatepersec: 58.21212
+    acceleration: 9.767676
+    health: 381665
+    levelfactor: 6.418
+    enemyhealth: 64670
+  - level: 654
+    attack: 2843
+    firecooltime: 3.12
+    rotatepersec: 58.272728
+    acceleration: 9.772727
+    health: 382935
+    levelfactor: 6.424
+    enemyhealth: 64758
+  - level: 655
+    attack: 2846
+    firecooltime: 3.11
+    rotatepersec: 58.333332
+    acceleration: 9.777778
+    health: 384210
+    levelfactor: 6.43
+    enemyhealth: 64846
+  - level: 656
+    attack: 2849
+    firecooltime: 3.1
+    rotatepersec: 58.39394
+    acceleration: 9.782828
+    health: 385491
+    levelfactor: 6.436
+    enemyhealth: 64934
+  - level: 657
+    attack: 2852
+    firecooltime: 3.1
+    rotatepersec: 58.454544
+    acceleration: 9.787879
+    health: 386778
+    levelfactor: 6.442
+    enemyhealth: 65023
+  - level: 658
+    attack: 2855
+    firecooltime: 3.09
+    rotatepersec: 58.515152
+    acceleration: 9.79293
+    health: 388071
+    levelfactor: 6.448
+    enemyhealth: 65111
+  - level: 659
+    attack: 2858
+    firecooltime: 3.08
+    rotatepersec: 58.575756
+    acceleration: 9.797979
+    health: 389370
+    levelfactor: 6.454
+    enemyhealth: 65200
+  - level: 660
+    attack: 2861
+    firecooltime: 3.08
+    rotatepersec: 58.636364
+    acceleration: 9.80303
+    health: 390674
+    levelfactor: 6.46
+    enemyhealth: 65288
+  - level: 661
+    attack: 2864
+    firecooltime: 3.07
+    rotatepersec: 58.696968
+    acceleration: 9.808081
+    health: 391985
+    levelfactor: 6.466
+    enemyhealth: 65377
+  - level: 662
+    attack: 2867
+    firecooltime: 3.06
+    rotatepersec: 58.757576
+    acceleration: 9.813131
+    health: 393302
+    levelfactor: 6.472
+    enemyhealth: 65465
+  - level: 663
+    attack: 2870
+    firecooltime: 3.05
+    rotatepersec: 58.81818
+    acceleration: 9.818182
+    health: 394625
+    levelfactor: 6.478
+    enemyhealth: 65554
+  - level: 664
+    attack: 2873
+    firecooltime: 3.05
+    rotatepersec: 58.878788
+    acceleration: 9.823233
+    health: 395954
+    levelfactor: 6.484
+    enemyhealth: 65642
+  - level: 665
+    attack: 2876
+    firecooltime: 3.04
+    rotatepersec: 58.939392
+    acceleration: 9.828282
+    health: 397289
+    levelfactor: 6.49
+    enemyhealth: 65731
+  - level: 666
+    attack: 2879
+    firecooltime: 3.03
+    rotatepersec: 59
+    acceleration: 9.833333
+    health: 398631
+    levelfactor: 6.496
+    enemyhealth: 65820
+  - level: 667
+    attack: 2882
+    firecooltime: 3.03
+    rotatepersec: 59.060608
+    acceleration: 9.838384
+    health: 399979
+    levelfactor: 6.502
+    enemyhealth: 65908
+  - level: 668
+    attack: 2885
+    firecooltime: 3.02
+    rotatepersec: 59.121212
+    acceleration: 9.843434
+    health: 401333
+    levelfactor: 6.508
+    enemyhealth: 65997
+  - level: 669
+    attack: 2888
+    firecooltime: 3.01
+    rotatepersec: 59.18182
+    acceleration: 9.848485
+    health: 402693
+    levelfactor: 6.514
+    enemyhealth: 66086
+  - level: 670
+    attack: 2891
+    firecooltime: 3.01
+    rotatepersec: 59.242424
+    acceleration: 9.853536
+    health: 404060
+    levelfactor: 6.52
+    enemyhealth: 66175
+  - level: 671
+    attack: 2894
+    firecooltime: 3
+    rotatepersec: 59.303032
+    acceleration: 9.858586
+    health: 405433
+    levelfactor: 6.526
+    enemyhealth: 66264
+  - level: 672
+    attack: 2897
+    firecooltime: 2.99
+    rotatepersec: 59.363636
+    acceleration: 9.863636
+    health: 406813
+    levelfactor: 6.532
+    enemyhealth: 66353
+  - level: 673
+    attack: 2900
+    firecooltime: 2.98
+    rotatepersec: 59.424244
+    acceleration: 9.868687
+    health: 408199
+    levelfactor: 6.538
+    enemyhealth: 66442
+  - level: 674
+    attack: 2903
+    firecooltime: 2.98
+    rotatepersec: 59.484848
+    acceleration: 9.873737
+    health: 409592
+    levelfactor: 6.544
+    enemyhealth: 66531
+  - level: 675
+    attack: 2906
+    firecooltime: 2.97
+    rotatepersec: 59.545456
+    acceleration: 9.878788
+    health: 410991
+    levelfactor: 6.55
+    enemyhealth: 66620
+  - level: 676
+    attack: 2909
+    firecooltime: 2.96
+    rotatepersec: 59.60606
+    acceleration: 9.883839
+    health: 412398
+    levelfactor: 6.556
+    enemyhealth: 66709
+  - level: 677
+    attack: 2912
+    firecooltime: 2.96
+    rotatepersec: 59.666668
+    acceleration: 9.888889
+    health: 413811
+    levelfactor: 6.562
+    enemyhealth: 66798
+  - level: 678
+    attack: 2915
+    firecooltime: 2.95
+    rotatepersec: 59.727272
+    acceleration: 9.893939
+    health: 415230
+    levelfactor: 6.568
+    enemyhealth: 66888
+  - level: 679
+    attack: 2918
+    firecooltime: 2.94
+    rotatepersec: 59.78788
+    acceleration: 9.89899
+    health: 416657
+    levelfactor: 6.574
+    enemyhealth: 66977
+  - level: 680
+    attack: 2921
+    firecooltime: 2.93
+    rotatepersec: 59.848484
+    acceleration: 9.90404
+    health: 418090
+    levelfactor: 6.58
+    enemyhealth: 67066
+  - level: 681
+    attack: 2924
+    firecooltime: 2.93
+    rotatepersec: 59.909092
+    acceleration: 9.909091
+    health: 419530
+    levelfactor: 6.586
+    enemyhealth: 67156
+  - level: 682
+    attack: 2927
+    firecooltime: 2.92
+    rotatepersec: 59.969696
+    acceleration: 9.914142
+    health: 420978
+    levelfactor: 6.592
+    enemyhealth: 67245
+  - level: 683
+    attack: 2930
+    firecooltime: 2.91
+    rotatepersec: 60.030304
+    acceleration: 9.919192
+    health: 422432
+    levelfactor: 6.598
+    enemyhealth: 67334
+  - level: 684
+    attack: 2933
+    firecooltime: 2.91
+    rotatepersec: 60.090908
+    acceleration: 9.924242
+    health: 423893
+    levelfactor: 6.604
+    enemyhealth: 67424
+  - level: 685
+    attack: 2936
+    firecooltime: 2.9
+    rotatepersec: 60.151516
+    acceleration: 9.929293
+    health: 425362
+    levelfactor: 6.61
+    enemyhealth: 67513
+  - level: 686
+    attack: 2939
+    firecooltime: 2.89
+    rotatepersec: 60.21212
+    acceleration: 9.934343
+    health: 426838
+    levelfactor: 6.616
+    enemyhealth: 67603
+  - level: 687
+    attack: 2942
+    firecooltime: 2.88
+    rotatepersec: 60.272728
+    acceleration: 9.939394
+    health: 428321
+    levelfactor: 6.622
+    enemyhealth: 67692
+  - level: 688
+    attack: 2945
+    firecooltime: 2.88
+    rotatepersec: 60.333332
+    acceleration: 9.944445
+    health: 429811
+    levelfactor: 6.628
+    enemyhealth: 67782
+  - level: 689
+    attack: 2948
+    firecooltime: 2.87
+    rotatepersec: 60.39394
+    acceleration: 9.949495
+    health: 431308
+    levelfactor: 6.634
+    enemyhealth: 67872
+  - level: 690
+    attack: 2951
+    firecooltime: 2.86
+    rotatepersec: 60.454544
+    acceleration: 9.954545
+    health: 432813
+    levelfactor: 6.64
+    enemyhealth: 67962
+  - level: 691
+    attack: 2954
+    firecooltime: 2.86
+    rotatepersec: 60.515152
+    acceleration: 9.959596
+    health: 434326
+    levelfactor: 6.646
+    enemyhealth: 68051
+  - level: 692
+    attack: 2957
+    firecooltime: 2.85
+    rotatepersec: 60.575756
+    acceleration: 9.964646
+    health: 435846
+    levelfactor: 6.652
+    enemyhealth: 68141
+  - level: 693
+    attack: 2960
+    firecooltime: 2.84
+    rotatepersec: 60.636364
+    acceleration: 9.969697
+    health: 437373
+    levelfactor: 6.658
+    enemyhealth: 68231
+  - level: 694
+    attack: 2963
+    firecooltime: 2.84
+    rotatepersec: 60.696968
+    acceleration: 9.974748
+    health: 438908
+    levelfactor: 6.664
+    enemyhealth: 68321
+  - level: 695
+    attack: 2966
+    firecooltime: 2.83
+    rotatepersec: 60.757576
+    acceleration: 9.979798
+    health: 440451
+    levelfactor: 6.67
+    enemyhealth: 68411
+  - level: 696
+    attack: 2969
+    firecooltime: 2.82
+    rotatepersec: 60.81818
+    acceleration: 9.984848
+    health: 442002
+    levelfactor: 6.676
+    enemyhealth: 68501
+  - level: 697
+    attack: 2972
+    firecooltime: 2.81
+    rotatepersec: 60.878788
+    acceleration: 9.989899
+    health: 443560
+    levelfactor: 6.682
+    enemyhealth: 68591
+  - level: 698
+    attack: 2975
+    firecooltime: 2.81
+    rotatepersec: 60.939392
+    acceleration: 9.994949
+    health: 445126
+    levelfactor: 6.688
+    enemyhealth: 68681
+  - level: 699
+    attack: 2978
+    firecooltime: 2.8
+    rotatepersec: 61
+    acceleration: 10
+    health: 446700
+    levelfactor: 6.694
+    enemyhealth: 68771
+  - level: 700
+    attack: 2792
+    firecooltime: 3
+    rotatepersec: 56
+    acceleration: 9.5
+    health: 446720
+    levelfactor: 6.7
+    enemyhealth: 73709
+  - level: 701
+    attack: 2795
+    firecooltime: 2.99
+    rotatepersec: 56.060608
+    acceleration: 9.505051
+    health: 447954
+    levelfactor: 6.706
+    enemyhealth: 73810
+  - level: 702
+    attack: 2798
+    firecooltime: 2.99
+    rotatepersec: 56.121212
+    acceleration: 9.510101
+    health: 449192
+    levelfactor: 6.712
+    enemyhealth: 73912
+  - level: 703
+    attack: 2801
+    firecooltime: 2.98
+    rotatepersec: 56.18182
+    acceleration: 9.515152
+    health: 450435
+    levelfactor: 6.718
+    enemyhealth: 74014
+  - level: 704
+    attack: 2804
+    firecooltime: 2.98
+    rotatepersec: 56.242424
+    acceleration: 9.520202
+    health: 451682
+    levelfactor: 6.724
+    enemyhealth: 74115
+  - level: 705
+    attack: 2807
+    firecooltime: 2.97
+    rotatepersec: 56.303032
+    acceleration: 9.525252
+    health: 452933
+    levelfactor: 6.73
+    enemyhealth: 74217
+  - level: 706
+    attack: 2810
+    firecooltime: 2.97
+    rotatepersec: 56.363636
+    acceleration: 9.530303
+    health: 454188
+    levelfactor: 6.736
+    enemyhealth: 74319
+  - level: 707
+    attack: 2813
+    firecooltime: 2.96
+    rotatepersec: 56.424244
+    acceleration: 9.535354
+    health: 455447
+    levelfactor: 6.742
+    enemyhealth: 74421
+  - level: 708
+    attack: 2816
+    firecooltime: 2.96
+    rotatepersec: 56.484848
+    acceleration: 9.540404
+    health: 456711
+    levelfactor: 6.748
+    enemyhealth: 74523
+  - level: 709
+    attack: 2819
+    firecooltime: 2.95
+    rotatepersec: 56.545456
+    acceleration: 9.545455
+    health: 457979
+    levelfactor: 6.754
+    enemyhealth: 74625
+  - level: 710
+    attack: 2822
+    firecooltime: 2.95
+    rotatepersec: 56.60606
+    acceleration: 9.550505
+    health: 459252
+    levelfactor: 6.76
+    enemyhealth: 74727
+  - level: 711
+    attack: 2825
+    firecooltime: 2.94
+    rotatepersec: 56.666668
+    acceleration: 9.555555
+    health: 460528
+    levelfactor: 6.766
+    enemyhealth: 74829
+  - level: 712
+    attack: 2828
+    firecooltime: 2.94
+    rotatepersec: 56.727272
+    acceleration: 9.560606
+    health: 461809
+    levelfactor: 6.772
+    enemyhealth: 74931
+  - level: 713
+    attack: 2831
+    firecooltime: 2.93
+    rotatepersec: 56.78788
+    acceleration: 9.565657
+    health: 463095
+    levelfactor: 6.778
+    enemyhealth: 75033
+  - level: 714
+    attack: 2834
+    firecooltime: 2.93
+    rotatepersec: 56.848484
+    acceleration: 9.570707
+    health: 464385
+    levelfactor: 6.784
+    enemyhealth: 75135
+  - level: 715
+    attack: 2837
+    firecooltime: 2.92
+    rotatepersec: 56.909092
+    acceleration: 9.575758
+    health: 465680
+    levelfactor: 6.79
+    enemyhealth: 75237
+  - level: 716
+    attack: 2840
+    firecooltime: 2.92
+    rotatepersec: 56.969696
+    acceleration: 9.580808
+    health: 466979
+    levelfactor: 6.796
+    enemyhealth: 75340
+  - level: 717
+    attack: 2843
+    firecooltime: 2.91
+    rotatepersec: 57.030304
+    acceleration: 9.585858
+    health: 468282
+    levelfactor: 6.802
+    enemyhealth: 75442
+  - level: 718
+    attack: 2846
+    firecooltime: 2.91
+    rotatepersec: 57.090908
+    acceleration: 9.590909
+    health: 469590
+    levelfactor: 6.808
+    enemyhealth: 75544
+  - level: 719
+    attack: 2849
+    firecooltime: 2.9
+    rotatepersec: 57.151516
+    acceleration: 9.59596
+    health: 470903
+    levelfactor: 6.814
+    enemyhealth: 75647
+  - level: 720
+    attack: 2852
+    firecooltime: 2.9
+    rotatepersec: 57.21212
+    acceleration: 9.60101
+    health: 472220
+    levelfactor: 6.82
+    enemyhealth: 75749
+  - level: 721
+    attack: 2855
+    firecooltime: 2.89
+    rotatepersec: 57.272728
+    acceleration: 9.606061
+    health: 473541
+    levelfactor: 6.826
+    enemyhealth: 75852
+  - level: 722
+    attack: 2858
+    firecooltime: 2.89
+    rotatepersec: 57.333332
+    acceleration: 9.611111
+    health: 474868
+    levelfactor: 6.832
+    enemyhealth: 75954
+  - level: 723
+    attack: 2861
+    firecooltime: 2.88
+    rotatepersec: 57.39394
+    acceleration: 9.616161
+    health: 476199
+    levelfactor: 6.838
+    enemyhealth: 76057
+  - level: 724
+    attack: 2864
+    firecooltime: 2.88
+    rotatepersec: 57.454544
+    acceleration: 9.621212
+    health: 477534
+    levelfactor: 6.844
+    enemyhealth: 76159
+  - level: 725
+    attack: 2867
+    firecooltime: 2.87
+    rotatepersec: 57.515152
+    acceleration: 9.626263
+    health: 478875
+    levelfactor: 6.85
+    enemyhealth: 76262
+  - level: 726
+    attack: 2870
+    firecooltime: 2.87
+    rotatepersec: 57.575756
+    acceleration: 9.631313
+    health: 480220
+    levelfactor: 6.856
+    enemyhealth: 76365
+  - level: 727
+    attack: 2873
+    firecooltime: 2.86
+    rotatepersec: 57.636364
+    acceleration: 9.636364
+    health: 481570
+    levelfactor: 6.862
+    enemyhealth: 76468
+  - level: 728
+    attack: 2876
+    firecooltime: 2.86
+    rotatepersec: 57.696968
+    acceleration: 9.641414
+    health: 482924
+    levelfactor: 6.868
+    enemyhealth: 76571
+  - level: 729
+    attack: 2879
+    firecooltime: 2.85
+    rotatepersec: 57.757576
+    acceleration: 9.646464
+    health: 484283
+    levelfactor: 6.874
+    enemyhealth: 76674
+  - level: 730
+    attack: 2882
+    firecooltime: 2.85
+    rotatepersec: 57.81818
+    acceleration: 9.651515
+    health: 485648
+    levelfactor: 6.88
+    enemyhealth: 76776
+  - level: 731
+    attack: 2885
+    firecooltime: 2.84
+    rotatepersec: 57.878788
+    acceleration: 9.656566
+    health: 487017
+    levelfactor: 6.886
+    enemyhealth: 76879
+  - level: 732
+    attack: 2888
+    firecooltime: 2.84
+    rotatepersec: 57.939392
+    acceleration: 9.661616
+    health: 488391
+    levelfactor: 6.892
+    enemyhealth: 76983
+  - level: 733
+    attack: 2891
+    firecooltime: 2.83
+    rotatepersec: 58
+    acceleration: 9.666667
+    health: 489769
+    levelfactor: 6.898
+    enemyhealth: 77086
+  - level: 734
+    attack: 2894
+    firecooltime: 2.83
+    rotatepersec: 58.060608
+    acceleration: 9.671718
+    health: 491153
+    levelfactor: 6.904
+    enemyhealth: 77189
+  - level: 735
+    attack: 2897
+    firecooltime: 2.82
+    rotatepersec: 58.121212
+    acceleration: 9.676767
+    health: 492542
+    levelfactor: 6.91
+    enemyhealth: 77292
+  - level: 736
+    attack: 2900
+    firecooltime: 2.82
+    rotatepersec: 58.18182
+    acceleration: 9.681818
+    health: 493935
+    levelfactor: 6.916
+    enemyhealth: 77395
+  - level: 737
+    attack: 2903
+    firecooltime: 2.81
+    rotatepersec: 58.242424
+    acceleration: 9.686869
+    health: 495334
+    levelfactor: 6.922
+    enemyhealth: 77498
+  - level: 738
+    attack: 2906
+    firecooltime: 2.81
+    rotatepersec: 58.303032
+    acceleration: 9.691919
+    health: 496738
+    levelfactor: 6.928
+    enemyhealth: 77602
+  - level: 739
+    attack: 2909
+    firecooltime: 2.8
+    rotatepersec: 58.363636
+    acceleration: 9.69697
+    health: 498147
+    levelfactor: 6.934
+    enemyhealth: 77705
+  - level: 740
+    attack: 2912
+    firecooltime: 2.8
+    rotatepersec: 58.424244
+    acceleration: 9.702021
+    health: 499560
+    levelfactor: 6.94
+    enemyhealth: 77809
+  - level: 741
+    attack: 2915
+    firecooltime: 2.79
+    rotatepersec: 58.484848
+    acceleration: 9.70707
+    health: 500979
+    levelfactor: 6.946
+    enemyhealth: 77912
+  - level: 742
+    attack: 2918
+    firecooltime: 2.79
+    rotatepersec: 58.545456
+    acceleration: 9.712121
+    health: 502403
+    levelfactor: 6.952
+    enemyhealth: 78016
+  - level: 743
+    attack: 2921
+    firecooltime: 2.78
+    rotatepersec: 58.60606
+    acceleration: 9.717172
+    health: 503833
+    levelfactor: 6.958
+    enemyhealth: 78119
+  - level: 744
+    attack: 2924
+    firecooltime: 2.78
+    rotatepersec: 58.666668
+    acceleration: 9.722222
+    health: 505267
+    levelfactor: 6.964
+    enemyhealth: 78223
+  - level: 745
+    attack: 2927
+    firecooltime: 2.77
+    rotatepersec: 58.727272
+    acceleration: 9.727273
+    health: 506707
+    levelfactor: 6.97
+    enemyhealth: 78327
+  - level: 746
+    attack: 2930
+    firecooltime: 2.77
+    rotatepersec: 58.78788
+    acceleration: 9.732324
+    health: 508152
+    levelfactor: 6.976
+    enemyhealth: 78430
+  - level: 747
+    attack: 2933
+    firecooltime: 2.76
+    rotatepersec: 58.848484
+    acceleration: 9.737373
+    health: 509602
+    levelfactor: 6.982
+    enemyhealth: 78534
+  - level: 748
+    attack: 2936
+    firecooltime: 2.76
+    rotatepersec: 58.909092
+    acceleration: 9.742424
+    health: 511058
+    levelfactor: 6.988
+    enemyhealth: 78638
+  - level: 749
+    attack: 2939
+    firecooltime: 2.75
+    rotatepersec: 58.969696
+    acceleration: 9.747475
+    health: 512518
+    levelfactor: 6.994
+    enemyhealth: 78742
+  - level: 750
+    attack: 2942
+    firecooltime: 2.75
+    rotatepersec: 59.030304
+    acceleration: 9.752525
+    health: 513985
+    levelfactor: 7
+    enemyhealth: 78846
+  - level: 751
+    attack: 2945
+    firecooltime: 2.74
+    rotatepersec: 59.090908
+    acceleration: 9.757576
+    health: 515456
+    levelfactor: 7.006
+    enemyhealth: 78950
+  - level: 752
+    attack: 2948
+    firecooltime: 2.74
+    rotatepersec: 59.151516
+    acceleration: 9.762627
+    health: 516933
+    levelfactor: 7.012
+    enemyhealth: 79054
+  - level: 753
+    attack: 2951
+    firecooltime: 2.73
+    rotatepersec: 59.21212
+    acceleration: 9.767676
+    health: 518416
+    levelfactor: 7.018
+    enemyhealth: 79158
+  - level: 754
+    attack: 2954
+    firecooltime: 2.73
+    rotatepersec: 59.272728
+    acceleration: 9.772727
+    health: 519904
+    levelfactor: 7.024
+    enemyhealth: 79262
+  - level: 755
+    attack: 2957
+    firecooltime: 2.72
+    rotatepersec: 59.333332
+    acceleration: 9.777778
+    health: 521398
+    levelfactor: 7.03
+    enemyhealth: 79366
+  - level: 756
+    attack: 2960
+    firecooltime: 2.72
+    rotatepersec: 59.39394
+    acceleration: 9.782828
+    health: 522897
+    levelfactor: 7.036
+    enemyhealth: 79470
+  - level: 757
+    attack: 2963
+    firecooltime: 2.71
+    rotatepersec: 59.454544
+    acceleration: 9.787879
+    health: 524401
+    levelfactor: 7.042
+    enemyhealth: 79574
+  - level: 758
+    attack: 2966
+    firecooltime: 2.71
+    rotatepersec: 59.515152
+    acceleration: 9.79293
+    health: 525912
+    levelfactor: 7.048
+    enemyhealth: 79679
+  - level: 759
+    attack: 2969
+    firecooltime: 2.7
+    rotatepersec: 59.575756
+    acceleration: 9.797979
+    health: 527428
+    levelfactor: 7.054
+    enemyhealth: 79783
+  - level: 760
+    attack: 2972
+    firecooltime: 2.7
+    rotatepersec: 59.636364
+    acceleration: 9.80303
+    health: 528949
+    levelfactor: 7.06
+    enemyhealth: 79887
+  - level: 761
+    attack: 2975
+    firecooltime: 2.69
+    rotatepersec: 59.696968
+    acceleration: 9.808081
+    health: 530477
+    levelfactor: 7.066
+    enemyhealth: 79992
+  - level: 762
+    attack: 2978
+    firecooltime: 2.69
+    rotatepersec: 59.757576
+    acceleration: 9.813131
+    health: 532010
+    levelfactor: 7.072
+    enemyhealth: 80096
+  - level: 763
+    attack: 2981
+    firecooltime: 2.68
+    rotatepersec: 59.81818
+    acceleration: 9.818182
+    health: 533548
+    levelfactor: 7.078
+    enemyhealth: 80201
+  - level: 764
+    attack: 2984
+    firecooltime: 2.68
+    rotatepersec: 59.878788
+    acceleration: 9.823233
+    health: 535093
+    levelfactor: 7.084
+    enemyhealth: 80305
+  - level: 765
+    attack: 2987
+    firecooltime: 2.67
+    rotatepersec: 59.939392
+    acceleration: 9.828282
+    health: 536644
+    levelfactor: 7.09
+    enemyhealth: 80410
+  - level: 766
+    attack: 2990
+    firecooltime: 2.67
+    rotatepersec: 60
+    acceleration: 9.833333
+    health: 538200
+    levelfactor: 7.096
+    enemyhealth: 80515
+  - level: 767
+    attack: 2993
+    firecooltime: 2.66
+    rotatepersec: 60.060608
+    acceleration: 9.838384
+    health: 539762
+    levelfactor: 7.102
+    enemyhealth: 80619
+  - level: 768
+    attack: 2996
+    firecooltime: 2.66
+    rotatepersec: 60.121212
+    acceleration: 9.843434
+    health: 541330
+    levelfactor: 7.108
+    enemyhealth: 80724
+  - level: 769
+    attack: 2999
+    firecooltime: 2.65
+    rotatepersec: 60.18182
+    acceleration: 9.848485
+    health: 542905
+    levelfactor: 7.114
+    enemyhealth: 80829
+  - level: 770
+    attack: 3002
+    firecooltime: 2.65
+    rotatepersec: 60.242424
+    acceleration: 9.853536
+    health: 544485
+    levelfactor: 7.12
+    enemyhealth: 80934
+  - level: 771
+    attack: 3005
+    firecooltime: 2.64
+    rotatepersec: 60.303032
+    acceleration: 9.858586
+    health: 546071
+    levelfactor: 7.126
+    enemyhealth: 81039
+  - level: 772
+    attack: 3008
+    firecooltime: 2.64
+    rotatepersec: 60.363636
+    acceleration: 9.863636
+    health: 547663
+    levelfactor: 7.132
+    enemyhealth: 81144
+  - level: 773
+    attack: 3011
+    firecooltime: 2.63
+    rotatepersec: 60.424244
+    acceleration: 9.868687
+    health: 549262
+    levelfactor: 7.138
+    enemyhealth: 81249
+  - level: 774
+    attack: 3014
+    firecooltime: 2.63
+    rotatepersec: 60.484848
+    acceleration: 9.873737
+    health: 550866
+    levelfactor: 7.144
+    enemyhealth: 81354
+  - level: 775
+    attack: 3017
+    firecooltime: 2.62
+    rotatepersec: 60.545456
+    acceleration: 9.878788
+    health: 552477
+    levelfactor: 7.15
+    enemyhealth: 81459
+  - level: 776
+    attack: 3020
+    firecooltime: 2.62
+    rotatepersec: 60.60606
+    acceleration: 9.883839
+    health: 554094
+    levelfactor: 7.156
+    enemyhealth: 81564
+  - level: 777
+    attack: 3023
+    firecooltime: 2.61
+    rotatepersec: 60.666668
+    acceleration: 9.888889
+    health: 555717
+    levelfactor: 7.162
+    enemyhealth: 81669
+  - level: 778
+    attack: 3026
+    firecooltime: 2.61
+    rotatepersec: 60.727272
+    acceleration: 9.893939
+    health: 557347
+    levelfactor: 7.168
+    enemyhealth: 81775
+  - level: 779
+    attack: 3029
+    firecooltime: 2.6
+    rotatepersec: 60.78788
+    acceleration: 9.89899
+    health: 558983
+    levelfactor: 7.174
+    enemyhealth: 81880
+  - level: 780
+    attack: 3032
+    firecooltime: 2.6
+    rotatepersec: 60.848484
+    acceleration: 9.90404
+    health: 560625
+    levelfactor: 7.18
+    enemyhealth: 81985
+  - level: 781
+    attack: 3035
+    firecooltime: 2.59
+    rotatepersec: 60.909092
+    acceleration: 9.909091
+    health: 562274
+    levelfactor: 7.186
+    enemyhealth: 82091
+  - level: 782
+    attack: 3038
+    firecooltime: 2.59
+    rotatepersec: 60.969696
+    acceleration: 9.914142
+    health: 563929
+    levelfactor: 7.192
+    enemyhealth: 82196
+  - level: 783
+    attack: 3041
+    firecooltime: 2.58
+    rotatepersec: 61.030304
+    acceleration: 9.919192
+    health: 565590
+    levelfactor: 7.198
+    enemyhealth: 82302
+  - level: 784
+    attack: 3044
+    firecooltime: 2.58
+    rotatepersec: 61.090908
+    acceleration: 9.924242
+    health: 567258
+    levelfactor: 7.204
+    enemyhealth: 82407
+  - level: 785
+    attack: 3047
+    firecooltime: 2.57
+    rotatepersec: 61.151516
+    acceleration: 9.929293
+    health: 568933
+    levelfactor: 7.21
+    enemyhealth: 82513
+  - level: 786
+    attack: 3050
+    firecooltime: 2.57
+    rotatepersec: 61.21212
+    acceleration: 9.934343
+    health: 570614
+    levelfactor: 7.216
+    enemyhealth: 82618
+  - level: 787
+    attack: 3053
+    firecooltime: 2.56
+    rotatepersec: 61.272728
+    acceleration: 9.939394
+    health: 572302
+    levelfactor: 7.222
+    enemyhealth: 82724
+  - level: 788
+    attack: 3056
+    firecooltime: 2.56
+    rotatepersec: 61.333332
+    acceleration: 9.944445
+    health: 573997
+    levelfactor: 7.228
+    enemyhealth: 82830
+  - level: 789
+    attack: 3059
+    firecooltime: 2.55
+    rotatepersec: 61.39394
+    acceleration: 9.949495
+    health: 575698
+    levelfactor: 7.234
+    enemyhealth: 82936
+  - level: 790
+    attack: 3062
+    firecooltime: 2.55
+    rotatepersec: 61.454544
+    acceleration: 9.954545
+    health: 577406
+    levelfactor: 7.24
+    enemyhealth: 83041
+  - level: 791
+    attack: 3065
+    firecooltime: 2.54
+    rotatepersec: 61.515152
+    acceleration: 9.959596
+    health: 579120
+    levelfactor: 7.246
+    enemyhealth: 83147
+  - level: 792
+    attack: 3068
+    firecooltime: 2.54
+    rotatepersec: 61.575756
+    acceleration: 9.964646
+    health: 580842
+    levelfactor: 7.252
+    enemyhealth: 83253
+  - level: 793
+    attack: 3071
+    firecooltime: 2.53
+    rotatepersec: 61.636364
+    acceleration: 9.969697
+    health: 582571
+    levelfactor: 7.258
+    enemyhealth: 83359
+  - level: 794
+    attack: 3074
+    firecooltime: 2.53
+    rotatepersec: 61.696968
+    acceleration: 9.974748
+    health: 584306
+    levelfactor: 7.264
+    enemyhealth: 83465
+  - level: 795
+    attack: 3077
+    firecooltime: 2.52
+    rotatepersec: 61.757576
+    acceleration: 9.979798
+    health: 586048
+    levelfactor: 7.27
+    enemyhealth: 83571
+  - level: 796
+    attack: 3080
+    firecooltime: 2.52
+    rotatepersec: 61.81818
+    acceleration: 9.984848
+    health: 587798
+    levelfactor: 7.276
+    enemyhealth: 83677
+  - level: 797
+    attack: 3083
+    firecooltime: 2.51
+    rotatepersec: 61.878788
+    acceleration: 9.989899
+    health: 589554
+    levelfactor: 7.282
+    enemyhealth: 83784
+  - level: 798
+    attack: 3086
+    firecooltime: 2.51
+    rotatepersec: 61.939392
+    acceleration: 9.994949
+    health: 591317
+    levelfactor: 7.288
+    enemyhealth: 83890
+  - level: 799
+    attack: 3089
+    firecooltime: 2.5
+    rotatepersec: 62
+    acceleration: 10
+    health: 593088
+    levelfactor: 7.294
+    enemyhealth: 83996
+  - level: 800
+    attack: 3707
+    firecooltime: 3
+    rotatepersec: 57
+    acceleration: 10
+    health: 593120
+    levelfactor: 7.3
+    enemyhealth: 100830
+  - level: 801
+    attack: 3710
+    firecooltime: 2.99
+    rotatepersec: 57.060608
+    acceleration: 10.005051
+    health: 594601
+    levelfactor: 7.306
+    enemyhealth: 100942
+  - level: 802
+    attack: 3713
+    firecooltime: 2.99
+    rotatepersec: 57.121212
+    acceleration: 10.010101
+    health: 596087
+    levelfactor: 7.312
+    enemyhealth: 101053
+  - level: 803
+    attack: 3716
+    firecooltime: 2.98
+    rotatepersec: 57.18182
+    acceleration: 10.015152
+    health: 597578
+    levelfactor: 7.318
+    enemyhealth: 101164
+  - level: 804
+    attack: 3719
+    firecooltime: 2.98
+    rotatepersec: 57.242424
+    acceleration: 10.020202
+    health: 599074
+    levelfactor: 7.324
+    enemyhealth: 101276
+  - level: 805
+    attack: 3722
+    firecooltime: 2.97
+    rotatepersec: 57.303032
+    acceleration: 10.025252
+    health: 600575
+    levelfactor: 7.33
+    enemyhealth: 101387
+  - level: 806
+    attack: 3725
+    firecooltime: 2.97
+    rotatepersec: 57.363636
+    acceleration: 10.030303
+    health: 602082
+    levelfactor: 7.336
+    enemyhealth: 101499
+  - level: 807
+    attack: 3728
+    firecooltime: 2.96
+    rotatepersec: 57.424244
+    acceleration: 10.035354
+    health: 603593
+    levelfactor: 7.342
+    enemyhealth: 101610
+  - level: 808
+    attack: 3731
+    firecooltime: 2.96
+    rotatepersec: 57.484848
+    acceleration: 10.040404
+    health: 605110
+    levelfactor: 7.348
+    enemyhealth: 101722
+  - level: 809
+    attack: 3734
+    firecooltime: 2.95
+    rotatepersec: 57.545456
+    acceleration: 10.045455
+    health: 606631
+    levelfactor: 7.354
+    enemyhealth: 101834
+  - level: 810
+    attack: 3737
+    firecooltime: 2.95
+    rotatepersec: 57.60606
+    acceleration: 10.050505
+    health: 608158
+    levelfactor: 7.36
+    enemyhealth: 101945
+  - level: 811
+    attack: 3740
+    firecooltime: 2.94
+    rotatepersec: 57.666668
+    acceleration: 10.055555
+    health: 609691
+    levelfactor: 7.366
+    enemyhealth: 102057
+  - level: 812
+    attack: 3743
+    firecooltime: 2.94
+    rotatepersec: 57.727272
+    acceleration: 10.060606
+    health: 611228
+    levelfactor: 7.372
+    enemyhealth: 102169
+  - level: 813
+    attack: 3746
+    firecooltime: 2.93
+    rotatepersec: 57.78788
+    acceleration: 10.065657
+    health: 612771
+    levelfactor: 7.378
+    enemyhealth: 102281
+  - level: 814
+    attack: 3749
+    firecooltime: 2.93
+    rotatepersec: 57.848484
+    acceleration: 10.070707
+    health: 614319
+    levelfactor: 7.384
+    enemyhealth: 102393
+  - level: 815
+    attack: 3752
+    firecooltime: 2.92
+    rotatepersec: 57.909092
+    acceleration: 10.075758
+    health: 615872
+    levelfactor: 7.39
+    enemyhealth: 102505
+  - level: 816
+    attack: 3755
+    firecooltime: 2.92
+    rotatepersec: 57.969696
+    acceleration: 10.080808
+    health: 617431
+    levelfactor: 7.396
+    enemyhealth: 102617
+  - level: 817
+    attack: 3758
+    firecooltime: 2.91
+    rotatepersec: 58.030304
+    acceleration: 10.085858
+    health: 618995
+    levelfactor: 7.402
+    enemyhealth: 102729
+  - level: 818
+    attack: 3761
+    firecooltime: 2.91
+    rotatepersec: 58.090908
+    acceleration: 10.090909
+    health: 620565
+    levelfactor: 7.408
+    enemyhealth: 102841
+  - level: 819
+    attack: 3764
+    firecooltime: 2.9
+    rotatepersec: 58.151516
+    acceleration: 10.09596
+    health: 622140
+    levelfactor: 7.414
+    enemyhealth: 102953
+  - level: 820
+    attack: 3767
+    firecooltime: 2.9
+    rotatepersec: 58.21212
+    acceleration: 10.10101
+    health: 623721
+    levelfactor: 7.42
+    enemyhealth: 103065
+  - level: 821
+    attack: 3770
+    firecooltime: 2.89
+    rotatepersec: 58.272728
+    acceleration: 10.106061
+    health: 625307
+    levelfactor: 7.426
+    enemyhealth: 103177
+  - level: 822
+    attack: 3773
+    firecooltime: 2.89
+    rotatepersec: 58.333332
+    acceleration: 10.111111
+    health: 626898
+    levelfactor: 7.432
+    enemyhealth: 103290
+  - level: 823
+    attack: 3776
+    firecooltime: 2.88
+    rotatepersec: 58.39394
+    acceleration: 10.116161
+    health: 628496
+    levelfactor: 7.438
+    enemyhealth: 103402
+  - level: 824
+    attack: 3779
+    firecooltime: 2.88
+    rotatepersec: 58.454544
+    acceleration: 10.121212
+    health: 630099
+    levelfactor: 7.444
+    enemyhealth: 103514
+  - level: 825
+    attack: 3782
+    firecooltime: 2.87
+    rotatepersec: 58.515152
+    acceleration: 10.126263
+    health: 631707
+    levelfactor: 7.45
+    enemyhealth: 103627
+  - level: 826
+    attack: 3785
+    firecooltime: 2.87
+    rotatepersec: 58.575756
+    acceleration: 10.131313
+    health: 633321
+    levelfactor: 7.456
+    enemyhealth: 103739
+  - level: 827
+    attack: 3788
+    firecooltime: 2.86
+    rotatepersec: 58.636364
+    acceleration: 10.136364
+    health: 634941
+    levelfactor: 7.462
+    enemyhealth: 103852
+  - level: 828
+    attack: 3791
+    firecooltime: 2.86
+    rotatepersec: 58.696968
+    acceleration: 10.141414
+    health: 636567
+    levelfactor: 7.468
+    enemyhealth: 103964
+  - level: 829
+    attack: 3794
+    firecooltime: 2.85
+    rotatepersec: 58.757576
+    acceleration: 10.146464
+    health: 638198
+    levelfactor: 7.474
+    enemyhealth: 104077
+  - level: 830
+    attack: 3797
+    firecooltime: 2.85
+    rotatepersec: 58.81818
+    acceleration: 10.151515
+    health: 639835
+    levelfactor: 7.48
+    enemyhealth: 104190
+  - level: 831
+    attack: 3800
+    firecooltime: 2.84
+    rotatepersec: 58.878788
+    acceleration: 10.156566
+    health: 641478
+    levelfactor: 7.486
+    enemyhealth: 104302
+  - level: 832
+    attack: 3803
+    firecooltime: 2.84
+    rotatepersec: 58.939392
+    acceleration: 10.161616
+    health: 643127
+    levelfactor: 7.492
+    enemyhealth: 104415
+  - level: 833
+    attack: 3806
+    firecooltime: 2.83
+    rotatepersec: 59
+    acceleration: 10.166667
+    health: 644781
+    levelfactor: 7.498
+    enemyhealth: 104528
+  - level: 834
+    attack: 3809
+    firecooltime: 2.83
+    rotatepersec: 59.060608
+    acceleration: 10.171718
+    health: 646442
+    levelfactor: 7.504
+    enemyhealth: 104641
+  - level: 835
+    attack: 3812
+    firecooltime: 2.82
+    rotatepersec: 59.121212
+    acceleration: 10.176767
+    health: 648108
+    levelfactor: 7.51
+    enemyhealth: 104754
+  - level: 836
+    attack: 3815
+    firecooltime: 2.82
+    rotatepersec: 59.18182
+    acceleration: 10.181818
+    health: 649781
+    levelfactor: 7.516
+    enemyhealth: 104867
+  - level: 837
+    attack: 3818
+    firecooltime: 2.81
+    rotatepersec: 59.242424
+    acceleration: 10.186869
+    health: 651459
+    levelfactor: 7.522
+    enemyhealth: 104980
+  - level: 838
+    attack: 3821
+    firecooltime: 2.81
+    rotatepersec: 59.303032
+    acceleration: 10.191919
+    health: 653144
+    levelfactor: 7.528
+    enemyhealth: 105093
+  - level: 839
+    attack: 3824
+    firecooltime: 2.8
+    rotatepersec: 59.363636
+    acceleration: 10.19697
+    health: 654834
+    levelfactor: 7.534
+    enemyhealth: 105206
+  - level: 840
+    attack: 3827
+    firecooltime: 2.8
+    rotatepersec: 59.424244
+    acceleration: 10.202021
+    health: 656531
+    levelfactor: 7.54
+    enemyhealth: 105319
+  - level: 841
+    attack: 3830
+    firecooltime: 2.79
+    rotatepersec: 59.484848
+    acceleration: 10.20707
+    health: 658234
+    levelfactor: 7.546
+    enemyhealth: 105432
+  - level: 842
+    attack: 3833
+    firecooltime: 2.79
+    rotatepersec: 59.545456
+    acceleration: 10.212121
+    health: 659943
+    levelfactor: 7.552
+    enemyhealth: 105545
+  - level: 843
+    attack: 3836
+    firecooltime: 2.78
+    rotatepersec: 59.60606
+    acceleration: 10.217172
+    health: 661658
+    levelfactor: 7.558
+    enemyhealth: 105659
+  - level: 844
+    attack: 3839
+    firecooltime: 2.78
+    rotatepersec: 59.666668
+    acceleration: 10.222222
+    health: 663379
+    levelfactor: 7.564
+    enemyhealth: 105772
+  - level: 845
+    attack: 3842
+    firecooltime: 2.77
+    rotatepersec: 59.727272
+    acceleration: 10.227273
+    health: 665107
+    levelfactor: 7.57
+    enemyhealth: 105886
+  - level: 846
+    attack: 3845
+    firecooltime: 2.77
+    rotatepersec: 59.78788
+    acceleration: 10.232324
+    health: 666841
+    levelfactor: 7.576
+    enemyhealth: 105999
+  - level: 847
+    attack: 3848
+    firecooltime: 2.76
+    rotatepersec: 59.848484
+    acceleration: 10.237373
+    health: 668581
+    levelfactor: 7.582
+    enemyhealth: 106112
+  - level: 848
+    attack: 3851
+    firecooltime: 2.76
+    rotatepersec: 59.909092
+    acceleration: 10.242424
+    health: 670328
+    levelfactor: 7.588
+    enemyhealth: 106226
+  - level: 849
+    attack: 3854
+    firecooltime: 2.75
+    rotatepersec: 59.969696
+    acceleration: 10.247475
+    health: 672081
+    levelfactor: 7.594
+    enemyhealth: 106340
+  - level: 850
+    attack: 3857
+    firecooltime: 2.75
+    rotatepersec: 60.030304
+    acceleration: 10.252525
+    health: 673841
+    levelfactor: 7.6
+    enemyhealth: 106453
+  - level: 851
+    attack: 3860
+    firecooltime: 2.74
+    rotatepersec: 60.090908
+    acceleration: 10.257576
+    health: 675607
+    levelfactor: 7.606
+    enemyhealth: 106567
+  - level: 852
+    attack: 3863
+    firecooltime: 2.74
+    rotatepersec: 60.151516
+    acceleration: 10.262627
+    health: 677379
+    levelfactor: 7.612
+    enemyhealth: 106681
+  - level: 853
+    attack: 3866
+    firecooltime: 2.73
+    rotatepersec: 60.21212
+    acceleration: 10.267676
+    health: 679158
+    levelfactor: 7.618
+    enemyhealth: 106794
+  - level: 854
+    attack: 3869
+    firecooltime: 2.73
+    rotatepersec: 60.272728
+    acceleration: 10.272727
+    health: 680944
+    levelfactor: 7.624
+    enemyhealth: 106908
+  - level: 855
+    attack: 3872
+    firecooltime: 2.72
+    rotatepersec: 60.333332
+    acceleration: 10.277778
+    health: 682736
+    levelfactor: 7.63
+    enemyhealth: 107022
+  - level: 856
+    attack: 3875
+    firecooltime: 2.72
+    rotatepersec: 60.39394
+    acceleration: 10.282828
+    health: 684535
+    levelfactor: 7.636
+    enemyhealth: 107136
+  - level: 857
+    attack: 3878
+    firecooltime: 2.71
+    rotatepersec: 60.454544
+    acceleration: 10.287879
+    health: 686341
+    levelfactor: 7.642
+    enemyhealth: 107250
+  - level: 858
+    attack: 3881
+    firecooltime: 2.71
+    rotatepersec: 60.515152
+    acceleration: 10.29293
+    health: 688153
+    levelfactor: 7.648
+    enemyhealth: 107364
+  - level: 859
+    attack: 3884
+    firecooltime: 2.7
+    rotatepersec: 60.575756
+    acceleration: 10.297979
+    health: 689973
+    levelfactor: 7.654
+    enemyhealth: 107478
+  - level: 860
+    attack: 3887
+    firecooltime: 2.7
+    rotatepersec: 60.636364
+    acceleration: 10.30303
+    health: 691799
+    levelfactor: 7.66
+    enemyhealth: 107592
+  - level: 861
+    attack: 3890
+    firecooltime: 2.69
+    rotatepersec: 60.696968
+    acceleration: 10.308081
+    health: 693632
+    levelfactor: 7.666
+    enemyhealth: 107706
+  - level: 862
+    attack: 3893
+    firecooltime: 2.69
+    rotatepersec: 60.757576
+    acceleration: 10.313131
+    health: 695471
+    levelfactor: 7.672
+    enemyhealth: 107821
+  - level: 863
+    attack: 3896
+    firecooltime: 2.68
+    rotatepersec: 60.81818
+    acceleration: 10.318182
+    health: 697318
+    levelfactor: 7.678
+    enemyhealth: 107935
+  - level: 864
+    attack: 3899
+    firecooltime: 2.68
+    rotatepersec: 60.878788
+    acceleration: 10.323233
+    health: 699172
+    levelfactor: 7.684
+    enemyhealth: 108049
+  - level: 865
+    attack: 3902
+    firecooltime: 2.67
+    rotatepersec: 60.939392
+    acceleration: 10.328282
+    health: 701032
+    levelfactor: 7.69
+    enemyhealth: 108163
+  - level: 866
+    attack: 3905
+    firecooltime: 2.67
+    rotatepersec: 61
+    acceleration: 10.333333
+    health: 702900
+    levelfactor: 7.696
+    enemyhealth: 108278
+  - level: 867
+    attack: 3908
+    firecooltime: 2.66
+    rotatepersec: 61.060608
+    acceleration: 10.338384
+    health: 704775
+    levelfactor: 7.702
+    enemyhealth: 108392
+  - level: 868
+    attack: 3911
+    firecooltime: 2.66
+    rotatepersec: 61.121212
+    acceleration: 10.343434
+    health: 706657
+    levelfactor: 7.708
+    enemyhealth: 108507
+  - level: 869
+    attack: 3914
+    firecooltime: 2.65
+    rotatepersec: 61.18182
+    acceleration: 10.348485
+    health: 708546
+    levelfactor: 7.714
+    enemyhealth: 108621
+  - level: 870
+    attack: 3917
+    firecooltime: 2.65
+    rotatepersec: 61.242424
+    acceleration: 10.353536
+    health: 710442
+    levelfactor: 7.72
+    enemyhealth: 108736
+  - level: 871
+    attack: 3920
+    firecooltime: 2.64
+    rotatepersec: 61.303032
+    acceleration: 10.358586
+    health: 712346
+    levelfactor: 7.726
+    enemyhealth: 108851
+  - level: 872
+    attack: 3923
+    firecooltime: 2.64
+    rotatepersec: 61.363636
+    acceleration: 10.363636
+    health: 714257
+    levelfactor: 7.732
+    enemyhealth: 108965
+  - level: 873
+    attack: 3926
+    firecooltime: 2.63
+    rotatepersec: 61.424244
+    acceleration: 10.368687
+    health: 716175
+    levelfactor: 7.738
+    enemyhealth: 109080
+  - level: 874
+    attack: 3929
+    firecooltime: 2.63
+    rotatepersec: 61.484848
+    acceleration: 10.373737
+    health: 718100
+    levelfactor: 7.744
+    enemyhealth: 109195
+  - level: 875
+    attack: 3932
+    firecooltime: 2.62
+    rotatepersec: 61.545456
+    acceleration: 10.378788
+    health: 720033
+    levelfactor: 7.75
+    enemyhealth: 109310
+  - level: 876
+    attack: 3935
+    firecooltime: 2.62
+    rotatepersec: 61.60606
+    acceleration: 10.383839
+    health: 721974
+    levelfactor: 7.756
+    enemyhealth: 109424
+  - level: 877
+    attack: 3938
+    firecooltime: 2.61
+    rotatepersec: 61.666668
+    acceleration: 10.388889
+    health: 723922
+    levelfactor: 7.762
+    enemyhealth: 109539
+  - level: 878
+    attack: 3941
+    firecooltime: 2.61
+    rotatepersec: 61.727272
+    acceleration: 10.393939
+    health: 725877
+    levelfactor: 7.768
+    enemyhealth: 109654
+  - level: 879
+    attack: 3944
+    firecooltime: 2.6
+    rotatepersec: 61.78788
+    acceleration: 10.39899
+    health: 727840
+    levelfactor: 7.774
+    enemyhealth: 109769
+  - level: 880
+    attack: 3947
+    firecooltime: 2.6
+    rotatepersec: 61.848484
+    acceleration: 10.40404
+    health: 729811
+    levelfactor: 7.78
+    enemyhealth: 109884
+  - level: 881
+    attack: 3950
+    firecooltime: 2.59
+    rotatepersec: 61.909092
+    acceleration: 10.409091
+    health: 731789
+    levelfactor: 7.786
+    enemyhealth: 110000
+  - level: 882
+    attack: 3953
+    firecooltime: 2.59
+    rotatepersec: 61.969696
+    acceleration: 10.414142
+    health: 733776
+    levelfactor: 7.792
+    enemyhealth: 110115
+  - level: 883
+    attack: 3956
+    firecooltime: 2.58
+    rotatepersec: 62.030304
+    acceleration: 10.419192
+    health: 735770
+    levelfactor: 7.798
+    enemyhealth: 110230
+  - level: 884
+    attack: 3959
+    firecooltime: 2.58
+    rotatepersec: 62.090908
+    acceleration: 10.424242
+    health: 737771
+    levelfactor: 7.804
+    enemyhealth: 110345
+  - level: 885
+    attack: 3962
+    firecooltime: 2.57
+    rotatepersec: 62.151516
+    acceleration: 10.429293
+    health: 739781
+    levelfactor: 7.81
+    enemyhealth: 110461
+  - level: 886
+    attack: 3965
+    firecooltime: 2.57
+    rotatepersec: 62.21212
+    acceleration: 10.434343
+    health: 741798
+    levelfactor: 7.816
+    enemyhealth: 110576
+  - level: 887
+    attack: 3968
+    firecooltime: 2.56
+    rotatepersec: 62.272728
+    acceleration: 10.439394
+    health: 743824
+    levelfactor: 7.822
+    enemyhealth: 110691
+  - level: 888
+    attack: 3971
+    firecooltime: 2.56
+    rotatepersec: 62.333332
+    acceleration: 10.444445
+    health: 745857
+    levelfactor: 7.828
+    enemyhealth: 110807
+  - level: 889
+    attack: 3974
+    firecooltime: 2.55
+    rotatepersec: 62.39394
+    acceleration: 10.449495
+    health: 747899
+    levelfactor: 7.834
+    enemyhealth: 110922
+  - level: 890
+    attack: 3977
+    firecooltime: 2.55
+    rotatepersec: 62.454544
+    acceleration: 10.454545
+    health: 749949
+    levelfactor: 7.84
+    enemyhealth: 111038
+  - level: 891
+    attack: 3980
+    firecooltime: 2.54
+    rotatepersec: 62.515152
+    acceleration: 10.459596
+    health: 752006
+    levelfactor: 7.846
+    enemyhealth: 111153
+  - level: 892
+    attack: 3983
+    firecooltime: 2.54
+    rotatepersec: 62.575756
+    acceleration: 10.464646
+    health: 754072
+    levelfactor: 7.852
+    enemyhealth: 111269
+  - level: 893
+    attack: 3986
+    firecooltime: 2.53
+    rotatepersec: 62.636364
+    acceleration: 10.469697
+    health: 756147
+    levelfactor: 7.858
+    enemyhealth: 111385
+  - level: 894
+    attack: 3989
+    firecooltime: 2.53
+    rotatepersec: 62.696968
+    acceleration: 10.474748
+    health: 758229
+    levelfactor: 7.864
+    enemyhealth: 111501
+  - level: 895
+    attack: 3992
+    firecooltime: 2.52
+    rotatepersec: 62.757576
+    acceleration: 10.479798
+    health: 760320
+    levelfactor: 7.87
+    enemyhealth: 111616
+  - level: 896
+    attack: 3995
+    firecooltime: 2.52
+    rotatepersec: 62.81818
+    acceleration: 10.484848
+    health: 762419
+    levelfactor: 7.876
+    enemyhealth: 111732
+  - level: 897
+    attack: 3998
+    firecooltime: 2.51
+    rotatepersec: 62.878788
+    acceleration: 10.489899
+    health: 764527
+    levelfactor: 7.882
+    enemyhealth: 111848
+  - level: 898
+    attack: 4001
+    firecooltime: 2.51
+    rotatepersec: 62.939392
+    acceleration: 10.494949
+    health: 766643
+    levelfactor: 7.888
+    enemyhealth: 111964
+  - level: 899
+    attack: 4004
+    firecooltime: 2.5
+    rotatepersec: 63
+    acceleration: 10.5
+    health: 768768
+    levelfactor: 7.894
+    enemyhealth: 112080
+  - level: 900
+    attack: 3203
+    firecooltime: 2.5
+    rotatepersec: 58
+    acceleration: 10
+    health: 768720
+    levelfactor: 7.9
+    enemyhealth: 112105
+  - level: 901
+    attack: 3206
+    firecooltime: 2.5
+    rotatepersec: 58.06
+    acceleration: 10.005
+    health: 770982
+    levelfactor: 7.906
+    enemyhealth: 112242
+  - level: 902
+    attack: 3209
+    firecooltime: 2.49
+    rotatepersec: 58.12
+    acceleration: 10.01
+    health: 773253
+    levelfactor: 7.912
+    enemyhealth: 112379
+  - level: 903
+    attack: 3212
+    firecooltime: 2.49
+    rotatepersec: 58.18
+    acceleration: 10.015
+    health: 775533
+    levelfactor: 7.918
+    enemyhealth: 112516
+  - level: 904
+    attack: 3215
+    firecooltime: 2.48
+    rotatepersec: 58.24
+    acceleration: 10.02
+    health: 777823
+    levelfactor: 7.924
+    enemyhealth: 112654
+  - level: 905
+    attack: 3218
+    firecooltime: 2.48
+    rotatepersec: 58.3
+    acceleration: 10.025
+    health: 780121
+    levelfactor: 7.93
+    enemyhealth: 112791
+  - level: 906
+    attack: 3221
+    firecooltime: 2.47
+    rotatepersec: 58.36
+    acceleration: 10.03
+    health: 782429
+    levelfactor: 7.936
+    enemyhealth: 112928
+  - level: 907
+    attack: 3224
+    firecooltime: 2.47
+    rotatepersec: 58.42
+    acceleration: 10.035
+    health: 784746
+    levelfactor: 7.942
+    enemyhealth: 113066
+  - level: 908
+    attack: 3227
+    firecooltime: 2.46
+    rotatepersec: 58.48
+    acceleration: 10.04
+    health: 787073
+    levelfactor: 7.948
+    enemyhealth: 113203
+  - level: 909
+    attack: 3230
+    firecooltime: 2.46
+    rotatepersec: 58.54
+    acceleration: 10.045
+    health: 789409
+    levelfactor: 7.954
+    enemyhealth: 113341
+  - level: 910
+    attack: 3233
+    firecooltime: 2.45
+    rotatepersec: 58.6
+    acceleration: 10.05
+    health: 791755
+    levelfactor: 7.96
+    enemyhealth: 113478
+  - level: 911
+    attack: 3236
+    firecooltime: 2.45
+    rotatepersec: 58.66
+    acceleration: 10.055
+    health: 794110
+    levelfactor: 7.966
+    enemyhealth: 113616
+  - level: 912
+    attack: 3239
+    firecooltime: 2.44
+    rotatepersec: 58.72
+    acceleration: 10.06
+    health: 796475
+    levelfactor: 7.972
+    enemyhealth: 113754
+  - level: 913
+    attack: 3242
+    firecooltime: 2.44
+    rotatepersec: 58.78
+    acceleration: 10.065
+    health: 798850
+    levelfactor: 7.978
+    enemyhealth: 113891
+  - level: 914
+    attack: 3245
+    firecooltime: 2.43
+    rotatepersec: 58.84
+    acceleration: 10.07
+    health: 801235
+    levelfactor: 7.984
+    enemyhealth: 114029
+  - level: 915
+    attack: 3248
+    firecooltime: 2.43
+    rotatepersec: 58.9
+    acceleration: 10.075
+    health: 803629
+    levelfactor: 7.99
+    enemyhealth: 114167
+  - level: 916
+    attack: 3251
+    firecooltime: 2.42
+    rotatepersec: 58.96
+    acceleration: 10.08
+    health: 806033
+    levelfactor: 7.996
+    enemyhealth: 114305
+  - level: 917
+    attack: 3254
+    firecooltime: 2.42
+    rotatepersec: 59.02
+    acceleration: 10.085
+    health: 808447
+    levelfactor: 8.002
+    enemyhealth: 114443
+  - level: 918
+    attack: 3257
+    firecooltime: 2.41
+    rotatepersec: 59.08
+    acceleration: 10.09
+    health: 810871
+    levelfactor: 8.008
+    enemyhealth: 114581
+  - level: 919
+    attack: 3260
+    firecooltime: 2.41
+    rotatepersec: 59.14
+    acceleration: 10.095
+    health: 813306
+    levelfactor: 8.014
+    enemyhealth: 114719
+  - level: 920
+    attack: 3263
+    firecooltime: 2.4
+    rotatepersec: 59.2
+    acceleration: 10.1
+    health: 815750
+    levelfactor: 8.02
+    enemyhealth: 114858
+  - level: 921
+    attack: 3266
+    firecooltime: 2.4
+    rotatepersec: 59.26
+    acceleration: 10.105
+    health: 818205
+    levelfactor: 8.026
+    enemyhealth: 114996
+  - level: 922
+    attack: 3269
+    firecooltime: 2.39
+    rotatepersec: 59.32
+    acceleration: 10.11
+    health: 820669
+    levelfactor: 8.032
+    enemyhealth: 115134
+  - level: 923
+    attack: 3272
+    firecooltime: 2.39
+    rotatepersec: 59.38
+    acceleration: 10.115
+    health: 823145
+    levelfactor: 8.038
+    enemyhealth: 115273
+  - level: 924
+    attack: 3275
+    firecooltime: 2.38
+    rotatepersec: 59.44
+    acceleration: 10.12
+    health: 825630
+    levelfactor: 8.044
+    enemyhealth: 115411
+  - level: 925
+    attack: 3278
+    firecooltime: 2.38
+    rotatepersec: 59.5
+    acceleration: 10.125
+    health: 828126
+    levelfactor: 8.05
+    enemyhealth: 115550
+  - level: 926
+    attack: 3281
+    firecooltime: 2.37
+    rotatepersec: 59.56
+    acceleration: 10.13
+    health: 830633
+    levelfactor: 8.056
+    enemyhealth: 115688
+  - level: 927
+    attack: 3284
+    firecooltime: 2.37
+    rotatepersec: 59.62
+    acceleration: 10.135
+    health: 833150
+    levelfactor: 8.062
+    enemyhealth: 115827
+  - level: 928
+    attack: 3287
+    firecooltime: 2.36
+    rotatepersec: 59.68
+    acceleration: 10.14
+    health: 835678
+    levelfactor: 8.068
+    enemyhealth: 115965
+  - level: 929
+    attack: 3290
+    firecooltime: 2.36
+    rotatepersec: 59.74
+    acceleration: 10.145
+    health: 838217
+    levelfactor: 8.074
+    enemyhealth: 116104
+  - level: 930
+    attack: 3293
+    firecooltime: 2.35
+    rotatepersec: 59.8
+    acceleration: 10.15
+    health: 840766
+    levelfactor: 8.08
+    enemyhealth: 116243
+  - level: 931
+    attack: 3296
+    firecooltime: 2.35
+    rotatepersec: 59.86
+    acceleration: 10.155
+    health: 843326
+    levelfactor: 8.086
+    enemyhealth: 116382
+  - level: 932
+    attack: 3299
+    firecooltime: 2.34
+    rotatepersec: 59.92
+    acceleration: 10.16
+    health: 845897
+    levelfactor: 8.092
+    enemyhealth: 116521
+  - level: 933
+    attack: 3302
+    firecooltime: 2.34
+    rotatepersec: 59.98
+    acceleration: 10.165
+    health: 848480
+    levelfactor: 8.098
+    enemyhealth: 116660
+  - level: 934
+    attack: 3305
+    firecooltime: 2.33
+    rotatepersec: 60.04
+    acceleration: 10.17
+    health: 851073
+    levelfactor: 8.104
+    enemyhealth: 116799
+  - level: 935
+    attack: 3308
+    firecooltime: 2.33
+    rotatepersec: 60.1
+    acceleration: 10.175
+    health: 853677
+    levelfactor: 8.11
+    enemyhealth: 116938
+  - level: 936
+    attack: 3311
+    firecooltime: 2.32
+    rotatepersec: 60.16
+    acceleration: 10.18
+    health: 856293
+    levelfactor: 8.116
+    enemyhealth: 117077
+  - level: 937
+    attack: 3314
+    firecooltime: 2.32
+    rotatepersec: 60.22
+    acceleration: 10.185
+    health: 858920
+    levelfactor: 8.122
+    enemyhealth: 117216
+  - level: 938
+    attack: 3317
+    firecooltime: 2.31
+    rotatepersec: 60.28
+    acceleration: 10.19
+    health: 861558
+    levelfactor: 8.128
+    enemyhealth: 117355
+  - level: 939
+    attack: 3320
+    firecooltime: 2.31
+    rotatepersec: 60.34
+    acceleration: 10.195
+    health: 864208
+    levelfactor: 8.134
+    enemyhealth: 117495
+  - level: 940
+    attack: 3323
+    firecooltime: 2.3
+    rotatepersec: 60.4
+    acceleration: 10.2
+    health: 866870
+    levelfactor: 8.14
+    enemyhealth: 117634
+  - level: 941
+    attack: 3326
+    firecooltime: 2.3
+    rotatepersec: 60.46
+    acceleration: 10.205
+    health: 869542
+    levelfactor: 8.146
+    enemyhealth: 117774
+  - level: 942
+    attack: 3329
+    firecooltime: 2.29
+    rotatepersec: 60.52
+    acceleration: 10.21
+    health: 872227
+    levelfactor: 8.152
+    enemyhealth: 117913
+  - level: 943
+    attack: 3332
+    firecooltime: 2.29
+    rotatepersec: 60.58
+    acceleration: 10.215
+    health: 874923
+    levelfactor: 8.158
+    enemyhealth: 118053
+  - level: 944
+    attack: 3335
+    firecooltime: 2.28
+    rotatepersec: 60.64
+    acceleration: 10.22
+    health: 877632
+    levelfactor: 8.164
+    enemyhealth: 118192
+  - level: 945
+    attack: 3338
+    firecooltime: 2.28
+    rotatepersec: 60.7
+    acceleration: 10.225
+    health: 880352
+    levelfactor: 8.17
+    enemyhealth: 118332
+  - level: 946
+    attack: 3341
+    firecooltime: 2.27
+    rotatepersec: 60.76
+    acceleration: 10.23
+    health: 883084
+    levelfactor: 8.176
+    enemyhealth: 118472
+  - level: 947
+    attack: 3344
+    firecooltime: 2.27
+    rotatepersec: 60.82
+    acceleration: 10.235
+    health: 885828
+    levelfactor: 8.182
+    enemyhealth: 118612
+  - level: 948
+    attack: 3347
+    firecooltime: 2.26
+    rotatepersec: 60.88
+    acceleration: 10.24
+    health: 888584
+    levelfactor: 8.188
+    enemyhealth: 118752
+  - level: 949
+    attack: 3350
+    firecooltime: 2.26
+    rotatepersec: 60.94
+    acceleration: 10.245
+    health: 891353
+    levelfactor: 8.194
+    enemyhealth: 118892
+  - level: 950
+    attack: 3353
+    firecooltime: 2.25
+    rotatepersec: 61
+    acceleration: 10.25
+    health: 894133
+    levelfactor: 8.2
+    enemyhealth: 119032
+  - level: 951
+    attack: 3356
+    firecooltime: 2.25
+    rotatepersec: 61.06
+    acceleration: 10.255
+    health: 896927
+    levelfactor: 8.206
+    enemyhealth: 119172
+  - level: 952
+    attack: 3359
+    firecooltime: 2.24
+    rotatepersec: 61.12
+    acceleration: 10.26
+    health: 899732
+    levelfactor: 8.212
+    enemyhealth: 119312
+  - level: 953
+    attack: 3362
+    firecooltime: 2.24
+    rotatepersec: 61.18
+    acceleration: 10.265
+    health: 902550
+    levelfactor: 8.218
+    enemyhealth: 119452
+  - level: 954
+    attack: 3365
+    firecooltime: 2.23
+    rotatepersec: 61.24
+    acceleration: 10.27
+    health: 905381
+    levelfactor: 8.224
+    enemyhealth: 119592
+  - level: 955
+    attack: 3368
+    firecooltime: 2.23
+    rotatepersec: 61.3
+    acceleration: 10.275
+    health: 908225
+    levelfactor: 8.23
+    enemyhealth: 119732
+  - level: 956
+    attack: 3371
+    firecooltime: 2.22
+    rotatepersec: 61.36
+    acceleration: 10.28
+    health: 911081
+    levelfactor: 8.236
+    enemyhealth: 119873
+  - level: 957
+    attack: 3374
+    firecooltime: 2.22
+    rotatepersec: 61.42
+    acceleration: 10.285
+    health: 913950
+    levelfactor: 8.242
+    enemyhealth: 120013
+  - level: 958
+    attack: 3377
+    firecooltime: 2.21
+    rotatepersec: 61.48
+    acceleration: 10.29
+    health: 916833
+    levelfactor: 8.248
+    enemyhealth: 120154
+  - level: 959
+    attack: 3380
+    firecooltime: 2.21
+    rotatepersec: 61.54
+    acceleration: 10.295
+    health: 919728
+    levelfactor: 8.254
+    enemyhealth: 120294
+  - level: 960
+    attack: 3383
+    firecooltime: 2.2
+    rotatepersec: 61.6
+    acceleration: 10.3
+    health: 922636
+    levelfactor: 8.26
+    enemyhealth: 120435
+  - level: 961
+    attack: 3386
+    firecooltime: 2.2
+    rotatepersec: 61.66
+    acceleration: 10.305
+    health: 925558
+    levelfactor: 8.266
+    enemyhealth: 120575
+  - level: 962
+    attack: 3389
+    firecooltime: 2.19
+    rotatepersec: 61.72
+    acceleration: 10.31
+    health: 928493
+    levelfactor: 8.272
+    enemyhealth: 120716
+  - level: 963
+    attack: 3392
+    firecooltime: 2.19
+    rotatepersec: 61.78
+    acceleration: 10.315
+    health: 931442
+    levelfactor: 8.278
+    enemyhealth: 120857
+  - level: 964
+    attack: 3395
+    firecooltime: 2.18
+    rotatepersec: 61.84
+    acceleration: 10.32
+    health: 934404
+    levelfactor: 8.284
+    enemyhealth: 120998
+  - level: 965
+    attack: 3398
+    firecooltime: 2.18
+    rotatepersec: 61.9
+    acceleration: 10.325
+    health: 937379
+    levelfactor: 8.29
+    enemyhealth: 121139
+  - level: 966
+    attack: 3401
+    firecooltime: 2.17
+    rotatepersec: 61.96
+    acceleration: 10.33
+    health: 940369
+    levelfactor: 8.296
+    enemyhealth: 121280
+  - level: 967
+    attack: 3404
+    firecooltime: 2.17
+    rotatepersec: 62.02
+    acceleration: 10.335
+    health: 943372
+    levelfactor: 8.302
+    enemyhealth: 121421
+  - level: 968
+    attack: 3407
+    firecooltime: 2.16
+    rotatepersec: 62.08
+    acceleration: 10.34
+    health: 946389
+    levelfactor: 8.308
+    enemyhealth: 121562
+  - level: 969
+    attack: 3410
+    firecooltime: 2.16
+    rotatepersec: 62.14
+    acceleration: 10.345
+    health: 949420
+    levelfactor: 8.314
+    enemyhealth: 121703
+  - level: 970
+    attack: 3413
+    firecooltime: 2.15
+    rotatepersec: 62.2
+    acceleration: 10.35
+    health: 952465
+    levelfactor: 8.32
+    enemyhealth: 121844
+  - level: 971
+    attack: 3416
+    firecooltime: 2.15
+    rotatepersec: 62.26
+    acceleration: 10.355
+    health: 955524
+    levelfactor: 8.326
+    enemyhealth: 121985
+  - level: 972
+    attack: 3419
+    firecooltime: 2.14
+    rotatepersec: 62.32
+    acceleration: 10.36
+    health: 958598
+    levelfactor: 8.332
+    enemyhealth: 122127
+  - level: 973
+    attack: 3422
+    firecooltime: 2.14
+    rotatepersec: 62.38
+    acceleration: 10.365
+    health: 961686
+    levelfactor: 8.338
+    enemyhealth: 122268
+  - level: 974
+    attack: 3425
+    firecooltime: 2.13
+    rotatepersec: 62.44
+    acceleration: 10.37
+    health: 964789
+    levelfactor: 8.344
+    enemyhealth: 122410
+  - level: 975
+    attack: 3428
+    firecooltime: 2.13
+    rotatepersec: 62.5
+    acceleration: 10.375
+    health: 967906
+    levelfactor: 8.35
+    enemyhealth: 122551
+  - level: 976
+    attack: 3431
+    firecooltime: 2.12
+    rotatepersec: 62.56
+    acceleration: 10.38
+    health: 971038
+    levelfactor: 8.356
+    enemyhealth: 122693
+  - level: 977
+    attack: 3434
+    firecooltime: 2.12
+    rotatepersec: 62.62
+    acceleration: 10.385
+    health: 974184
+    levelfactor: 8.362
+    enemyhealth: 122834
+  - level: 978
+    attack: 3437
+    firecooltime: 2.11
+    rotatepersec: 62.68
+    acceleration: 10.39
+    health: 977346
+    levelfactor: 8.368
+    enemyhealth: 122976
+  - level: 979
+    attack: 3440
+    firecooltime: 2.11
+    rotatepersec: 62.74
+    acceleration: 10.395
+    health: 980523
+    levelfactor: 8.374
+    enemyhealth: 123118
+  - level: 980
+    attack: 3443
+    firecooltime: 2.1
+    rotatepersec: 62.8
+    acceleration: 10.4
+    health: 983714
+    levelfactor: 8.38
+    enemyhealth: 123259
+  - level: 981
+    attack: 3446
+    firecooltime: 2.1
+    rotatepersec: 62.86
+    acceleration: 10.405
+    health: 986921
+    levelfactor: 8.386
+    enemyhealth: 123401
+  - level: 982
+    attack: 3449
+    firecooltime: 2.09
+    rotatepersec: 62.92
+    acceleration: 10.41
+    health: 990144
+    levelfactor: 8.392
+    enemyhealth: 123543
+  - level: 983
+    attack: 3452
+    firecooltime: 2.09
+    rotatepersec: 62.98
+    acceleration: 10.415
+    health: 993381
+    levelfactor: 8.398
+    enemyhealth: 123685
+  - level: 984
+    attack: 3455
+    firecooltime: 2.08
+    rotatepersec: 63.04
+    acceleration: 10.42
+    health: 996635
+    levelfactor: 8.404
+    enemyhealth: 123827
+  - level: 985
+    attack: 3458
+    firecooltime: 2.08
+    rotatepersec: 63.1
+    acceleration: 10.425
+    health: 999904
+    levelfactor: 8.41
+    enemyhealth: 123969
+  - level: 986
+    attack: 3461
+    firecooltime: 2.07
+    rotatepersec: 63.16
+    acceleration: 10.43
+    health: 1003188
+    levelfactor: 8.416
+    enemyhealth: 124111
+  - level: 987
+    attack: 3464
+    firecooltime: 2.07
+    rotatepersec: 63.22
+    acceleration: 10.435
+    health: 1006489
+    levelfactor: 8.422
+    enemyhealth: 124254
+  - level: 988
+    attack: 3467
+    firecooltime: 2.06
+    rotatepersec: 63.28
+    acceleration: 10.44
+    health: 1009806
+    levelfactor: 8.428
+    enemyhealth: 124396
+  - level: 989
+    attack: 3470
+    firecooltime: 2.06
+    rotatepersec: 63.34
+    acceleration: 10.445
+    health: 1013139
+    levelfactor: 8.434
+    enemyhealth: 124538
+  - level: 990
+    attack: 3473
+    firecooltime: 2.05
+    rotatepersec: 63.4
+    acceleration: 10.45
+    health: 1016488
+    levelfactor: 8.44
+    enemyhealth: 124681
+  - level: 991
+    attack: 3476
+    firecooltime: 2.05
+    rotatepersec: 63.46
+    acceleration: 10.455
+    health: 1019853
+    levelfactor: 8.446
+    enemyhealth: 124823
+  - level: 992
+    attack: 3479
+    firecooltime: 2.04
+    rotatepersec: 63.52
+    acceleration: 10.46
+    health: 1023235
+    levelfactor: 8.452
+    enemyhealth: 124966
+  - level: 993
+    attack: 3482
+    firecooltime: 2.04
+    rotatepersec: 63.58
+    acceleration: 10.465
+    health: 1026634
+    levelfactor: 8.458
+    enemyhealth: 125108
+  - level: 994
+    attack: 3485
+    firecooltime: 2.03
+    rotatepersec: 63.64
+    acceleration: 10.47
+    health: 1030049
+    levelfactor: 8.464
+    enemyhealth: 125251
+  - level: 995
+    attack: 3488
+    firecooltime: 2.03
+    rotatepersec: 63.7
+    acceleration: 10.475
+    health: 1033481
+    levelfactor: 8.47
+    enemyhealth: 125394
+  - level: 996
+    attack: 3491
+    firecooltime: 2.02
+    rotatepersec: 63.76
+    acceleration: 10.48
+    health: 1036931
+    levelfactor: 8.476
+    enemyhealth: 125536
+  - level: 997
+    attack: 3494
+    firecooltime: 2.02
+    rotatepersec: 63.82
+    acceleration: 10.485
+    health: 1040397
+    levelfactor: 8.482
+    enemyhealth: 125679
+  - level: 998
+    attack: 3497
+    firecooltime: 2.01
+    rotatepersec: 63.88
+    acceleration: 10.49
+    health: 1043881
+    levelfactor: 8.488
+    enemyhealth: 125822
+  - level: 999
+    attack: 3500
+    firecooltime: 2.01
+    rotatepersec: 63.94
+    acceleration: 10.495
+    health: 1047382
+    levelfactor: 8.494
+    enemyhealth: 125965
+  - level: 1000
+    attack: 3503
+    firecooltime: 2
+    rotatepersec: 64
+    acceleration: 10.5
+    health: 1050900
+    levelfactor: 8.5
+    enemyhealth: 126108

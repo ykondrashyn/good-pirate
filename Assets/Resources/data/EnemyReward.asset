@@ -1,0 +1,2017 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 963035366401bb6d995ca023288791a0, type: 3}
+  m_Name: EnemyReward
+  m_EditorClassIdentifier:
+  SheetName: 아직은 제목은 없지만 쩔어줄 프로젝트
+  WorksheetName: EnemyReward
+  dataArray:
+  - level: 1
+    normalgold: 200
+  - level: 2
+    normalgold: 154
+  - level: 3
+    normalgold: 136
+  - level: 4
+    normalgold: 137
+  - level: 5
+    normalgold: 145
+  - level: 6
+    normalgold: 158
+  - level: 7
+    normalgold: 174
+  - level: 8
+    normalgold: 193
+  - level: 9
+    normalgold: 215
+  - level: 10
+    normalgold: 240
+  - level: 11
+    normalgold: 266
+  - level: 12
+    normalgold: 294
+  - level: 13
+    normalgold: 324
+  - level: 14
+    normalgold: 356
+  - level: 15
+    normalgold: 390
+  - level: 16
+    normalgold: 425
+  - level: 17
+    normalgold: 462
+  - level: 18
+    normalgold: 501
+  - level: 19
+    normalgold: 541
+  - level: 20
+    normalgold: 582
+  - level: 21
+    normalgold: 625
+  - level: 22
+    normalgold: 670
+  - level: 23
+    normalgold: 715
+  - level: 24
+    normalgold: 762
+  - level: 25
+    normalgold: 811
+  - level: 26
+    normalgold: 861
+  - level: 27
+    normalgold: 911
+  - level: 28
+    normalgold: 964
+  - level: 29
+    normalgold: 1017
+  - level: 30
+    normalgold: 1072
+  - level: 31
+    normalgold: 1127
+  - level: 32
+    normalgold: 1184
+  - level: 33
+    normalgold: 1242
+  - level: 34
+    normalgold: 1301
+  - level: 35
+    normalgold: 1361
+  - level: 36
+    normalgold: 1423
+  - level: 37
+    normalgold: 1485
+  - level: 38
+    normalgold: 1548
+  - level: 39
+    normalgold: 1613
+  - level: 40
+    normalgold: 1678
+  - level: 41
+    normalgold: 1744
+  - level: 42
+    normalgold: 1811
+  - level: 43
+    normalgold: 1880
+  - level: 44
+    normalgold: 1949
+  - level: 45
+    normalgold: 2019
+  - level: 46
+    normalgold: 2090
+  - level: 47
+    normalgold: 2162
+  - level: 48
+    normalgold: 2234
+  - level: 49
+    normalgold: 2308
+  - level: 50
+    normalgold: 2382
+  - level: 51
+    normalgold: 2458
+  - level: 52
+    normalgold: 2534
+  - level: 53
+    normalgold: 2611
+  - level: 54
+    normalgold: 2688
+  - level: 55
+    normalgold: 2767
+  - level: 56
+    normalgold: 2846
+  - level: 57
+    normalgold: 2926
+  - level: 58
+    normalgold: 3007
+  - level: 59
+    normalgold: 3088
+  - level: 60
+    normalgold: 3170
+  - level: 61
+    normalgold: 3253
+  - level: 62
+    normalgold: 3337
+  - level: 63
+    normalgold: 3421
+  - level: 64
+    normalgold: 3506
+  - level: 65
+    normalgold: 3592
+  - level: 66
+    normalgold: 3678
+  - level: 67
+    normalgold: 3765
+  - level: 68
+    normalgold: 3853
+  - level: 69
+    normalgold: 3941
+  - level: 70
+    normalgold: 4030
+  - level: 71
+    normalgold: 4119
+  - level: 72
+    normalgold: 4209
+  - level: 73
+    normalgold: 4300
+  - level: 74
+    normalgold: 4391
+  - level: 75
+    normalgold: 4483
+  - level: 76
+    normalgold: 4576
+  - level: 77
+    normalgold: 4669
+  - level: 78
+    normalgold: 4762
+  - level: 79
+    normalgold: 4856
+  - level: 80
+    normalgold: 4951
+  - level: 81
+    normalgold: 5046
+  - level: 82
+    normalgold: 5142
+  - level: 83
+    normalgold: 5238
+  - level: 84
+    normalgold: 5335
+  - level: 85
+    normalgold: 5432
+  - level: 86
+    normalgold: 5530
+  - level: 87
+    normalgold: 5628
+  - level: 88
+    normalgold: 5727
+  - level: 89
+    normalgold: 5826
+  - level: 90
+    normalgold: 5926
+  - level: 91
+    normalgold: 6026
+  - level: 92
+    normalgold: 6127
+  - level: 93
+    normalgold: 6228
+  - level: 94
+    normalgold: 6329
+  - level: 95
+    normalgold: 6431
+  - level: 96
+    normalgold: 6533
+  - level: 97
+    normalgold: 6636
+  - level: 98
+    normalgold: 6739
+  - level: 99
+    normalgold: 6843
+  - level: 100
+    normalgold: 6947
+  - level: 101
+    normalgold: 7051
+  - level: 102
+    normalgold: 7156
+  - level: 103
+    normalgold: 7261
+  - level: 104
+    normalgold: 7367
+  - level: 105
+    normalgold: 7473
+  - level: 106
+    normalgold: 7579
+  - level: 107
+    normalgold: 7686
+  - level: 108
+    normalgold: 7793
+  - level: 109
+    normalgold: 7900
+  - level: 110
+    normalgold: 8008
+  - level: 111
+    normalgold: 8116
+  - level: 112
+    normalgold: 8224
+  - level: 113
+    normalgold: 8333
+  - level: 114
+    normalgold: 8442
+  - level: 115
+    normalgold: 8551
+  - level: 116
+    normalgold: 8661
+  - level: 117
+    normalgold: 8771
+  - level: 118
+    normalgold: 8882
+  - level: 119
+    normalgold: 8992
+  - level: 120
+    normalgold: 9103
+  - level: 121
+    normalgold: 9214
+  - level: 122
+    normalgold: 9326
+  - level: 123
+    normalgold: 9438
+  - level: 124
+    normalgold: 9550
+  - level: 125
+    normalgold: 9662
+  - level: 126
+    normalgold: 9775
+  - level: 127
+    normalgold: 9888
+  - level: 128
+    normalgold: 10001
+  - level: 129
+    normalgold: 10115
+  - level: 130
+    normalgold: 10228
+  - level: 131
+    normalgold: 10342
+  - level: 132
+    normalgold: 10456
+  - level: 133
+    normalgold: 10571
+  - level: 134
+    normalgold: 10686
+  - level: 135
+    normalgold: 10801
+  - level: 136
+    normalgold: 10916
+  - level: 137
+    normalgold: 11031
+  - level: 138
+    normalgold: 11147
+  - level: 139
+    normalgold: 11263
+  - level: 140
+    normalgold: 11379
+  - level: 141
+    normalgold: 11495
+  - level: 142
+    normalgold: 11612
+  - level: 143
+    normalgold: 11728
+  - level: 144
+    normalgold: 11845
+  - level: 145
+    normalgold: 11963
+  - level: 146
+    normalgold: 12080
+  - level: 147
+    normalgold: 12198
+  - level: 148
+    normalgold: 12315
+  - level: 149
+    normalgold: 12433
+  - level: 150
+    normalgold: 12551
+  - level: 151
+    normalgold: 12670
+  - level: 152
+    normalgold: 12788
+  - level: 153
+    normalgold: 12907
+  - level: 154
+    normalgold: 13026
+  - level: 155
+    normalgold: 13145
+  - level: 156
+    normalgold: 13264
+  - level: 157
+    normalgold: 13383
+  - level: 158
+    normalgold: 13503
+  - level: 159
+    normalgold: 13622
+  - level: 160
+    normalgold: 13742
+  - level: 161
+    normalgold: 13862
+  - level: 162
+    normalgold: 13982
+  - level: 163
+    normalgold: 14103
+  - level: 164
+    normalgold: 14223
+  - level: 165
+    normalgold: 14344
+  - level: 166
+    normalgold: 14464
+  - level: 167
+    normalgold: 14585
+  - level: 168
+    normalgold: 14706
+  - level: 169
+    normalgold: 14827
+  - level: 170
+    normalgold: 14949
+  - level: 171
+    normalgold: 15070
+  - level: 172
+    normalgold: 15191
+  - level: 173
+    normalgold: 15313
+  - level: 174
+    normalgold: 15435
+  - level: 175
+    normalgold: 15557
+  - level: 176
+    normalgold: 15679
+  - level: 177
+    normalgold: 15801
+  - level: 178
+    normalgold: 15923
+  - level: 179
+    normalgold: 16045
+  - level: 180
+    normalgold: 16168
+  - level: 181
+    normalgold: 16290
+  - level: 182
+    normalgold: 16413
+  - level: 183
+    normalgold: 16536
+  - level: 184
+    normalgold: 16659
+  - level: 185
+    normalgold: 16781
+  - level: 186
+    normalgold: 16904
+  - level: 187
+    normalgold: 17028
+  - level: 188
+    normalgold: 17151
+  - level: 189
+    normalgold: 17274
+  - level: 190
+    normalgold: 17397
+  - level: 191
+    normalgold: 17521
+  - level: 192
+    normalgold: 17645
+  - level: 193
+    normalgold: 17768
+  - level: 194
+    normalgold: 17892
+  - level: 195
+    normalgold: 18016
+  - level: 196
+    normalgold: 18140
+  - level: 197
+    normalgold: 18263
+  - level: 198
+    normalgold: 18387
+  - level: 199
+    normalgold: 18512
+  - level: 200
+    normalgold: 18636
+  - level: 201
+    normalgold: 18760
+  - level: 202
+    normalgold: 18884
+  - level: 203
+    normalgold: 19008
+  - level: 204
+    normalgold: 19133
+  - level: 205
+    normalgold: 19257
+  - level: 206
+    normalgold: 19382
+  - level: 207
+    normalgold: 19506
+  - level: 208
+    normalgold: 19631
+  - level: 209
+    normalgold: 19756
+  - level: 210
+    normalgold: 19880
+  - level: 211
+    normalgold: 20005
+  - level: 212
+    normalgold: 20130
+  - level: 213
+    normalgold: 20255
+  - level: 214
+    normalgold: 20380
+  - level: 215
+    normalgold: 20505
+  - level: 216
+    normalgold: 20630
+  - level: 217
+    normalgold: 20755
+  - level: 218
+    normalgold: 20880
+  - level: 219
+    normalgold: 21005
+  - level: 220
+    normalgold: 21130
+  - level: 221
+    normalgold: 21255
+  - level: 222
+    normalgold: 21380
+  - level: 223
+    normalgold: 21506
+  - level: 224
+    normalgold: 21631
+  - level: 225
+    normalgold: 21756
+  - level: 226
+    normalgold: 21881
+  - level: 227
+    normalgold: 22007
+  - level: 228
+    normalgold: 22132
+  - level: 229
+    normalgold: 22258
+  - level: 230
+    normalgold: 22383
+  - level: 231
+    normalgold: 22508
+  - level: 232
+    normalgold: 22634
+  - level: 233
+    normalgold: 22759
+  - level: 234
+    normalgold: 22885
+  - level: 235
+    normalgold: 23010
+  - level: 236
+    normalgold: 23136
+  - level: 237
+    normalgold: 23261
+  - level: 238
+    normalgold: 23387
+  - level: 239
+    normalgold: 23512
+  - level: 240
+    normalgold: 23638
+  - level: 241
+    normalgold: 23763
+  - level: 242
+    normalgold: 23889
+  - level: 243
+    normalgold: 24015
+  - level: 244
+    normalgold: 24140
+  - level: 245
+    normalgold: 24266
+  - level: 246
+    normalgold: 24391
+  - level: 247
+    normalgold: 24517
+  - level: 248
+    normalgold: 24643
+  - level: 249
+    normalgold: 24768
+  - level: 250
+    normalgold: 24894
+  - level: 251
+    normalgold: 25019
+  - level: 252
+    normalgold: 25145
+  - level: 253
+    normalgold: 25270
+  - level: 254
+    normalgold: 25396
+  - level: 255
+    normalgold: 25521
+  - level: 256
+    normalgold: 25647
+  - level: 257
+    normalgold: 25773
+  - level: 258
+    normalgold: 25898
+  - level: 259
+    normalgold: 26024
+  - level: 260
+    normalgold: 26149
+  - level: 261
+    normalgold: 26275
+  - level: 262
+    normalgold: 26400
+  - level: 263
+    normalgold: 26526
+  - level: 264
+    normalgold: 26651
+  - level: 265
+    normalgold: 26776
+  - level: 266
+    normalgold: 26902
+  - level: 267
+    normalgold: 27027
+  - level: 268
+    normalgold: 27153
+  - level: 269
+    normalgold: 27278
+  - level: 270
+    normalgold: 27403
+  - level: 271
+    normalgold: 27529
+  - level: 272
+    normalgold: 27654
+  - level: 273
+    normalgold: 27779
+  - level: 274
+    normalgold: 27904
+  - level: 275
+    normalgold: 28030
+  - level: 276
+    normalgold: 28155
+  - level: 277
+    normalgold: 28280
+  - level: 278
+    normalgold: 28405
+  - level: 279
+    normalgold: 28530
+  - level: 280
+    normalgold: 28655
+  - level: 281
+    normalgold: 28780
+  - level: 282
+    normalgold: 28905
+  - level: 283
+    normalgold: 29030
+  - level: 284
+    normalgold: 29155
+  - level: 285
+    normalgold: 29280
+  - level: 286
+    normalgold: 29405
+  - level: 287
+    normalgold: 29530
+  - level: 288
+    normalgold: 29655
+  - level: 289
+    normalgold: 29780
+  - level: 290
+    normalgold: 29904
+  - level: 291
+    normalgold: 30029
+  - level: 292
+    normalgold: 30154
+  - level: 293
+    normalgold: 30278
+  - level: 294
+    normalgold: 30403
+  - level: 295
+    normalgold: 30527
+  - level: 296
+    normalgold: 30652
+  - level: 297
+    normalgold: 30776
+  - level: 298
+    normalgold: 30901
+  - level: 299
+    normalgold: 31025
+  - level: 300
+    normalgold: 31150
+  - level: 301
+    normalgold: 31274
+  - level: 302
+    normalgold: 31398
+  - level: 303
+    normalgold: 31522
+  - level: 304
+    normalgold: 31647
+  - level: 305
+    normalgold: 31771
+  - level: 306
+    normalgold: 31895
+  - level: 307
+    normalgold: 32019
+  - level: 308
+    normalgold: 32143
+  - level: 309
+    normalgold: 32267
+  - level: 310
+    normalgold: 32391
+  - level: 311
+    normalgold: 32515
+  - level: 312
+    normalgold: 32638
+  - level: 313
+    normalgold: 32762
+  - level: 314
+    normalgold: 32886
+  - level: 315
+    normalgold: 33009
+  - level: 316
+    normalgold: 33133
+  - level: 317
+    normalgold: 33257
+  - level: 318
+    normalgold: 33380
+  - level: 319
+    normalgold: 33503
+  - level: 320
+    normalgold: 33627
+  - level: 321
+    normalgold: 33750
+  - level: 322
+    normalgold: 33873
+  - level: 323
+    normalgold: 33997
+  - level: 324
+    normalgold: 34120
+  - level: 325
+    normalgold: 34243
+  - level: 326
+    normalgold: 34366
+  - level: 327
+    normalgold: 34489
+  - level: 328
+    normalgold: 34612
+  - level: 329
+    normalgold: 34735
+  - level: 330
+    normalgold: 34858
+  - level: 331
+    normalgold: 34980
+  - level: 332
+    normalgold: 35103
+  - level: 333
+    normalgold: 35226
+  - level: 334
+    normalgold: 35348
+  - level: 335
+    normalgold: 35471
+  - level: 336
+    normalgold: 35593
+  - level: 337
+    normalgold: 35716
+  - level: 338
+    normalgold: 35838
+  - level: 339
+    normalgold: 35960
+  - level: 340
+    normalgold: 36083
+  - level: 341
+    normalgold: 36205
+  - level: 342
+    normalgold: 36327
+  - level: 343
+    normalgold: 36449
+  - level: 344
+    normalgold: 36571
+  - level: 345
+    normalgold: 36693
+  - level: 346
+    normalgold: 36815
+  - level: 347
+    normalgold: 36936
+  - level: 348
+    normalgold: 37058
+  - level: 349
+    normalgold: 37180
+  - level: 350
+    normalgold: 37301
+  - level: 351
+    normalgold: 37423
+  - level: 352
+    normalgold: 37544
+  - level: 353
+    normalgold: 37666
+  - level: 354
+    normalgold: 37787
+  - level: 355
+    normalgold: 37908
+  - level: 356
+    normalgold: 38029
+  - level: 357
+    normalgold: 38150
+  - level: 358
+    normalgold: 38271
+  - level: 359
+    normalgold: 38392
+  - level: 360
+    normalgold: 38513
+  - level: 361
+    normalgold: 38634
+  - level: 362
+    normalgold: 38755
+  - level: 363
+    normalgold: 38876
+  - level: 364
+    normalgold: 38996
+  - level: 365
+    normalgold: 39117
+  - level: 366
+    normalgold: 39237
+  - level: 367
+    normalgold: 39358
+  - level: 368
+    normalgold: 39478
+  - level: 369
+    normalgold: 39598
+  - level: 370
+    normalgold: 39718
+  - level: 371
+    normalgold: 39839
+  - level: 372
+    normalgold: 39959
+  - level: 373
+    normalgold: 40079
+  - level: 374
+    normalgold: 40198
+  - level: 375
+    normalgold: 40318
+  - level: 376
+    normalgold: 40438
+  - level: 377
+    normalgold: 40558
+  - level: 378
+    normalgold: 40677
+  - level: 379
+    normalgold: 40797
+  - level: 380
+    normalgold: 40916
+  - level: 381
+    normalgold: 41036
+  - level: 382
+    normalgold: 41155
+  - level: 383
+    normalgold: 41274
+  - level: 384
+    normalgold: 41393
+  - level: 385
+    normalgold: 41512
+  - level: 386
+    normalgold: 41631
+  - level: 387
+    normalgold: 41750
+  - level: 388
+    normalgold: 41869
+  - level: 389
+    normalgold: 41988
+  - level: 390
+    normalgold: 42107
+  - level: 391
+    normalgold: 42225
+  - level: 392
+    normalgold: 42344
+  - level: 393
+    normalgold: 42462
+  - level: 394
+    normalgold: 42581
+  - level: 395
+    normalgold: 42699
+  - level: 396
+    normalgold: 42817
+  - level: 397
+    normalgold: 42935
+  - level: 398
+    normalgold: 43054
+  - level: 399
+    normalgold: 43172
+  - level: 400
+    normalgold: 43289
+  - level: 401
+    normalgold: 43407
+  - level: 402
+    normalgold: 43525
+  - level: 403
+    normalgold: 43643
+  - level: 404
+    normalgold: 43760
+  - level: 405
+    normalgold: 43878
+  - level: 406
+    normalgold: 43995
+  - level: 407
+    normalgold: 44113
+  - level: 408
+    normalgold: 44230
+  - level: 409
+    normalgold: 44347
+  - level: 410
+    normalgold: 44464
+  - level: 411
+    normalgold: 44581
+  - level: 412
+    normalgold: 44698
+  - level: 413
+    normalgold: 44815
+  - level: 414
+    normalgold: 44932
+  - level: 415
+    normalgold: 45049
+  - level: 416
+    normalgold: 45165
+  - level: 417
+    normalgold: 45282
+  - level: 418
+    normalgold: 45398
+  - level: 419
+    normalgold: 45515
+  - level: 420
+    normalgold: 45631
+  - level: 421
+    normalgold: 45747
+  - level: 422
+    normalgold: 45863
+  - level: 423
+    normalgold: 45979
+  - level: 424
+    normalgold: 46095
+  - level: 425
+    normalgold: 46211
+  - level: 426
+    normalgold: 46327
+  - level: 427
+    normalgold: 46443
+  - level: 428
+    normalgold: 46559
+  - level: 429
+    normalgold: 46674
+  - level: 430
+    normalgold: 46790
+  - level: 431
+    normalgold: 46905
+  - level: 432
+    normalgold: 47020
+  - level: 433
+    normalgold: 47135
+  - level: 434
+    normalgold: 47251
+  - level: 435
+    normalgold: 47366
+  - level: 436
+    normalgold: 47481
+  - level: 437
+    normalgold: 47596
+  - level: 438
+    normalgold: 47710
+  - level: 439
+    normalgold: 47825
+  - level: 440
+    normalgold: 47940
+  - level: 441
+    normalgold: 48054
+  - level: 442
+    normalgold: 48169
+  - level: 443
+    normalgold: 48283
+  - level: 444
+    normalgold: 48397
+  - level: 445
+    normalgold: 48512
+  - level: 446
+    normalgold: 48626
+  - level: 447
+    normalgold: 48740
+  - level: 448
+    normalgold: 48854
+  - level: 449
+    normalgold: 48968
+  - level: 450
+    normalgold: 49082
+  - level: 451
+    normalgold: 49195
+  - level: 452
+    normalgold: 49309
+  - level: 453
+    normalgold: 49422
+  - level: 454
+    normalgold: 49536
+  - level: 455
+    normalgold: 49649
+  - level: 456
+    normalgold: 49763
+  - level: 457
+    normalgold: 49876
+  - level: 458
+    normalgold: 49989
+  - level: 459
+    normalgold: 50102
+  - level: 460
+    normalgold: 50215
+  - level: 461
+    normalgold: 50328
+  - level: 462
+    normalgold: 50440
+  - level: 463
+    normalgold: 50553
+  - level: 464
+    normalgold: 50666
+  - level: 465
+    normalgold: 50778
+  - level: 466
+    normalgold: 50891
+  - level: 467
+    normalgold: 51003
+  - level: 468
+    normalgold: 51115
+  - level: 469
+    normalgold: 51227
+  - level: 470
+    normalgold: 51339
+  - level: 471
+    normalgold: 51451
+  - level: 472
+    normalgold: 51563
+  - level: 473
+    normalgold: 51675
+  - level: 474
+    normalgold: 51787
+  - level: 475
+    normalgold: 51899
+  - level: 476
+    normalgold: 52010
+  - level: 477
+    normalgold: 52122
+  - level: 478
+    normalgold: 52233
+  - level: 479
+    normalgold: 52344
+  - level: 480
+    normalgold: 52455
+  - level: 481
+    normalgold: 52567
+  - level: 482
+    normalgold: 52678
+  - level: 483
+    normalgold: 52789
+  - level: 484
+    normalgold: 52899
+  - level: 485
+    normalgold: 53010
+  - level: 486
+    normalgold: 53121
+  - level: 487
+    normalgold: 53231
+  - level: 488
+    normalgold: 53342
+  - level: 489
+    normalgold: 53452
+  - level: 490
+    normalgold: 53563
+  - level: 491
+    normalgold: 53673
+  - level: 492
+    normalgold: 53783
+  - level: 493
+    normalgold: 53893
+  - level: 494
+    normalgold: 54003
+  - level: 495
+    normalgold: 54113
+  - level: 496
+    normalgold: 54223
+  - level: 497
+    normalgold: 54333
+  - level: 498
+    normalgold: 54442
+  - level: 499
+    normalgold: 54552
+  - level: 500
+    normalgold: 54661
+  - level: 501
+    normalgold: 54771
+  - level: 502
+    normalgold: 54880
+  - level: 503
+    normalgold: 54989
+  - level: 504
+    normalgold: 55098
+  - level: 505
+    normalgold: 55207
+  - level: 506
+    normalgold: 55316
+  - level: 507
+    normalgold: 55425
+  - level: 508
+    normalgold: 55534
+  - level: 509
+    normalgold: 55642
+  - level: 510
+    normalgold: 55751
+  - level: 511
+    normalgold: 55860
+  - level: 512
+    normalgold: 55968
+  - level: 513
+    normalgold: 56076
+  - level: 514
+    normalgold: 56184
+  - level: 515
+    normalgold: 56293
+  - level: 516
+    normalgold: 56401
+  - level: 517
+    normalgold: 56509
+  - level: 518
+    normalgold: 56617
+  - level: 519
+    normalgold: 56724
+  - level: 520
+    normalgold: 56832
+  - level: 521
+    normalgold: 56940
+  - level: 522
+    normalgold: 57047
+  - level: 523
+    normalgold: 57155
+  - level: 524
+    normalgold: 57262
+  - level: 525
+    normalgold: 57369
+  - level: 526
+    normalgold: 57476
+  - level: 527
+    normalgold: 57583
+  - level: 528
+    normalgold: 57691
+  - level: 529
+    normalgold: 57797
+  - level: 530
+    normalgold: 57904
+  - level: 531
+    normalgold: 58011
+  - level: 532
+    normalgold: 58118
+  - level: 533
+    normalgold: 58224
+  - level: 534
+    normalgold: 58331
+  - level: 535
+    normalgold: 58437
+  - level: 536
+    normalgold: 58543
+  - level: 537
+    normalgold: 58650
+  - level: 538
+    normalgold: 58756
+  - level: 539
+    normalgold: 58862
+  - level: 540
+    normalgold: 58968
+  - level: 541
+    normalgold: 59074
+  - level: 542
+    normalgold: 59179
+  - level: 543
+    normalgold: 59285
+  - level: 544
+    normalgold: 59391
+  - level: 545
+    normalgold: 59496
+  - level: 546
+    normalgold: 59602
+  - level: 547
+    normalgold: 59707
+  - level: 548
+    normalgold: 59812
+  - level: 549
+    normalgold: 59917
+  - level: 550
+    normalgold: 60022
+  - level: 551
+    normalgold: 60127
+  - level: 552
+    normalgold: 60232
+  - level: 553
+    normalgold: 60337
+  - level: 554
+    normalgold: 60442
+  - level: 555
+    normalgold: 60546
+  - level: 556
+    normalgold: 60651
+  - level: 557
+    normalgold: 60755
+  - level: 558
+    normalgold: 60860
+  - level: 559
+    normalgold: 60964
+  - level: 560
+    normalgold: 61068
+  - level: 561
+    normalgold: 61172
+  - level: 562
+    normalgold: 61277
+  - level: 563
+    normalgold: 61380
+  - level: 564
+    normalgold: 61484
+  - level: 565
+    normalgold: 61588
+  - level: 566
+    normalgold: 61692
+  - level: 567
+    normalgold: 61795
+  - level: 568
+    normalgold: 61899
+  - level: 569
+    normalgold: 62002
+  - level: 570
+    normalgold: 62106
+  - level: 571
+    normalgold: 62209
+  - level: 572
+    normalgold: 62312
+  - level: 573
+    normalgold: 62415
+  - level: 574
+    normalgold: 62518
+  - level: 575
+    normalgold: 62621
+  - level: 576
+    normalgold: 62724
+  - level: 577
+    normalgold: 62827
+  - level: 578
+    normalgold: 62929
+  - level: 579
+    normalgold: 63032
+  - level: 580
+    normalgold: 63134
+  - level: 581
+    normalgold: 63237
+  - level: 582
+    normalgold: 63339
+  - level: 583
+    normalgold: 63441
+  - level: 584
+    normalgold: 63543
+  - level: 585
+    normalgold: 63645
+  - level: 586
+    normalgold: 63747
+  - level: 587
+    normalgold: 63849
+  - level: 588
+    normalgold: 63951
+  - level: 589
+    normalgold: 64052
+  - level: 590
+    normalgold: 64154
+  - level: 591
+    normalgold: 64256
+  - level: 592
+    normalgold: 64357
+  - level: 593
+    normalgold: 64458
+  - level: 594
+    normalgold: 64560
+  - level: 595
+    normalgold: 64661
+  - level: 596
+    normalgold: 64762
+  - level: 597
+    normalgold: 64863
+  - level: 598
+    normalgold: 64964
+  - level: 599
+    normalgold: 65065
+  - level: 600
+    normalgold: 65165
+  - level: 601
+    normalgold: 65266
+  - level: 602
+    normalgold: 65367
+  - level: 603
+    normalgold: 65467
+  - level: 604
+    normalgold: 65568
+  - level: 605
+    normalgold: 65668
+  - level: 606
+    normalgold: 65768
+  - level: 607
+    normalgold: 65868
+  - level: 608
+    normalgold: 65968
+  - level: 609
+    normalgold: 66068
+  - level: 610
+    normalgold: 66168
+  - level: 611
+    normalgold: 66268
+  - level: 612
+    normalgold: 66368
+  - level: 613
+    normalgold: 66467
+  - level: 614
+    normalgold: 66567
+  - level: 615
+    normalgold: 66666
+  - level: 616
+    normalgold: 66766
+  - level: 617
+    normalgold: 66865
+  - level: 618
+    normalgold: 66964
+  - level: 619
+    normalgold: 67063
+  - level: 620
+    normalgold: 67162
+  - level: 621
+    normalgold: 67261
+  - level: 622
+    normalgold: 67360
+  - level: 623
+    normalgold: 67459
+  - level: 624
+    normalgold: 67558
+  - level: 625
+    normalgold: 67656
+  - level: 626
+    normalgold: 67755
+  - level: 627
+    normalgold: 67853
+  - level: 628
+    normalgold: 67952
+  - level: 629
+    normalgold: 68050
+  - level: 630
+    normalgold: 68148
+  - level: 631
+    normalgold: 68246
+  - level: 632
+    normalgold: 68344
+  - level: 633
+    normalgold: 68442
+  - level: 634
+    normalgold: 68540
+  - level: 635
+    normalgold: 68638
+  - level: 636
+    normalgold: 68736
+  - level: 637
+    normalgold: 68833
+  - level: 638
+    normalgold: 68931
+  - level: 639
+    normalgold: 69028
+  - level: 640
+    normalgold: 69126
+  - level: 641
+    normalgold: 69223
+  - level: 642
+    normalgold: 69320
+  - level: 643
+    normalgold: 69417
+  - level: 644
+    normalgold: 69514
+  - level: 645
+    normalgold: 69611
+  - level: 646
+    normalgold: 69708
+  - level: 647
+    normalgold: 69805
+  - level: 648
+    normalgold: 69901
+  - level: 649
+    normalgold: 69998
+  - level: 650
+    normalgold: 70095
+  - level: 651
+    normalgold: 70191
+  - level: 652
+    normalgold: 70287
+  - level: 653
+    normalgold: 70384
+  - level: 654
+    normalgold: 70480
+  - level: 655
+    normalgold: 70576
+  - level: 656
+    normalgold: 70672
+  - level: 657
+    normalgold: 70768
+  - level: 658
+    normalgold: 70864
+  - level: 659
+    normalgold: 70960
+  - level: 660
+    normalgold: 71055
+  - level: 661
+    normalgold: 71151
+  - level: 662
+    normalgold: 71246
+  - level: 663
+    normalgold: 71342
+  - level: 664
+    normalgold: 71437
+  - level: 665
+    normalgold: 71533
+  - level: 666
+    normalgold: 71628
+  - level: 667
+    normalgold: 71723
+  - level: 668
+    normalgold: 71818
+  - level: 669
+    normalgold: 71913
+  - level: 670
+    normalgold: 72008
+  - level: 671
+    normalgold: 72103
+  - level: 672
+    normalgold: 72197
+  - level: 673
+    normalgold: 72292
+  - level: 674
+    normalgold: 72387
+  - level: 675
+    normalgold: 72481
+  - level: 676
+    normalgold: 72575
+  - level: 677
+    normalgold: 72670
+  - level: 678
+    normalgold: 72764
+  - level: 679
+    normalgold: 72858
+  - level: 680
+    normalgold: 72952
+  - level: 681
+    normalgold: 73046
+  - level: 682
+    normalgold: 73140
+  - level: 683
+    normalgold: 73234
+  - level: 684
+    normalgold: 73328
+  - level: 685
+    normalgold: 73421
+  - level: 686
+    normalgold: 73515
+  - level: 687
+    normalgold: 73608
+  - level: 688
+    normalgold: 73702
+  - level: 689
+    normalgold: 73795
+  - level: 690
+    normalgold: 73888
+  - level: 691
+    normalgold: 73982
+  - level: 692
+    normalgold: 74075
+  - level: 693
+    normalgold: 74168
+  - level: 694
+    normalgold: 74261
+  - level: 695
+    normalgold: 74354
+  - level: 696
+    normalgold: 74446
+  - level: 697
+    normalgold: 74539
+  - level: 698
+    normalgold: 74632
+  - level: 699
+    normalgold: 74724
+  - level: 700
+    normalgold: 74817
+  - level: 701
+    normalgold: 74909
+  - level: 702
+    normalgold: 75001
+  - level: 703
+    normalgold: 75094
+  - level: 704
+    normalgold: 75186
+  - level: 705
+    normalgold: 75278
+  - level: 706
+    normalgold: 75370
+  - level: 707
+    normalgold: 75462
+  - level: 708
+    normalgold: 75553
+  - level: 709
+    normalgold: 75645
+  - level: 710
+    normalgold: 75737
+  - level: 711
+    normalgold: 75829
+  - level: 712
+    normalgold: 75920
+  - level: 713
+    normalgold: 76011
+  - level: 714
+    normalgold: 76103
+  - level: 715
+    normalgold: 76194
+  - level: 716
+    normalgold: 76285
+  - level: 717
+    normalgold: 76376
+  - level: 718
+    normalgold: 76467
+  - level: 719
+    normalgold: 76558
+  - level: 720
+    normalgold: 76649
+  - level: 721
+    normalgold: 76740
+  - level: 722
+    normalgold: 76831
+  - level: 723
+    normalgold: 76921
+  - level: 724
+    normalgold: 77012
+  - level: 725
+    normalgold: 77103
+  - level: 726
+    normalgold: 77193
+  - level: 727
+    normalgold: 77283
+  - level: 728
+    normalgold: 77374
+  - level: 729
+    normalgold: 77464
+  - level: 730
+    normalgold: 77554
+  - level: 731
+    normalgold: 77644
+  - level: 732
+    normalgold: 77734
+  - level: 733
+    normalgold: 77824
+  - level: 734
+    normalgold: 77913
+  - level: 735
+    normalgold: 78003
+  - level: 736
+    normalgold: 78093
+  - level: 737
+    normalgold: 78182
+  - level: 738
+    normalgold: 78272
+  - level: 739
+    normalgold: 78361
+  - level: 740
+    normalgold: 78451
+  - level: 741
+    normalgold: 78540
+  - level: 742
+    normalgold: 78629
+  - level: 743
+    normalgold: 78718
+  - level: 744
+    normalgold: 78807
+  - level: 745
+    normalgold: 78896
+  - level: 746
+    normalgold: 78985
+  - level: 747
+    normalgold: 79074
+  - level: 748
+    normalgold: 79163
+  - level: 749
+    normalgold: 79251
+  - level: 750
+    normalgold: 79340
+  - level: 751
+    normalgold: 79428
+  - level: 752
+    normalgold: 79517
+  - level: 753
+    normalgold: 79605
+  - level: 754
+    normalgold: 79693
+  - level: 755
+    normalgold: 79782
+  - level: 756
+    normalgold: 79870
+  - level: 757
+    normalgold: 79958
+  - level: 758
+    normalgold: 80046
+  - level: 759
+    normalgold: 80134
+  - level: 760
+    normalgold: 80221
+  - level: 761
+    normalgold: 80309
+  - level: 762
+    normalgold: 80397
+  - level: 763
+    normalgold: 80484
+  - level: 764
+    normalgold: 80572
+  - level: 765
+    normalgold: 80659
+  - level: 766
+    normalgold: 80747
+  - level: 767
+    normalgold: 80834
+  - level: 768
+    normalgold: 80921
+  - level: 769
+    normalgold: 81008
+  - level: 770
+    normalgold: 81095
+  - level: 771
+    normalgold: 81182
+  - level: 772
+    normalgold: 81269
+  - level: 773
+    normalgold: 81356
+  - level: 774
+    normalgold: 81443
+  - level: 775
+    normalgold: 81530
+  - level: 776
+    normalgold: 81616
+  - level: 777
+    normalgold: 81703
+  - level: 778
+    normalgold: 81789
+  - level: 779
+    normalgold: 81876
+  - level: 780
+    normalgold: 81962
+  - level: 781
+    normalgold: 82048
+  - level: 782
+    normalgold: 82134
+  - level: 783
+    normalgold: 82220
+  - level: 784
+    normalgold: 82306
+  - level: 785
+    normalgold: 82392
+  - level: 786
+    normalgold: 82478
+  - level: 787
+    normalgold: 82564
+  - level: 788
+    normalgold: 82650
+  - level: 789
+    normalgold: 82735
+  - level: 790
+    normalgold: 82821
+  - level: 791
+    normalgold: 82907
+  - level: 792
+    normalgold: 82992
+  - level: 793
+    normalgold: 83077
+  - level: 794
+    normalgold: 83163
+  - level: 795
+    normalgold: 83248
+  - level: 796
+    normalgold: 83333
+  - level: 797
+    normalgold: 83418
+  - level: 798
+    normalgold: 83503
+  - level: 799
+    normalgold: 83588
+  - level: 800
+    normalgold: 83673
+  - level: 801
+    normalgold: 83758
+  - level: 802
+    normalgold: 83842
+  - level: 803
+    normalgold: 83927
+  - level: 804
+    normalgold: 84012
+  - level: 805
+    normalgold: 84096
+  - level: 806
+    normalgold: 84181
+  - level: 807
+    normalgold: 84265
+  - level: 808
+    normalgold: 84349
+  - level: 809
+    normalgold: 84433
+  - level: 810
+    normalgold: 84518
+  - level: 811
+    normalgold: 84602
+  - level: 812
+    normalgold: 84686
+  - level: 813
+    normalgold: 84769
+  - level: 814
+    normalgold: 84853
+  - level: 815
+    normalgold: 84937
+  - level: 816
+    normalgold: 85021
+  - level: 817
+    normalgold: 85104
+  - level: 818
+    normalgold: 85188
+  - level: 819
+    normalgold: 85272
+  - level: 820
+    normalgold: 85355
+  - level: 821
+    normalgold: 85438
+  - level: 822
+    normalgold: 85522
+  - level: 823
+    normalgold: 85605
+  - level: 824
+    normalgold: 85688
+  - level: 825
+    normalgold: 85771
+  - level: 826
+    normalgold: 85854
+  - level: 827
+    normalgold: 85937
+  - level: 828
+    normalgold: 86020
+  - level: 829
+    normalgold: 86103
+  - level: 830
+    normalgold: 86185
+  - level: 831
+    normalgold: 86268
+  - level: 832
+    normalgold: 86351
+  - level: 833
+    normalgold: 86433
+  - level: 834
+    normalgold: 86516
+  - level: 835
+    normalgold: 86598
+  - level: 836
+    normalgold: 86680
+  - level: 837
+    normalgold: 86762
+  - level: 838
+    normalgold: 86845
+  - level: 839
+    normalgold: 86927
+  - level: 840
+    normalgold: 87009
+  - level: 841
+    normalgold: 87091
+  - level: 842
+    normalgold: 87173
+  - level: 843
+    normalgold: 87254
+  - level: 844
+    normalgold: 87336
+  - level: 845
+    normalgold: 87418
+  - level: 846
+    normalgold: 87499
+  - level: 847
+    normalgold: 87581
+  - level: 848
+    normalgold: 87662
+  - level: 849
+    normalgold: 87744
+  - level: 850
+    normalgold: 87825
+  - level: 851
+    normalgold: 87906
+  - level: 852
+    normalgold: 87988
+  - level: 853
+    normalgold: 88069
+  - level: 854
+    normalgold: 88150
+  - level: 855
+    normalgold: 88231
+  - level: 856
+    normalgold: 88312
+  - level: 857
+    normalgold: 88392
+  - level: 858
+    normalgold: 88473
+  - level: 859
+    normalgold: 88554
+  - level: 860
+    normalgold: 88635
+  - level: 861
+    normalgold: 88715
+  - level: 862
+    normalgold: 88796
+  - level: 863
+    normalgold: 88876
+  - level: 864
+    normalgold: 88957
+  - level: 865
+    normalgold: 89037
+  - level: 866
+    normalgold: 89117
+  - level: 867
+    normalgold: 89197
+  - level: 868
+    normalgold: 89277
+  - level: 869
+    normalgold: 89357
+  - level: 870
+    normalgold: 89437
+  - level: 871
+    normalgold: 89517
+  - level: 872
+    normalgold: 89597
+  - level: 873
+    normalgold: 89677
+  - level: 874
+    normalgold: 89757
+  - level: 875
+    normalgold: 89836
+  - level: 876
+    normalgold: 89916
+  - level: 877
+    normalgold: 89995
+  - level: 878
+    normalgold: 90075
+  - level: 879
+    normalgold: 90154
+  - level: 880
+    normalgold: 90233
+  - level: 881
+    normalgold: 90313
+  - level: 882
+    normalgold: 90392
+  - level: 883
+    normalgold: 90471
+  - level: 884
+    normalgold: 90550
+  - level: 885
+    normalgold: 90629
+  - level: 886
+    normalgold: 90708
+  - level: 887
+    normalgold: 90787
+  - level: 888
+    normalgold: 90865
+  - level: 889
+    normalgold: 90944
+  - level: 890
+    normalgold: 91023
+  - level: 891
+    normalgold: 91101
+  - level: 892
+    normalgold: 91180
+  - level: 893
+    normalgold: 91258
+  - level: 894
+    normalgold: 91337
+  - level: 895
+    normalgold: 91415
+  - level: 896
+    normalgold: 91493
+  - level: 897
+    normalgold: 91571
+  - level: 898
+    normalgold: 91649
+  - level: 899
+    normalgold: 91728
+  - level: 900
+    normalgold: 91806
+  - level: 901
+    normalgold: 91883
+  - level: 902
+    normalgold: 91961
+  - level: 903
+    normalgold: 92039
+  - level: 904
+    normalgold: 92117
+  - level: 905
+    normalgold: 92194
+  - level: 906
+    normalgold: 92272
+  - level: 907
+    normalgold: 92350
+  - level: 908
+    normalgold: 92427
+  - level: 909
+    normalgold: 92504
+  - level: 910
+    normalgold: 92582
+  - level: 911
+    normalgold: 92659
+  - level: 912
+    normalgold: 92736
+  - level: 913
+    normalgold: 92813
+  - level: 914
+    normalgold: 92890
+  - level: 915
+    normalgold: 92967
+  - level: 916
+    normalgold: 93044
+  - level: 917
+    normalgold: 93121
+  - level: 918
+    normalgold: 93198
+  - level: 919
+    normalgold: 93275
+  - level: 920
+    normalgold: 93352
+  - level: 921
+    normalgold: 93428
+  - level: 922
+    normalgold: 93505
+  - level: 923
+    normalgold: 93581
+  - level: 924
+    normalgold: 93658
+  - level: 925
+    normalgold: 93734
+  - level: 926
+    normalgold: 93810
+  - level: 927
+    normalgold: 93887
+  - level: 928
+    normalgold: 93963
+  - level: 929
+    normalgold: 94039
+  - level: 930
+    normalgold: 94115
+  - level: 931
+    normalgold: 94191
+  - level: 932
+    normalgold: 94267
+  - level: 933
+    normalgold: 94343
+  - level: 934
+    normalgold: 94419
+  - level: 935
+    normalgold: 94494
+  - level: 936
+    normalgold: 94570
+  - level: 937
+    normalgold: 94646
+  - level: 938
+    normalgold: 94721
+  - level: 939
+    normalgold: 94797
+  - level: 940
+    normalgold: 94872
+  - level: 941
+    normalgold: 94948
+  - level: 942
+    normalgold: 95023
+  - level: 943
+    normalgold: 95098
+  - level: 944
+    normalgold: 95173
+  - level: 945
+    normalgold: 95248
+  - level: 946
+    normalgold: 95324
+  - level: 947
+    normalgold: 95399
+  - level: 948
+    normalgold: 95473
+  - level: 949
+    normalgold: 95548
+  - level: 950
+    normalgold: 95623
+  - level: 951
+    normalgold: 95698
+  - level: 952
+    normalgold: 95773
+  - level: 953
+    normalgold: 95847
+  - level: 954
+    normalgold: 95922
+  - level: 955
+    normalgold: 95996
+  - level: 956
+    normalgold: 96071
+  - level: 957
+    normalgold: 96145
+  - level: 958
+    normalgold: 96219
+  - level: 959
+    normalgold: 96294
+  - level: 960
+    normalgold: 96368
+  - level: 961
+    normalgold: 96442
+  - level: 962
+    normalgold: 96516
+  - level: 963
+    normalgold: 96590
+  - level: 964
+    normalgold: 96664
+  - level: 965
+    normalgold: 96738
+  - level: 966
+    normalgold: 96812
+  - level: 967
+    normalgold: 96886
+  - level: 968
+    normalgold: 96959
+  - level: 969
+    normalgold: 97033
+  - level: 970
+    normalgold: 97107
+  - level: 971
+    normalgold: 97180
+  - level: 972
+    normalgold: 97254
+  - level: 973
+    normalgold: 97327
+  - level: 974
+    normalgold: 97400
+  - level: 975
+    normalgold: 97474
+  - level: 976
+    normalgold: 97547
+  - level: 977
+    normalgold: 97620
+  - level: 978
+    normalgold: 97693
+  - level: 979
+    normalgold: 97766
+  - level: 980
+    normalgold: 97839
+  - level: 981
+    normalgold: 97912
+  - level: 982
+    normalgold: 97985
+  - level: 983
+    normalgold: 98058
+  - level: 984
+    normalgold: 98131
+  - level: 985
+    normalgold: 98203
+  - level: 986
+    normalgold: 98276
+  - level: 987
+    normalgold: 98348
+  - level: 988
+    normalgold: 98421
+  - level: 989
+    normalgold: 98493
+  - level: 990
+    normalgold: 98566
+  - level: 991
+    normalgold: 98638
+  - level: 992
+    normalgold: 98710
+  - level: 993
+    normalgold: 98783
+  - level: 994
+    normalgold: 98855
+  - level: 995
+    normalgold: 98927
+  - level: 996
+    normalgold: 98999
+  - level: 997
+    normalgold: 99071
+  - level: 998
+    normalgold: 99143
+  - level: 999
+    normalgold: 99215
+  - level: 1000
+    normalgold: 99215

@@ -1,0 +1,2117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00f4e6a7b1f2e116ac0808487887caaf, type: 3}
+  m_Name: ClaimMode
+  m_EditorClassIdentifier:
+  SheetName: 아직은 제목은 없지만 쩔어줄 프로젝트
+  WorksheetName: ClaimMode
+  dataArray:
+  - id: 0
+    enemylevelmax: 5
+    claimtype: 0
+    allycount: 2
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 4
+    enemyspawngroupcount: 3
+    enemyspawnintervaltime: 13
+    limittime: 180
+  - id: 1
+    enemylevelmax: 10
+    claimtype: 0
+    allycount: 2
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 4
+    enemyspawngroupcount: 3
+    enemyspawnintervaltime: 13
+    limittime: 180
+  - id: 2
+    enemylevelmax: 15
+    claimtype: 0
+    allycount: 3
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 4
+    enemyspawngroupcount: 5
+    enemyspawnintervaltime: 22
+    limittime: 180
+  - id: 3
+    enemylevelmax: 30
+    claimtype: 0
+    allycount: 3
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 6
+    enemyspawnintervaltime: 27
+    limittime: 180
+  - id: 4
+    enemylevelmax: 35
+    claimtype: 1
+    allycount: 4
+    bosstype: 0
+    bosssub: 5
+    enemyspawncount: -1
+    enemyspawngroupcount: 5
+    enemyspawnintervaltime: 33
+    limittime: 360
+  - id: 5
+    enemylevelmax: 40
+    claimtype: 2
+    allycount: 5
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: -1
+    enemyspawngroupcount: 8
+    enemyspawnintervaltime: 34
+    limittime: 140
+  - id: 6
+    enemylevelmax: 55
+    claimtype: 0
+    allycount: 4
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 4
+    enemyspawngroupcount: 6
+    enemyspawnintervaltime: 25
+    limittime: 240
+  - id: 7
+    enemylevelmax: 60
+    claimtype: 0
+    allycount: 2
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 4
+    enemyspawnintervaltime: 17
+    limittime: 180
+  - id: 8
+    enemylevelmax: 65
+    claimtype: 0
+    allycount: 5
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 4
+    enemyspawngroupcount: 8
+    enemyspawnintervaltime: 33
+    limittime: 240
+  - id: 9
+    enemylevelmax: 70
+    claimtype: 0
+    allycount: 5
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 11
+    enemyspawnintervaltime: 48
+    limittime: 240
+  - id: 10
+    enemylevelmax: 75
+    claimtype: 0
+    allycount: 5
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 11
+    enemyspawnintervaltime: 47
+    limittime: 240
+  - id: 11
+    enemylevelmax: 90
+    claimtype: 1
+    allycount: 4
+    bosstype: 0
+    bosssub: 6
+    enemyspawncount: -1
+    enemyspawngroupcount: 6
+    enemyspawnintervaltime: 36
+    limittime: 360
+  - id: 12
+    enemylevelmax: 95
+    claimtype: 2
+    allycount: 4
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: -1
+    enemyspawngroupcount: 13
+    enemyspawnintervaltime: 62
+    limittime: 120
+  - id: 13
+    enemylevelmax: 100
+    claimtype: 0
+    allycount: 5
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 11
+    enemyspawnintervaltime: 43
+    limittime: 240
+  - id: 14
+    enemylevelmax: 105
+    claimtype: 1
+    allycount: 4
+    bosstype: 1
+    bosssub: 6
+    enemyspawncount: -1
+    enemyspawngroupcount: 6
+    enemyspawnintervaltime: 34
+    limittime: 360
+  - id: 15
+    enemylevelmax: 110
+    claimtype: 0
+    allycount: 5
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 4
+    enemyspawngroupcount: 9
+    enemyspawnintervaltime: 34
+    limittime: 240
+  - id: 16
+    enemylevelmax: 125
+    claimtype: 0
+    allycount: 2
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 5
+    enemyspawnintervaltime: 19
+    limittime: 180
+  - id: 17
+    enemylevelmax: 130
+    claimtype: 1
+    allycount: 4
+    bosstype: 0
+    bosssub: 6
+    enemyspawncount: -1
+    enemyspawngroupcount: 6
+    enemyspawnintervaltime: 33
+    limittime: 360
+  - id: 18
+    enemylevelmax: 135
+    claimtype: 0
+    allycount: 3
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 7
+    enemyspawnintervaltime: 26
+    limittime: 180
+  - id: 19
+    enemylevelmax: 140
+    claimtype: 2
+    allycount: 3
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: -1
+    enemyspawngroupcount: 6
+    enemyspawnintervaltime: 22
+    limittime: 90
+  - id: 20
+    enemylevelmax: 115
+    claimtype: 0
+    allycount: 2
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 4
+    enemyspawngroupcount: 4
+    enemyspawnintervaltime: 15
+    limittime: 180
+  - id: 21
+    enemylevelmax: 120
+    claimtype: 0
+    allycount: 4
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 2
+    enemyspawngroupcount: 14
+    enemyspawnintervaltime: 62
+    limittime: 240
+  - id: 22
+    enemylevelmax: 125
+    claimtype: 0
+    allycount: 3
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 2
+    enemyspawngroupcount: 11
+    enemyspawnintervaltime: 50
+    limittime: 240
+  - id: 23
+    enemylevelmax: 140
+    claimtype: 1
+    allycount: 4
+    bosstype: 0
+    bosssub: 6
+    enemyspawncount: -1
+    enemyspawngroupcount: 6
+    enemyspawnintervaltime: 32
+    limittime: 360
+  - id: 24
+    enemylevelmax: 145
+    claimtype: 2
+    allycount: 4
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: -1
+    enemyspawngroupcount: 15
+    enemyspawnintervaltime: 66
+    limittime: 130
+  - id: 25
+    enemylevelmax: 150
+    claimtype: 0
+    allycount: 4
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 2
+    enemyspawngroupcount: 15
+    enemyspawnintervaltime: 65
+    limittime: 240
+  - id: 26
+    enemylevelmax: 155
+    claimtype: 0
+    allycount: 3
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 7
+    enemyspawnintervaltime: 26
+    limittime: 180
+  - id: 27
+    enemylevelmax: 135
+    claimtype: 2
+    allycount: 5
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: -1
+    enemyspawngroupcount: 12
+    enemyspawnintervaltime: 46
+    limittime: 140
+  - id: 28
+    enemylevelmax: 170
+    claimtype: 0
+    allycount: 3
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 8
+    enemyspawnintervaltime: 29
+    limittime: 180
+  - id: 29
+    enemylevelmax: 170
+    claimtype: 1
+    allycount: 4
+    bosstype: 1
+    bosssub: 7
+    enemyspawncount: -1
+    enemyspawngroupcount: 7
+    enemyspawnintervaltime: 36
+    limittime: 360
+  - id: 30
+    enemylevelmax: 180
+    claimtype: 0
+    allycount: 5
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 4
+    enemyspawngroupcount: 10
+    enemyspawnintervaltime: 34
+    limittime: 240
+  - id: 31
+    enemylevelmax: 185
+    claimtype: 0
+    allycount: 2
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 5
+    enemyspawnintervaltime: 18
+    limittime: 180
+  - id: 32
+    enemylevelmax: 190
+    claimtype: 1
+    allycount: 4
+    bosstype: 1
+    bosssub: 7
+    enemyspawncount: -1
+    enemyspawngroupcount: 7
+    enemyspawnintervaltime: 35
+    limittime: 360
+  - id: 33
+    enemylevelmax: 195
+    claimtype: 0
+    allycount: 3
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 2
+    enemyspawngroupcount: 12
+    enemyspawnintervaltime: 49
+    limittime: 240
+  - id: 34
+    enemylevelmax: 210
+    claimtype: 0
+    allycount: 3
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 4
+    enemyspawngroupcount: 6
+    enemyspawnintervaltime: 20
+    limittime: 180
+  - id: 35
+    enemylevelmax: 215
+    claimtype: 1
+    allycount: 4
+    bosstype: 1
+    bosssub: 7
+    enemyspawncount: -1
+    enemyspawngroupcount: 7
+    enemyspawnintervaltime: 34
+    limittime: 360
+  - id: 36
+    enemylevelmax: 220
+    claimtype: 2
+    allycount: 2
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: -1
+    enemyspawngroupcount: 4
+    enemyspawnintervaltime: 13
+    limittime: 50
+  - id: 37
+    enemylevelmax: 225
+    claimtype: 0
+    allycount: 4
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 11
+    enemyspawnintervaltime: 37
+    limittime: 240
+  - id: 38
+    enemylevelmax: 230
+    claimtype: 1
+    allycount: 4
+    bosstype: 0
+    bosssub: 7
+    enemyspawncount: -1
+    enemyspawngroupcount: 7
+    enemyspawnintervaltime: 33
+    limittime: 360
+  - id: 39
+    enemylevelmax: 235
+    claimtype: 0
+    allycount: 3
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 8
+    enemyspawnintervaltime: 27
+    limittime: 180
+  - id: 40
+    enemylevelmax: 205
+    claimtype: 0
+    allycount: 3
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 2
+    enemyspawngroupcount: 12
+    enemyspawnintervaltime: 48
+    limittime: 240
+  - id: 41
+    enemylevelmax: 210
+    claimtype: 0
+    allycount: 5
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 13
+    enemyspawnintervaltime: 45
+    limittime: 240
+  - id: 42
+    enemylevelmax: 215
+    claimtype: 0
+    allycount: 2
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 2
+    enemyspawngroupcount: 8
+    enemyspawnintervaltime: 32
+    limittime: 180
+  - id: 43
+    enemylevelmax: 220
+    claimtype: 2
+    allycount: 5
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: -1
+    enemyspawngroupcount: 13
+    enemyspawnintervaltime: 44
+    limittime: 130
+  - id: 44
+    enemylevelmax: 225
+    claimtype: 0
+    allycount: 3
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 2
+    enemyspawngroupcount: 12
+    enemyspawnintervaltime: 47
+    limittime: 240
+  - id: 45
+    enemylevelmax: 220
+    claimtype: 1
+    allycount: 4
+    bosstype: 0
+    bosssub: 7
+    enemyspawncount: -1
+    enemyspawngroupcount: 7
+    enemyspawnintervaltime: 33
+    limittime: 360
+  - id: 46
+    enemylevelmax: 230
+    claimtype: 0
+    allycount: 5
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 13
+    enemyspawnintervaltime: 44
+    limittime: 240
+  - id: 47
+    enemylevelmax: 245
+    claimtype: 0
+    allycount: 2
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 4
+    enemyspawngroupcount: 4
+    enemyspawnintervaltime: 13
+    limittime: 180
+  - id: 48
+    enemylevelmax: 250
+    claimtype: 0
+    allycount: 4
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 11
+    enemyspawnintervaltime: 36
+    limittime: 240
+  - id: 49
+    enemylevelmax: 255
+    claimtype: 0
+    allycount: 5
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 4
+    enemyspawngroupcount: 10
+    enemyspawnintervaltime: 31
+    limittime: 240
+  - id: 50
+    enemylevelmax: 255
+    claimtype: 2
+    allycount: 4
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: -1
+    enemyspawngroupcount: 8
+    enemyspawnintervaltime: 25
+    limittime: 100
+  - id: 51
+    enemylevelmax: 260
+    claimtype: 1
+    allycount: 4
+    bosstype: 1
+    bosssub: 7
+    enemyspawncount: -1
+    enemyspawngroupcount: 7
+    enemyspawnintervaltime: 31
+    limittime: 360
+  - id: 52
+    enemylevelmax: 265
+    claimtype: 0
+    allycount: 3
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 8
+    enemyspawnintervaltime: 25
+    limittime: 180
+  - id: 53
+    enemylevelmax: 270
+    claimtype: 0
+    allycount: 4
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 11
+    enemyspawnintervaltime: 35
+    limittime: 240
+  - id: 54
+    enemylevelmax: 285
+    claimtype: 0
+    allycount: 3
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 4
+    enemyspawngroupcount: 7
+    enemyspawnintervaltime: 21
+    limittime: 180
+  - id: 55
+    enemylevelmax: 290
+    claimtype: 1
+    allycount: 4
+    bosstype: 0
+    bosssub: 7
+    enemyspawncount: -1
+    enemyspawngroupcount: 7
+    enemyspawnintervaltime: 30
+    limittime: 360
+  - id: 56
+    enemylevelmax: 295
+    claimtype: 0
+    allycount: 2
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 4
+    enemyspawngroupcount: 4
+    enemyspawnintervaltime: 12
+    limittime: 180
+  - id: 57
+    enemylevelmax: 300
+    claimtype: 0
+    allycount: 3
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 4
+    enemyspawngroupcount: 6
+    enemyspawnintervaltime: 21
+    limittime: 180
+  - id: 58
+    enemylevelmax: 305
+    claimtype: 0
+    allycount: 4
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 2
+    enemyspawngroupcount: 16
+    enemyspawnintervaltime: 70
+    limittime: 240
+  - id: 59
+    enemylevelmax: 310
+    claimtype: 2
+    allycount: 3
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: -1
+    enemyspawngroupcount: 12
+    enemyspawnintervaltime: 52
+    limittime: 100
+  - id: 60
+    enemylevelmax: 315
+    claimtype: 0
+    allycount: 3
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 4
+    enemyspawngroupcount: 6
+    enemyspawnintervaltime: 21
+    limittime: 180
+  - id: 61
+    enemylevelmax: 320
+    claimtype: 0
+    allycount: 5
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 14
+    enemyspawnintervaltime: 52
+    limittime: 300
+  - id: 62
+    enemylevelmax: 325
+    claimtype: 0
+    allycount: 3
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 2
+    enemyspawngroupcount: 13
+    enemyspawnintervaltime: 57
+    limittime: 240
+  - id: 63
+    enemylevelmax: 340
+    claimtype: 1
+    allycount: 4
+    bosstype: 1
+    bosssub: 7
+    enemyspawncount: -1
+    enemyspawngroupcount: 7
+    enemyspawnintervaltime: 33
+    limittime: 360
+  - id: 64
+    enemylevelmax: 345
+    claimtype: 0
+    allycount: 2
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 6
+    enemyspawnintervaltime: 22
+    limittime: 180
+  - id: 65
+    enemylevelmax: 350
+    claimtype: 0
+    allycount: 3
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 2
+    enemyspawngroupcount: 13
+    enemyspawnintervaltime: 54
+    limittime: 240
+  - id: 66
+    enemylevelmax: 355
+    claimtype: 0
+    allycount: 3
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 2
+    enemyspawngroupcount: 13
+    enemyspawnintervaltime: 53
+    limittime: 240
+  - id: 67
+    enemylevelmax: 360
+    claimtype: 0
+    allycount: 4
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 11
+    enemyspawnintervaltime: 38
+    limittime: 240
+  - id: 68
+    enemylevelmax: 365
+    claimtype: 1
+    allycount: 4
+    bosstype: 0
+    bosssub: 7
+    enemyspawncount: -1
+    enemyspawngroupcount: 7
+    enemyspawnintervaltime: 32
+    limittime: 360
+  - id: 69
+    enemylevelmax: 370
+    claimtype: 0
+    allycount: 3
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 2
+    enemyspawngroupcount: 13
+    enemyspawnintervaltime: 51
+    limittime: 240
+  - id: 70
+    enemylevelmax: 375
+    claimtype: 0
+    allycount: 5
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 14
+    enemyspawnintervaltime: 47
+    limittime: 240
+  - id: 71
+    enemylevelmax: 380
+    claimtype: 2
+    allycount: 5
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: -1
+    enemyspawngroupcount: 14
+    enemyspawnintervaltime: 47
+    limittime: 140
+  - id: 72
+    enemylevelmax: 385
+    claimtype: 1
+    allycount: 4
+    bosstype: 1
+    bosssub: 7
+    enemyspawncount: -1
+    enemyspawngroupcount: 7
+    enemyspawnintervaltime: 31
+    limittime: 360
+  - id: 73
+    enemylevelmax: 390
+    claimtype: 0
+    allycount: 5
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 15
+    enemyspawnintervaltime: 50
+    limittime: 300
+  - id: 74
+    enemylevelmax: 405
+    claimtype: 0
+    allycount: 5
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 4
+    enemyspawngroupcount: 11
+    enemyspawnintervaltime: 36
+    limittime: 240
+  - id: 75
+    enemylevelmax: 410
+    claimtype: 0
+    allycount: 3
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 9
+    enemyspawnintervaltime: 31
+    limittime: 240
+  - id: 76
+    enemylevelmax: 415
+    claimtype: 1
+    allycount: 4
+    bosstype: 0
+    bosssub: 7
+    enemyspawncount: -1
+    enemyspawngroupcount: 7
+    enemyspawnintervaltime: 31
+    limittime: 360
+  - id: 77
+    enemylevelmax: 420
+    claimtype: 0
+    allycount: 2
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 6
+    enemyspawnintervaltime: 20
+    limittime: 180
+  - id: 78
+    enemylevelmax: 425
+    claimtype: 0
+    allycount: 3
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 4
+    enemyspawngroupcount: 7
+    enemyspawnintervaltime: 22
+    limittime: 180
+  - id: 79
+    enemylevelmax: 430
+    claimtype: 0
+    allycount: 4
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 4
+    enemyspawngroupcount: 9
+    enemyspawnintervaltime: 28
+    limittime: 240
+  - id: 80
+    enemylevelmax: 390
+    claimtype: 0
+    allycount: 5
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 4
+    enemyspawngroupcount: 11
+    enemyspawnintervaltime: 35
+    limittime: 240
+  - id: 81
+    enemylevelmax: 395
+    claimtype: 2
+    allycount: 4
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: -1
+    enemyspawngroupcount: 18
+    enemyspawnintervaltime: 69
+    limittime: 140
+  - id: 82
+    enemylevelmax: 400
+    claimtype: 0
+    allycount: 5
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 4
+    enemyspawngroupcount: 11
+    enemyspawnintervaltime: 37
+    limittime: 240
+  - id: 83
+    enemylevelmax: 405
+    claimtype: 0
+    allycount: 3
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 2
+    enemyspawngroupcount: 13
+    enemyspawnintervaltime: 52
+    limittime: 240
+  - id: 84
+    enemylevelmax: 410
+    claimtype: 1
+    allycount: 4
+    bosstype: 0
+    bosssub: 7
+    enemyspawncount: -1
+    enemyspawngroupcount: 7
+    enemyspawnintervaltime: 32
+    limittime: 360
+  - id: 85
+    enemylevelmax: 415
+    claimtype: 0
+    allycount: 4
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 12
+    enemyspawnintervaltime: 41
+    limittime: 240
+  - id: 86
+    enemylevelmax: 415
+    claimtype: 0
+    allycount: 3
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 2
+    enemyspawngroupcount: 13
+    enemyspawnintervaltime: 51
+    limittime: 240
+  - id: 87
+    enemylevelmax: 420
+    claimtype: 0
+    allycount: 2
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 6
+    enemyspawnintervaltime: 20
+    limittime: 180
+  - id: 88
+    enemylevelmax: 435
+    claimtype: 0
+    allycount: 5
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 15
+    enemyspawnintervaltime: 49
+    limittime: 240
+  - id: 89
+    enemylevelmax: 440
+    claimtype: 0
+    allycount: 3
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 9
+    enemyspawnintervaltime: 29
+    limittime: 180
+  - id: 90
+    enemylevelmax: 445
+    claimtype: 1
+    allycount: 4
+    bosstype: 1
+    bosssub: 7
+    enemyspawncount: -1
+    enemyspawngroupcount: 7
+    enemyspawnintervaltime: 30
+    limittime: 360
+  - id: 91
+    enemylevelmax: 450
+    claimtype: 0
+    allycount: 5
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 4
+    enemyspawngroupcount: 12
+    enemyspawnintervaltime: 37
+    limittime: 240
+  - id: 92
+    enemylevelmax: 465
+    claimtype: 0
+    allycount: 4
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 12
+    enemyspawnintervaltime: 37
+    limittime: 240
+  - id: 93
+    enemylevelmax: 470
+    claimtype: 2
+    allycount: 3
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: -1
+    enemyspawngroupcount: 14
+    enemyspawnintervaltime: 49
+    limittime: 100
+  - id: 94
+    enemylevelmax: 475
+    claimtype: 0
+    allycount: 2
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 2
+    enemyspawngroupcount: 10
+    enemyspawnintervaltime: 36
+    limittime: 180
+  - id: 95
+    enemylevelmax: 480
+    claimtype: 1
+    allycount: 4
+    bosstype: 0
+    bosssub: 7
+    enemyspawncount: -1
+    enemyspawngroupcount: 7
+    enemyspawnintervaltime: 28
+    limittime: 360
+  - id: 96
+    enemylevelmax: 485
+    claimtype: 0
+    allycount: 3
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 10
+    enemyspawnintervaltime: 30
+    limittime: 240
+  - id: 97
+    enemylevelmax: 490
+    claimtype: 0
+    allycount: 4
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 13
+    enemyspawnintervaltime: 39
+    limittime: 240
+  - id: 98
+    enemylevelmax: 495
+    claimtype: 1
+    allycount: 4
+    bosstype: 1
+    bosssub: 8
+    enemyspawncount: -1
+    enemyspawngroupcount: 8
+    enemyspawnintervaltime: 31
+    limittime: 360
+  - id: 99
+    enemylevelmax: 500
+    claimtype: 0
+    allycount: 5
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 4
+    enemyspawngroupcount: 11
+    enemyspawnintervaltime: 39
+    limittime: 300
+  - id: 100
+    enemylevelmax: 505
+    claimtype: 0
+    allycount: 5
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 15
+    enemyspawnintervaltime: 57
+    limittime: 300
+  - id: 101
+    enemylevelmax: 510
+    claimtype: 0
+    allycount: 3
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 9
+    enemyspawnintervaltime: 34
+    limittime: 240
+  - id: 102
+    enemylevelmax: 515
+    claimtype: 0
+    allycount: 2
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 2
+    enemyspawngroupcount: 9
+    enemyspawnintervaltime: 40
+    limittime: 180
+  - id: 103
+    enemylevelmax: 530
+    claimtype: 0
+    allycount: 2
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 2
+    enemyspawngroupcount: 9
+    enemyspawnintervaltime: 38
+    limittime: 180
+  - id: 104
+    enemylevelmax: 535
+    claimtype: 2
+    allycount: 5
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: -1
+    enemyspawngroupcount: 12
+    enemyspawnintervaltime: 41
+    limittime: 160
+  - id: 105
+    enemylevelmax: 540
+    claimtype: 1
+    allycount: 4
+    bosstype: 0
+    bosssub: 7
+    enemyspawncount: -1
+    enemyspawngroupcount: 7
+    enemyspawnintervaltime: 31
+    limittime: 360
+  - id: 106
+    enemylevelmax: 545
+    claimtype: 0
+    allycount: 5
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 16
+    enemyspawnintervaltime: 57
+    limittime: 300
+  - id: 107
+    enemylevelmax: 560
+    claimtype: 0
+    allycount: 2
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 4
+    enemyspawngroupcount: 5
+    enemyspawnintervaltime: 16
+    limittime: 180
+  - id: 108
+    enemylevelmax: 565
+    claimtype: 0
+    allycount: 4
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 13
+    enemyspawnintervaltime: 44
+    limittime: 240
+  - id: 109
+    enemylevelmax: 570
+    claimtype: 0
+    allycount: 2
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 2
+    enemyspawngroupcount: 10
+    enemyspawnintervaltime: 40
+    limittime: 180
+  - id: 110
+    enemylevelmax: 575
+    claimtype: 2
+    allycount: 4
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: -1
+    enemyspawngroupcount: 10
+    enemyspawnintervaltime: 32
+    limittime: 130
+  - id: 111
+    enemylevelmax: 580
+    claimtype: 0
+    allycount: 4
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 2
+    enemyspawngroupcount: 19
+    enemyspawnintervaltime: 72
+    limittime: 240
+  - id: 112
+    enemylevelmax: 585
+    claimtype: 0
+    allycount: 2
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 6
+    enemyspawnintervaltime: 19
+    limittime: 180
+  - id: 113
+    enemylevelmax: 590
+    claimtype: 1
+    allycount: 4
+    bosstype: 0
+    bosssub: 7
+    enemyspawncount: -1
+    enemyspawngroupcount: 7
+    enemyspawnintervaltime: 28
+    limittime: 360
+  - id: 114
+    enemylevelmax: 605
+    claimtype: 0
+    allycount: 3
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 9
+    enemyspawnintervaltime: 36
+    limittime: 240
+  - id: 115
+    enemylevelmax: 610
+    claimtype: 0
+    allycount: 3
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 9
+    enemyspawnintervaltime: 36
+    limittime: 240
+  - id: 116
+    enemylevelmax: 615
+    claimtype: 0
+    allycount: 5
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 15
+    enemyspawnintervaltime: 59
+    limittime: 300
+  - id: 117
+    enemylevelmax: 620
+    claimtype: 1
+    allycount: 4
+    bosstype: 1
+    bosssub: 7
+    enemyspawncount: -1
+    enemyspawngroupcount: 7
+    enemyspawnintervaltime: 33
+    limittime: 360
+  - id: 118
+    enemylevelmax: 625
+    claimtype: 0
+    allycount: 2
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 2
+    enemyspawngroupcount: 10
+    enemyspawnintervaltime: 49
+    limittime: 240
+  - id: 119
+    enemylevelmax: 630
+    claimtype: 0
+    allycount: 4
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 12
+    enemyspawnintervaltime: 46
+    limittime: 240
+  - id: 120
+    enemylevelmax: 590
+    claimtype: 0
+    allycount: 2
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 6
+    enemyspawnintervaltime: 19
+    limittime: 180
+  - id: 121
+    enemylevelmax: 590
+    claimtype: 0
+    allycount: 2
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 2
+    enemyspawngroupcount: 10
+    enemyspawnintervaltime: 38
+    limittime: 180
+  - id: 122
+    enemylevelmax: 595
+    claimtype: 1
+    allycount: 4
+    bosstype: 0
+    bosssub: 7
+    enemyspawncount: -1
+    enemyspawngroupcount: 7
+    enemyspawnintervaltime: 28
+    limittime: 360
+  - id: 123
+    enemylevelmax: 600
+    claimtype: 0
+    allycount: 5
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 15
+    enemyspawnintervaltime: 62
+    limittime: 300
+  - id: 124
+    enemylevelmax: 605
+    claimtype: 0
+    allycount: 5
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 15
+    enemyspawnintervaltime: 61
+    limittime: 300
+  - id: 125
+    enemylevelmax: 610
+    claimtype: 2
+    allycount: 2
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: -1
+    enemyspawngroupcount: 5
+    enemyspawnintervaltime: 19
+    limittime: 80
+  - id: 126
+    enemylevelmax: 610
+    claimtype: 1
+    allycount: 4
+    bosstype: 0
+    bosssub: 7
+    enemyspawncount: -1
+    enemyspawngroupcount: 7
+    enemyspawnintervaltime: 34
+    limittime: 360
+  - id: 127
+    enemylevelmax: 625
+    claimtype: 0
+    allycount: 5
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 15
+    enemyspawnintervaltime: 58
+    limittime: 300
+  - id: 128
+    enemylevelmax: 630
+    claimtype: 0
+    allycount: 5
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 4
+    enemyspawngroupcount: 12
+    enemyspawnintervaltime: 44
+    limittime: 300
+  - id: 129
+    enemylevelmax: 635
+    claimtype: 0
+    allycount: 5
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 2
+    enemyspawngroupcount: 24
+    enemyspawnintervaltime: 111
+    limittime: 360
+  - id: 130
+    enemylevelmax: 640
+    claimtype: 1
+    allycount: 4
+    bosstype: 0
+    bosssub: 7
+    enemyspawncount: -1
+    enemyspawngroupcount: 7
+    enemyspawnintervaltime: 32
+    limittime: 360
+  - id: 131
+    enemylevelmax: 645
+    claimtype: 0
+    allycount: 4
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 13
+    enemyspawnintervaltime: 50
+    limittime: 300
+  - id: 132
+    enemylevelmax: 650
+    claimtype: 0
+    allycount: 2
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 2
+    enemyspawngroupcount: 10
+    enemyspawnintervaltime: 46
+    limittime: 240
+  - id: 133
+    enemylevelmax: 655
+    claimtype: 0
+    allycount: 5
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 16
+    enemyspawnintervaltime: 59
+    limittime: 300
+  - id: 134
+    enemylevelmax: 665
+    claimtype: 0
+    allycount: 2
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 7
+    enemyspawnintervaltime: 26
+    limittime: 180
+  - id: 135
+    enemylevelmax: 675
+    claimtype: 0
+    allycount: 3
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 4
+    enemyspawngroupcount: 12
+    enemyspawnintervaltime: 36
+    limittime: 220
+  - id: 136
+    enemylevelmax: 680
+    claimtype: 0
+    allycount: 4
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 13
+    enemyspawnintervaltime: 45
+    limittime: 240
+  - id: 137
+    enemylevelmax: 685
+    claimtype: 1
+    allycount: 4
+    bosstype: 1
+    bosssub: 7
+    enemyspawncount: -1
+    enemyspawngroupcount: 7
+    enemyspawnintervaltime: 29
+    limittime: 360
+  - id: 138
+    enemylevelmax: 690
+    claimtype: 0
+    allycount: 4
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 13
+    enemyspawnintervaltime: 44
+    limittime: 240
+  - id: 139
+    enemylevelmax: 695
+    claimtype: 0
+    allycount: 2
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 4
+    enemyspawngroupcount: 5
+    enemyspawnintervaltime: 16
+    limittime: 180
+  - id: 140
+    enemylevelmax: 700
+    claimtype: 2
+    allycount: 2
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: -1
+    enemyspawngroupcount: 10
+    enemyspawnintervaltime: 44
+    limittime: 90
+  - id: 141
+    enemylevelmax: 715
+    claimtype: 2
+    allycount: 5
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: -1
+    enemyspawngroupcount: 16
+    enemyspawnintervaltime: 57
+    limittime: 170
+  - id: 142
+    enemylevelmax: 720
+    claimtype: 1
+    allycount: 4
+    bosstype: 0
+    bosssub: 7
+    enemyspawncount: -1
+    enemyspawngroupcount: 7
+    enemyspawnintervaltime: 29
+    limittime: 360
+  - id: 143
+    enemylevelmax: 725
+    claimtype: 0
+    allycount: 2
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 2
+    enemyspawngroupcount: 10
+    enemyspawnintervaltime: 41
+    limittime: 180
+  - id: 144
+    enemylevelmax: 730
+    claimtype: 0
+    allycount: 4
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 13
+    enemyspawnintervaltime: 45
+    limittime: 240
+  - id: 145
+    enemylevelmax: 735
+    claimtype: 0
+    allycount: 4
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 14
+    enemyspawnintervaltime: 49
+    limittime: 240
+  - id: 146
+    enemylevelmax: 740
+    claimtype: 1
+    allycount: 4
+    bosstype: 0
+    bosssub: 7
+    enemyspawncount: -1
+    enemyspawngroupcount: 7
+    enemyspawnintervaltime: 29
+    limittime: 360
+  - id: 147
+    enemylevelmax: 745
+    claimtype: 0
+    allycount: 2
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 7
+    enemyspawnintervaltime: 24
+    limittime: 180
+  - id: 148
+    enemylevelmax: 750
+    claimtype: 0
+    allycount: 3
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 4
+    enemyspawngroupcount: 8
+    enemyspawnintervaltime: 26
+    limittime: 240
+  - id: 149
+    enemylevelmax: 755
+    claimtype: 2
+    allycount: 3
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: -1
+    enemyspawngroupcount: 16
+    enemyspawnintervaltime: 64
+    limittime: 130
+  - id: 150
+    enemylevelmax: 770
+    claimtype: 0
+    allycount: 4
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 14
+    enemyspawnintervaltime: 46
+    limittime: 240
+  - id: 151
+    enemylevelmax: 775
+    claimtype: 0
+    allycount: 5
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 4
+    enemyspawngroupcount: 13
+    enemyspawnintervaltime: 40
+    limittime: 300
+  - id: 152
+    enemylevelmax: 785
+    claimtype: 0
+    allycount: 2
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 2
+    enemyspawngroupcount: 11
+    enemyspawnintervaltime: 42
+    limittime: 180
+  - id: 153
+    enemylevelmax: 790
+    claimtype: 1
+    allycount: 4
+    bosstype: 0
+    bosssub: 8
+    enemyspawncount: -1
+    enemyspawngroupcount: 8
+    enemyspawnintervaltime: 30
+    limittime: 360
+  - id: 154
+    enemylevelmax: 795
+    claimtype: 0
+    allycount: 4
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 4
+    enemyspawngroupcount: 11
+    enemyspawnintervaltime: 33
+    limittime: 240
+  - id: 155
+    enemylevelmax: 800
+    claimtype: 0
+    allycount: 2
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 7
+    enemyspawnintervaltime: 27
+    limittime: 180
+  - id: 156
+    enemylevelmax: 805
+    claimtype: 0
+    allycount: 4
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 4
+    enemyspawngroupcount: 10
+    enemyspawnintervaltime: 36
+    limittime: 240
+  - id: 157
+    enemylevelmax: 810
+    claimtype: 2
+    allycount: 3
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: -1
+    enemyspawngroupcount: 10
+    enemyspawnintervaltime: 38
+    limittime: 110
+  - id: 158
+    enemylevelmax: 815
+    claimtype: 0
+    allycount: 4
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 14
+    enemyspawnintervaltime: 53
+    limittime: 300
+  - id: 159
+    enemylevelmax: 820
+    claimtype: 1
+    allycount: 4
+    bosstype: 1
+    bosssub: 7
+    enemyspawncount: -1
+    enemyspawngroupcount: 7
+    enemyspawnintervaltime: 30
+    limittime: 360
+  - id: 160
+    enemylevelmax: 755
+    claimtype: 0
+    allycount: 2
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 2
+    enemyspawngroupcount: 10
+    enemyspawnintervaltime: 39
+    limittime: 180
+  - id: 161
+    enemylevelmax: 755
+    claimtype: 0
+    allycount: 2
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 2
+    enemyspawngroupcount: 10
+    enemyspawnintervaltime: 39
+    limittime: 180
+  - id: 162
+    enemylevelmax: 760
+    claimtype: 2
+    allycount: 5
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: -1
+    enemyspawngroupcount: 17
+    enemyspawnintervaltime: 57
+    limittime: 170
+  - id: 163
+    enemylevelmax: 765
+    claimtype: 0
+    allycount: 5
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 17
+    enemyspawnintervaltime: 56
+    limittime: 300
+  - id: 164
+    enemylevelmax: 770
+    claimtype: 0
+    allycount: 5
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 4
+    enemyspawngroupcount: 13
+    enemyspawnintervaltime: 41
+    limittime: 300
+  - id: 165
+    enemylevelmax: 775
+    claimtype: 1
+    allycount: 4
+    bosstype: 0
+    bosssub: 8
+    enemyspawncount: -1
+    enemyspawngroupcount: 8
+    enemyspawnintervaltime: 31
+    limittime: 360
+  - id: 166
+    enemylevelmax: 780
+    claimtype: 2
+    allycount: 5
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: -1
+    enemyspawngroupcount: 13
+    enemyspawnintervaltime: 40
+    limittime: 160
+  - id: 167
+    enemylevelmax: 795
+    claimtype: 1
+    allycount: 4
+    bosstype: 1
+    bosssub: 8
+    enemyspawncount: -1
+    enemyspawngroupcount: 8
+    enemyspawnintervaltime: 30
+    limittime: 360
+  - id: 168
+    enemylevelmax: 800
+    claimtype: 0
+    allycount: 4
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 2
+    enemyspawngroupcount: 20
+    enemyspawnintervaltime: 94
+    limittime: 300
+  - id: 169
+    enemylevelmax: 805
+    claimtype: 0
+    allycount: 5
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 17
+    enemyspawnintervaltime: 66
+    limittime: 300
+  - id: 170
+    enemylevelmax: 810
+    claimtype: 0
+    allycount: 2
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 4
+    enemyspawngroupcount: 5
+    enemyspawnintervaltime: 18
+    limittime: 180
+  - id: 171
+    enemylevelmax: 815
+    claimtype: 2
+    allycount: 5
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: -1
+    enemyspawngroupcount: 17
+    enemyspawnintervaltime: 65
+    limittime: 200
+  - id: 172
+    enemylevelmax: 820
+    claimtype: 0
+    allycount: 3
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 10
+    enemyspawnintervaltime: 38
+    limittime: 240
+  - id: 173
+    enemylevelmax: 835
+    claimtype: 1
+    allycount: 4
+    bosstype: 0
+    bosssub: 7
+    enemyspawncount: -1
+    enemyspawngroupcount: 7
+    enemyspawnintervaltime: 30
+    limittime: 360
+  - id: 174
+    enemylevelmax: 840
+    claimtype: 0
+    allycount: 5
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 4
+    enemyspawngroupcount: 13
+    enemyspawnintervaltime: 45
+    limittime: 300
+  - id: 175
+    enemylevelmax: 845
+    claimtype: 0
+    allycount: 5
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 17
+    enemyspawnintervaltime: 62
+    limittime: 300
+  - id: 176
+    enemylevelmax: 850
+    claimtype: 0
+    allycount: 4
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 4
+    enemyspawngroupcount: 11
+    enemyspawnintervaltime: 38
+    limittime: 300
+  - id: 177
+    enemylevelmax: 855
+    claimtype: 0
+    allycount: 5
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 18
+    enemyspawnintervaltime: 65
+    limittime: 300
+  - id: 178
+    enemylevelmax: 860
+    claimtype: 0
+    allycount: 3
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 4
+    enemyspawngroupcount: 8
+    enemyspawnintervaltime: 27
+    limittime: 240
+  - id: 179
+    enemylevelmax: 865
+    claimtype: 1
+    allycount: 4
+    bosstype: 0
+    bosssub: 7
+    enemyspawncount: -1
+    enemyspawngroupcount: 7
+    enemyspawnintervaltime: 28
+    limittime: 360
+  - id: 180
+    enemylevelmax: 870
+    claimtype: 0
+    allycount: 3
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 2
+    enemyspawngroupcount: 16
+    enemyspawnintervaltime: 66
+    limittime: 240
+  - id: 181
+    enemylevelmax: 875
+    claimtype: 2
+    allycount: 2
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: -1
+    enemyspawngroupcount: 5
+    enemyspawnintervaltime: 16
+    limittime: 60
+  - id: 182
+    enemylevelmax: 880
+    claimtype: 0
+    allycount: 3
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 2
+    enemyspawngroupcount: 17
+    enemyspawnintervaltime: 71
+    limittime: 240
+  - id: 183
+    enemylevelmax: 885
+    claimtype: 0
+    allycount: 5
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 18
+    enemyspawnintervaltime: 61
+    limittime: 300
+  - id: 184
+    enemylevelmax: 890
+    claimtype: 1
+    allycount: 4
+    bosstype: 0
+    bosssub: 8
+    enemyspawncount: -1
+    enemyspawngroupcount: 8
+    enemyspawnintervaltime: 31
+    limittime: 360
+  - id: 185
+    enemylevelmax: 895
+    claimtype: 0
+    allycount: 5
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 18
+    enemyspawnintervaltime: 60
+    limittime: 300
+  - id: 186
+    enemylevelmax: 910
+    claimtype: 0
+    allycount: 3
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 11
+    enemyspawnintervaltime: 36
+    limittime: 240
+  - id: 187
+    enemylevelmax: 915
+    claimtype: 0
+    allycount: 3
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 11
+    enemyspawnintervaltime: 36
+    limittime: 240
+  - id: 188
+    enemylevelmax: 920
+    claimtype: 0
+    allycount: 5
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 4
+    enemyspawngroupcount: 14
+    enemyspawnintervaltime: 42
+    limittime: 300
+  - id: 189
+    enemylevelmax: 925
+    claimtype: 2
+    allycount: 2
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: -1
+    enemyspawngroupcount: 6
+    enemyspawnintervaltime: 18
+    limittime: 70
+  - id: 190
+    enemylevelmax: 930
+    claimtype: 1
+    allycount: 4
+    bosstype: 1
+    bosssub: 8
+    enemyspawncount: -1
+    enemyspawngroupcount: 8
+    enemyspawnintervaltime: 29
+    limittime: 360
+  - id: 191
+    enemylevelmax: 935
+    claimtype: 0
+    allycount: 5
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 19
+    enemyspawnintervaltime: 59
+    limittime: 300
+  - id: 192
+    enemylevelmax: 940
+    claimtype: 0
+    allycount: 3
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 4
+    enemyspawngroupcount: 9
+    enemyspawnintervaltime: 27
+    limittime: 240
+  - id: 193
+    enemylevelmax: 945
+    claimtype: 0
+    allycount: 4
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 15
+    enemyspawnintervaltime: 46
+    limittime: 240
+  - id: 194
+    enemylevelmax: 950
+    claimtype: 1
+    allycount: 4
+    bosstype: 0
+    bosssub: 8
+    enemyspawncount: -1
+    enemyspawngroupcount: 8
+    enemyspawnintervaltime: 28
+    limittime: 360
+  - id: 195
+    enemylevelmax: 955
+    claimtype: 0
+    allycount: 3
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 12
+    enemyspawnintervaltime: 36
+    limittime: 240
+  - id: 196
+    enemylevelmax: 960
+    claimtype: 0
+    allycount: 4
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 15
+    enemyspawnintervaltime: 44
+    limittime: 240
+  - id: 197
+    enemylevelmax: 965
+    claimtype: 0
+    allycount: 3
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 2
+    enemyspawngroupcount: 18
+    enemyspawnintervaltime: 62
+    limittime: 240
+  - id: 198
+    enemylevelmax: 970
+    claimtype: 0
+    allycount: 4
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 16
+    enemyspawnintervaltime: 47
+    limittime: 240
+  - id: 199
+    enemylevelmax: 975
+    claimtype: 2
+    allycount: 5
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: -1
+    enemyspawngroupcount: 15
+    enemyspawnintervaltime: 41
+    limittime: 160
+  - id: 200
+    enemylevelmax: 980
+    claimtype: 0
+    allycount: 3
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 12
+    enemyspawnintervaltime: 34
+    limittime: 240
+  - id: 201
+    enemylevelmax: 985
+    claimtype: 0
+    allycount: 5
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 20
+    enemyspawnintervaltime: 56
+    limittime: 300
+  - id: 202
+    enemylevelmax: 990
+    claimtype: 0
+    allycount: 2
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 8
+    enemyspawnintervaltime: 22
+    limittime: 180
+  - id: 203
+    enemylevelmax: 1000
+    claimtype: 1
+    allycount: 4
+    bosstype: 1
+    bosssub: 8
+    enemyspawncount: -1
+    enemyspawngroupcount: 8
+    enemyspawnintervaltime: 25
+    limittime: 360
+  - id: 204
+    enemylevelmax: 1000
+    claimtype: 0
+    allycount: 2
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 2
+    enemyspawngroupcount: 12
+    enemyspawnintervaltime: 37
+    limittime: 180
+  - id: 205
+    enemylevelmax: 1000
+    claimtype: 0
+    allycount: 4
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 2
+    enemyspawngroupcount: 24
+    enemyspawnintervaltime: 74
+    limittime: 240
+  - id: 206
+    enemylevelmax: 1000
+    claimtype: 0
+    allycount: 2
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 2
+    enemyspawngroupcount: 12
+    enemyspawnintervaltime: 37
+    limittime: 180
+  - id: 207
+    enemylevelmax: 1000
+    claimtype: 2
+    allycount: 5
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: -1
+    enemyspawngroupcount: 20
+    enemyspawnintervaltime: 54
+    limittime: 160
+  - id: 208
+    enemylevelmax: 1000
+    claimtype: 1
+    allycount: 4
+    bosstype: 0
+    bosssub: 8
+    enemyspawncount: -1
+    enemyspawngroupcount: 8
+    enemyspawnintervaltime: 25
+    limittime: 360
+  - id: 209
+    enemylevelmax: 1000
+    claimtype: 0
+    allycount: 5
+    bosstype: 0
+    bosssub: 0
+    enemyspawncount: 3
+    enemyspawngroupcount: 20
+    enemyspawnintervaltime: 54
+    limittime: 300
